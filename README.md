@@ -15,4 +15,4 @@ This is the register of interments, 1843-1981, at Fair Hill, a Philadelphia buri
 
 ## Swarthmore Phoenix OCR
 
-OCR text extracted from scanned PDFs of Swarthmore College's newspaper, *The Phoenix* from 1993-02-26 to 2011-04-28, a total of 399 issues. The digital archive from which these were drawn is [available here](http://triptych.brynmawr.edu/cdm/landingpage/collection/SC_Phoenix).
+OCR text extracted from scanned PDFs of Swarthmore College's newspaper, *The Phoenix* from 1993-02-26 to 2011-04-28, a total of 399 issues. These were drawn from the [Tricollege Images & Manuscripts Digital Collection](http://triptych.brynmawr.edu/cdm/landingpage/collection/SC_Phoenix).
