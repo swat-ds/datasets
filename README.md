@@ -12,3 +12,7 @@ This survey of Philadelphia's Black population, conducted by a committee of Quak
 This is the register of interments, 1843-1981, at Fair Hill, a Philadelphia burial ground administered by Quakers. Fair Hill was one of the first racially integrated cemeteries in Philadelphia, and is the final resting place of many prominent women's rights activists and abolitionists (both Quaker and non-Quaker), including Lucretia Mott and Robert Purvis. Source material from [Friends Historical Library of Swarthmore College](http://www.swarthmore.edu/friends-historical-library); data prepared with the support of [Historic Fair Hill](http://historicfairhill.com/).
 
 [Fairhill burial ground dataset](fairhill)
+
+## Swarthmore Phoenix OCR
+
+OCR text extracted from scanned PDFs of Swarthmore College's newspaper, *The Phoenix* from 1993-02-26 to 2011-04-28, a total of 399 issues. The digital archive from which these were drawn is [available here](http://triptych.brynmawr.edu/cdm/landingpage/collection/SC_Phoenix).
