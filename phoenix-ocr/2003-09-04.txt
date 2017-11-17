@@ -1,0 +1,3608 @@
+SEPTEMBER
+
+VOLUME
+
+M^^^HNHHHMHHHHHHM
+
+THE PHOENIX
+
+look inade
+ie
+
+Science
+
+enter, page 10
+
+PROACTIVE PAN-AFRICA, page 8
+ITS BATTLES VIRUSES, page 3
+SWAT DRAMA PRODUCTIONS GO GREEK, FRINGE, page 15
+•
+
+College fills
+up housing
+options
+STORY, PAGE
+
+3
+
+re r HUtINIAI
+
+September
+
+i^tVSK^flf^f^
+
+""'
+
+:
+
+EDITORIAL BOARD
+Benjamin Kabak Editor in Chief
+Amanda Brown-tnz News Editor
+Sue Chen Assistant News Editor
+Jason Perini Living & Arts Editor
+Arthur Chu Opinions Editor
+Derrick Wu Sports Editor
+Emily Conion Assistant Sports Editor
+Andrew Steel Photo Editor
+Yavor Georgiev Webmaster
+
+A
+
+STAFF
+Matthew Fitting Senior Staff Writer
+Elizabeth Buckner Reporter
+Elizabeth Collins Reporter
+Ryan Croken Reporter
+Lillie Dremeaux Reporter
+Stella Kyriakopoulos Graphics Designer
+Ester Bloom Living & Arts Coiumnist
+Caroline Celano Living & Arts Columnist
+Rebecca Ennen Living & Arts Columnist
+Jonathan Fombonne Living & Arts Coiumnist
+Oriana Galardi-Este Living & Arts Columnist
+Gerrit Hall Living & Arts Columnist
+Ross Hoffman Living & Arts Coiumnist
+Benjamin Masten Living & Arts Columnist
+Emiliano Rodriguez Living & Arts Coiumnist
+Sarah St. Vincent Living & Arts Columnist
+Sarah Walsh Living & Arts Columnist
+John Tuthill Living & Arts Staff Writer
+Randy Goldstein Opinions Columnist
+Patrick Hart Opinions Columnist
+Jennifer Holzer Opinions Columnist
+Taru Taylor Opinions Columnist
+Marissa Vahlsing Opinions Columnist
+Carlton Davis Sports Columnist
+Aaron Wasserman Sports Columnist
+Benjamin Wharton Sports Columnist
+Reuben Heyman-Kantor Sports Reporter
+Alex Kalksteln Sports Reporter
+Sonall Shahi Sports Reporter
+Laura Holzman Photographer
+Audrey Chan Staff Artist
+Annie Ronan Staff Artist
+Benjamin Kabak Phoenix Staff
+
+Back in the swing of things
+10
+
+Inside the Science Center
+The Phoenix presents a behind-thescenes look at the new Science Center,
+the new dorm and the facilities plant
+renovations.
+
+News
+
+Opinions
+7
+
+Op-art by Audrey Chan
+While Audrey Chan is back from a
+
+semester abroad, her French Blob
+returns from a summer of "Bangin' Hip
+Hop and R&B."
+8
+
+5
+
+Swarthmore ranked No. 3
+The latest U.S. News and World Reports
+college issue places Swarthmore third
+behind Amherst and Williams.
+
+6
+
+First-years receive new ID cards
+Students from the Class of 2007 are the
+first to receive the redesigned
+
+3
+
+Swarthmore ID cards.
+
+Living
+13
+
+13
+
+14
+
+&
+
+Arts
+
+A slice of Sharpies
+Food columnist Rebecca Ennen highlights
+creative grilled cheese recipes in her
+attempts to bring comfort food to a
+generally uncomfortable Sharpies.
+Music Reviews
+New releases from Blur, Radiohead.
+Parking violations
+Jon and Emiliano detail their ideas to
+revolutionize the parking process.
+
+COPY EDITORS
+Andrew Lacey, Sarah Donovan, Garth SheldonCoulson
+TO ADVERTISE:
+E-mail: phoenix_ads@swarthmore.edu
+Advertising phone: 610-328 7362
+Address: The Phoenix, Swarthmore College, 500
+College Ave., Swarthmore, PA 19081
+Direct advertising requests to Benjamin Kabak.
+The Phoenix reserves the right to refuse any
+advertising. Advertising rates subject to change.
+
+The price of the Wired Age
+The Internet and cell phones have
+rendered ground-based telephones
+almost obsolete. Evan Hensleigh argues
+that the fallibilty of technology makes
+telephones more important than ever.
+
+LETTERS POLICY
+Letters and opinion pieces represent the views
+of their writersand not those of The Phoenix
+staff. Ail letters must be signed and have the
+writer's contact information. Letters cannot be
+longer than 400 wordsand must be submitted
+by noon on Monday. Letters may contain up to
+five signatures, of individuals only, and must
+contain the opinions of their signees. The
+Phoenix will not accept tetters signed on behalf
+of any groups, or that contain unfounded
+attacks upon a person's character. The Phoenix
+reserves the right to edit all letters for content,
+length and clarity. The Phoenix editors reserve
+the right to withhold any letters from publication.
+Submit tettersto
+phoenix_letters@swarthmore.edu or to The
+Phoenix, Swarthmore College, 500 College Ave.,
+Swarthmore, PA 19081
+
+Women's soccer
+The Garnet, finishing last season at .500
+in the Centennial Conference, came out
+strong this past weekend as it captured
+
+CORRECTIONS POLICY
+The Phoenix makes corrections as quickly as
+possible after receiving and confirming the correct information. To report a correction, e-mail
+
+the Swat Kick Classic tournament title.
+)
+
+BUSINESS STAFF
+Alexis Williams Subscriptions Manager
+CONTRIBUTORS
+Evan Hensleigh, Deirdre Conner
+
+Katie Berry, Jorge Aguilar and Garrett Ash were hard at work on Monday testing out the new physical chemistry lab.
+
+Cover Story
+
+WWW.PHOENIX.SWARTHMORE.EDU
+
+Carlton Davis
+In his NFL season preview, Davis
+predicts his hometown team, the
+Washington Redskins, to win the Super
+Bowl this year.
+
+Quote of the Week
+I ain't Jewish. I live in no Diaspora.
+Taru Taylor
+"Proactive Pan-Africa vs. reactive Diaspora"
+See Opinions piece, page 8
+
+phoenix@swarthmore.edu.
+
+CONTACT INFORMATION
+Offices: Parrish Hall 470-472
+E-mail: phoenix@swarthmore.edu
+Newsroom phone: 610-328-8173
+Address: The Phoenix, Swarthmore College, 500
+College Ave., Swarthmore, PA 19081
+The Phoenix is published every Thursday by students of Swarthmore College, except during
+examination and vacation periods. It has a circulation of 2,000 distributed across the campus
+and the borough of Swarthmore. The Phoenix is
+available free of charge. Mail subscriptions are
+availabte for $5O a year or $25 a semester.
+Direct subscription requests to Alexis Williams.
+The Phoenix reserves the right to refuse any
+advertising.
+
+The Phoenix is printed at the Delaware County
+Daily Times in Primos, PA.
+All contents copyright © 2003 The Phoenix. All
+rights reserved. No parts of this publication may
+be reproduced without permission.
+
+News
+
+phoenix.swarthmore.edu
+
+ITS battles Blaster worm, protects network
+
+Staff, dorm technicians work around the clock to purge viruses
+BY AMANDA BROWN-INZ
+
+abrownil@swarthmore.edu
+
+Prompted by the release of the Microsoft Blaster worm
+and other malicious programs in mid-August, Information
+Technology Services has had to take the unprecedented
+action of individually checking every student's computer
+for viruses and updating anti-virus software before the
+computer is allowed onto the network.
+MSBlast.B, a worm that attacks a flaw in some versions
+of the Microsoft Windows operating system, was released
+on Aug. 11 Manager ofClient Services Robin Jacobsen said
+ITS was aware of the extreme danger the worm posed to a
+college campus, where the program could use the network
+to propagate itself. ITS staff installed a Microsoft software
+patch, which fixed the vulnerability in the Windows operating system, on faculty and staff computers the week
+before students returned to campus.
+
+The ITS staff was aware that many students would need
+the patch installed on their computers when they returned
+to campus, so they devised a plan that would use network
+regulation to test if a student's computer still contained the
+vulnerability, Jacobsen said. ITS would then contact these
+
+students on a case-by-case basis to fix the vulnerabilities.
+
+Jacobsen said that the following week, about 260 early
+returns and first-years connected their computers to the
+network. Some users had failed to update their anti-virus
+software and had allowed their computers to become infected, and the worm was readmitted to the network.
+Computers that were not patched were now extremely
+vulnerable to becoming infected by the worm. At the same
+time, several other viruses were also released onto the network. "We saw computers getting infected within seconds
+of signing on to the network," Jacobsen said.
+The ITS staff noticed that the network was degrading
+and could not handle the amount of data being transferred.
+Because of the viruses and worms, there were 130,000
+requests for packet transfers, a type of information
+request, compared with the usual 5,000. The staff suspected that these problems were caused by students' computers rather than those of faculty or staff.
+It was then, Manager of Networking and Systems Mark
+Dumic said, that ITS made the decision to shut down the
+entire residential network, something that has never before
+been done. Following the outage, the requests for packets
+returned to a normal level, confirming the suspicion that
+the viruses and worms were on students' computers.
+Jacobsen said ITS realized that it would have to use the
+same diligence it had used with faculty and staff and check
+every machine to prevent the spread of viruses to the network. "If one person in a dorm is sick, everyone gets sick,"
+she said. "It's the same thing."
+Last Thursday night, dorm technicians were told that
+there had been a change in policy, according to Bill
+
+Amanda Brown-lnz Phoenix Staff
+Dorm technician Alexey Rostapshov 'O6 patches a computer and installsanti-virus software to prevent it from being infected with the Blaster worm or a virus.
+
+Wanjohi 'O5, a dorm technician in Mertz. As the rest of the
+student body returned to campus in late August, dorm technicians were instructed to inspect every student's computer for the Windows vulnerability, install anti-virus software, run a complete scan of the computer and set the antivirus software to run automatic weekly updates. Students
+with laptops were asked to bring them to the ITS help desk
+to expedite the process. Jacobsen said this process was fairly time-consuming and took anywhere from one hour to six
+hours per computer.
+
+Wanjohi said that since Thursday he had logged about
+30 hours of work. He said his work as a dorm technician
+this year was a "totally different job" from last year, when
+he worked fewer than ten hours in the first few weeks of
+
+school.
+The unexpected hours that were logged by dorm technicians dealing with the crisis will have a "major budget
+impact," Jacobsen said, although she did not yet know
+what the exact amount would be. Other resources have also
+suffered from ITS's preoccupation with the Blaster worm.
+
+Jacobsen said the help desk had not been able to answer
+questions immediately, that there were regrettably few ITS
+representatives at first-year computer orientation and that
+ITS has not been able to "pay as much attention to other
+projects."
+Jacobsen said that, by the end of the week, every computer will have been checked by dorm technicians.
+Currently, over a thousand student computers have been
+patched, scanned and updated. "We understand that people
+are frustrated," Jacobsen said, "but we hope they understand that our job is to make the systems stable and
+secure."
+"You never know what's going to happen next," Dumic
+said. "There's no guarantee that something new won't
+come along and surprise us."
+To prevent an occurrence like this from happening
+software to check
+students' computers for vulnerability every semester. If
+
+again, Dumic said, ITS will probably use
+
+students do not have the latest updates in anti-virus software, Dumic said, "we'll take you off the network."
+
+New options created for housing waiting list
+BY SUE CHEN
+
+schenl@swarthmore.edu
+
+Four months after the
+
+spring housing
+
+lottery that left more students without
+housing than ever before, everyone on the
+May waiting list has been placed in college
+housing, according to Director of
+Residential Life Myrt Westphal.
+There are 1,315 enrolled students living
+in college housing this year, the most ever,
+according to Westphal. The crunch was
+attributed to fewer students electing to live
+off campus and study abroad in the fall,
+The Phoenix reported in May.
+Facilities had to accommodate 48 more
+students than usual, according to Associate
+
+Vice President for Facilities Management
+Stuart Hain.
+Some waitlisted students were placed
+
+THE PHOENIX
+
+into the extra 45 to 50 spots Westphal had
+set aside for incoming first-years and special needs students. Students who selected
+rooms in the spring lottery but decided to
+live elsewhere freed an additional 25 to 30
+beds, Westphal said.
+The college converted 1 Whittier Place,
+505 Fieldhouse Lane and the seventh floor
+of the Strath Haven apartments into student residences. Since neither Whittier nor
+Fieldhouse Lane had ever housed students,
+they underwent extensive renovations during the summer. To comply with state and
+national occupancy codes, a fire detection
+system had to be installed in the Whitter
+building. Other additions included walls, a
+hot water heater, sprinklers and a new
+
+water line from the new science building.
+The building on Fieldhouse Lane, which
+used to be a farmhouse, was renovated by
+
+one of six outside contractors the college
+hired this summer. Changes include new
+
+"We expected the room to
+be small, but this is
+ridiculous."
+Annelise Garlin 'O6
+doors and windows, a heating system and a
+restored bathroom. An old addition was
+torn down and a new porch was built.
+Information Technology Services also
+installed network connections and phone
+jacks, Hain said. Despite round-the-clock
+work', 505 Fieldhouse Lane was not ready
+
+September 4, 2003
+
+for students until last Friday.
+
+Lounges in Dana, Hallowell and Willets,
+which have been used before as overflow
+housing, also house formerly waitlisted
+students. A number of first-year doubles in
+Parrish East have been refitted as triples,
+and one extra bed each was added to
+Wharton and Worth, according to Hain.
+Hain said that Facilities had $500,000
+this year for dorm work. There was also
+$385,000 that had been originally set aside
+for installing sprinklers in Worth this summer. When renovation of the SEPTA
+bridge cut off access to Dana and Hallowell,
+camp programs instead housed campers in
+Worth and the project was delayed, thus
+freeing up the funds for use in dealing with
+the housing crisis.
+
+See HOUSING, pg. 4
+
+3
+
+t
+
+News
+
+phoenix.swarthmore.edu
+
+CJC decides to
+readmit Boothe
+BY BENJAMIN KABAK
+
+bkabakl@swarthmore.edu
+The College Judiciary Committee decided in May that
+Ivan 800 the 'O5, who was arrested in April of 2002 in a
+
+child pornography case, could return to Swarthmore after
+serving his jail term for the criminal charges.
+Two weeks before Boothe received a court sentencing,
+the CJC came to its decision to allow him to return to
+Swarthmore. Originally, the CJC had planned to wait to
+issue a decision until after Boothe received a sentence
+
+from the court.
+"We didn't want to do it until after the court process
+was complete," Dean of the College Bob Gross said, "but we
+finally decided we had to have the hearing while students
+were still here."
+The CJC didn't announce its decision about Boothe
+until June 6, four days after Boothe's sentencing.
+Last year, Boothe pleaded guilty to one count of attempt
+of unlawful contact or communication with a minor; one
+count of criminal use of a communication facility; six
+counts of dissemination of computer depictions; and one
+
+Andrew Steel Phoenix Staff
+
+One Whittier Place has been renovated to accomodate the housing crunch. It currently houses eight students.
+
+Housing crunch resolved with new rooms
+From HOUSING, pg. 3
+The total expenditure from creating new dorm rooms was
+unavailable as of press time. However, renovating the
+buildings on Whittier Place and Fieldhouse Lane cost
+approximately $200,000, and the college spent $68,916 on 60
+
+sets offurniture for newly furnished rooms and to replace
+various old pieces, according to Hain. The last student
+from the May waiting list was placed into housing on
+Aug. 15, Westphal said. She said she was grateful for the
+students' understanding. "They showed great good humor
+and patience, and I appreciated that," she said.
+Many students on the waiting list were satisfied with
+their rooms and did not find the experience stressful.
+"I thought it was fine, because it all worked out,"
+Emma Kalb 'O6 said. She and her roommate live in a
+Whittier double with their own bathroom and fireplace.
+Youngmee Hahn 'O5 is also happy with her Wharton
+single. "At first, I was kind of nervous about it. Mostly, it
+just seemed like I wasn't going to get anything, because of
+
+how crazy it was at the lottery. But [Westphal] was very
+reassuring, and, after a while, I just let it go and stopped
+worrying about it," she said.
+But not everyone is completely pleased with the experience. Annelise Garlin 'O6 and her roommate are living
+in what was previously a Worth single. "We expected the
+room to be small, but this is ridiculous," Garlin said.
+The room has one bookshelf, one closet, one desk and
+two beds. It was not until Tuesday that the two got a second phone and had their electricity outlet fixed. Garlin
+said that she and her roommate are not planning to
+request a room change, because they like the atmosphere
+of Worth. And besides, "who knows where else we're
+going to end up?" she said.
+But it's uncertain whether the housing crunch will be
+a problem again next year. "I don't know exactly if we're
+going to be in the same boat or not," Westphal said.
+Westphal said that, this year, she would like to investigate why there has been a decline of students electing to
+live off campus.
+
+Swat unaffected by federal budget cuts
+BY ELIZABETH COLLINS
+ecollin2@swa rthm ore. edu
+
+State and federal budget cuts
+over the past several years have
+caused government support for
+higher education to dwindle. While
+public colleges and universities
+have borne the brunt of the aid cuts,
+
+Swarthmore's financial aid to students has not been affected.
+According to an Aug. 30 New
+York Times article, budget crises at
+the state and federal levels have led
+to drops in financial support for
+higher education. As an increasing
+number of high school graduates
+attend college, the cost of higher
+education has soared while states
+take on ever smaller portions of the
+tab.
+
+As a result of these budget cuts,
+public universities have been forced
+to increase tuition sharply. The
+University of Arizona increased
+
+4
+
+tuition by 39 percent last year, and
+the State University of New York
+has increased its tuition by 28 percent in an effort to compensate for
+the decrease in government fund-
+
+/©in America's
+
+#!
+
+Student Tovr Operator
+
+MNCUN
+ACAPUiCO
+JAMAICA
+
+ing.
+In contrast to public universities,
+
+which have little or no institutional
+private
+schools like
+Swarthmore rely mostly on their
+own financial resources. Laura
+Talbot, director of financial aid, said
+
+BAHAMAS
+FLORIDA
+
+funding,
+
+federal aid accounts for only five
+percent of the college's financial aid
+
+resources.
+"Swarthmore relies on the support of generous alums and friends
+of the college for the majority of its
+financial aid funding," Talbot said.
+"Swarthmore money has always
+been able to fill in the gaps left when
+government aid falls short of meeting a student's financial needs. Our
+policy at Swarthmore has not
+changed," she said.
+
+Ml trips, lorn Cask
+
+So Free! Mow Hiring
+CaR far gre«p <H«o««*s
+
+nMVft
+
+Sl-ftWCES
+
+1 -800-648-4849 / wvw.ststravel.com
+
+Eat breakfast?
+The Phoenix wants you.
+phoenix@swarthmore.edu
+
+September 4, 2003
+
+count of possession ofchild pornography.
+On June 2, Boothe was sentenced to 12 weekends in
+prison. On weekdays, he was under electronic home monitoring, or house arrest. While the Pennsylvania court
+determined that Boothe does not pose a threat as a "violent
+sexual predator" and is not required to register as such
+under Megan's Law, he faces three years of probation and
+must undergo therapy until doctors see fit to release him.
+The CJC had decided that Boothe had to finish out his
+jail sentence before he could attend classes. "I would not
+have been allowed to come back until the active part of my
+sentence was over," Boothe said.
+Although Boothe is free to use all college facilities and
+has done so since classes started on Monday, the CJC has
+placed a few restrictions on him.
+Boothe was not permitted to live on campus prior to the
+fall of 2004. Although he had chosen a room during the
+housing lottery, he was forced to give it up. The CJC
+described its reasoning for this decision in the prepared
+statement issued June 6: "Because housing has already
+been determined for the coming academic year, there is no
+way to ensure that students who wantto avoid living in the
+same building as [Boothe] had the opportunity to do so."
+Furthermore, Boothe will be barred from living in
+dorms where first-year students live because new students
+do not have a choice as to where they will be living. Boothe
+will be assigned a room prior to the housing lottery if he
+decides to return to campus housing next fall.
+The CJC also ruled that Boothe must continue his regular therapy while enrolled at Swarthmore. The committee said that, if Boothe is found guilty of any other violations of community standards, he will be expelled from the
+college.
+Boothe has been in therapy at the John J. Peters
+Institute in Philadelphia for 11 months. The Institute
+works with people who have committed sexually-related
+crimes and the victims of these crimes.
+In light of the CJC decision, Boothe said he felt the
+Swarthmore community was not against his returning to
+campus. "I wouldn't have wanted to come back ifI thought
+the college community was against that," he said. "If the
+CJC thought that the community was against my return, I
+would have respected that decision."
+Gross echoed Boothe's sentiments. "I would expect
+people would give him a chance to explain himself," he
+said. "We didn't see his behavior as something that would
+ruin his life. I would expect that the community will give
+Ivan a decent hearing."
+So far, Boothe has faced little outspoken opposition to
+his return. "No one has said anything negative to me in
+person," he said. "I expect when I say my name is Ivan
+Boothe for them to cringe, and no one does it. So either they
+don't know, they don't care or they're hiding it very well."
+Boothe said he understands that some people in the
+community will not be receptive to his return. "I breached
+the trust of the Swarthmore community, and I know that
+for some people, I'll never be able to reconcile that," he
+said. "I respect that other people aren't comfortable with
+
+that.
+
+"I don't know if people will forget about it or if it will be
+in the back of their minds, but it's only two more years
+here, so there's an endpoint," he said. "If the hostilities get
+bad, I know there's an endpoint."
+
+THE PHOENIX
+
+News
+
+phoenix.swarthmore.edu
+
+Another year, another drop in U.S. News rankings
+BY MATTHEW FITTING
+mfittinl@swarthmore.edu
+
+When Swarthmore's ranking
+dropped from second to third
+among liberal arts colleges in the
+2004 edition of U.S. News and
+World Report, Elizabeth 100 didn't
+notice, but her father did.
+
+A senior from Bronx High
+School of Science, 100 recently visited Swarthmore, which she read
+about in a book of colleges and, she
+said, simply found interesting.
+"They're just numbers," she
+said of the rankings, which can be
+misleading. Her dad, however, is
+always online checking them.
+But 100 thinks her fellow classmates
+and father "take it too
+seriously." Not only are numbers
+unreliable when picking a college,
+she said, but the ratings don't
+change much. Swarthmore, in fact,
+has not been outside the top three
+since the magazine began the rankings, usually along with Williams,
+ranked first this year, and
+Amherst.
+"It's more on an individual
+level," added Doris Yen, also from
+Bronx Science. She said she would
+look at the rankings to determine a
+school's competitiveness, but
+"wouldn't consider it a major factor. I think it's really about how I
+fit in," she said.
+Students need to make sure a
+college or university is a match for
+them, according to Dean of the
+College Bob Gross '62. "We're not
+looking for everybody," he said.
+"We're looking for students who fit
+into Swarthmore culture."
+U.S. News has admitted its
+
+rankings are not the only tool in
+the college search process, according to Dean of Admissions and
+
+Financial Aid Jim Bock '9O. The
+
+magazine
+recently published
+guides on college essay writing
+and campus profile collections. "At
+best it should only be a starting
+place," Bock said of the rankings.
+"We expect [prospective students]
+to take it further than that."
+
+major category in the rankings
+but only because "we want to make
+sure it's a level playing field," the
+dean said. "If other people are
+counting them" and they are
+"we're going to count them."
+In addition, according to Bock,
+the total number of classes with
+fewer than 20 students, excluding
+directed readings and independent
+
+studies, has been dropping in
+recent years due to a minor
+increase in college enrollment.
+
+Another area Gross cited as an
+
+example of the college's inability
+to alter the rankings is faculty
+compensation. Swarthmore compensates its assistant and associate faculty better than competi-
+
+tors like Amherst. But Amherst
+
+employs more full-time professors
+for which the rankings give
+more points.
+Gross also speculated that
+tweaking criteria year to year is
+partly because U.S. News wants to
+consistently shake up the rankings. "If you had the same thing
+every year," he said, "it wouldn't
+
+be news."
+
+Why the drop?
+Outside of believing that personal experience should guide
+those selecting colleges, Gross
+said that, inaddition, the administration is wary to try to change
+and in
+Swarthmore's ranking
+some cases is unable to.
+
+U.S. News's decision no
+
+longer to count yield
+
+the
+percentage of students offered
+admission who accept
+was
+
+pK
+
+the main factor in this year's
+rankings
+shakeup.
+Speculation that most colleges
+were manipulating their yield
+was cited as the reason for the
+change
+
+in
+
+methodology.
+
+Swarthmore still leads in
+terms of student selectivity,
+which accounts for 15 percent
+ranking
+of
+the
+whole
+(Williams comes in second,
+and Amherst fourth).
+Bock said the drop was in no
+way related to the football cuts
+from four years ago.
+One of the few steps the col-
+
+lege is considering to help move
+
+back to the top two is counting
+independent studies and direct-
+
+ed readings as classes with
+fewer than 20 students
+a
+
+Breakfast, Lunch And
+Dinner All In One Box.
+When you eat pizza 5 days out of 7,
+make sure it's the pizza made with
+high quality ingredients. Papa John's.
+
+126 Morton Avenue
+
+Folsom, PA 19033
+
+610-522-5500
+Benjamin Kabak Phoenix Staff
+
+Prospective students Elizabeth 100 and Doris Yen said they would
+not let college rankings determine where they apply.
+
+SELL SPRING BREAK TRIPS
+ALL THE FUN & ALL THE PROTECTION
+AMERICAN EXPRESS WORLDWIDE
+GUARANTEED BEST BUY
+1 FREE TRIP FOR EVERY 10 PAID
+OR CASH STARTING WITH FIRST BOOKING
+MAKE YOUR SPRING BREAK EXXTREME
+EXXTREMEM VACATIONS, INC.
+1-800-336-2260
+
+THE PHOENIX
+
+Better Ingredients.
+Better Pizza.
+
+FREE DELIVERY AND CARRYOUT
+Add Chickenstrips $4.99
+*
+
+Pickl
+Large 1 -topping pizza
+
+$7.99
+2 for $13.99
+Expires December 31, 2003
+
+September 4,
+
+2003
+
+Pick 2
+
+X-Large 2-topping
+pizza
+
+$11.99
+Expires December 31,
+
+20031
+
+*
+
+*
+
+Pick Me
+
+2 Large 1 topping,
+
+Breadsticks &
+Cheesesticks
+
+$19.99
+Expires December 31, 2003
+
+5
+
+News
+
+phoenix.swarthmore.edu
+
+Budget cuts don't New IDs for first-years only
+dampen orientation
+
+"The replacement will be gradual, taking four
+
+BY ELIZABETH BUCKNER
+
+ebucknel@swarthmore.edu
+
+While incoming first-years received a newly
+designed identification card featuring the Scott
+amphitheater and a garnet stripe, the ID cards will
+be issued only to entering students and are not set
+to replace the more than a thousand old cards currently in circulation, according to Director of
+Publications JeffLott.
+
+In addition to their new look, the new IDs feature a magnetic strip for Dining Services and a bar
+code for the library. One of the practical advantages of the redesigned cards is that the bar codes
+are printed directly on the plastic body of the cards,
+
+rather than affixed as a sticker. This will prevent
+the barcodes from peeling away.
+Phillip Stern, the college's production coordinator, said that the college is becoming more aware of
+its graphic identity, so it is important for that identity to be strongly represented in the new ID cards.
+Stern said Student Council had brought the ID
+cards to the attention of the administration in fall
+2002. After three or four possible designs had been
+developed, they were sent back to Student Council
+
+for feedback.
+The final design was sent for approval by
+Information Technology Services, the libraries,
+
+Dining Services, the Dean's Office and Public
+Safety, and was agreed upon last May.
+According to Lott, there are no plans to issue
+new ID cards to upperclassmen, faculty or staff.
+
+years to issue new cards to all students and even
+longer for employees," Lott said.
+Lott said upperclassmen would only be issued
+the updated ID cards if they needed a replacement,
+which will cost $lO.
+
+"The replacement will be
+gradual, taking four years to
+issue new cards to all students
+and even longer for employees."
+Jeff Lott
+
+Director of Publications
+The new IDs were produced by Blackboard, Inc.,
+the same company responsible for the online services used in many classes. No new technology was
+required to print the new ID cards, which were purchased for about $1.30 each.
+Stern added that the cards will be phased in over
+the next five years for faculty and staff as well, so
+that eventually everyone will use the same ID card.
+The cards were not ready for new students when
+they arrived on Aug. 26, but they were told to go to
+Benjamin West later in the week to have their pictures taken.
+
+Benjamin Kabak Phoenix Staff
+
+First-years wait to sign up for classes at Sharpies registration.
+
+BY ELIZABETH BUCKNER
+
+SPEND A SEMESTER
+
+ebucknel@swarthmore.edu
+
+The 375 first-years in the class of 2007 arrived at Swarthmore this
+year greeted by six days of a Caribbean-themed orientation. In addition to a mandatory swim test, library and computing orientations,
+the activities for first-years included a luau, a dance party, square
+dancing, a barbecue, and a cabana coffeehouse.
+Margarita Fermin 'O4, a member of the Orientation Committee,
+said the OC had decided to change the theme of orientation from
+"Wet Hot Swarthmore Summer" to "Pirates of the Caribbean" after
+seeing the movie during the summer. "We saw the movie by chance
+one day and loved it. We thought it would be fun and was a great way
+to branch off into Caribbean-themed events," she said.
+The Delta Upsilon Blacklight Party, the Hawaiian Luau and the
+Cabana Coffeehouse were the most popular events during orienta-
+
+OVFRSFAS
+
+1
+
+■
+
+(and stay in the U.S.)
+
+■-•'-:
+
+tion. "All three of those events were packed," Fermin said.
+
+"The barbecue and Slip 'n' Slide in
+particular brought all the frosh and CAs
+together for a good time."
+Lisa Übelaker 'O6
+
+,"
+
+;-«*
+
+The Cabana Coffeehouse, which had more than 20 first-year performers and catering by Jordy Owen 'O6 and Ja'Dell Davis 'O6 was a
+popular event. A Hawaiian luau on the Sharpies lawn, which included a slip 'n' slide, cotton candy, snow cones and music was also
+packed with first-years and campus advisers alike.
+"The OC did an amazing job. The barbecue and Slip 'n' Slide in
+particular brought all the frosh and CAs together for a good time,"
+said CA Lisa Übelaker 'O6.
+Another orientation event was Quizzo, a trivia game open to all
+first-years. Drew Perkins 'O7 won an all-expense paid trip to Disney
+World. Fermin said that Quizzo is an outside company hired by the
+OC, which has a deal with Disney World to provide incentive for its
+clients. To win the trip, Perkins's CA group had to score higher than
+other groups and then compete against each other individually for
+
+Learn in the vibrant, multi-cultural community of Honolulu. Enjoy a
+university experience like no other. Be far away, but at home with the
+language and customs. It all adds up to a semester you'll never forget.
+
+A Semester ALMOST Abroad at the
+University of Hawai'j at Manoa.
+For complete information,
+visit
+
+wvw.hawaii.edu/aimost or email almost@hawaii.edu
+On-campus homing and meals available.
+
+the prize.
+Perkins said he did not remember the evening well but he was
+still excited. "I've just been too busy and tired to get overly excited,
+but I could use a trip to Disney World right now," he said.
+According to members of the OC, the budget for orientation was
+less than last year's.
+Fermin said that, despite the cut of more than $l,OOO from the
+usual $lO,OOO budget, the committee stayed under budget, and all
+events were well-prepared and staffed.
+
+6
+
+The University of Hawaii at Manoa is an equal opportunity/affirmative action institution.
+
+September 4, 2003
+
+THE
+
+PHOENI)^
+
+Opinions
+
+phoenix.swarthmore.edu
+
+op-art
+
+by
+
+audrey
+
+The French Blob meets 40
+nchirftrm
+
+u
+To A SUMMED QF BAN6IM
+
+?
+
+chan
+
+oz.
+
+HIP HOP ANP R&B.*
+
+editorial
+
+To all competitive Swatties: We're number three, deal with it
+"We're number three! We're number three!"
+No, it really doesn't have the same ring to it, does it?
+Despite the hype about Quakerism and collective life,
+Swatties are a diverse group, and we really don't experience
+that many collective emotional reactions through the years.
+There are, however, a couple of milestones most of us pass.
+One that sticks in the mind is the day you get back a
+progress report and realize that those letters aren't A's. The
+day you realize that those halcyon high school days as the
+smart kid are gone forever and that now you have to sweat
+and study like everyone else. The day you have to explain
+your less-than-perfect GPA to your parents. (If you are reading this and you are, in fact, a straight-A student, go away.)
+Right now, the whole college is experiencing the effects
+of post-first-B depression. According to the U.S. News and
+World Report rankings, we are no longer number one. We
+are no longer tied for number one. We are no longer even
+number two hoping to recover number one. We are number
+three, trapped behind longstanding rival Amherst in second place and upstart Williams sitting smugly in first for
+the first time since, well, since we started paying attention.
+This stinks.
+
+THE PHOENIX
+
+It rankles, it itches, it burns some little tiny part of us
+deep beneath the skin. Like Hannibal when he faced the
+Scipios, like Admiral Mikawa watching the American
+bombers at Guadalcanal, like Muhammad Ali handing his
+belt to Leon Spinks, we have faced, if not our Waterloo,
+our Treaty of Fountainbleu. Our sense of wholeness, of
+Tightness, of secure, confident, arrogant we're-numberone-ness has been shattered, and all the erudite historical
+analogies in the world cannot make it better.
+Of course, the larger, more rational part of us that was
+smart enough to get admitted to Swarthmore understands
+the context here. We know, or ought to know, that U.S.
+News and World Report's opinion means about as much
+as the results of Survivor II: that it's a big, callously
+manipulated media show, that the magazine has to
+change the ratings every year or people don't pay attention and that they probably felt the Swarthmore-Amherst
+
+rivalry was getting to be old news. (Well, obviously it's
+easier for us to say that nowadays, but still.)
+And yet we owe our admission to Swarthmore to that
+other little part of us, too, the overachieving, immature,
+primal inner child who frames certificates and polishes troSeptember 4, 2003
+
+*
+
+phies and likes awards banquets and acceptance speeches.
+There's nothing wrong with working hard to be a good,
+selective, competitive school that U.S. News and World
+Report would want to be its number one. There's nothing
+wrong with being proud or even immaturely gleeful about
+that, to some degree. But the key is recognizing that it is
+immature, that it is gratuitous, and that being a good school
+is more important than holding the title of best school.
+Maybe it was the football cuts. Maybe it was an unfair
+bias against independent study courses and associate faculty. Or maybe it's all invented to sell copies of U.S.
+News. Who cares? If anyone had ever thought to suggest
+changing policy to protect our rating while we were still
+number one, we would have denounced them as unprincipled and petty, and rightly so. It seems, with the fingerpointing Al Bloom's attracting, that we forget all those
+principles when the rating actually drops.
+What do Swatties learn about B's by the end of freshman year? You don't scream. You don't blame your professor. You don't kill yourself. You accept it and try harder.
+We all learned this individually, but some of us seem
+to have yet to learn it as a community.
+
+7
+
+Opinions
+Proactive Pan-Africa
+vs. reactive Diaspora
+
+phoenix.swarthmore.edu
+
+op-art
+
+by
+
+annie
+
+ronan
+
+In the physical world, according to Newton's Third Law of
+Motion, "Reaction is opposite and equal to action." In that world of
+matter, motion and mathematics, action and reaction are always
+perfectly balanced. But what about the metaphysical world of culture and civilization: morals, politics and economics? Newton's
+Laws of Motion apply to physical objects, but what about metaphysical beings? Is there a metaphysical
+world of "Social
+Newtonianism"?
+I say yes. But
+
+TARU TAYLOR
+
+Gadfly
+
+P
+
+I
+
+in this world
+reaction is never equal to action.
+As a Social Newtonian, I restate
+the Third Law of Motion thus:
+"Proaction is more than equal to
+action. Reaction is less than equal
+to action." Bobby Fischer in his
+prime, while playing the black
+pieces, exemplified proaction, for
+even with the black pieces he was
+more than equal to any and all
+opposition. But that's just chess.
+Proaction is programs and policies. Reaction is cries and
+protests. Proaction is volition and
+willpower. Reaction is emotion
+
+and sentiment. To proact is to
+strategize and seize the initiative.
+To react is to bitch and complain and seethe with resentment. To
+proact is to command equity. To react is to demand equality.
+Proaction is the stuff of heroes, the inspiration of heroworship. More than any other black man who ever walked North
+American soil, possibly excepting only Booker T. Washington and
+Malcolm X, proaction was the stuff of Marcus Garvey. It was the
+stuff of his "New Negro." It was the stuff of the 122 men and women,
+Garvey included, who signed the Declaration of Rights of the
+Negro Peoples of the World, which declared, essentially, "Africa for
+the Africans at home and abroad." When they signed it on August
+13, 1920, they threw down the gauntlet of Pan-Africanism. Indeed,
+that monument of proaction is the Magna Carta of Pan-Africa.
+And I mean Pan-Africa, not the "African Diaspora." I ain't
+Jewish. I live in no Diaspora. Consider Merriam-Webster's definition of "Diaspora": "la: The settling of scattered colonies of Jews
+outside Palestine after the Babylonian exile, lb: The area outside
+Palestine settled by Jews, lc: The Jews living outside Palestine or
+modern Israel." The Ethiopian Jews and Sammy Davis Jr. have
+lived in the "African Diaspora," but non-Jews living in any sort of
+Diaspora is nonsense, at best sloppy scholarship. Let's keep it real.
+
+Let's keep it Pan-African.
+I kept it real last Sunday, August 31, per Article 53 of The
+Declaration of Rights, "We proclaim the 31st day of August of each
+year to be an international holiday to be observed by all Negroes."
+As a Negro, I am worthy. But blacks who hide behind politically
+correct euphemisms like "African-American" and "person ofcolor"
+so as to anesthetize the psychic pain and deep shame they feel as
+blacks are unworthy.
+Whites, led by Episcopalian Anglo-Saxons, have proven themselves worthy of the 56 signers of the (North American
+Propertied White Man's) Declaration of Independence. They
+have proven themselves worthy of that political pantheon of
+Manifest Destiny. The Declaration of Independence quite explicitly primed white America for its genocide of "the merciless
+Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions." It goes
+without saying that as of July 4, 1776, half the 56 signers owned
+blacks and Jefferson himself owned some 200 pieces of black
+chattel property. North American whites, Protestant, Catholic
+and Jewish, have proven themselves worthy of Manifest Destiny
+by staking their claim to its aftermath, the New World Order. But
+
+blacks, under the reactive leadership ofDußois' Talented Tenth,
+have proven themselves unworthy of Pan-Africanism. They
+don't aspire to Garvey's legacy of proaction so as to stake their
+claim to "Africa for the Africans at home and abroad." They, living in some politically correct pseudo-Jewish wonderland called
+the "African Diaspora," are victims of white history. But PanAfricans are agents of black history.
+Every July 4 the 56 men who signed the bible of Manifest
+Destiny, and thus proactively met the challenge of British colonialism, are honored. They earned their holiday. Every August 31
+I honor the 122 men and women who proactively met the challenge
+of white supremacy by signing the bible of Pan-Africanism. They
+earned their holiday. Will blacks rise to the Negro of Pan-Africa
+and prove themselves worthy?
+Taru Taylor is a senior.
+You can reach him at
+ttaylorl@swarthmore.edu.
+
+8
+
+The price of the wired age
+BY EVAN HENSLEIGH
+
+ehenslel@swarthmore.edu
+
+One of the inevitable events that typify the end of my
+summer is getting to help all my friends pack for college
+or move in. We talk about our various experiences,
+which gives me a scattered view of a fairly diverse spectrum of institutions. The thing I took most note of this
+year was the new policy at Michigan State University
+they no longer supply students with phones. As it turns
+out, Reed has done this for some time now, too. This is
+due to two things
+the rise of cell phones on campuses
+and the replacement of telephones with e-mail and
+instant messaging for communication.
+Looking back on my time here, I can't remember the
+last time I called a professor, and I tend to use e-mail
+frequently with friends, too. It's become an integral part
+of our campus life. I can't even imagine Swarthmore
+without the daily quota of half a dozen reserved-students e-mails. (Did they use to leave reserved-students
+voice-mails?) When I was a CA two years ago, I learned
+that a sizable chunk of the freshman class already knew
+each other well; the admissions office had set up an
+admitted students' mailing list in April. When they
+closed this list down at the beginning of summer, most
+of the incoming students recreated the list on their own.
+As if to drive the point home, I arrived here this year to
+discover that I was living on the Friendster hall. At
+least we had the good sense to lose the Love Monkey.
+E-mailused to be compared to snail-mailall the time,
+but these days it seems the telephone is an equally relevant analogy: As we become increasingly reliant on the
+Internet and cell phones to talk to people, we are steadily weaned off the telephones on our desks. We get all our
+
+class documents from Blackboard and reserve our
+
+library books on Tripod. On campus, you can check
+September 4, 2003
+
+your e-mail anywhere, and cell phones let you talk
+everywhere. Ten years ago, CS novices were stringing
+network cables across the bay windows in Danawell. I
+can hardly imagine what this place will be like in ten
+more years.
+
+All this increased communication comes at a price,
+though. Despite our (rightly) virus-paranoid ITS department, e-mail opens the door for viruses, worms, Trojan
+horses and other malicious programs to attack our computers. Thanks to the way the Swarthmore network is
+set up, when we connect to the Internet we broadcast
+not only the name of our college but also the dorm we're
+connecting from to the world. Portable communication
+lets people interrupt you anytime, anywhere. And, of
+course, there's always spam.
+I've always been plagued by an obsession with the
+future, so I'm inclined to wonder at the consequences of
+this slide into the Internet. What effect is this having on
+us? It's certainly changed our classroom dynamics,
+even in the three years I've been here, moving from
+mostly paper-based classes in my freshman year to one
+last year where all the resources assignments, study
+guides, readings and so forth
+were online, and the
+assignments were to be handed in electronically. Even
+more unusual was the professor who substituted running e-mail dialogues for written papers.
+Of course, this leads to endless frustration when it
+all goes wrong, as it does all too often. Ironically, my email broke down once while I was working on this arti-
+
+cle. Phone communication, while less versatile, is
+doggedly reliable. Even during the power outage a few
+weeks ago, one thing that stayed on was the phone lines
+although the cell phones were out. While there's talk
+on some campuses of abandoning the phone system,
+perhaps we should hang onto ours a little longer... even
+if we never pick them up.
+
+THE PHOENIX
+
+Opinions
+
+phoenix.swarthmore.edu
+
+op-art by
+
+audrey chan and
+
+ian flora
+
+New amendment
+for unequal rights
+Although the original Constitution was essentially a blueprint
+for our government, not a charter of rights, the Bill of Rights and
+subsequent amendments have firmly entwined the Constitution
+with the ideals ofindividual rights
+and an equal society. Many
+amendments have expanded our
+civil rights, such as the 26th,
+which lowered the voting age, or
+made American society more
+equal, such as the 15th and the
+19th, which gave voting rights to
+African-Americans and women.
+Only one amendment has ever
+tried to restrict our rights, and
+
+that was the Prohibition amendment, which suffered the dubious
+distinction of being the only constitutional amendment to be
+repealed by another amendment.
+Yet the next amendment may
+well be one that specifically
+denies a right to a certain class of
+Americans
+
+WRITTEN By lAN
+
+FLORA.
+
+DRAWN BY AUPRBYCHAM
+
+Letters policy
+Letters and opinion pieces represent the views of
+their writers and not those of the Phoenix staff. All
+letters must be signed and have the writer's contact information. Letters cannot be longer than 400
+words and must be submitted by noon on Monday.
+Letters may contain up to five signatures of individuals only and must contain the opinions of their
+signees. The Phoenix will not accept letters signed
+on behalf of any groups or that contain unfounded
+attacks upon a person's character. The Phoenix
+
+reserves the right to edit all letters for content,
+length and clarity. The Phoenix editors reserve the
+right to withhold any letters from publication.
+
+Submit letters to phoenix_letters@swarthmore.edu
+or The Phoenix, Swarthmore College, 500 College
+Ave., Swarthmore, PA 19081
+To report a correction, e-mail
+phoenix@swarthmore.edu.
+
+Got an opinion?
+Send us your letters and opinion pieces.
+
+E-mail submissions to phoenixJetters@swarthmore.edu.
+
+and
+
+denotes
+
+that
+
+PATRICK HART
+
+The Drawing Board
+■, ■,l,■^™■■ ,l
+
+minority class as unequal to the
+majority. The amendment in question is the proposed Federal
+Marriage Amendment.
+The Federal Marriage Amendment (FMA) reads, "Marriage in
+the United States shall consist only of the union of a man and a
+woman. Neither this constitution or the constitution of any state,
+nor state or federal law, shall be construed to require that marital status or the legal incidents thereof be conferred upon unmarried couples or groups." It has been kicked around in conservative intellectual circles for a few years without gaining much
+traction in Congress. Now, however, the recent Supreme Court
+sodomy decision and an anticipated decision by the
+Massachusetts Supreme Judicial Court have put gay rights, and
+gay marriage in particular, front and center in the nation's seemingly neverending culture war.
+Conservatives fear that the Massachusetts decision, if it forces
+that state to grant civil marriage to same-sex couples, will unleash
+a chain reaction of lawsuits based on two clauses of the
+Constitution: the Full Faith and Credit clause and the Equal
+Protection clause. The result could be court-imposed gay marriage
+everywhere in the country. Equal marriage rights everywhere
+would be a victory for equality, but court decisions have a tendency to trigger backlashes; the losing side, in this case conservatives,
+can argue that unelected judges have subverted the democratic
+will of the people. This argument is not frivolous; social change is
+generally best achieved by the democratic process. Unfortunately,
+most state legislatures are not ready to endorse the idea of samesex marriage, and this may be one of those issues, like school segregation and interracial marriage, in which the courts will have to
+be the primary defenders of equal rights.
+The recent Supreme Court sodomy decision was a potential
+preview of future court decisions that could mandate equal marriage rights, and it has galvanized anti-gay marriage forces. Senate
+Majority Leader Bill Frist declared his support for the FMA, and
+President Bush, although he hedged on the FMA, made clear his
+opposition to gay marriage and his desire to further reinforce
+heterosexual-only marriage as the legal norm.
+There can be no doubt that this is the most important gay
+issue of our time. If the amendment passes, gay relationships
+will be effectively declared unequal to straight ones by the
+
+Constitution, and remember: Only one amendment has ever
+
+been repealed.
+So what must be done?
+The religious right is mobilizing, determined to pass the
+FMA. Those who support equal rights must mobilize in
+response. There has to be a constant effort to make the Great
+Middle (the many Americans who are generally accepting of
+gays but do not support gay marriage) realize that the FMA does
+not simply prohibit gay marriage, but also effectively blocks any
+compromise or debate about the issue in the future. Even "mar-
+
+riage lite" laws like civil unions or domestic partnerships could
+be endangered by the amendment, since it specifies that state
+law cannot require "the legal incidents" of marriage to be conferred upon unmarried couples. If it were to pass, the FMA
+would be the first constitutional amendment to specifically deny
+a right to a'minority group. No matter what your feelings about
+gay marriage, such a mean-spirited amendment does not belong
+in the Constitution.
+Patrick Hart is a sophomore. You can reach him at
+phartl@swarthmore.edu.
+
+THE PHOENIX
+
+XM3OHS JHT
+
+September 4, 2003
+
+9
+
+INSIDE THE SCIENCE CENTER
+Reported by Lillie Dremeaux
+
+•
+
+Photographed by Benjamin Kabak
+
+CONNECTING THE OLD TO THE NEW: MARTIN TO THE SCIENCE CENTER
+After its completion, the Science Center complex will house
+half of the classrooms at Swarthmore, in addition to the new
+Eldridge Commons area and a coffee bar that is already open for
+business. The adminstration hopes the new facilities will draw yet
+more talented scientists students and professors to the college.
+"This is an indication of how much people in the Science
+Center want other people to come teach here," biology professor
+Rachel Merz said. While the Kirby Lecture Hall is closed, Martin
+Building will remain the home of the biology department.
+Renovations on Martin and old DuPont, which will house physics
+and astronomy, computer science, and mathematics and statistics, will eventually unite the natural sciences side of campus.
+-
+
+10
+
+September 4, 2003
+
+Above, the walkway connecting Martin Building and the
+
+Science Center, is slated to open at the end of the week following
+a state inspection. Fritted glass, designed to prevent birds from
+flying into the structure, will soon replace the temporary glass of
+the walkway's walls. As in the Eldridge Commons, the two-paned
+glass will feature white dots. On the walkway, the dots will appear
+
+on the outside of the glass rather than on an interior pane.
+The window manufacturer has never before used this structure
+and is not guaranteeing its success for fear that exposure would
+wear down the white dots. "It's a real experiment," Merz said.
+The new coffee bar, shown below and at right, sells fresh sushi
+daily for points.
+
+phoenix.swarthmore.edu
+
+MULTIMEDIA
+LECTURE HALLS
+The Science Center houses two large
+lecture halls that feature state-of-the-art
+multimedia equipment. The smaller of
+the two halls (left) seats 80 people and
+currently houses courses from the chemistry, math, psychology, political science
+and English departments.
+The largest lecture hall seats 200 peo-
+
+ple, and has document cameras and
+computer projection equipment for professors and speakers to use. The hall
+may be used to show movies as well.
+
+INTEGRATED LAB SPACE
+As Ben Carlisle 'O5 and Brian Nolan 'O5
+demostrate above, laboratories in the Science
+Center are now in close proximity to instrument
+and computer rooms so that students don't have
+move to different parts of the building during lab
+periods. All laboratories are fitted with multiple
+fume hoods around the perimeter for ventilation,
+and organic chemistry students will be able to do
+all bench work in the hoods. Lower lab benches
+and more space provide students with a "clean line
+of sight" throughout the room. Table and floor surfaces have been tested for maximum chemical and
+mechanical resistance as well as long-term durability. Because of tight scheduling during the construction, some physics lab periods are taking
+place in chemistry laboratories this semester.
+The entire building is equipped with climate
+control, which has implications beyond comfort
+when laboratory work is concerned. Many chemical reactions are moisture-sensitive, and control
+over humidity will ensure that the outside weather
+does not interfere with lab work. Constant coolness
+will minimize vaporization of chemicals used in
+the lab.
+As for safety, instructors have always asked that
+students be fully covered during labs, "and having
+air conditioning means it is much more reasonable
+
+to ask people to wear clothing that's appropriate,"
+chemistry professor Paul Rablen said.
+
+THE PHOENIX
+
+11
+
+News
+
+phoenix.swarthmore.edu
+
+Construction projects spread across the campus
+From the new dorm to a facilities upgrade, cranes and machines dot the landscape
+OVERSEEING
+
+CONSTRUCTION
+Rooms on the south side of
+Mertz have a bird's-eye view of
+the construction of the new
+dorm. Crews have been working
+
+on the dorm since the summer,
+removing trees and clearing the
+
+land.
+The new residence hall, still
+nameless, is scheduled for comple-
+
+tion next summer. The dormitory
+
+may feature a section of "green
+roof with a layer of plants to
+
+absorb rainfall and provide insulation for the building. A series of
+two-story "loft rooms" would overlook the green roof, Vice
+President
+Larry
+
+for
+
+Administration
+
+Schall '75 said.
+
+The dorm will include a
+"great big public space," Schall
+said, consisting of a two-story
+lounge and
+
+roof deck as well as a
+
+suite for a disabled student and
+caretaker. Sixty of the 75 beds in
+the dorm will be "replacement
+beds," housing would-be Parrish
+
+residents as the coUege's signature hall undergoes extensive
+
+renovations next year. The new
+dorm will contain a mixture of
+upperclass singles and some multiple-occupancy rooms for firstyear students and sophomores.
+By
+
+:
+
+i
+
+.
+
+-*--■:■■■,:■■:.■■
+
+*
+
+..
+
+Lillie Dremeaux
+
+I M^lllllllllllllllllllllllll—l
+■■
+
+Andrew Steel Phoenix Staff
+
+Looking for a
+
+career in
+advertising
+or business?
+Build your resume
+and get paid with
+practical experience
+as The Phoenix's
+business manager or
+advertising manager.
+
+Andrew Steel Phoenix Staff
+
+BOILER UPGRADES
+
+The physical plant is expanding with the addition of two new boilers, which will replace their 25- to 40-year-old counterparts
+
+September 4,2003
+12
+
+phoenix@ swarthmore.edu
+
+THE PHOENIX
+
+Living
+
+phoenix.swarthmore.edu
+
+A
+On
+
+The grilled cheese sandwich, in contrast
+to its current kiddie-comfort-food image,
+started out as a very posh dish. According
+to some food historians, it originally
+derives from the butter-fried, artery-clogging ham-and-Gruyere sandwich known as
+Croque Monsieur. However, other food historians (may I live to have such a job!) con-
+
+Slice
+
+of Sharples
+
+Sandwiches
+
+&
+
+tend that the cheese-bread combination is
+ancient and found in many cultures. The
+modern, American grilled cheese appeared
+in the 1920s with the introduction of sliced
+bread and affordable processed cheese.
+Navy cooks in World War II developed the
+broiler method of making open-faced
+"American cheese filling" sandwiches. The
+sandwich was made with grated cheese,
+until the 19605, when sliced cheese became
+
+available.
+
+Here, a somewhat heterodox grilled
+cheese. It's a step up from the average sloppily assembled toaster-hogging travesty.
+Note that this recipe utilizes each and
+every one of the appliances along
+Sharpies' toaster wall!
+
+BY REBECCA ENNEN
+
+rennenl@swarthmore.edu
+
+to the sandwich, formally
+"invented" in 1762 at the London Beef
+Steak Club for John Montague, the fourth
+Earl of Sandwich and legendary card-player. He refused to leave the gambling table
+to dine, thus paving the way for generaHere's
+
+tions of lunchers intent on eating while
+doing something else. The sandwich is
+thus an ideal study food. You can hold it in
+one hand and use the other to turn pages!
+Additionally, in Sharpies sandwiches are
+
+often the first line of defense against,
+
+problematic meal offerings. Here, two
+recipes
+
+for toasted sandwiches that are
+
+sure to satisfy.
+
+MUSIC REVIEWS
+by
+
+er,
+
+to crisp the toast and brown the cheese.
+Finally, when the sandwich comes out of
+the oven, spread butter or margarine on its
+outside surfaces.
+Gourmet fancy extras to add before
+
+final toasting
+
+Radiohead, Hall to the Thief
+I hate to point out the obvious, and I'm sure anyone
+who cares already knows it by heart, but there's just no
+escaping this album. Sure, they'll never
+equal whichever of the last four albums was
+your favorite, but Radiohead have never
+sounded this much like themselves, and that
+can only be a good thing, even when it's blatant ("We Suck Young Blood"
+"Life in a
+"Ideoteque.")
+Glass House," "Backdrifts"
+More importantly, they've never
+sounded more human, particularly on the masterstroke last
+
+Ross Hoffman
+
+Blur, Think Tank
+The most consistently great rock band of
+the '9os (yup) reinvented themselves once
+again. Sporting spry but complexly layered
+arrangements doubtless informed by frontman Damon Albarn's fascinating Mali
+Music project (a handful of Malian musicians show up on some cuts here), Blur's
+sixth full-length in 10 years is their most
+
+=
+
+=
+
+diverse (from the Fatboy Slim-produced
+
+Beat" to the freeform beat-jazz of "Jets"; from the minutelong thrash episode "We've Got a File" to a
+handful of devastatingly poignant ballads),
+their most mature, and, quite simply, the
+best collection of melodies, rhythms, words
+and sounds I've heard in ages. Please don't
+miss it.
+
+Grilled (Toasted) Cheese Done Right
+Take two slices of good bread
+sourdough and rye are ideal
+and run them
+through
+the conveyor-belt toaster.
+Meanwhile, fetch two to three slices of
+cheese from the deli. When the bread
+comes sliding down (whee!), spread a very
+thin layer of non-yellow mustard on one
+slice and a very thin layer of mayo on the
+other. Arrange the cheese on the toast and
+put the whole sandwich in the microwave
+for 20 seconds or until the cheese is melted.
+Then put the sandwich in the toaster oven
+
+two tracks.
+
+party-rock single "Crazy
+
+Blur
+Think Tank
+
+Also Interesting for 'O3:
+
+Arts
+
+Sliced tomato
+Spinach
+
+Sliced green apple
+Ham or other deli meat
+Sweet onion
+Salsa
+When I was in high school, my friends
+and I frequented a certain 24-hour diner in
+Boston's Kenmore Square. It was the kind
+of place where punks bristling with piercings sat alongside Abercrombie-clad preps
+
+from B.U. and Northeastern. The waitresses were all tattooed, bleached-blond, vin-
+
+tage-dressed Courtney Love look-alikes
+(yes, that's when I was in high school) and
+
+the short-order cooks were fearsome bruisers. It was at this diner that I first ate the
+sandwich that has been my favorite ever
+since. It was supposedly The King's
+favorite sandwich too
+hence its name.
+May this sandwich give you the joy it has
+given me.
+The Velvet Elvis (adapted from Deli
+Haus)
+In the conveyor-belt toaster, toast two
+slices soft bread. While the bread is toast-
+
+ing, slice a ripe banana into rounds. On
+one slice of toast, spread peanut butter (the
+natural kind is the best). On the other
+
+slice, drizzle honey and add a dash of salt.
+Layer the bananas neatly on the peanut
+
+butter side, top off the sandwich with the
+other slice of bread, and give it a minute in
+the toaster oven to heat thoroughly. As
+with the grilled cheese, spread some butter
+or margarine on the outside of the sandwich for optimum delegability.
+
+both recipes, the final step is key in
+that diner-like, finger-lickin'
+grease. Those wanting to keep down the fat
+in the sandwich should add salt and omit
+the butter or margarine.)
+(In
+
+getting
+
+Soft Pink Truth, Do You Party? (Soundslike)
+From one half of Matmos (the IDM duo whose last
+record was built largely from samples of various types of
+surgery) comes a hilarious and wholly perverted slab of
+jittery funkin' undeniable microhouse beats and pieces
+that take a scalpel to your party-funk stereotypes. Just
+answer the question.
+
+R. Kelly, Chocolate Factory (Jive)
+The remix to "Ignition" is the bounciest thing on here
+the rest of the disc is smooth as butter, or, well,
+chocolate (though usually not too sweet) and
+straight out the Marvin Gaye school of bedside
+-
+
+manner.
+
+Holden, Pedrolira (Le Village Vert/Sony
+
+France)
+
+(Virgin)
+
+Medicine, Mechanical Forces
+Just your basic loungy, jazzy French pop
+ofLove (Astralwerks)
+album (somewhere between Gainsbourg and
+An ambitious and by no
+later Stereolab), which on further listens reveals
+means flawless album; a patchsubtle quirks (bebop saxophone snippets, hints
+of pedal steel guitar, electronic rhythm treatwork swirl of synthy glitchy Radiohead
+ments) to keep things interesting no doubt the
+funk, CSNY-worthy pop harmoHail to the Thief
+ny bits (courtesy of Bruce Lee's
+influence of ultra-prolific producer Uwe
+(Capitol)
+daughter), electrified shoegazer
+Schmidt (Atom Heart, Senor Coconut).
+drone and elements further
+afield. When it works (as on the startling Royal City, Alone at the Microphone (Rough Trade)
+opener), it's pretty darn cool.
+The best twisted bluesy/folky/country-y/banjoinfused indie songwriter record of the year, at least until
+Gary Lucas, The Edge of Heaven (play
+I hear the new Okkervil River. Twisted, though.
+Mid-century Chinese Pop) (Label Bleu)
+The New
+Lucas is an absolute master of the guitar
+Rrecommended concerts this week:
+Pornographers
+and his folk-blues background is readily
+Friday: Guided by Voices, The Shins, and My
+The Electric Version
+apparent in this set of '3os and '4os vintag
+Morning Jacket at the Trocadero
+(Matador)
+Chinese pop tunes, in both instrumental
+Sunday: Q and not U, Black Eyes, El Guapo at the
+and vocal settings. As bizarre as it is utterly sublime.
+First Unitarian Church
+-
+
+The New Pornographers, The Electric
+Version
+Thirteen songs, every one an anthem,
+and it only gets better the more you hear it.
+A little more variety might have been nice,
+but I can't stop singing along for long
+enough to complain. Even the new
+Fountains of Wayne record isn't this catchy,
+and the New Pornos have the market sewn
+up lyrically as well (though "The Laws
+Have Changed" isn't really about Foucault,
+is it?). The sweetest sugar around.
+
+THE PHOENIX
+
+September 4, 2003
+
+13
+
+Living & Arts
+You've got to fight for your right to park
+phoenix.swarthmore.edu
+
+A few reasonable proposals on how to solve the college's parking problems
+As Jack Johnson once observed, in his song that sounds
+like the other one that sounds like the other one, "if you
+wanna park here, you're gonna have to pay her." We can
+only assume Jack Johnson was referring to the parking
+problem at Swarthmore College, not a prostitute. Listen
+freshmen, you think this
+
+place is sweet... wait a few
+
+weeks. Some of us older
+Swatties found that the
+to
+enjoy
+way
+best
+Swarthmore is in places
+like Center City and
+Lancaster Ave. Nothing
+beats a Sharpies meal like
+McDonald's. So because
+SEPTA doesn't stop at
+lots
+of
+McDonald's,
+
+JONATHAN FOMBONNE
+EMIUANO RODRIGUEZ
+Sobering Thoughts
+
+Swatties bring cars to cam-
+
+pus, but, this year, few students can find a place to
+
+park. As such, our first column is devoted the parking
+problem at Swarthmore.
+
+The Great Debate: Crumhenge vs Parking-lot-henge
+Let's face it. The board of managers (the people who
+penny pinch the endowment) could have solved the problem a long time ago. The Crum is huge. I mean really big.
+While some may disagree, it is because you never see
+most of it. If we tore down the parts no one visits, built an
+underground tunnel from Parrish to there and then a nice
+2000 spot egalitarian parking lot, all our problems would
+be solved. Another more feasible option two years ago
+would have been a parking lot underneath the Science
+Center. We could have imported the stone pillars from
+
+Italy (freshmen: ask someone about the new dorm).
+Unfortunately, Student Council shot down our ideas, and
+we don't have a parking megaplex at Swarthmore. As
+such, last year's parking committee left dozens of students
+without places to park. The fact that the borough of
+Swarthmore has fewer spaces this year only compounds
+the problem.
+So now the question arises, where does David Gentry
+'O5 park his car without an official spot? First, do some
+extensive research as to who has cars. Pick a few nerds
+
+and honors majors and track their car usage. At least one
+will undoubtedly never leave McCabe, so you can double
+park him all year. If following around smart kids is not
+your cup of tea, then just use your car to get everywhere.
+Be at one with the squirrel; the more you move around, the
+harder it will be for Public Safety to catch you. Install
+another battery in your car so that you can leave your
+flashers on for up to 10 hours while you are sleeping.
+We also have a few supralegal suggestions. First, sophat all. Oddly enough, 'o6ers
+omores don't deserve cars
+seem to have nicer cars than everyone else. Steal one of
+their cars, sell it in West Philly, and use the money to bribe
+Terri Narkin for the space that just coincidentally opened
+up. Also consider buying yourself a boot. Then you can
+drive right up to Parrish Beach, toss the boot on your car,
+check your mail, take it off and be on your way. Finally, if
+you are really creative, go buy a sticker for your car that
+says something like "Delco Wholesale Food Distributors"
+and park in the Vendor Only spots behind Tarble and
+...
+
+Sharpies.
+
+If you are just bitter, there are other wonderful solutions. Park in a Public Safety spot or fire zone. When someone says something, tell them to blow you; they should
+have given you a parking space, and it's actually Student
+Council's fault Kohlberg burned down. Also try off-roading. If you are going down, just go down in flames and tear
+
+some stuff up in your Honda Civic before you are on the
+boot list. If you don't mind the walk, also try parking at Al
+Bloom's house.
+
+Don't think that not solving this problem only inconveniences students. There are serious community harms
+that stem from the lack of parking on campus. Fewer
+spaces around campus means more cars parked in Parrish
+Circle. With Jon about to attempt his permit test for the
+third try, the possibility of his getting a license could have
+dire consequences on the accident rate at Swarthmore. On
+that fateful morning last November when Jon was frightened by a barefoot hippie running through the rain in
+
+First, sophomores don't deserve
+cars...at all. Steal one of their cars,
+sell it in West Philly and use the
+money to bribe Terri Narkin.
+(Barefoot's disbelief in technology resulted
+in his not seeing Jon's car), he crashed a jeep into a car in
+Parrish Circle. After seeing the class of -07, we feel the
+potential for barefoot-related traffic accidents is significantly higher than last year.
+Students, unite. Park your cars on Parrish Beach and
+refuse to move them. To each according to his need and
+from each according to his ability. Wait, that makes no
+sense. We need a parking space. Please, Terri, please.
+Jon Fombonne and Emiliano Rodriguez are juniors.
+Terri, you can e-mail them at jfombonl@swarthmore.edu
+and erodrigl@swarthmore.edu.
+
+front of his car
+
+'Dirty Pretty Things': dirty, pretty and important
+BY ESTER BLOOM
+
+eblooml@swarthmore.edu
+
+When President Bill Clinton would not
+stand up for Zoe Baird in the early 19905,
+the United States got Janet Reno and a hot
+
+topic of conversation: the plight of illegal
+
+immigrants. The country debated whether
+the fault lay with unfair immigration poli-
+
+•
+
+cies, the middle-class families who hire illegals as nannies and could potentially
+underpay and exploit them or the immigrants themselves who are operating outside the system.
+Sadly, this crucial conversation lasted
+only about five minutes. Stephen Frears's
+noir-ish social thriller "Dirty Pretty
+Things" lasts significantly longer than that
+and covers the issue in greater depth and
+with more intelligence, complexity and
+respect than the media managed when the
+Baird scandal broke.
+
+While this is a narrative film and does
+
+not pretend to be a documentary, its onetwo punch of truth and beauty make it as
+hard-hitting as a piece of investigative journalism and as easy to watch as a glossy TV
+special.
+Set in London, "Dirty Pretty Things"
+revolves around Okwe (Chiwetel Ejiofor), a
+brooding, handsome Nigerian doctor who
+
+drives a taxi during the day and works a
+front desk at a respectable hotel at night.
+Instead of sleeping, he chews the leaves of a
+plant that functions as a stimulant. Instead
+of family or community, he has a group of
+fellow taxi drivers, also immigrants, who
+beg him to treat their cases of VD.
+The only person Okwe can talk to is a
+wry physician named Guo Yi (Benedict
+Wong) and Okwe's only safe space is Guo
+Yi's place of work, the hospital morgue.
+There the two men play chess and when
+
+14
+
+Okwe wins, Guo Yi shrugs, commenting
+insightfully, "Good at chess, bad at life."
+Despite his hyper Protestant work ethic
+and good intentions, Okwe indeed seems to
+be bad at life. Starting from the moment,
+late at night while at work at his hotel, that
+he reaches into a toilet bowl to unclog it
+and pulls out a human heart, it is clear that
+no matter how fast Okwe moves or how
+many continuous hours he manages to stay
+awake, he will not be able to shake misfortune.
+In a different film, a principled man
+gathering clues towards the discovery of an
+overwhelming system of corruption is told,
+"Follow the money" Here, the motto for
+Okwe is, "Follow the organs." Okwe has no
+obligation (or time) to be doing detective
+work, and indeed his boss, the casually
+cruel, slicked-back hotel manager Juan
+(Sergi Lopez,) advises him explicitly to
+leave the matter alone. But having held the
+heart of the matter in his hand, so to speak,
+Okwe feels morally bound to discover the
+truth.
+
+The truth, of course, as befits a thriller,
+is complicated, gruesome and involves
+many wicked men as well as one young
+Senay, played by a radiant Audrey Tautou ("Amelie"), is a devout
+Muslim from Turkey, laboring as tirelessly
+as Okwe to collect enough money to make it
+to America.
+Senay and Okwe both have a guiding
+sense of what is right. Their characters and
+their relationship, which is chaste but
+weighted with an obvious mutual attraction, are the moral linchpin of the film.
+When each is challenged, however, the film
+reveals how near-impossible it can be to
+
+beautiful woman.
+
+sustain a moral life when as an individual
+you have no power, no legal recourse and
+almost no control even over yourself.
+
+Courtesy of rottentomatoes.com
+
+Chiwetel Ejiofor and Audrey Tautou confer about a few dirty pretty things.
+The only white people in "Dirty Pretty
+Things" are the immigration officials who
+spend their time chasing down illegals.
+They seem to exist in a parallel universe:
+they are the served class while the focus of
+the movie is on their invisible servants. Of
+those, the ones who can exploit others do so
+with abandon. The ones who must fight for
+
+September 4, 2003
+
+their lives, meanwhile, abandon everything
+from scruples to body parts to the past.
+Before the very last scene, in which "Dirty
+Pretty Things" falters in its attempt to provide a superficial happy ending, the film
+succeeds in bringing to light, without sentimentality, the underworld of the Western
+world.
+
+THE PHOENIX
+
+Living
+
+phoenix.swarthmore.edu
+
+Upcoming drama productions go Greek, Fringe
+An extinct Swarthmore tradition will
+be revived this year as the Drama Board
+devilishly plots to bring back the annual
+"Shakespeare in the Crum" extravaganza,
+a sequence of Shakespearean scenes
+which will be performed with the pristine
+Crum Woods as the hosting venue. The
+Drama Board will soon host open readings of Shakespeare's work to bring
+together students interested in participating in "Shakespeare in the Crum." The
+annual Night of Scenes is also currently
+being planned for later this semester.
+Swarthmore sophomores Veronica
+Betancourt and Eliza Cava will be codirecting a production of "Medea," a classic uplifting mythological tale written by
+at
+the
+start
+Euripides
+of the
+Peloponnesian Wars. Jason the Argonaut
+returns home with his wife Medea after
+his successful quest for the Golden Fleece
+and betrays his homely bride to marry the
+King's daughter. The story follows
+Medea's dismal emotional struggle and
+quest for the ultimate revenge against her
+deceitful spouse.
+Medea will be performed in the Greek
+tragedy style with flapping tongues
+behind masks and robes, with a full Greek
+Chorus. It will be held in the amphitheater on October 24 and 25, with the final
+scene concluding as the sun sets behind
+the pristine Crum Woods. Auditions will
+be held September 5 through 8; check the
+Drama Bulletin Board for details.
+For any self-assured aspiring directors,
+
+the Drama Board is now enthusiastically
+accepting proposals for both theater and
+film productions. Check the bulletin
+board just outside the post office for
+instructions for submitting a proposal, or
+send
+e-mail
+to
+an
+dramaboard@sccs. s warthmore.edu.
+
+Swat Actors on the Outside
+As in years past, a Swarthmore presence pervades this year's Philadelphia
+Fringe Festival, a furious orgy of theater,
+film, spoken word, music, and a variety of
+other forms of performance art that runs
+August 29 through September 13. The
+Stolen Chair Theater Company and the
+Pig Iron Company are two among dozens
+ofoutlandish performing arts groups from
+across the country participating in a modern arts burlesque known as the
+Philadelphia Fringe Festival.
+The Stolen Chair Theater Company
+was started here at Swarthmore in 1995. It
+
+has grown to include Swarthmore seniors
+Sam Dingman, Felicia Leicht, Audrey
+Pernell, and Adrienne Mackey along with
+Keetje Kuipers, Jon Stancato, Katherine
+Walley, Kiran Rikhye, all graduates from
+the class of 2002.
+In the past, Stolen Chair has performed
+
+a unique two-actor adaptation of S.
+Ansky's "The Dybbuk: Between Two
+Worlds," and a clever original creation,
+"Portrait of Dora as a Young Man," which
+debuted at the 2002 Fringe Festival and, of
+the Festival's 237 shows, was the first to
+sell out. Stolen Chair also recently created
+and performed a world-premiere original
+adaptation of
+
+"Chikamatsu Monzaemon's
+
+Bunraku Fair Ladies at a Game of Poem
+Cards." This year they will be presenting
+
+"Stage Kiss," an hour long theatrical piece
+which the company describes as: "Boy
+meets boy. Boy falls for boy. Turns out
+both guys are dolls." In Stage Kiss, the
+Stolen Chair Theatre Company will use
+all the m's: music, make-up, masks and a
+mannequin, to explore John Lyly's
+Renaissance classic.
+Another theater company with roots at
+Swarthmore is the aptly named Pig Iron
+Company, who will be performing an
+avant-garde dance/physical theater play
+titled "Cafeteria," a comedy and commentary on the American psyche. Three silent
+cast members progress through junior
+high school, business life, and retirement
+homes, with a cafeteria operating as the
+window through which the audience follows the progression of their lives. Pig
+Iron is a "dance-clown-theater" ensemble
+that was founded in 1995, and has created
+and performed some 16 original works.
+
+They have performed all over the world as
+well as throughout this beautiful country,
+from sea to shining sea.
+Cafeteria will be performed nine times
+September 3 through 7. More information
+about the production and the Pig Iron
+Theatre Company is available at www.pigiron.org. The Stolen Chair Theater
+Company will be performing "Stage Kiss"
+on five occasions between August 29 and
+September 6. Further information about
+
+Stolen Chair can be found on their website at www.stolenchair.org. For details
+about the Philly Fringe Festival visit
+www. pafringe. org.
+
+Courtesy of oeeazley.ox.ac.uk
+
+I
+
+BY JOHN TUTHILL
+jtuthill@swarthmore.edu
+
+Celibate Swat? I think not. What you need to know.
+A sobering, serious look at the dangers of unprotected sex at Swarthmore College
+As a freshman, an upperclassman once told me that the
+window of opportunity for hooking up and dating at Swat
+existed only for three weeks after Orientation, so I had better get my ass in gear. I've since learned that though
+indeed some Swatties do pretty much only have sex with
+themselves (nothing wrong
+with that), there are definitely
+many more who miraculously
+find time and inclination for
+active sex lives. So please,
+first year readers, don't
+assume you'll never have to
+know where to get condoms on
+campus. I promise those of
+you who assume that your
+
+SARAH WALSH
+
+(lifetime) dry spell will be
+ongoing or that you will be
+doomed to sexual
+inactivity that it really isn't as
+
+(suddenly
+
+bleak as it seems. It seems that
+at Swat even people who
+Sex and the Swattie haven't needed such items in
+the past all of a sudden are the
+m^^^mmmmm
+m
+ones spending all their money
+on sex toys.
+Clearly, some of the stereotypes about this school more
+or less hold true. For instance, many people here, including yours truly, are self-described nerds, but nerds still
+have sex. That's the upside, but unfortunately there is also
+a downside, and that is STD risk. Upon setting foot on this
+campus as freshmen, you are all leaving some of your baggage from the outside world behind, including your sexual
+history. After recently sitting through a slide show of the
+worst cases of herpes I could imagine (all I'm going to say
+is that you would see them even if the person was wearing
+pants), I feel compelled to further stress, to freshmen and
+seasoned Swat veterans alike, that except for masturba-
+
+l
+
+"' '
+
+THE PHOENIX
+
+tion, sexual experiences always come with risk, even in
+
+our own little academic bubble.
+
+Although we're living during an age in which somewhere between 20 and 25 percent of college students have
+
+been infected with an STD, somehow the myth that this
+epidemic only exists outside Swarthmore refuses to die.
+What concerns me about the celibate Swat stereotype is
+that it can encourage risky sexual practices, a dangerous
+phenomenon considering Linda Echols, the amazing
+woman at Worth who deals with all of our sexual drama,
+sees cases of sexually transmitted diseases on our own
+very campus regularly. To make matters worse, it's not
+
+the ASU wellness website, 80% of women and 50% of men
+who are infected with an STD show no symptoms.
+Although all this seems very fatalistic, there are definitely steps you can take to lower your STD risk. First, you
+
+should always be using condoms and/or dental dams.
+Make sure that you and your partner are on the same page
+about this before you hop into bed. Being sexually active
+comes with the responsibility to protect the health of yourself and your partner. Using protection means that you are
+mature enough to do that.
+If you have been sexually active, it would be smart to
+get an STD test at Worth, since they are easy and free, but
+
+just about condoms or dental dams anymore. There was a
+time when we were told
+that as long as we used
+barrier protection we'd be
+fine, but the truth is that
+people
+
+realize that you could still be infected, because it does not
+
+but I want to remind everyone that the two infections we
+
+test for herpes or HPV.
+Finally, be aware that while a no-strings-attached sexual encounter can be lots of fun, it can also be the riskiest
+kind of sex, since you probably know absolutely nothing
+about the person's sexual history. When alcohol is put into
+this mix, impaired judgment may also cause you to engage
+in dangerous sexual practices (e.g. without protection)
+that you wouldn't normally.
+If you have already been infected with an STD, it is
+nothing to be ashamed of. We are all at risk for them, but
+contracting one would be a pretty traumatic way to learn
+that STDs exist at Swat. Don't you think?
+Sarah Walsh is a junior. E-mail her at swalshl@swarth-
+
+this no longer holds true.
+I'm not going to dwell
+on all the awful symptoms
+of all the STDs, because I
+know freshmen readers
+have recently been beaten
+over the head with them,
+
+Many
+here, including yours truly, are selfdescribed nerds, but nerds still have sex. That's the
+upside, but unfortunately there is also a downside, and
+that is STD risk.
+
+are each most likely to contract, genital herpes (genital
+sores) and HPV (genital warts which cause cervical cancer) are neither preventable by condom use nor curable.
+Unlike some other STDs, like HIV/AIDS, these infections
+are spread not by fluid transmission, but by skin-to-skin
+contact, so even with barrier protection you can still
+become infected. Chlamydia, gonorrhea, and syphilis are
+all curable, but can mimic the flu, so they are often difficult to detect. Hepatitis B and C are not curable and can
+sometimes lead to death, while HIV/AIDs, of course,
+claims far too many lives each year.
+Though just the symptoms of these STDs sound awful
+enough, what is far more frightening is that according to
+September 4, 2003
+
+more.du.
+
+15
+
+WELCOME!
+
+phoenix.swarthmore.edu
+
+editor's
+PICKS
+
+Bu
+
+Hug A
+Rugger
+Because they’re throwing the first party of the semester. Sure, you
+have to pay ($5 per couple or $3 per person), but seriously, how much
+did you pay for a single sandwich out
+
+in the real world this summer
+First-years, check out the Swat
+party scene. We’re not just a
+“study” school. Upperclassmen,
+what
+actually
+you know
+brought you back here from
+your paper- and problem-set-
+
+the usual endof-orientation
+activities fair has been
+pushed to this upcoming
+weekend and expanded into
+"Welcome Weekend," let me take this
+opportunity to extend a warm welcome to
+all of our new students. Only you can save this
+school from the hellhole it has become. Or maybe
+you can prevent forest fires. Anyway, this weekend is
+
+the time for all campus clubs and organizations to show
+
+their stuff out on Parrish Beach from and recruit new, non-jaded
+members. Oh, and come say hi to the staff at the Phoenix booth. We
+might get lonely.
+
+Also, Movie Night comes early with a big-screen showing of The Two Towers
+and several episodes of "Family Guy". Which is good, because, as the great
+philosophers have told us, the only undeniable truths are "I exist" and "Family
+Guy rules."
+
+Hideous
+
+less summer; Arthur Chu, of
+course. This Friday, 10 p.m. to
+2 a.m., at Paces.
+
+Don't feel geeky enough?
+
+Switch to Linux
+After the recent rash of viruses on the school’s Windows computers,
+it might be time to look into the alternatives to Redmond’s operating systern and Office software. Of course there are Macs, but
+"dial if you already have a Windows machine? Would
+you like an operating system with no viruses and a
+feel that is very similar to the Windows you’ve gotten used to? Do you enjoy feeling like you’re part of
+a strange, geeky cult?
+Then download Linux today. You can install it
+on both Windows and Macintosh machines, without having to erase Windows or your Mac OS.
+There are many programs for Linux that mimic
+the applications that you use on Windows or
+/lacintosh, such as the Microsoft Office clone
+
+at www.OpenOffice.org.
+
+Oh yeah, did I mention it’s free? I don’t
+mean a bootleg, KaZaa, pirate kind of free,
+but honest-to-goodness,
+away free.
+
+Philadelphia Fringe Festival.
+
+just-giving-it-
+
+Check
+out RedHat Linux
+(www.redhat.com),
+Mandrake
+Linux (www.mandrakelinux.com)
+or Debian Linux (www.debian.org).
+
+16
+
+David Foster Wallace, one of the publishing industry's "it" boys,
+may be most well-known 1 for 1996's "Infinite Jest"2 , but it is a stage
+adaptation of his vicious, enthralling collection of short stories, "Brief
+Interviews with Hideous Men," that is coming to Philly this weekend.
+"Hideous Men" is a series of
+that delve into how nasty,
+duplicitous, and selfish men can be . The show will be playing from
+Aug. 22 to Sept. 20 at Smoke on 230 N. Bread Street as a part of the
+
+L. You've heard of him, right?
+2. A really big book. I've read it. It's big.
+3. Structured as one-sided interviews.
+4. But we already knew that, didn't we?
+
+Seotember 4. 2003
+
+THE PHOENIX
+
+Sports
+
+phoenix.swarthmore.edu
+
+SWARTHMORE SPORTS BY THE NUMBERS
+WOMEN'S CROSS COUNTRY
+CENTENNIAL CONFERENCE PRESEASON POLLS
+76
+1 Haverford (6)
+75
+2. Dickinson (4)
+3. Gettysburg
+63
+4. Swarthmore
+61
+5. Johns Hopkins
+43
+6. Muhlenberg
+41
+32
+7. Bryn Mawr
+8. McDaniel
+30
+9. Franklin & Marshall
+15
+10. Ursinus
+14
+
+MEN'S SOCCER
+CENTENNIAL CONFERENCE PRESEASON POLLS
+80
+1 Johns Hopkins (8)
+68
+2. Muhlenberg
+3. Gettysburg (2)
+65
+&
+Franklin
+Marshall
+57
+4.
+5. Dickinson
+48
+6. Washington
+42
+31
+7. McDaniel
+8. Haverford
+29
+9. Swarthmore
+17
+10. Ursinus
+13
+RECENT RESULTS
+Aug. 31: Swarthmore 4, Wilkes 2
+Swarthmore (1-1)
+2 2-4
+Wilkes (0-2)
+11-2
+Goals: Swarthmore 4 (Moriarty, Griffith, Graham, Terker),
+Wilkes 2 (Roy, Ritter).
+Assists: Swarthmore 2 (Taylor 2), Wilkes 1 (Fancek)
+Shots: Swarthmore 19, Wilkes 8.
+Saves: SC- Shupe 4(90 min., 2 GA), WU- Proctor 9(90
+min, 4 GA).
+Aug. 30: Swarthmore 0, Goucher 1
+
+Swarthmore
+Goucher
+
+0 0-0
+0 1-1
+
+Goals: Swarthmore 0, Goucher 1 (Bartruff).
+Assists: Swarthmore 0, Goucher 1 (Wrede).
+Shots: Swarthmore 13, Goucher 16
+Saves: SC- Shupe 5 (90 min., 1 GA), Feuerstein 4 (90
+min., 0 GA)
+UPCOMING CONTESTS
+Sept. 6: Swarthmore versus Savannah College of Art and
+Design, 11a.m.
+Sept. 7: Swarthmore versus Bridgewater College, 1 p.m.
+
+WOMEN'S
+
+SOCCER
+
+Quinn 3 (114:42 min., 3 GA)
+Aug. 30: Swarthmore 4, Alvernia 1
+Alvernia
+0 I—l
+Swarthmore
+13-4
+Goals: Swarthmore 4 ( McCaffrey 2, Negry, Chappell),
+Alvernia 1 (Laforme)
+Assists: Swarthmore 1 (Forbes)
+Shots: Swarthmore 22, Alvernia 2
+Saves: SC Salussolia 1 (90 min., 1 GA), AC Einsel 15
+(80 min., 3 GA), Kresge 1 (10 min., 1 GA)
+-
+
+-
+
+UPCOMING CONTESTS
+
+Sept 6: Swarthmore at York, 11:00a.m.
+
+CENTENNIAL CONFERENCE PRESEASON POLLS
+96
+I Johns Hopkins (6)
+88
+2. Gettysburg (2)
+3. Muhlenberg(2)
+85
+4. Franklin & Marshall (1)
+74
+5. Haverford
+55
+53
+6. McDaniel
+52
+7. Dickinson
+8. Swarthmore
+45
+24
+9. Ursinus
+10. Washington
+20
+10
+II Bryn Mawr
+
+VOLLEYBALL
+
+Swarthmore
+30 30 28 27 15 -3
+New Paltz
+16 28 30 30 13
+2
+Assists: SC 38 (Conlon 20, Stacker 13, Berry 2, Spiller
+
+The women's field hockey team gets a
+fresh start this year with a state-of-the-art
+turf field and 11 promising new first-years.
+The preseason has given them a
+chance to adjust to the new playing conditions due to switching from grass to turf,
+its artificial substitute. The difference
+between the two surfaces, as Chloe Lewis
+'O6 explained, is that "the turf game is a lot
+more about skill and the grass game is a
+lot more about strength." The ball moves
+more quickly on turf, and players work
+much more with the ball. "I love the turf.
+It's a lot faster," Charlotte MacAusland 'O6
+said.
+"Playing turf hockey
+
+is
+new
+game, and the players have worked hard
+to learn all the technical and tactical
+strategies needed to excel on this type of
+surface," head coach Kelly Wilcox said.
+The new turf benefits the spectators of
+the sport as well. "It's a lot more fun to
+watch," MacAusland said, "and a lot more
+fun to play."
+The surface change from grass to turf
+has already spurred the team towards
+optimism and excitement for the upcoming year. The team is especially pumped
+about playing against Johns Hopkins, one
+of its biggest conference rivals. Even
+a whole
+
+though the women's field hockey team is
+not ranked as highly as Hopkins, the top
+team in the conference, the games against
+each other have always been close. Prior
+to the field change, the team was at a disadvantage when it played on Hopkins' turf
+field. Being able to practice on such a field
+"will make the transition to faster turf
+
+THE PHOENIX
+
+FIELD HOCKEY
+
+-
+
+-
+
+2)
+Aces: SC
+12 (Dunphy 3, Conlon 3, Benn 2, Spiller 2,
+George X Stacker 1)
+Kills: SC 44
+Digs: SC 84
+-
+
+-
+
+-
+
+Aug. 30: Swarthmore 0, Cortland 3
+
+Swarthmore
+16 16 19
+0
+Cortland
+30 30 30-3
+Assists: SC 15 (Conlon 13, Benn 1 Morrison 1)
+Aces: SC 4 (Morrison 2, Dunphy X Benn 1)
+Kills: SC -17
+Digs: SC 20
+-
+
+-
+
+-
+
+-
+
+Aug. 30: Swarthmore 0, RIT 3
+Swarthmore
+13 19 25
+0
+30 30 30 -3
+RIT
+Assists: SC 12 (Conlon 12)
+Aces: SC 4 (Dunphy 2, Conlon 2)
+Kills: SC -14
+Digs: SC 35
+
+fields like Hopkins and Muhlenberg much
+easier," according to coach Wilcox. The
+team will have even more opportunity to
+refine its turf skills for the big Oct. 7 game
+against Hopkins later in the season.
+In addition to the surface change, the
+promising first-years also have filled the
+season with potential. The past year was
+rough on the team. "The season was up
+and down because we had a lot of
+injuries," Lewis said. "Four double overhearttimes and we lost all of them
+
+CENTENNIAL CONFERENCE PRESEASON POLLS
+91
+I McDaniel (3)
+86
+T2. Johns Hopkins (3)
+86
+12. Ursinus (3)
+4. Washington (2)
+74
+5. Franklin & Marshall
+67
+6. Gettysburg
+51
+46
+7. Muhlenberg
+8. Swarthmore
+36
+9. Dickinson
+34
+10. Haverford
+24
+10
+II Bryn Mawr
+RECENT RESULTS
+Aug 30: Swarthmore at F&M Play Day.
+Results unavailable at press time.
+
+-
+
+-
+
+-
+
+-
+
+UPCOMING CONTESTS
+Sept. 4: Swarthmore at Widener, 4 p.m.
+Sept. 6: Swarthmore versus Goucher, 1 p.m.
+*Compiled by Emily Conlon and Derrick Wu
+
+Thinking About
+Law School?
+
+After a heartbreaking 2002 season, the Garnet Tide
+renew their enthusiasm with a new field and strategy
+SONALI SHAHI
+sshahil@swarthmore.edu
+
+CENTENNIAL CONFERENCE PRESEASON POLLS
+64
+1 Haverford (8)
+54
+2. Muhlenberg
+3. Dickinson (1)
+50
+43
+4. Swarthmore
+5. Gettysburg
+35
+6. Johns Hopkins
+33
+19
+7. Franklin & Marshall
+8. McDaniel
+17
+9. Ursinus
+9
+
+RECENT RESULTS
+
+Field hockey hits the turf
+BY
+
+MEN'S CROSS COUNTRY
+
+Aug. 31: Swarthmore 3, New Paltz 2
+
+RECENT RESULTS
+Sept. 2: Swarthmore 3, Philadelphia Biblical 0
+Phila. Biblical (0-1)
+0 0-0
+Swarthmore (3-0)
+12-3
+Goals: Swarthmore 3 (Hahnel, Lewis, Groom),
+Philadelphia Biblical. 0
+Assists: Swarthmore 2 (Smith, Larimer)
+Shots: Swarthmore 30, Philadelphia Biblical 3
+Saves: SC- Nunes 2 (90 min., 0 GA) PB- Reamer 11 (90
+min., 3 GA)
+Aug. 31: Swarthmore 1 Widener 0 (20T)
+Swarthmore (2-0)
+0 0 0 1-1
+0 0 0 0-0
+Widener (1-1)
+Goals: Swarthmore 1 (Lewis), Widener 0
+Assists: Swarthmore 1 (Strauss)
+Shots: Swarthmore 5, Widener 12
+Saves: SC Salussolia 11 (114:42 min., 0 GA), WU
+-
+
+UPCOMING CONTESTS
+Sept 3: Swarthmore versus Cedar Crest, 7 p.m.
+Sept 6: Swarthmore versus Kings Point, 11 a.m.
+Sept 6: Swarthmore versus William Patterson.
+
+Meet with the admission deans from these law schools to learn
+More about legal education and the admission process.
+
+University of California, Berkeley
+
+-
+
+Boalt Half
+
+...
+
+breaking."
+
+The addition of 11 new first-years has
+reenergized the team. "I'm really excited
+they're on the team," captain Katherine
+Athanasiades 'O5 said.
+"I think the competition is tough, but
+we have a deep bench," Lewis said. The
+team suffered three close losses in the
+
+tournament
+scrimmage
+against
+Dickinson, Lebanon Valley and Eastern.
+However, MacAusland was quick to point
+out that the team was using this opportunity to strategize. "We were playing to
+learn and see what formations work well
+together. We weren't only playing to win."
+"Our strength this year will be depth in
+every position on the field. We plan to play
+a controlled and skilled game, at speed,
+drawing on our depth to wear down opponents." MacAusland said.
+The season begins on Sept. 3rd, when
+the women play against Widener at 4:30
+p.m. Coach Wilcox said, "there is an air of
+enthusiasm and intensity that is intoxicating. This year's squad has worked hard
+and is ready to show the Centennial
+Conference what they are made of. I have
+no doubt it is going to be a successful season, in so many ways."
+September 4, 2003
+
+The University of Chicago Law Sehool
+Duke University School of Law
+University
+
+of Southern California Law School
+
+Tuesday
+September 9, 2003
+4:00 p.m.
+
+*ZQ
+
+Swarthmore College
+Bond Memorial Hall
+
+2?*
+
+Be sure to bring your questions!
+17
+
+Snorts
+
+phoenix.swarthmore.edu
+
+Tide erupt to score four goals against Wilkes at Swat Tourney
+er Nicholas Graham 'O6 all return to the
+starting lineup.
+In the opening game of the tournament,
+the Garnet took on the Gophers of
+
+BY EMILY CONLON
+econlonl@swarthmore.edu
+
+new artificial grass, new floodGoucher. While Swarthmore dominated
+new faces and a new assistant
+coach, the Swarthmore men's soccer team much of the beginning of each half,
+opened the 2003 season with the Swat Kick
+Goucher capitalized on the tired legs of its
+opponents, netting the lone goal of the
+Classic on Saturday, Aug. 3L The roundrobin style tournament included Goucher game 82 minutes into the match.
+Wagner acknowledged that "fatigue
+College, Wilkes University, and defending
+champion Widener University to play on
+was really a factor in our play."
+New NCAA substituthe newly installed
+SofTurf at Clothier
+tion
+rules also played a
+SWARTHMORE
+4
+part in the game. "Once
+Stadium. The Garnet
+posted a split record
+a player exits the field,
+WILKES
+2
+over the two days of
+he cannot go back in
+during the same half,"
+play, dropping the game
+against Goucher 1-0 on Saturday while
+Wagner said. "I was reluctant to substidominating Wilkes University 4-2 on tute late in both halves and as a result, the
+
+With
+
+lights,
+
+Sunday.
+Second-year head
+
+coach Eric
+
+Wagner
+
+returns to lead the Garnet this season
+after compiling a 5-14-1 overall record in
+the 2002 season. Joining coach Wagner is
+Ciaran Dalton, former assistant coach of
+the Strath Haven High School boys varsity soccer team. Wagner praised Dalton as
+a "very positive addition to our program."
+
+Among
+
+his accomplishments, Dalton
+
+remains the second all-time leading scorer
+at Division II Millersville University in
+
+Pennsylvania. His three-year tenure at
+Strath Haven High School produced a
+strong team that won one state championship and finished second in another.
+Twelve Garnet men return to the field
+and 13 new faces join the squad.
+Captaining the team this year is midfielder Brendan Moriarty 'O4 and
+
+defender
+Alex Elkins 'O6. Goalkeeper Nathan Shupe
+'O5, midfielder Scott Long 'O6, and attack-
+
+guys who stayed in got really fatigued."
+Offensively, the Garnet could not penetrate Goucher's strong defensive lineup,
+but for the most part, the Garnet defense
+stayed solid through the match. Elkins
+helped anchor the back line. In the net,
+Shupe gave a strong effort including two
+point-blank saves. "Nathan really kept the
+game close," Wagner said. "This was the
+best I've seen him since I've been here."
+In the second match of the Classic, the
+Garnet overtook Wilkes University, posting a 4-2 victory. Despite the persistence
+of Wilkes forward and All-tournament
+team selection Will Roy, Swarthmore rose
+to the challenge, both offensively and
+defensively. Exercising more liberty in
+his substitutions, Wagner noticed the
+Garnet were less fatigued and more
+aggressive offensively than the day
+before. "Getting shut out on Saturday
+really made the guys hungrier on
+
+Courtesy of Brendan Moriarty
+
+Junior goalkeeper Nate Shupe protects the net in a night game at Clothier Stadium.
+Sunday," he said.
+
+Charlie Taylor 'O6 assisted on the first
+two goals of the game, scored by Moriarty
+and Marty Griffin 'O4, respectively. Going
+into the second half, Wilkes answered
+Swarthmore's challenge, netting an equalizer two minutes after the Garnet's opening goal. But at 58:00 minutes into the
+game, Graham won a ricocheting ball at
+midfield and broke away from the pack.
+After sliding the ball past Wilkes goalkeeper Dominic Proctor, Graham riled up
+the crowd with a shirtless celebration
+
+dance, earning himself a yellow card and
+earning his team the lead, 3-2. Andrew
+Terker 'O6 capped off the game with his
+first collegiate goal in the 74th minute.
+With a 1-1 record, the Garnet travel to
+Baltimore for the
+Johns Hopkins
+Invitational Tournament on Sept. 6 and 7
+where they will take on Division 111 teams
+Savannah College of Art and Design and
+Bridgewater College of Virginia. The men
+compete in their next home match at
+Clothier Stadium on Wednesday, Sept. 10
+at 7 p.m. versus Moravian College.
+
+Teams with strong defenses and running games succeed in NFL
+When predicting the outcome of the professional football
+one concept must remain foremost in one's mind: It
+is clearly idiocy. Football in this era is ruled by parity. I
+would venture that of the 32 NFL teams about 25 of them
+have at least an outside chance of qualifying for one of the 12
+playoff spots. Recent Super Bowl history abounds with surprise champions. It doesn't take long to get good, and it does
+not take long to get bad.
+However, even in today's
+era of insane parity, certain
+indicators of quality persist.
+A dominant defense. A
+strong running game. A
+quarterback who manages
+the game well. More
+turnovers gained than lost.
+Quality special teams. An
+adequate backup quarterback. The ability to play in
+the cold and on grass. Youth
+and luck. Good teams have
+these qualities, and bad
+season,
+
+BEN WHARTON
+
+ones don't.
+
+So without further ado,
+let's hit the specifics.
+Starting in the NFC, I see
+the Packers winning the
+North, for no other reason than that somebody has to.
+Minnesota is on the rise as are the Lions, but neither is
+ready to supplant Favre's Packers yet.
+Out of the NFC East, I see the Eagles continuing their
+dominance. They're consistent and desperate to win after
+coming very close for the last two years. The Giants have
+great weapons at the offensive skill positions, but the
+defense is shaky, as is the offensive line. The Cowboys and
+Redskins are both at least another year away from contend-
+
+90% Half Mental
+
+ing.
+
+The NFC West looks pretty strong, and I see the Rams and
+Seahawks both making the playoffs. The Rams still have
+Marshall Faulk and Kurt Warner looks healthy again. The
+ready to rise up from their sleeper status. New
+
+Seahawks are
+
+18
+
+defensive coordinator Ray Rhodes has vastly improved the
+defense and the offense was roaring at the end oflast season.
+As for San Francisco, I'm not sold on Jeff Garcia's health.
+Arizona is still Arizona.
+In the NFC South, the Buccaneers have been top dog for
+a while. That ends this year. Repeating as Super Bowl champ
+
+is pretty much the hardest achievement in team sports,
+especially when you play in the toughest division in football
+and have questions at running back and offensive line. The
+Falcons should usurp the Bucs' division crown, even with
+Michael Vick missing four games against weak opponents.
+The Panthers could very well win a wild card berth, with a
+savage defense and strong running game. The Saints could
+play late season spoiler, but don't yet have the defense to
+challenge.
+On to
+
+the AFC. The Ravens again have a punishing
+defense, along with a possible savior at quarterback.
+Cleveland got rocked by the salary cap, so forget about them.
+I would like to formally announce that the Steelers run of
+good football is coming to an end. Amos Zeroue hasn't shown
+the durability to play every down and I don't see Tommy
+Maddox staying healthy. And Joey Porter just got shot in the
+ass. Cincinnati's turned things around, but they're still a
+year away.
+In the South, Payton Manning and the Colts are a great
+regular season team, and will probably make the playoffs
+only to get blown out again. I think the Jaguars are the dark
+horse. Byron Leftwich is absolutely the real deal. If I were
+opponents, I'd avoid hitting Mark Brunell hard at all costs.
+The Titans are playing on borrowed time with Steve McNair
+and Eddie George, and Houston is still searching for
+answers.
+
+The AFC East looked pretty good until Chad Pennington
+went down for most of the season with a wrist injury, compounding the Jets' offseason free agency woes. I think the
+Bills are now the team to beat. The offense should be strong
+again and the defense has greatly improved. The Dolphins
+are again an enigma. This year might as well be the year
+they finally put things together. The Patriots still lack a running game, so I don't see much in store for them.
+Finally, in the AFC West, I think the Chiefs have
+
+September 4, 2003
+
+improved the defense enough to support their ridiculous
+
+offensive prowess. The geriatrics on the Raiders blew their
+best chance last year when they lost the Super Bowl. The
+Broncos got Jake Plummer in the offseason, which is an
+improvement on Brian Griese, but I don't think he's the
+answer in Denver. The Chargers may be this year's Chiefs in
+that their offense will be great and their defense will suck.
+So, of the 25 teams that might make the playoffs, which
+one will be left standing after a grueling playoff drive?
+C'mon, that one's a no brainer. The Baltimore Ravens, obviously.
+
+Sampras retires with style
+From SAMPRAS, pg.
+
+20
+
+triumph of the everyman.
+
+The retirement ceremony held last week in Sampras's
+honor was, like his career, classy. There were nice speeches from rivals, but also his infant son perched in his arms
+symbolizing the next direction of his life, and just in case
+anyone forgot about his regular status, a little paunch and
+lots of chest hair peeking through his gray collared shirt.
+It was a respectful but profoundly sad way to begin this
+year's U.S. Open. Whomever wins the male side of the U.S.
+with an inimOpen this weekend will deserve the title
+itable New York City gruffness, it's tennis's most challenging competition— but he will ultimately be an irrelevant
+footnote. For the past decade, for a player to even consider
+winning a Grand Slam or overtaking the top ranking, he
+had to worry about beating Sampras first. Now Sampras is
+gone, and a large, empty shadow hangs over Flushing
+Meadows' tennis complex and the rest of the sport. His
+one-handed backhand, swooping forehand and picture-perfect serve down the service line are gone probably forever, as Sampras has said in interviews comments like,
+"To shut it out [of my life] has been nice," but here's to hoping he rediscovers that competitive fire. Please come back
+soon, Pete. Remind everyone that you are an athletic treasure.
+
+THE PHOENIX
+
+Sports
+
+phoenix.swarthmore.edu
+
+Garnet Tide start season 3-0
+
+KISS, Britney Spears and Anna
+Kournikova. Oh, and football.
+OK, quick survey. How many of you out there like Swarthmore?
+Official tally from those reading my column: Like, 23. Dislike, 294
+Shocked? So am I. Who knew I had so many fans?
+OK, quick survey number two. Which of the following performers
+will not be kicking off (no pun intended) the NFL season Thursday
+night in D.C.: Britney Spears, Aerosmith, KISS, Aretha Franklin, Mary
+J. Blige? If you guessed KISS, congratulations. Thankfully, KISS will not be
+making an appearance. After having
+suffered through their concert last
+Friday in Camden, I can honestly say
+the only thing worse than hearing KISS
+sing "Firehouse" was MJ's decision to
+draft Kwame Brown with the first pick
+in 200 L Oh, and Al Bloom's decision to
+cut football.
+The idea of Britney singing on the
+national Mall, at the base of the
+Washington Monument with the
+Capitol Building in the background
+and just minutes before the heavily
+watched NFL Season Opener is genius.
+CARLTON DAVIS
+After all, only in America can someone
+with such little (musical) talent become
+Rounding
+a star with such (physical) talent. Same
+goes with Anna "I Have Never Won a
+Tournament" Kournikova. Looking for fame she came to our country
+
+Third
+
+Thanks, Penthouse.
+
+Laura Holzman Phoenix Staff
+
+Midfielder Tanya Hahnel puts the ball in play. Hahnel later scored the winning goal against PBU.
+From WOMEN'S SOCCER, pg. 20
+The Lord was not on their side: Swarthmore Garnet pound Philadephia Biblical
+Despite playing without eight players, including all three captains, the Swarthmore Garnet Tide
+(3-0) were easily able to defeat Philadelphia Biblical University Tuesday afternoon. Hahnel provided all the offense Swarthmore would need in the 15thminute when her shot from the top of the box
+found the upper right corner of the net. Shavaugn Lewis 'O5 and Kasie Groom 'O7 added second half
+goals to guarantee the Swarthmore victory.
+
+Volleyball dig deep to defeat SUNY New Paltz
+BY ALEX KALKSTEIN
+
+akalkstl@swarthmore.edu
+
+Swarthmore women's volleyball is off to a solid
+start this year. The team is energized and ready
+for a different kind of year than those past. Head
+coach Harleigh Leach is back for a second season
+and the team welcomes four new first-years to the
+roster.
+
+The first-year women aren't the only new additions to the team: Swat volleyball welcomes new
+assistant coach Erin O'Connell. O'Connell, as captain of Kutztown University's volleyball team, led
+
+her team to the conference championships.
+Last weekend, Swat competed in the Skidmore
+Early Bird Tournament placing fifth with a 1-2
+record. The Garnet lost to RIT 3-0 and SUNY
+Cortland 3-0 while beating SUNY New Paltz 3-2 (3016, 30-28, 28-30, 27-30, 15-13). Returning sophomore
+right side Emily Conlon started the year with a
+blast making 45 assists for the Swarthmore offense
+and junior Natalie Dunphy contributed 18 kills on
+a strong performance. Patrice Berry 'O6 and Tanya
+Gonzales 'O6 made significant contributions to the
+team's defense accruing 28 and 16 digs respectively.
+Coach Leach admitted that last weekend's tournament "prepared us for reality" but sees the team
+continuing to focus on its strong defense. She
+expects the team to have a better showing in the
+Centennial Conference and continue to improve
+
+as the season progresses.
+Outside hitter Erica George 'O7 of Mountain
+Pointe High School in Phoenix, Ariz, noticed the
+team's dynamics immediately at last weekend's
+Skidmore Early Bird Tournament. George noticed
+that the "first time playing together as a team, we
+had a lot of chemistry." She was concerned with
+
+THE PHOENIX
+
+the volleyball environment that she would find
+outside of her highly competitive state of Arizona
+but was thoroughly impressed with the hustle and
+effort put in by every member of the Swat squad,
+noting that all the members of the team "work
+their butts off."
+Aside from George, the Garnet also welcome
+first-year outside hitters Stephanie Koskowich of
+Salt Lake City, Utah and Danielle Toaltoan of
+Downington, Penns. along with setter Amy
+Stocker of Cassville, N.Y
+Although last year's season was a bit of disappointment for Tanya Gonzales 'O6, she saw a real
+change in the environment of the team and thinks
+this season will be a marked improvement.
+Gonzales also noticed a significant increase in the
+intra-team competition that propels the players to
+work harder, which she hopes will result in a better team. As a result of the larger size of this
+
+year's team Gonzales notices a more supportive
+team dynamic.
+Co-captain Emma Benn 'O4 is also very excited
+about this year's prospects. In her words, the
+Skidmore Tournament provided a chance "to see
+what [the team] needs to work on before the season starts." Benn, also an outside hitter, has seen
+the team through three coaches in her four years
+of playing at Swarthmore and welcomes coach
+Leach's outstanding commitment to the team and
+increasing the skill and teamwork found in
+Swarthmore women's volleyball.
+The Garnet hosts a tri-match against the
+Merchant Marine Academy and William Patterson
+this Saturday, Sept. 6 starting at 11 a.m. The home
+games will be even more jazzed up than before:
+now at every game played at home Swarthmore
+Pizza is offering free pizza to anyone who wins in
+a half-time serving contest.
+September 4, 2003
+
+To cap it all off, the show will be a salute to our military troops
+Word has it that Paul Tagliabue, commissioner of the NFL, even met
+with General Richard Myers, Chairman of the Joint Chiefs of Staff, to
+help plan the event. An excerpt from their conversation:
+Tagliabue: "Mr. Chairman, I'd like to do a concert for your troops
+
+overseas."
+Myers: "OK, I'm listening."
+Tagliabue: "Well, Britney Spears will perform in a little skimpy putfit."
+Myers: "I'm sold. My boys in Iraq are about her age. They'll love it."
+As if the evening won't be entertaining enough, when the concert
+ends the football will begin as the Jets visit the Redskins (i.e. the Old
+Jets). You might recall last spring's free agent signing period where the
+Redskins, my Redskins, signed the entire Jets roster. So far feedback
+has been positive: Last year the Redskins were 4-1 in the preseason en
+route to a 7-9 season. This preseason they were 1-3. Judging from last
+year's preseason to season turnaround, the Redskins are going to the
+Super Bowl.
+Excuse me, Carlton, the Redskins are going to the Super Bowl? The
+same Redskins who have no defensive line and a second year quarter-
+
+back?
+
+That's right, you read correctly. The Redskins are going to the Super
+Bowl.
+In the NFC East, my 'Skins will check in with a 12-4 record. They will
+be closely followed by the 11-5 Eagles who, despite having nobody on
+offense save McNabb, have a great coach who will lead them to anoth
+er playoff appearance. The underrated Giants, with a potentially explosive offense, will miss out on the playoffs. They will finish 9-7. The
+Cowboys? New coach, same old losing season.
+In the NFC North, the Packers are no longer the team to beat
+Though Gilbert Brown is valiant in his efforts to play the season with a
+torn biceps muscle, the Packers will slip to a 9-7 record as an aging Brett
+Favre fails to lead his team to the playoffs in his final season. The
+Vikings, with the dangerous Culpepper to Moss connection, will win
+the division at 10-6. Though the Bears move back to Soldier Field and
+Anthony Thomas will regain his 2001 form, the team is also led by
+Kordell Stewart. With the addition of Charles Rogers to Detroit, the
+Lions will edge out the Bears for third place.
+The Bucs will clean up in the NFC South as Atlanta plays the first
+half of its season without Michael Vick. Carolina's defense will make its
+games close, but with no reliable quarterback, they will have another
+losing season. The Saints are strong offensively, but with no defense
+they don't stand a chance.
+The NFC West has three high-powered offenses and one atrocious
+team. The reemergence of Kurt Warner and a healthy Marshall Faulk
+will make St. Louis a top target, and the Garcia-TO connection will sin
+glehandedly lead the Niners to a handful of victories and a wild care
+spot.
+In the AFC
+
+wait a second, does anybody really care about the AFC?
+Since the answer is no, I will be brief and say the Steelers win the AFC
+North with the Ravens being a wild-card pick. The Titans and Colts will
+be two strong playoff teams from the AFC South with a healthy Steve
+McNair leading his team to a Super Bowl loss against the Redskins. The
+Dolphins will edge out the Bills in the AFC East, and Broncos will nar
+rowly edge both the Raiders and Chargers to come out of the AFC West
+Don't like my predictions? Tough. Let's talk in January when I'm
+-
+
+-
+
+proven
+
+correct.
+
+19
+
+Sports
+
+phoenix.swarthmore.edu
+
+Serve, set, match
+Which episode of Pete Sampras's career should be considered the most triumphant? Single-handedly winning the 1995
+
+Davis Cup for America? His scamper up the stands of
+Wimbledon's Centre Court to find his parents, first-time audience members, after winning the 2000 final to break the
+record for most Grand Slam championships? The magical
+comeback at last year's US
+Open, which concluded with
+an afternoon of unmatchable
+tennis against Andre Agassi
+for Sampras's final tennis
+title? Or, the trying fortnight
+at the 1996 French Open
+when he won three five-set
+matches in five days, all
+
+while looking disconsolate on
+the sidelines as his coach
+Tim Gullickson remained in
+the States dying from cancer?
+My
+nomination
+is
+Sampras's 1996 US Open
+AARON WASSERMAN quarterfinal match against
+Alex Corretja. In the fifth-set
+tiebreaker, Sampras looked
+The Underdogs
+vulnerable, no, wounded; he
+staggered along the baseline
+between points, his eyes
+rolled back into his head and his shirt hung limply from his
+body as he leaned in to return serve. Then, mid-tiebreaker he
+wandered to the back wall hunched over his racket and puked
+everywhere. He returned to the court, won the tiebreaker, the
+match and the whole tournament. Remarkable.
+Tennis's episodic nature suits Sampras's career arc well,
+but maybe his career can't be fully appreciated unless viewed
+from a bird's-eye perspective in order to absorb all the longterm accomplishments. He is the youngest male US Open
+champion; he had a 56-1 record and seven titles at Wimbledon
+in an eight-year period; he spent six consecutive years ranked
+the world's best tennis player; and he won 14 Grand Slam
+championships, the most of any male.
+How is it possible that some don't consider Sampras to be
+the best tennis player ever? Some criticize his inability to win
+the French Open, whose red clay never suited Sampras's
+game; some think the greats from an earlier generation, Rod
+Laver and Roy Emerson, would've won more if not for different rules regarding professional status. These arguments are
+merited, but flawed because Sampras played in an era in
+which every player is superbly conditioned and muscular,
+
+and the equipment so well designed it provides relatively
+mediocre players with unimaginable power. Most importantly, he played in an era in which opponents specialize in mas-
+
+tering different court surfaces, making it nearly impossible
+for any player to consistently win Grand Slam tournaments.
+Yet, Sampras defeated them all. His Grand Slam record is the
+only modern sports record
+along with Joe DiMaggio's 56game hitting streak
+that will never be broken.
+Other critics even prefer Andre Agassi, Sampras's main
+foe through his career, as the better player because Agassi
+was the more marketable one. This swipe is more perplexing
+because Sampras had the attributes to appeal to the mainstream, but no advertising executive ever found the correct
+approach to do so. Sampras's serve-and-volley playing style
+possessed assembly-line efficiency: a thunderous serve foldigging balls from his feet,
+lowed by beautiful net-play
+lunges to his sides and short jumps to meet overhead smashes; points and opponents were controlled quickly. His modest
+court and interview mannerisms reflected a devoted work
+ethic. His lean, non-chiseled body type, panting open mouth,
+simple court attire and prominent bald spot represented the
+
+See SAMPRAS, pg. 19
+
+Laura Holzman Phoenix Staff
+
+Midfielder Sarah Hobbs battles for possession of the ball as Jordan Shakeshaft and Katey McCaffrey look on.
+
+Garnet capture Swat Kick Classic crown
+BY REUBEN HEYMAN-KANTOR
+rheymanl@swarthmore.edu
+
+The Swarthmore women's soccer team sent a strong
+message to the rest of the Centennial Conference this
+weekend by capturing the title of the Eighth Annual
+Swat Kick Classic. The Garnet Tide now looks to
+improve on a 10-9 (5-5) season a year ago that left the
+team a single game out of the Centennial Conference
+postseason.
+In the semifinal match on Saturday, Swarthmore
+was able to withstand the grueling midday heat to beat
+Alvernia College 4-1 With the game tied 1-1 in the 73rd
+minute, Natalie Negrey 'O7 put the Garnet Tide ahead
+for good by putting an Ele Forbes 'O5 rebound into the
+back of the net to score her first career goal. As
+Alvernia
+wilted,
+Swarthmore
+buried its opponent with two late
+from
+goals
+captain
+Katey
+her second of the
+McCaffrey 'O4
+contest
+and Stephanie Chappell
+WIDENER
+'O5.
+
+After
+
+thunderstorms
+
+After losing only two seniors to graduation last year
+and gaining a strong freshman class, the Swarthmore
+women's soccer program is undoubtedly on the rise.
+While this year's squad is led by captains McCaffrey,
+Rebecca Rogers 'O4 and Salussolia, the team's junior
+class provides much of the depth that the team will need
+to compete in the later stages of its grueling faU season.
+
+MEN'S SOCCER
+After getting shut out by
+Goucher, the Tide respond
+with a four-goal explosion
+against Wilkes. Page 18.
+20
+
+I
+
+on
+Saturday night, the weather was far cooler for the
+Sunday championship game against Widener College.
+Shavaugn Lewis 'O5 scored the game's lone goal in the
+105th minute of play to give Swarthmore the 1-0 victory
+and the Swat Kick Classic title. The speed of Widener's
+backline and the play of Swarthmore goalkeeper
+Catherine Salussolia 'O4 had kept the game scoreless
+through the first 90 minutes of play. In the second overtime, streaking down the center of the field, Lewis took
+a feed from Becky Strauss 'O6 and tucked the ball past a
+charging Widener goalkeeper to give the Garnet Tide
+the victory and a 2-0 start to the 2003 season.
+
+Salussolia, the team's co-MVP the last two seasons
+and a 2002 all-Centennial Conference honorable mention, will once again control the defense from the goal
+this year, as Swarthmore looks to implement a new
+defensive system. Last season, the Garnet Tide used a
+diamond defense that featured Ele Forbes 'O5 as the
+team's sweeper, a role that earned her first team allconference honors. This year, coach Amy Brunner
+
+decided to implement a flat-back-four scheme that
+
+should eliminate some of the shooting and passing
+lanes that the Centennial Conference's better teams
+were able to exploit last season. "In the past, our defen
+sive shape has been poor and our defenders haven't
+been able to support each other as much as we would
+like. With the new system, our defense will also be able
+to better support the attack so that we can go from
+defense to offense more quickly,"
+Brunner said.
+The defensive group primarily
+responsible for implementing the new
+system mixes experience with youth.
+0
+The two center-back positions will be
+filled primarily by Forbes and Jordan
+Shakeshaft 'O5, supported by Rachel Jacobs 'O5. The
+role of outside back will fall to Rogers and first-year
+sensation Kasie Groom 'O7.
+McCaffrey and last year's co-MVP Tanya Hahnel 'O5
+will roam the midfield with fellow returning starter
+Sarah Hobbs 'O6. They are joined by a strong supporting cast including Jane Sachs 'O7, who like Groom wil]
+have to learn to deal with the more physical college
+game on the fly.
+In the attack, co-leading scorer Lewis looks to continue her scoring ways. She will be supported by
+Chapell and newcomer Natalie Negrey 'O7.
+This season the team will also be playing in the
+newly refurbished Clothier Stadium. The renovations
+including the new SofSport field surface, floodlights
+and a brand new track surface, were completed this
+past spring.past spring.
+
+NEW FIELD, NEW TEAM
+The field hockey team is hoping the change to turf will
+give the Garnet a leg up on
+their opponents. Page 17.
+
+September 4.
+
+2003
+
+See WOMEN'S SOCCER, pg. 19
+
+NFL PREVIEW
+Carlton Davis covers the
+bases in his NFL preview:
+Britney Spears, Kiss and
+Anna Kournikova. Page 17.
+THE PHOENIX
+
+

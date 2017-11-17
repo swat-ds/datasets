@@ -1,0 +1,3194 @@
+sc
+
+PHOENIX
+The
+
+Election candidates
+announce platforms 7
+
+Sports
+Field hockey tramples
+pretty much everyone 8
+
+SWARTHMORE COLLEGE, SWARTHMORE, PA
+
+[SEPTEMBER 18,1998
+
+Endowment
+Loses $100M
+
+The Black Swan makes its
+debut at Swarthmore. See
+page 4 for details.
+
+VOLUME 121, ISSUE 2
+
+Vandalism prompts threats
+from dorm laundry service
+
+Administration
+fjot Worried
+
+by Johnny Ho
+Contributing Writer
+
+David Ellis
+Contributing Writer
+iy
+
+Not many businesses can
+ibsorb $lOO million in losses
+ind blow it off as a bad month,
+nit Swarthmore College has
+lone just that.
+At the stock market's peak
+n July, the endowment almost
+eached $9OO million, said
+Suzanne Welsh, Treasurer.
+However, recent estimates
+)lace the endowment at approxinately $BOO million. The eniowment was hit hard this
+nonth due to the drops in the
+itock market caused by the political and economic instability
+in Russia.
+Since the end of the sumThe computing center in Beardsly is the most heavily used public area operated by the
+mer, the Dow Jones industrial
+CC and has no PCs. This year's freshman class, many of whom own PCs, have placed a
+average has dropped from 9000 strain on the newly-appointed support staff, photo by Electra Kaczorowski
+to its present value of approximately 8000.
+"Our stocks have declined
+similarity to the market," said
+Welsh. "We had a6% position
+in emerging markets stocks,
+which has declined considerably
+since last year at this time. This
+was the area of the endowment
+entire campus, as opposed to the work on and print from a PC,
+that was hardest hit."
+by Mimi Hanaoka
+Mac consultants, of whom there there are a mere two PCs in
+Welsh dismisses the idea Contributing Writer
+are two in every dorm. With the Beardsley, neither of which are
+that the volatility of the stock
+its
+first
+of
+year
+officially
+presently working.
+In
+an
+unsafe
+of students seeking techdeluge
+market makes it
+inStill, the campus is signifivestment. "Each year we expect supporting Personal Computers, nical assistance, progress is slow
+cantly PC-friendlier than in past
+and tedious.
+the endowment to earn about 8- Swarthmore is having difficulties supporting an influx of PCs,
+"Every other day my voice years. Until 1996, the LAN was
+10% on average over long perithe
+freshman
+class.
+primarily
+in
+mail
+would be overflowing with an Appletalk network, compatods of time," said Welsh.
+The program to accommopeople needing help with their ible only with Macintoshes.
+The existence of such a subdate PCs was made possible by PCs," said Jaspal Singh 'Ol, a Now that the network has been
+stantial endowment allows relaa 1998 Kiva grant. While Swarswitched to Ethernet, PC ownPC dorm consultant.
+tive independence from the flucan
+ers can connect their computers
+thmore
+is
+towards
+users
+working
+Some
+PC
+also
+feel
+distuations of the market, she says.
+to the network, and in turn, the
+Swarthmore's endowment integration of PCs to complete advantaged because class-reparity with Macs, the program lated software is primarily Internet.
+is comprised of a pool of investis clearly still in its infant stage geared for Macs.
+The college aims to switch
+ments, gifts from donors, interrid
+itself
+of
+will
+and
+need
+to
+ease
+all
+the
+file servers to Windows
+investments,
+transition,
+from
+and
+funds
+To
+the
+help
+est
+some faculty members have NT servers, so that PC users can
+many logistical problems.
+allocated from Swarthmore.
+Due to a lack of PC experaccess them as well.
+Historically, Swarthmore
+gone all out.
+of
+PCs
+tise,
+the
+limited
+number
+John
+Boccio
+of
+The move towards the inhas allocated most of the endowProfessor
+on
+and
+restricted
+netclusion
+of PCs began with an illcampus,
+safe,
+lowthe
+and
+dePhysics
+Astronomy
+ment in relatively
+work compatibility, PC users are partment does not rely on the fated program in 1988 which
+yield investments, such as government bonds. This changed in still inconvenienced in many computer center, but instead sought to officially support both
+PCs and Macs. This idea met
+makes sure he provides his stuthe 1970's under the auspices of ways.
+The
+Swarthmore
+local
+area
+with near immediate failure due
+dents
+with
+both
+Mac
+and
+PC
+Tom McCabe, who reinvested
+the endowment into stocks. He network (LAN) remains virgin software as needed, going to to the Computing Center's lack
+territory to PCs and the current such lengths as loaning his PC of time and manpower to cope
+believed that this form ofinvestpolicy of the program is to simstudents the actual software on with the problems of trying to
+ment would yield greater divifollow
+a
+trial
+and
+error
+ply
+maintain both Macs and PCs,
+CD ROM.
+dends over the long term, depolicy to determine the best
+"No student of mine should such as accessibility to software,
+spite its higher risks.
+be at a disadvantage because of troubleshooting and class reThe college has diversified method of integration.
+There are only six PC dorm a software problem," he said.
+lated work done on the comits investments to include forconsultants scattered around the
+For students seeking to puter.
+eign stocks and equities. It invests 18% in international
+stocks, 52% in domestic stocks,
+17%in domestic bonds, and 7%
+in such entities as venture capital and real estate. Six percent
+is kept as cash.
+The total value of the enbreak.
+SCCS has received $3,700
+by Tom Stepleton
+dowment was estimated to be Contributing
+was apparent that the from the Budget Committee to
+"It
+Writer
+$743 million in 1997, according
+machine would not be working purchase the new computer. It
+to the Treasurer's Office. It says
+Nearly three months after a before the end of the summer plans to have the computer and
+that the value ofthe endowment power failure that resulted in a and perhaps never," said SCCS a new room on Parrish sth by
+would be a mere $122 million six-week service outage, SCCS president John Rieffel '99. "We the end of October break.
+if the money had not been in- (Swarthmore College Computimplemented a more intermediSCCS system administravested in the stock market.
+ing Society) is preparing to ate-term restoration plan, by tors are also addressing the
+Thanks to the tremendous commission a new Unix server moving all essential services [eproblem of users' files lost in the
+rise in the market since 1985, the for student, faculty, and staff mail, file editing, talk, and a few hard drive crash.
+value of the endowment has use.
+others] to Kestrel, our web
+"We are nearly done develmore than quadrupled, from less
+During the second week of server."
+oping software that will allow
+than $lBO million to its present June, Condor, a public Unix
+Although an adequate tempeople to recover important files
+value of approximately $BOO computer maintained by the porary solution, Kestrel lacks from Condor's file system with
+SCCS, refused to reboot after a the computing power and stormillion.
+a minimum of chaos and mess,"
+Swarthmore has the 33rd power outage. The problem was age space to handle its users efsaid Rieffel.
+largest endowment in the United identified as a malfunctioning fectively. Plans for the new
+SCCS Unix machines offer
+States, with the sixth largest per hard drive, but the age of server include a 350 MHz Intel a popular free alternative to
+capita endowment. This success Condor's hardware and software Pentium II processor, 250 megaEudora Pro, Netscape, and simiis largely attributable to two fac- made repair difficult for the few bytes of RAM, and six lar software packages that acof redundant hard cess e-mail and other Internet
+Continued on page 4 SCCS system administrators gigabytes
+available during the summer drive space.
+resources.
+
+PC influx causing big problems
+for college Computing Center
+
+The company that provides
+laundry machines for the college is threatening to pull out because students are tampering
+with their washers and dryers.
+Caleco Services, the outside
+company who owns the machines, says that the level of
+vandalism by Swarthmore students was one higher than at
+other institutions. It complains
+that Swarthmore students are
+jamming the coin and time
+mechanism in the washers and
+dryers, which in turns allow
+them to run continuously.
+Caleco will start installing
+sleeves onto the machines to
+prevent future vandalism, but if
+this is unsuccessful, the company may remove the machines
+from all the dormitories.
+The Facilities Office and
+the Office of Residential Life
+have received increasing reports
+this past year about vandalism
+to the laundry machines in the
+residence halls, especially at
+Willets, Wharton, and Mertz.
+"People are using butter
+knives and sticking them into
+the side panels of the coin slots,"
+said one student who wished to
+have his name withheld. "They
+then jiggle them around attempting to hit a lever which
+causes the machine to operate."
+
+Tampering with the coin
+slots not only damages the machines, but robs Caleco ofrevenue, said Myrt Westphal, Assistant Dean of the College, in
+an e-mail she sent to resident
+advisors.
+"Not only is this bad for the
+machines," she said, "but it is
+also theft. Yes, theft of energy
+and income to the laundry machine company."
+She warned that students
+who are caught tampering with
+the machines can be tried under
+a court of law for stealing.
+If the incidents continue and
+none of the criminals are apprehended, Westphal suggests that
+all the students in that particular dorm might be penalized and
+have to pay for the repair ofthe
+machines.
+Aran Mohan 'OO, a residential advisor in Hallowell,
+speculates that one of the reasons why students engage in
+such activities is the high costs
+and low quality of laundry service.
+"I empathize with these students," said Mohan. "If you
+could dry clothes with fifty cents
+instead of costing two dollars,
+there wouldn't be the problem.
+The company should face up to
+the facts that laundry machines
+aren't functioning up to par."
+Caleco was unavailable to
+respond to Mohan
+
+SCCS to Replace Downed Condor
+with Kestrel, New Campus Server
+
+Index
+Opinions
+News
+Livings Arts
+Features
+Sports
+
+si
+
+Friday
+
+6-7
+
+The Starving Artists
+Company will present
+the movie "Vipers
+Opium," at 8:00 in
+LPAC on Friday. Also,
+"Bravehearf will play in
+DuPont at 7:30. Or,
+head on down to ML
+and check out the
+Dead Dog Cafe, at 8.
+
+8
+10-12
+
+m^rn
+
+$
+
+m
+
+2-3
+
+4-5
+
+&
+
+ot*
+
+®
+
+ls™cfiB
+
+Weekend
+Saturday
+Come support the football
+team in there home
+opener at 1:30 on the
+
+football field. Or, make
+your way to DuPont Field
+to watch the women's
+rugby team take on
+Vassarat2. "The Wings
+of the Dove" plays in
+DuPont at 7:30 and 10.
+
+Sunday
+The tennis team hosts the
+Tim Bermen Memorial
+Tournament on the courts
+beginning at 9 am. "Streetcar named Desire" in Mary
+Lyons at 10.
+
+Brian Bumheter 'Ol, citing lack of enthusiasm, resigned as
+Student Council Treasurer, photo by Electra Kaczorowski
+
+Brian Burnheter '01
+Leaves Student Council
+Cites lack of enthusiasm
+decisions of a body in which he
+could no longer fully invest himself.
+"I no longer sense the genuBrian Burnheter 'Ol re- ine desire to devote my energy
+signed his position as Treasurer and efforts to [Student] Council
+of Student Council on Septemthat I once did, and conseber 8, citing his lack of enthusi- quently feel I could not attend
+asm to continue serving the meetings knowing that I do not
+Swarthmore community.
+share your enthusiasm and
+Burnheter was elected to the spirit," Burnheter stated in a letSwarthmore Student Council ter of resignation sent to each
+last December. Council memmember of Student Council.
+bers serve yearlong terms that
+"After all the work we did
+begin spring semester and end last semester to establish [Stuafter the following fall semesdent] Council as the students'
+ter. Bumheter's term was schedvoice, I would not want a
+uled to end this January.
+student's appeal or claim to fall
+His choice to resign rather on only partially tuned ears," he
+than simply forego reelection said.
+was unconventional, but he exJessica Salvatore contribplained that he felt it would be
+unfair of him to influence the uted to the writing ofthis article.
+by Erica Anderson
+Contributing Writer
+
+The Phoenix
+
+OPINIONS
+
+2
+
+September 18,1998
+
+Phoenix
+Editor in Chief
+Managing Editors
+
+Nick Attanasio
+Kate Fama
+Cathy Vaughan
+
+Section Editors:
+News
+
+Kathryn Tong
+
+Opinions
+Living & Arts
+
+Joshua Miller
+Tim Stewart-Winter
+Liz Cho
+Jennifer Callaghan
+Jean Quinn
+
+Sports
+
+Jill Belding
+
+Kristen Panfilio
+Liz Derickson
+
+Photography
+Head Copy Editors
+
+Laurie Smith
+
+Layout Editors
+Online Editor
+Advertising Manager
+
+Staff Cartoonists
+
+Justin Kane
+Jeff Heckelman
+Rory Alarcon
+Ruth Shoemaker
+Brandon Silverman
+Chris Flood
+
+Copy Editors: Nathan Ashby-Kulman, Patricia
+Barrientos, Julie Cohen, Melanie Hirsch, Shira
+Kost-Grant, Jessica Salvatore, Talia Weiner, Amy
+White, Cayley Pendergass
+
+Letters
+
+to the
+
+Editor
+
+Paris article admittedly
+culturally ignorant
+Dear Editors,
+Since my article about my trip to Paris appeared last
+week, I've gotten a lot of strong feedback from people,
+both personally and indirectly. Several friends approached me and said they liked it; others, from what I
+was told, interpreted the article as narrow-minded and
+insensitive, a skewed portrayal of Paris prompted by
+some negative experiences I had.
+Upon first hearing of the criticism, I decided that I
+wouldn't respond to it, reasoning that journalists can't
+please everyone. However, I came to realize that what I
+wrote was bigger than that. Looking at the article from
+the point of view of the people who found it offensive, I
+suddenly saw it as they did. And I admit, I now feel
+ashamed of it.
+As I sat down to write the article, my main objective
+was to convey my impression of Paris, as a first-time
+visitor, in a humorous way. Thinking of Dave Barry, the
+hilarious syndicated columnist, as my role model, I tried
+to make my article into something at which readers would
+laugh.
+As I pushed the humor aspect, though, I lost sight of
+the piece from a neutral perspective. What I didn't realize
+then was that I was inadvertently trashing the French. My
+amusing comparisons, as I saw them, were actually meanspirited denouncements of French culture as seen by an
+insecure and somewhat resentful visitor.
+So, those of you who were offended by the piece,
+please accept my apologies. What I presented was a onesided view of Paris, tainted by my foreignness to the city
+and its culture—and I'm sorry. For the record, I firmly
+believe that no way of life is inferior to any other and
+that none should be put down by a foreigner. I don't know
+what came over me.
+An extraordinary man by the name of Azouz Begag
+put it best when he said, "Man is the enemy of what he
+ignores."
+I shouldn't have been so ignorant, and I'm sorry.
+
+-David King 'OO
+
+To Receive a subscription
+to The Phoenix
+:
+
+Liberal majorities need equal opposition
+Athens and Sparta. However, world prestige.
+after
+the Peloponisian War AthAfter the Civil War, the
+Contributing Writer
+ens gained entire political domiUnited States government was
+Perhaps my high opinion of nation and flourished for nearly controlled solely by the victoria century. Athens sat back and ous Northern Republicans.
+Swarthmore's intellectual atmosphere was the reason I was so built the Parthanon, oblivious to Without any political competia resentful group of city-states tion the Republicans grew cordismayed at what I found. I discovered a system that limits headed by Sparta, which grew rupt, and U.S. politics entered
+class discussion, leads to harjealous and formed a union to what is still considered its worst
+bored ill feelings, and kills nine eliminate the Athenian governperiod. The South remained in
+out of ten intelligent conversament. Ultimately, five centuries a century-long economic slump
+tions. I refer not to a lack of free ofGreek culture and intellectual from which it has yet to recover,
+speech or tyrannical rule, but to freedom broke down and the and the nation was left to be
+a less obvious yet even more union of city-states devolved governed by business for half a
+dangerous foe: a complacent into petty bickering.
+century.
+Swarthmore students are faThe South might have been
+majority.
+miliar
+able to
+In Swarthmore's case the mawith this
+assist
+jorityis labeled "Liberal," maniIn order to promote
+fests itself in service clubs, camthefumstory. In
+b 1i n g
+pus groups, and pamphlets, and analyzideas I suggest
+is in most cases applauded. I'm ing it,
+governwe recme nt,
+not exactly sure how a complaeliminating
+cent majority always manages to ognize
+since it
+still conscrew things up. My guess is that a
+Swarthmore's
+that the reason lies somewhere majority
+trolled a
+between a lack of competing must
+third of
+majority.
+ideas and the creation of a renever re| theelec: to r
+sentful minority. What I do ma i n
+a 1
+know is that throughout history, unchallenged or complacency votes, but itremained bitter about
+complacent majorities have and then conflict results. The the indemnities it was forced to
+been sitting back enjoying themproblem lies in our inability to pay. Both the North and South
+selves while society crashes apply lessons learned from the were damaged by this alienation
+around them, and that there is past to present day events.
+of the South.
+no reason why the same thing
+Let me provide another exNow with these historical exhere
+Swartha
+little
+bit
+closer
+home:
+to lead you, take a look
+happen
+ample
+amples
+will not
+at
+to
+more.
+Post-Civil War America. In the at the campus once more and
+The first example I can think seventeenth and eighteenth cenyou will see that exactly the
+turies, prior to the Civil War, the same rules apply. A balance of
+of is the fall of the Greeks, although I wouldn't be surprised South was a source of learning power, freedom of ideas and
+and culture. It was the home of prosperity rely upon a dialogue
+if the same complacent majority destroyed the Mesopotamian many of the early presidents between majority and minority
+city-states as well. For hundreds who shaped our nation. With an opinions. The system fails when
+of years, the Greeks enjoyed a open political environment, the minority groups are silent, causfree exchange of ideas between United States expanded beyond ing the majority to become comindependent city states. During its origin as a collection of coloplacent and ignorant of beliefs
+this time, political influence was nies, both in its spread across the which challenge their own. At
+divided fairly evenly between nation and through its gain in Swarthmore, conservative stu-
+
+by Mark Charette
+
+free
+
+liberal
+
+The Phoenix
+Swarthmore College
+500 College Avenue
+Swarthmore, PA 19081
+
+The Phoenix is published weekly by the students of Swarthmore College,
+except during examination and vacation periods. Community submissions
+are generally welcome; please contact the appropriate section editor before submitting anything other than a letter to the editor. The Phoenix
+reserves the right to edit all material for length and clarity.
+Letters and opinions pieces, as well as artwork, represent the views of
+their creators and not necessarily those of The Phoenix or its staff. Unsigned editorials are the combined effort of the members of the Editorial
+Board, but they do not necessarily represent the views of each Editorial
+Board member.
+Letter Policy: letters to the editor may be submitted via e-mail to
+phoenix@swarthmore.edu, dropped off to the Phoenix Office on Parrish
+sth, or mailed. All letters must be signed. We reserve the right to edit
+letters for any reason and ask that letters be no more than 400 words.
+Editorial and Business Office: Parrish Hall, Room 472. Mailing Adress:
+The Phoenix, Swarthmore College, Swarthmore, PA, 19081. Tel.: (610)
+328-7362. E-mail: phoenix@swarthmore.edu. Free to students of Swarthmore College. Off-campus subscriptions available. Advertising rates
+upon request. Printed by Press Publishing, Drexel Hill, PA.
+
+vironment.
+
+US must juggle superpower responsibilities
+by Owen F. Lipsett
+
+Foreign Correspondent
+
+Make your $4O subscription check payable to
+the Phoenix. Send checks to:
+
+dents feel pressured by the overwhelming liberal spirit and are
+either absorbed, silenced, or
+pushed to extremism. In classrooms, conservative students are
+silent or feel forced to compromise their beliefs; either is a loss
+of unique ideas and original
+thought, which hurts discussion
+and weakens arguments. As aresult, liberal students are left with
+nobody to question their beliefs,
+and grow deluded into thinking
+that their idea is the only one,
+and therefore correct.
+So, what's the big deal?Well
+that depends on your perspective. I think the beauty of learning is the interchange of different ideas. To consider watering
+ideas down, distorting them or
+suppressing them is harmful to
+learning. In order to promote a
+free exchange of ideas, I suggest
+eliminating Swarthmore's liberal majority. I am not asking
+everyone to switch their political orientation, but I would
+strongly suggest three things.
+First, examine what you truly
+believe about politics, discard
+what has been imposed upon you,
+and make decisions for yourself.
+Second, tell people these opinions! Do not be selfish, keeping
+all of these original opinions to
+yourself. Share them with the rest
+of us so everybody can benefit
+from original thoughts. Finally,
+realize that other people are doing the same thing you are and
+recognize that their opinions are
+just as valid as yours. The effort
+involved in keeping yourself open
+to new ideas is definitely worth
+the gain of a superior campus en-
+
+As the collapse of the Soviet empire ushered in the
+19905, the United States became
+the world's sole superpower, a
+title it retains to this day. This
+terminology initially seemed
+strange, as the two superpowers
+had been defined in terms of the
+other as the adversary. To this
+day, the existence of a single superpower has remained a somewhat oxymoronic concept. A
+single superpower operates on
+a thin line, balancing between
+using its power for responsible
+leadership and misusing it in its
+own interests. While hoping to
+garner respect for its special status as the sole superpower, the
+United States has been faced
+with this very dilemma in recent
+years.
+The Persian Gulf War of
+1990-1991 presented the first
+real test of the so-called New
+World Order. Although it was
+essentially a war over oil, the
+alliance created and led by the
+United States was impressive in
+its scope; much of NATO,
+former Warsaw Pact countries,
+and even Arab League states
+
+were included. This ability to
+unite, however, was due in part
+to the country's exceptional status as a superpower.
+However, after a bloody but
+short war, Saddam Hussein remained in power. Measures to
+protect groups whom Saddam
+had persecuted such as the
+Kurds and Shiite Muslims broke
+down. In later years, around the
+world where there were no safeguards, bloody diplomatic intervention to mediate internecine
+conflicts in Bosnia, Somalia,
+and Rwanda was tardy and inadequate, a pattern repeated today in Kosovo.
+Quite reasonably, American
+officials are loathe to sacrifice
+American lives in wars abroad
+which lack the political payoff
+or economic immediacy of the
+Persian Gulf War. At the same
+time, however, the lack of attention given to diplomacy in these
+hotspots does not reflect well
+upon the status of the United
+States as a superpower. The
+United States has been further
+weakened by the Clinton
+administration's repeated insistence on a double standard in international treaties.
+Only last year the United
+
+States refused to sign the Ottawa is not great, than Russia and
+Convention, an international France that Iraq not possess
+landmine ban, as this treaty inweapons of mass destruction.
+cluded no special exemption for
+With the embassy bombAmerican mines on the Korean ings, international terrorism has
+Peninsula. This year, the United become a particular menace to
+States eschewed support for an the United States, its numerous
+international war crimes court citizens, and its interests abroad.
+because there was no guarantee The United States may thus be
+justified in bombing suspected
+of American immunity in certain cases. While both refusals terrorist installations abroad, as
+come from arguably legitimate in the case of Sudan. When it
+strategic concerns, they come refuses to submit to an internaacross as extremely unfair to tional investigation, though, it
+other countries. Though it may raises the same specter of a
+be a superpower, other states are double standard, considering the
+wholly justified in asking what civilian casulaities.
+The United States can offer
+right the United States has to
+the best military and economic
+special dispensations.
+Both allies and enemies arleadership to the world because
+gue with justification that it is of its resources. While the
+United States is the most powvery hard to follow a superpower which insists on its own erful country in the world,
+set of rules for participating in American diplomats and politithe game. Regardless ofwhether cians must appreciate the interthese exceptions are reasonable ests of other states in order to
+(which remains hotly debated be an effective leader whose
+even in this country), this reideas will be respected abroad.
+mains a stumbling block. These If the United States conducts itexceptions call into question the self reasonably within the
+very existence of the United world, the community of states
+States as a legitimate superhas much to gain. If it abuses its
+power with great security conpower, it cannot be expected to
+cerns. The United States is more be taken seriously.
+concerned, though that concern
+
+The Phoenix
+
+NEWS
+
+September 18,1998
+
+World and National briefs Two New Faces in
+INTERNATIONAL NEWS
+
+by Dan Marrin
+Contributing Writer
+
+WHO'S PRIMAKOV?
+Pres. Yeltsin appointed
+
+NATIONAL NEWS
+
+PROPRIETY AND RANK
+
+Midfielder Debbie Keller
+filed a sexual harassment
+against University of North
+Carolina soccer coach Anson
+Dorrance. Dorrance, UNC's
+coach for 17 years, has lead the
+Tar Heels' to 15 national championships and a current number
+one ranking. Keller charges him
+with coercing her into private
+meetings, engaging in improper
+conduct and physical contact,
+and making lewd remarks about
+players in her confidence.
+Dorrance responds that he won't
+change his behavior, and many
+at UNC say his personal approach gives the team its winning chemistry. Keller remains
+on the team this season, saying
+she wants to play on a winning
+team and separate litigation
+from soccer.
+
+NEW BREED OF HIJACKING
+
+Yevgeny Primakov Prime Minister this week, ending a stalemate with the Duma. Primakov,
+former head ofRussia's Foreign
+Intelligence Service, supports a
+strong, centralized Russian
+state, state intervention in the
+economy, and a turn away from
+further market reform. Why
+Primakov? Yeltsin may believe
+in Primakov's loyalty. Now
+Russia wonders if his new
+power means an upturn for the
+avalanching Russian economy.
+
+ALBANIANS RIOT
+
+On Monday, three supporters of murdered Albanian
+Democrat Azem Hadjari attempted to carry his body, along
+with two others killed with him
+last week outside the capital's
+Democratic Headquarters, into
+the office of conservative Prime
+Minister Fatus Nano. Nano's
+guards fired upon and killed the
+three men, wounding 14 others.
+This sparked protesters to seize
+Parliament, as well as the Albanian state-run television station,
+and several tanks, demanding
+that the government resign. The
+insurrection was summarily put
+down by military and special
+police within the day.
+
+The first hijacking of a national news web site occurred
+last Sunday, September 6.
+Claiming responsibility was the
+group HFG, in retaliation for the
+conviction of hacker Kevin
+Mitnick, whose hacker crimes
+were exposed by New York SPY RING CHARGED
+Times reporter John Markoff in
+Ten Cubans were charged
+1995. The group made no de- with spying for their governmands. After 9 hours ofreplacment on American military sites,
+ing the Times page with their Cuban exile groups, and human
+own, adding several insults at rights organizations focusing on
+the Times, the hijack simply Cuba. This ended a two-year
+ended.
+investigation by the FBI and
+U.S. Attorneys' Office, which
+CLINTON SUPPORTS
+began in 1996 when two planes
+ENVIRONMENTALISTS
+of Brothers to The Rescue, an
+organization for mercy flights
+Obeying an executive order into Cuba bringing ocean-bound
+from President Clinton, the Fedrefugees into the U.S., were
+eral Government will now use bombed by Cuban fighter jets.
+only recycled paper. As the govThe methods of the spies were
+ernment buys over an estimated not revealed by the FBI. The
+20 billion copier sheets a year, Cuban government refuses to
+the White House claims the orcomment on the spies' arrests.
+der may save at least a half-milEach could face life imprisonlion trees annually.
+ment if convicted.
+
+Swarthmore Jewish Life:
+David Steinberg &
+Rebecca Grabiner
+by Jessica Carew Kraft
+Contributing Writer
+
+This semester, Rabbi David
+Steinberg replaces Cheryl Cook
+as director of Hillel. Steinberg
+has an undergraduate degree in
+music, a law degree from
+Harvard, and a Rabbinic ordination from the Reconstructionist
+Rabbinical College in Philadelphia. He has traveled and studied in Israel, practiced corporate
+law, played in an east-coast
+klezmer band, and interned at a
+gay-and-lesbian synagogue in
+Manhattan.
+As a liaison to the college
+administration, Steinberg will
+manage finances on campus and
+provide spiritual counsel. He is
+also hopes to bring a klezmer
+band to Swarthmore and educate students about Reconstructionism, a progressive movement in Judaism that began in
+Philadelphia.
+Rebecca Grabiner, the new
+Jewish Campus Service Corps
+fellow, will assist Steinberg.
+
+Grabiner graduated from the
+University of Chicago where
+she studied French and Spanish
+literature. Her primary objective this year is getting students
+involved in Hillel and Ruach
+activities, and creating a supportive environment in which
+more peripherally involved students can feel comfortable participating.
+The admissions office states
+that 20 to 25 percent of the student body self-identifies as Jewish, so supporting the Jewish
+community at Swat is a timeconsuming job. Steinberg and
+Grabiner are currently making
+arrangements for students to
+observe the High Holidays,
+planning weekly Shabbat services and organizing the Bagel
+Brunches held on Sundays in
+Bond.They look forward to
+meeting and talking with as
+many students as possible.
+
+3
+
+Visit from nine yearold prospective elicits
+mixed reactions
+by Janine Gibbons
+Contributing Writer
+High school senior Gregory
+Smith caused a stir on campus
+when he visited last week, accompanied by his parents, Tom
+Krattenmaker, Director of Public Relations, and a crew from
+60 Minutes.
+Smith, a student at Orange
+Park High School in Florida, is
+only nine years old and intends
+to apply to Swarthmore this fall.
+He attended Professor
+Pieter Judson's Modern Europe
+class during his visit. He said
+that wished he could come back
+on Wednesday to hear the conclusion of Judson's lecture.
+
+Swarthmore's admissions
+
+policies do not discriminate on
+the basis of age, therefore it will
+base its decision entirely on his
+academic and extracurricular
+record. Smith is involved in several extracurricular activities at
+his high school and holds the
+position ofclass historian.
+Student reactions to the idea
+
+Endowment
+Continued from page 1
+
+If you
+have any
+brains at all,
+
+you'll be aware
+of the danger
+of depression.
+Depression is a suppression of brain
+activity that can strike anyone. It's
+
+and it makes
+life unbearable. It's also readily,
+medically treatable. And that's
+something everyone should know.
+
+powerful, it's constant,
+
+»l
+
+Cause of Swicdc
+
+UNTREATED
+
+DtPRBSSION
+htlp://www.sa ve.org
+
+of a nine-year old college student have been mixed. Some
+question his parents' motivations and his own mental and
+emotional maturity. Many feel
+that Smith would feel lonely at
+college because he could not
+acclimate himself to the community.
+Yet some students, like
+Kristine Moore 'Ol, say that
+while college may not be the
+best option for a nine-year old,
+Smith could benefit from a community as small-knit and nurturing as Swarthmore.
+If Smith is accepted to the
+college, his parents will relocate
+their home and careers to Pennsylvania so he live with them
+while he attends classes. Several years ago, Smith and his
+family lived in Lancaster, Pa.,
+but he could not progress
+through the county's public
+school system at a speed wellsuited to his abilities, so the
+Smiths moved to a community
+where the schools challenged
+him.
+
+A pair of frosh enjoy Sharpies lunch during Orientation Week, which included, among other things,
+Diversity and Sexual Assault Workshops, CA
+group activities (including the Trust Walk), and a
+final night showing of the movie, The Graduate.
+photo courtesy Julie Cohen
+
+tors: its early entry into the stock
+market on a large scale, and the
+relative affluence of the
+college's graduates who can afford to give more money to the
+school in contributions.
+A small amount of the endowment is spent on a yearly
+basis. The general maxim ofthe
+investment committee is to
+spend between 3.75% and
+4.75% annually.
+Thus, Swarthmore appears
+to be well-situated to withstand
+the Dow's latest drop. Spending
+is generally designed torise with
+inflation, plus an additional 1 %.
+In 1997, each student
+recieved nearly $20,000 from
+the endowment. When added to
+the cost of tuition, the fund allows Swarthmore to spend over
+$50,000 per student each year.
+
+AKE
+RISKS
+I
+
+■.,:-'**
+
+ml! mlisMi
+
+1
+(not in credit cards)
+
+..«-:
+
+f
+
+1
+fc
+
+Introducing the New American
+Express® Credit Card for Students.
+Live for today.
+Build for tomorrow.
+
+The New American Express Credit
+Card for Students is a resource you
+can depend on. With benefits like big
+airfare savings, free credit information,
+and no annual fee, it'll help you get the
+most from your student years and
+help you build a solid financial
+foundation for the future.
+
+tszasa
+
+CALL TOLL FREE 1-877-NO-FEE-4U TO APPLY.
+
+-t
+
+1 3 213 H 5 bIQOo
+98
+
+;
+
+AX
+iWIEBIOWI
+
+iBgjRESS
+
+i*tik:*mik
+
+&*
+
+Cards
+
+Phoenix
+
+LIVING
+THE ARTS
+
+4
+
+September 18,1998
+
+&
+
+The
+
+how love
+rekindled one
+woman's life
+by Carly Hammond
+Contributing Writer
+"The sap is rising."
+
+In the recent world premiere of the opera "The Black Swan,"
+this phrase was often used to describe both the coming of spring
+and a woman's renewal.
+The production, which opened in Swarthmore's Lang Performing Arts Center Sept. 11,
+was supported
+by a strong
+foundation.
+English profess or
+Nathalie
+Anderson
+wrote the libretto based
+on Thomas
+Mann's novella
+The
+Black Swan
+and Richard
+Selzer's '"The
+Black Swan'
+Revisited."
+Anderson
+has written
+much about
+aging women,
+and their conflicts with desire and age,
+and was interested in writing the piece
+because she
+felt it showed
+to
+respect
+Rosalie (Freda Herseth) rediscovers her
+youth with the help of her daughter and her older women.
+Renowned
+daughter's tutor, photo by D.J Lee
+opera
+
+pro-
+
+ducer Sarah Caldwell directed the drama, bringing to the task her
+years of experience in the United States. Anderson said it was
+fascinating to work with Caldwell and watch the production build
+through rehearsals; Caldwell knew what particular stagings would
+convey, which angles would fit the scene, and how to portray a
+certain message.
+The sets, designed by Helen Pond and Herbert Senn, were
+both innovative and unobtrusive. Many of the backgrounds and
+landscapes were projected onto a screen onstage from a slide projector.
+At times the screen reflected the thoughts of a character, providing insight for the audience into his or her mind. This new use
+of projected images for set design made set changes simple; in
+one scene, an actress pretended to open the windows with a sweep
+of her hand, and the screen magically showed the blinds opening
+and sunlight streaming into the room.
+A powerful musical score was the driving force behind this
+production. Assistant Professor of Music Thomas Whitman 'B2
+composed the music for "The Black Swan," his first opera. Music
+
+Ken (David Kravitz 'B6) serenades Rosalie in the garden of Holterhof Castle. Rosalie falls in love with Ken,
+who provides her with a new reason to live and fills her with love and desire, photo by D.J. Lee
+Rosalie hungrily clutches Ken and grasps at him for warmth and youth
+professor James Freeman conducted Orchestra 2001, Ensemblein-Residence at Swarthmore.
+and life. Anna paints, leaving Rosalie and Ken to find each other and
+The final ingredients were the voices ofbaritone David Kravitz discover their love. In these scenes, the actors join forces to deliver
+'B6, mezzo-soprano Freda Herseth, and soprano Tamara Matthews, powerful combinations, playing off each other's strengths and prewho delivered a particularly strong performance. All of these facsenting the audience with beautiful melodies.
+tors combined to produce a compelling and potent musical work.
+Soon, however, Rosalie fades, dragged down by illness and
+Both serious and reflective, the music echoed the actions and feelage. Anna is upset and angry, but Rosalie considers herself lucky
+ings of the characters, sometimes dark and foreboding, sometimes to have found love, and she bravely faces death with the satisfaclight and youthful, sometimes heavy and despairing.
+tion of a life well-lived. When Ken comes to see her and speaks of
+Anderson noted that Whitman's use of percussion, particuher to Anna as a poor old woman, Anna corrects him; she is a
+larly to create the sound of water or the black swan's bellow, had woman filled with love and with life.
+"beautiful lyricism with a sinister undercurrent beneath it."
+One drawback to this opera was that the libretto, or screen play,
+Set in Dusseldorf, Germany, in 1922, the opera opens with was written in English. In addition, the lyrics were shown as supertiUes
+widow Rosalie von Tummler (Herseth) and her daughter Anna on a screen above the stage. Of course, both of these measures were
+(Matthews) responding to the spring. "The sap is rising" in the meant to make it easier for the audience to follow the story.
+trees, bringing new life, and Rosalie embraces the season with
+However, the supertitles were quite distracting, because they
+dreamy idealism.
+Anna, an abstract painter, instead distances
+herself from the beauty and feeling. Hoping that
+she can rekindle life and possibly love in her
+daughter, Rosalie hires a young American named
+Ken Keaton to be her tutor.
+Ken, enchanted by this foreign country and
+all ofits history and culture, has remained in Germany after the war working at any job he can
+find. Rosalie is enchanted by Ken's charming
+youth, but Anna remains doubtful. At the close
+of the first act, the two women lament separate
+sorrows; Rosalie is experiencing menopause and
+feels her age slowing her down, while Anna
+mourns a broken promise of love.
+As Anna and Ken continue their studies, she
+warms to him but still finds him naive and simple,
+so easily impressed by the tradition and history
+of Europe. Rosalie, on the other hand, finds him
+enchanting and remarks on his attractiveness.
+That night, Rosalie dreams ofKen and is awakened by her own desire and longing. In this intensely introspective scene, Rosalie is frustrated by
+her feelings for Ken and her seeming loss of womanhood. She calls herself shameless for chasing a
+man her daughter's age and yet sings forcefully of
+Ken, Rosalie and Anna (Tamara Matthews) convene in the garden, where
+her burning love and blazing heart.
+Love returns and Rosalie glows with life; she Anna leaves the other two alone to pursue their affection for each other
+feels youthful again and her vibrance shows on her while she pursues her true love, abstract art. photo by D.J. Lee
+face. Anna is at first troubled by her mother's feelings toward Ken, but once Rosalie divulges that love has miracudrew attention away from the actors and what was happening
+lously made her a woman again, Anna offers to help.
+onstage. Also, it is often more enjoyable to view an opera in anShe plans an outing to Holterhof Castle to see the famous swans. other language, because one can concentrate on the characters and
+Like the black swan which snatches at the bread they have brought, their actions and usually gain a working understanding of the plot.
+
+Swat should rediscover fall television schedule in free time
+seem to do it a lot more than any
+class I have seen before can
+anyone back me up on that?),
+but I know some of us do gather
+around occasionally for a brief,
+-
+
+Ben Fritz
+
+I
+
+The Other
+Unreal
+
+World
+
+Some of you may remember television. Probably not the
+juniors or seniors, but sophomores may have a dim memory
+and first-years can probably still
+speak with fondness about the
+mesmerizing, patronizing,
+numbly satisfying tube that
+unites people across America in
+shared evenings of programmed
+responses and, occasionally,
+quality entertainment (note that
+Swarthmore does not really
+count as America, at least when
+it comes to pop culture).
+We may not have much time
+to watch TV at Swat (although I
+have noticed this year's frosh
+
+guilt-ridden viewing of ER, Ally
+Mcßeal, or, probably most commonly, The Simpsons (which, as
+I will address in a future column,
+has gone to shit in the past few
+years). But it's a new year on
+two of the most important calendars in my life, Swarthmore
+and TV programming, which
+means it's time for us to learn
+what will be on the tube and
+when, so we can figure out when
+those guilt-ridden moments of
+pure entertainment will be in
+1998-99 (noting, of course, that
+TV shows do come and go and
+change time slots throughout the
+year).
+The backbone of network
+television is, of course, the everinsipid and occasionally clever
+sitcom. Most situation comedies
+
+are faulty not in premise (because if you look at history,
+some of the most mundane and
+
+ridiculous premises like Seinfeld
+have made for excellent shows),
+but simply in execution they
+aren't funny. This year promises
+much of the same, but there are
+a few shows with enough promise to maybe occasionally
+glance at while you do a problem set. I'm most excited about
+Encore, Encore (NBC, Tuesday
+8:30-9:00), which brings brilliant comedic actor Nathan
+Lane, who seems like a cross
+between Harvey Fierstein and
+Jackie Gleason, to the small
+screen for the first time. He
+plays an opera singer whose career has gone the way of the average Swattie's GPA after taking microeconomics, who has to
+move home to his family at a
+California winery and adapt to
+a world where he is no longer
+7the diva to whom everyone kow-
+
+Although this show has
+gotten some bad buzz since the
+pilot had to be recast, the role
+seems to be tailored to fit Lane,
+who as anyone who has seen
+Love.'Valor! Compassion! or
+The Birdcage can attest, is simply divine at giving a heart to
+characters constantly in histrionics. The show also benefits by
+coming from the creators of
+Frasier, who obviously have a
+gift for bringing 3-dimensional
+yet hilarious characters to the
+screen. The only question mark
+on this one is if we can all buy
+Lane as a skirt-chasing lothario
+after his rise to fame as the
+Queen of Robin Williams' world
+in The Birdcage.
+Two sitcoms dealing with
+race relations might merit a
+look. Living in Captivity (Fox,
+Friday 8:00-8:30) is about a
+black couple who move into an
+all-white gated community and
+Continued on page 5
+tows.
+
+Christine Estabrook, Dann Florek, Chi Mcßride, Max
+
+Baker and John Fleck of "The Secret Diary of Desmond
+Pfeiffer" star in an "expose" of the Lincoln White House
+this fall on UPN. photo courtesy of UPN
+
+The Phoenix
+
+Living
+
+September 18,1998
+
+5
+
+Fall television schedule
+looks bleaker than ever
+
+Old Tarble back for showtime
+Building converted into art studios,
+rehearsal space for fine arts students
+
+Continued from page 4
+
+student rehearsals. This creates
+increasing difficulties as the
+number of majors grows and
+students encounter scheduling
+problems when having to share
+the space in LPAC for both performances and rehearsals.
+Professor Allen Kuharski further explained that students taking his directing workshop alone
+require 40 hours of rehearsal
+space each week throughout the
+semester. Also, when one group
+of students is using Frear Ensemble Theatre for a performance
+no one else can use the space for
+days. This has forced theatre students to use other spaces such as
+the Hicks mural room or Parrish
+370 to hold their rehearsals.
+•
+Now, much to the delight of
+the Theatre Department, they are
+looking forward to having their
+own rehearsal space in Old
+Tarble. Although it will not be
+used for performances, the space
+will be available for all theater students to use 24 hours a day for
+their rehearsals or classes.
+In addition to the Theatre
+Department, the Art Department, currently housed in
+Beardsley, will also enjoy space
+in Old Tarble. Beardsley Hall
+provides the Art Department
+with 4 studios for their classes
+but it does not have any space
+available for seniors majoring in
+Art to work on their Senior
+
+by Tannia Jauregui
+Contributing Writer
+
+A fully renovated Old
+Tarble is finally back in service.
+After many years of consideration, the College decided to
+renovate the condemned building and reopen it for student use.
+Although Old Tarble was
+the student activities' center in
+its day, it will now be an academic space used by the Theatre and Art Departments.
+The Theatre Department
+has been in need of rehearsal
+space for years. When the Theatre program began offering
+majors ten years ago, they had
+enough rehearsal and performance space available in
+Pearson Hall to accommodate
+the one or two students who
+majored in Theatre.
+Since 1990, however, the
+number of full time faculty members in the department grew as
+well as the popularity of the major. In 1991 the theatre facilities
+in Pearson became insufficient to
+support the growing theatre program therefore they moved to the
+newly opened Lang Performing
+Arts Center (LPAC).
+Despite the fact that LPAC
+offers good performing spaces
+in the Frear Ensemble Theatre
+and LPAC's main stage, it lacks
+the essential space needed for
+
+-
+
+Art and theatre students have moved into their studios and
+rehearsal space in Old Tarble. photo by Kristen Panfilio
+a formal critique of his or her
+Workshop projects.
+In the past years, senior art work, but it is equally helpful to
+have frequent peer reviews.
+majors had their personal stuAs art major Erin Greeson
+dios set up in an off-campus
+building, where they worked in 'O2 said, "You can learn practically as much from your peers
+rooms too small to accommoas you can from your profesdate more than a couple of students. They were thus isolated sors."
+from their peers and worked
+Now that Old Tarble has
+been renovated for the benefit of
+mostly in individual settings.
+This year's senior studio art the Theatre and Art Departmajors are enjoying their new ments, art students are planning
+to continue with the building's
+space in Old Tarble. In this location, they are able to work totradition by painting a mural on
+gether in a large open room its north wall. The Old Tarble
+where they each have individual north wall previously had a mustudio space. This allows the ral painted by a faculty member.
+students to criticize each others Unfortunately, the mural was
+work and receive constructive painted over after having been
+feedback as they are working on vandalized. The art students
+their projects. Each senior meets hope the new mural will remain
+with a professor once a week for untouched.
+
+List Gallery reveals new gallery schedule
+by Tannia Jauregui
+Contributing Writer
+"Intimate Visions" is currently showing at the List Gallery. This exhibit presents
+works by professional artists
+Diana Horowitz, Michael
+Norton, Marjorie Portnow,
+Stuart Shils, and John Smalley
+and will be open until Sept. 27.
+Although these five artists
+use different mediums for
+their works, they share the
+common trait of working on a
+small scale.
+Director of the L'st Gallery Andrea Packard explained
+that lately many artists prefer
+to work on a large scale as a
+means to demonstrate their
+capability and ambition.
+"Intimate Visions," however, shows works that portray
+the artists' ambitions by focusing on depth rather than scale.
+The artists try to evoke large
+sensory perceptions and ideas
+through small, discreet means.
+The themes in List's exhibit range from urban views
+to rural landscapes, to abstract
+paintings. Marjorie Portnow's
+works are tiny yet detailed
+landscapes of the Vermont,
+New York, and California
+countrysides set on an oil and
+Masonite medium.
+•Stuart Shils also portrays
+nature scenes but uses a style
+described by the Tibor de
+Nagy Gallery in New York as
+a variety of abstract expressionism. Shils focuses on tonality to express the dynamic
+quality of nature's scenes, us-
+
+The List Gallery is currently feautring "Intimate Visions," an exhibit of small, detailed
+landscapes by Diana Horowitz, Michael Norton, Marjorie Portnow, Stuart Shils and John
+
+Smalley. photo by Kristen Panfilio
+
+ing oil on paper mounted on
+board.
+Michael Norton is the
+most abstract painter in the
+show, working with egg tempera on panel and presenting
+works that solely focus on
+tones and hues to strikingly
+evoke very personal emotions
+and ideas. Diana Horowitz, on
+the other hand, has more representational works as she
+paints mainly urbanite
+cityscapes through an oil on
+linen medium.
+John Smalley also has representational works, though he
+mainly chooses a rural setting,
+and uses both graphite on paper and oil on paper for his
+mediums. Smalley's works are
+surprisingly intricate, filled
+
+0 0 D
+
+u
+
+KTHINGS!
+
+"
+
+s
+
+EK
+
+with tiny, delicate details of
+quaint country scenes. Small
+as the artists' works may be,
+they all portray and evoke very
+powerful ideas and emotions.
+"Intimate Visions" is the
+first of four professional art exhibits Andrea Packard has
+scheduled for the List Gallery
+this semester. In addition to the
+works shown in List, there will
+also be shows in McCabe Library which will focus on the
+art of books.
+Alongside these exhibits,
+the List Gallery will be featuring "The Art of Books and Poetry" by David Bunn from Oct.
+2-30, with an opening reception with Mr. Bunn on Oct. 8
+from 5-7 p.m in the Scheuer
+Room. Further, List will fea-
+
+E
+
+E
+
+N
+
+Shopping Ctt
+543-4399
+C»K6»D
+
+255 A Mkntagtm-
+
+VIII
+
+and maybe a fuzzy rug..."
+
+Wist BMN Pike
+Chadds Fori?
+558-3722
+
+arts."
+
+G
+
+"...He should have a mattress
+and an easy chair, a funky lamp,
+some forks, a comfy couch, a fen
+
+S*I».INHO«i
+
+SnrthnmMrt
+
+ture Magdalene Odundo, a visiting artist specializing in African art, on Nov. 2-7 with an
+opening lecture on Nov. 4 at 6
+pm in LPAC Cinema. Also in
+November David MacDonald
+will display his ceramic works
+in the main gallery of List. The
+show will open with a reception on Nov. 5 from 4 to 6 pm.
+The events described are
+just a preview of the variety of
+shows that the List Gallery has
+lined up for this semester. Emphasizing the goal of this
+semester's theme, Andrea
+Packard said, "-It is our hope
+this series of events and exhibitions will create a campus
+wide dialogue about the intersection of poetry and the visual
+
+Man does not live by bread alone."
+Deuteronomy.
+
+DE Chmtt, PA
+
+V
+
+MP
+
+Goodwill,
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+%
+
+"
+%
+
+Contributing
+
+Writer
+
+For the culturally immature
+like myself, documentaries can
+sometimes be daunting, especially when filmed in black and
+white. With her first endeavor
+though, a 16 mm film entiltled
+Hello, My Friend, Samantha
+Johnson'oo uses the medium to
+her advantage. Even with a running time of under six minutes,
+the film goes a long way towards
+changing my mind.
+As the self-told story of
+Annette Walton, a homeless
+street vendor, Friend fortunately lacks any overt preachy
+
+1998
+
+Twin $129.99. Full $149.99
+Chests and dressers from $25
+Sofas from $35
+
+Chairs from sls*
+'futgrri to prior mk
+
+by Jessica Salvatore
+
+is seeking students of diverse experiences and interests to serve on the editorial
+board. Contact the paper at
+phoenix @ swarthmore.edu
+for more information.
+HELP OTHERS OVERCOME
+INFERTILITY
+
+NEW MATTRESS SETS!
+
+Hours: Motr-fw 10-8. Sat &-6, Sun 11-5
+
+Johnson wows Swatties
+with poverty documentary
+
+The Phoenix—-
+
+MacDmk
+MatDids Pto
+
+585-6360
+
+ofthe new season: Friday brings
+Legacy on UPN, which puts the
+try to deal with both yuppies and bodies from Party of Five in the
+crass Archie Bunker types. The setting of Dr. Quinn, while SatHughleys (ABC, Tuesday 8:30- urdays brings ESPN's X-Games
+9:00 watch it if Encore, Encore to primetime with prettier faces
+turns out to suck) is based on the on NBC's Wind on Water, where,
+life of stand-up comic D.L. and I have to quote this to keep a
+Hughley and his attempts to restraight face, "the only way the
+tain his and his family's "blackConnolly kids can save their
+ness" after a move to a whitestruggling Hawaiian cattle ranch
+bread suburb which already has is to hitthe extreme-sports circuit
+his son digging Hanson. Both on surfboards, snowboards and jet
+shows will surely earn the ire of skis to win some dough." But
+some in their attempts to satilook out pretty whitekids, 'cause
+rize the extremely touchy topic the evil Poole family is on the cirofrace relations (imagine trying cuit too, and they can't wait to get
+to make a show out of the wacky their hands on your land! Come
+adventures of a group of Afrion, you know you want to watch
+can-American students making that. (And I haven't even mensense of life at a school where tioned the best part: the family
+the majority of their peers are matriarch is none other than Bo
+upper-middle class white liberDerek. How'd you like to have her
+als; "SASS!" Fridays this fall on for a Mom?)
+Fox), but are noteworthy at least
+Upstart WB will probably
+for their willingness to deal with grow the most this year, with the
+such topics, which are often igaforementioned Felicity likely to
+nored on network TV.
+join Buffy (Tuesday, 8:00-9:00),
+There's not much in the way Dawson's Creek (Wednesday,
+of quality dramas coming our 8:00-9:00) and Seventh Heaven
+way this year. By far the most (Monday, 8:00-9:00) in generatlikely to earn Swatties' attention ing the young demos advertisers
+is the WB's Felicity (Tuesday 9- crave. I iust advise asainst
+watch10, right after Buffy), which foling it on Sunday or Wednesday
+lows high-school grad Felicity nights, when that annoying singPorter (the gorgeous Keri Russell) ing frog presents a bunch of
+as she bolts from her home in sitcoms that will make you yearn
+California on an impulse for colfor the sophistication of Married
+lege in New York, where she tries With Children's, early years (or
+to figure out just who she is and later years, come to think of it).
+what she is doing. All of us who
+UPN does have by far the
+are caught in a difficult love tri- most unique new show in The
+angle with two gorgeous partners Secret Diary of Desmond
+and find our life constantly playPfeiffer, in which we see the real
+ing itself out in a five-act strucgoings-on of the Lincoln White
+ture will naturally relate to FelicHouse through the eyes of its
+ity. In all seriousness, this show black British butler. By "real" I
+which has alternately been demean of course the stuff your
+scribed as Ally Mcbeal: the Colhistory prof is too scared to tell
+lege Years and My So-Called Colyou, including Abe's lusting
+lege Life will almost undoubtedly over Union troops' washboard
+be the breakout hit of the year abs and Hi 11...1 mean Mary's
+with our demographic, given not trash-talking and domineering.
+only it's topic but the fact that it I would tell you about the rest
+comes from the current hot netof UPN's schedule, but let's get
+work with under 25's, the WB real; with the possible exception
+(which has earned that reputation of Moesha (Tuesday 8:00-8:30),
+thanks to the bullshit-detector who watches UPN? I don't even
+overloading Dawson's Creek).
+know what station it is.
+Those who are looking for
+A TV, by the way, can be
+pure eye candy will want to put found in at least one lounge in
+on the TV Friday and Saturday every dorm. They're the big
+night before they go out, from 8- black boxes with long thin metal
+9, and watch what promise to be rods sitting on top of or right
+the most aesthetically pleasing next to them. Just in case you
+and intellectually insulting shows forgot.
+
+You can earn $2,500 as an egg donor
+Women between the ages of 21-34 are needed to help infertile
+couples build a family. To hear more about the medication and
+time requirement for this confidential process, contact the
+Reproductive Science Institute of Suburban Philadelphia at:
+
+(610) 964-9663
+
+ft
+
+Reproductive Science Institute
+of Suburban Philadelphia
+
+950 West Valley Road, Suite 2401, Wayne, PA 19087
+
+social commentary. It attacks
+
+many of my assumptions about
+the homeless, as I like many oth-
+
+ers often equated the homeless
+with unkemptness. For a homeless person, though, Walton sure
+looked like she had showered recently. Johnson shed some light
+on the matter, explaining Walton
+uses the money she makes by
+selling flowers to stay at a shelter. It costs three dollars a night,
+Johnson adds, explaining
+that"lt's not the closest shelter
+to where she works, but it's the
+one at which she feels safest."
+While homelessness as a
+topic has come disturbingly
+close to become a cliche, any
+weakness ismade up by the candor of the de facto heroine. "I
+don't mess around with nobody
+that's not from the heart,"
+Walton proclaims, as she is seen
+laughing with a homeless friend.
+Johnson, an artiste with the
+most enigmatic smile I've ever
+seen, doesn't seem to be asking
+for anything, but but it's obvious that a lot of thought went
+into the film.
+Johnson built a more-thanpassing relationship with
+Walton before filming began.
+"At first I spent some time alone
+with her before I began recording and before I began filming
+just to get to know her and to
+get to know what her days were
+like," she says. The filming itself took only three days, she
+recalls, and "[Then] I suppose
+I spent about a month total [editing]."
+An accidental beginning led
+to a film that hooked me all the
+way. From stark opening credits, followed by an unsophisticated guitar track (that's unsophisticated in a good way) to its
+closing, Hello, My Friend, was
+nothing but a worthwhile viewing experience.
+
+10
+12
+
+2
+
+8
+
+6-
+
+-
+
+g°^->fi64y.
+
+XXX
+
+P«m
+
+BelsU^
+
+m
+
+z^be.-^
+
+BCTIELU
+
+w
+
+m-\t
+
+DNiQTIOAU eThanuKi bIGCitY
+
+RAI o
+
+WART
+
+barf
+HA O scof
+
+.qp
+
+RE en
+
+I
+
+o
+
+Po-hj
+
+t-AHC
+
+pef rjon
+
+A\yaxZ£-+i\Cz_ lßpo^T Cqtsup
+
+5-
+
+GrS
+
+S
+
+57
+
+Off A\ViK
+HES
+
+c„
+
+K*c
+
+f* vj
+
+CiHqpf
+/
+
+CMP
+
+ILEUM
+DE
+
+1
+,
+
+Sdrpw-hf.itHw' AVFUIt^WNET- m
+
+Cov
+
+o
+
+\
+
+TV
+
+SPoRTCIUS
+
+mNnvis
+tSN
+
+PI(6FES
+
+HOi^HA
+
+E!
+
+L
+
+bro ks fU>C ROCk! >TivJW^
+
+op
+
+Jonathn
+
+We
+'
+r
+e
+Bourgeois All
+IK . Kow
+
+the
+
+Sce:ERVI
+
+1
+
+{jfx ojS t
+
+ii
+
+3
+
+si
+
+*
+
+V
+
+*
+
+|
+
+AMeCo
+
+V
+
+rules
+
+i^tilnb^ okay
+ta
+
+anf«.loism
+
+\L®W
+
+SWPE>r
+
+fui>^
+
+ER IM
+
+HEROES
+
+M
+
+nj3tc*l\A
+
+ABE
+
+5
+
+LOVE. aoMeNi
+
+<s «£
+
+tl
+
+PHe-p^
+
+?<\
+
+T w
+
+*r^
+
+J
+
+Jig-
+
+-JAz .
+
+OS2-
+
+Clasic* a
+
+jfev » >n
+
+Xh<?
+
+eV^|et^<i
+
+1
+
+ISA
+
+V.
+
+A
+P
+(A
+
+C
+d
+V
+e
+r
+t
+RAVE Qp.ERfITOrtS
+
+r,
+
+7«/T
+
+rt^
+
+yV
+
+H
+
+.
+
+,,
+
+e,
+
+OZLAgDdIS thursday
+a
+
+1
+
+1^
+'Zje
+
+-5
+
+J
+
+W£
+road
+the
+
+sm.
+
+ajaiti
+
+ACFP£-LIA
+
+A*>s
+
+N
+
+wsrn.swarthmore.edu
+
+-o
+
+fP
+
+MP
+Pint
+
+IATIk/ ?#jvtbr.
+fa
+
+/«««?!
+
+cFIATrKH-)OW
+
+i
+
+f=VAK/
+
+Uj
+
+%r
+
+friday
+
+8-
+
+\o
+
+h
+
+cM
+APD/ PA
+l
+
+u
+
+on
+
+4R
+
+F
+R
+
+J^ACH/V|Mlafp
+in
+
+pA-tfiosy WESTFfto/Y\
+
+trie
+ei-rt s
+
+Ul!
+
+,re<am
+mws poi er
+
+#
+
+•
+
+RWednsayADIO
+
+f
+
+i-upe EAST WAVE'S
+
+~lWTe"irs
+
+£-U(j^l
+
+CLASI*
+
+,
+
+Bet er
+
+Fmonday AL
+
+/
+
+A^ W
+
+ca
+
+al
+fc
+
+tuesday
+
+VE(\
+r
+
+4
+
+\<,<L
+
+BLUES
+
+Foj-kJ
+
+l-L-A
+
+ca-nc
+
+fbLK
+
+Pret y to
+
+faSotkr'tfc. ShoW
+
+o-
+
+Pa
+
+Htmr,
+
+BLUES
+
+<?
+
+3C
+
+'pbainkvM.
+
+1
+
+*
+
+3gi
+
+f
+
+'At
+
+J<r
+
+•J>
+
+E3\^
+
+V!
+
+>CLASIC* TWERiJe:AO^Py
+
+4>
+
+r
+
+f\c-Hv\n
+sh^in
+
+MCBE*J
+
+ICE
+
+JA23-
+
+2^
+
+PA
+
+Li
+
+I
+
+lV
+
+KRAFT
+
+A<.K»^P
+
+Sop-y
+
+'
+
+5M R>l_t
+
+VAHW
+
+R)lcTAroß> f>*ofr-
+
+Mzz.
+
+w
+
+UCK
+
+imECHflnD
+AV RIE
+
+»ha/Wfi<*sbon&
+
+u
+
+APi;«».
+
+I
+
+;-;f
+jj
+
+n
+
+i-<#*
+
+c=> t?IS
+
+rafca
+
+Shamir
+
+fIUhCITN
+
+CL®VIM' ftTWAHOLE TKRPoL^nI -EUt-r&OsICAKRAIEK AMERICA
+T(
+
+Molly
+
+AI PX
+
+\
+
+Y
+
+man UE"STV
+
+e:P
+
+WEBS
+
+ouist
+
+out
+or
+
+i
+
+RtMS
+
+Ci
+
+Joel
+
+ERVOUS
+
+PRWCF OTHER
+
+«E>ai£Eyo
+
+v
+
+■V
+
+»R
+
+MARTIN
+
+\An
+
+•?
+
+11
+
+i.
+i.
+
+Y
+
+,
+
+*
+
+K
+
+—
+
+»
+
+(^■V^
+U>dfi»«A
+
+5
+
+EXreßi
+
+>4^s
+
+ClrtlkMuc*.»i
+
+SOCK
+
+o
+e an
+
+C(y-
+
+i
+
+S
+u
+n
+d
+a
+y
+ca.\ Wv\ The/Aan
+Dan
+
+je/\
+
+££
+
+£
+>
+D
+£
+@
+jSig
+
+/? /?£ « n
+
+V
+
+1
+
+V
+
+aHP"^
+
+W
+
+*5C^
+
+'«<*
+
+fi O^
+1
+
+P
+
+JO
+
+k-teSKAs+r^nH
+
+«BDISA c
+
+SUM JAZ.PIHO
+
+4*
+Q
+
+KC K.
+
+troc«y.l
+
+ss
+
+B
+
+SP/< Rouq-H
+
+v
+
+7
+
+<^>
+
+C7MF/ jgg
+
+MySRS
+
+1
+
+&
+
+cK. derefc
+
+Pfls&H*™-
+
+sean
+
+erskine.
+
+ro
+
+IS-
+
+sw*«?s.
+
+EB M -v\lt<-r
+
+A\i
+
+DR. 3c ss
+y
+V
+
+L
+
+3^e
+
+3
+
+THr
+
+i
+
+8:20
+
+am am
+
+pm
+
+¥V
+
+. TAMC
+
+kfr t.
+
+RA.D ki< we
+
+Ml
+
+THFAg.
+
+W Dapxs\e .(MORE":
+
+wi-H ToOESpbsi-r
+
+-J
+
+IO
+
+2
+
+pm
+
+S
+
+K
+
+2-pm4 pm
+
+-6
+
+8
+
+2
+
+-
+
+-1
+12 0
+
+■
+
+.
+
+4
+
+12
+
+4
+
+-12 -10
+am am am pm pm
+-
+
+8
+:
+2
+0
+10•
+
+7
+
+Saturday
+
+SCHE1DU9L 8
+
+610.328.8335/6
+
+September 18,1998
+
+THE PHOENIX
+
+7
+
+Student Council special election candidate platforms announced
+Jason Caldwell
+
+CJC
+
+I believe the CJC plays an important role in
+Swarthmore's infrastructure. It's not only a jury
+of administrators, but a jury of your peers. The
+elected members of the CJC have an enormous
+responsibility to listen to every case that comes
+before them with the utmost c.are to the person's individual situation, keeping in mind that the decisions of the committee could
+have a huge effect on the person's academic career. It takes a fair,
+honest, attentive, and most importantly, trustworthy person to sit
+on such a committee. I believe I am that person. I believe that a
+student is innocent until proven guilty, no matter how bad the
+eharges brought against the student may sound. I want to actively
+get involved in one of the many institutional bodies on campus
+that effect students' lives. As a result of being head ofthe Minority Student Union, Orientation Committee and an Ambassador at
+my high school, I've learned to relate to both students and faculty.
+Because I've never held a political position at Swarthmore, I would
+bring a fresh new face to the committee.
+
+Darby Kopp
+There are many factors which make me a
+strong candidate for Treasurer of Student Council. First of all, I am a senior, and so I recognize
+that each of the classes here are slightly different, and therefore might want student council
+funds allocated to different areas. I am also an athlete, and can see
+that Swarthmore's support of its athletes could be far more involved. I am also a musician-I would like to see more support
+given to the various artists here at Swarthmore, and would encourage spending more to have guest artists come to our campus. Finally, I have studied abroad for a semester, which showed me that
+at other colleges, there is significantly more use of student council
+funds to balance student's social life with their academic life.
+Swarthmore is a great college because ofthe many different types
+of people here. I will be sensitive to this, and will encourage the
+student council to spend its money in the numerous places that our
+student body demands it.
+William Williams 111
+Treasurer
+
+Joel Weber
+CJC
+What character traits do you possess that will make you a trustworthy member of the CJC?
+Aside from having blood in my veins, and ears on my head, I
+can't spew off a list of credentials for the job or proclaim my virtues over the next person. I think all that you can ask of a CJC
+candidate is a desire to befair, patient, and reserve judgement until
+all the facts are in. I do not think eloquence or slickness is useful
+for the job, but rather honest presentation and a little iron in the
+gullet. I will be fair, and I will listen. There's nothing else to say.
+I hope you have a good year and that I can represent you on the
+CJC. Thanks.
+Amber Adamson
+CJC
+What character traits do you posses that will
+make you a trustworthy memberof the CJC?
+I, Amber Adamson, believe in my convictions no matter where they stand. I do not base
+my opinions on small school rumors nor do I
+sway toward public opinion. I believe in innocent before proven
+guilty which illustrates my democractic stance on each issue. Therefore I believe that I should be given a chance to serve our college
+community, in a fair and just manner.
+
+The way I would go about distributing student council funds would be to first get the opinion of the student body. Since SC representatives are not the only people on campus, I feel
+that it is appropriate to find out how other stuwould
+like
+dents
+to see their money spent. I would have a survey
+and
+distributed
+to students, this survey would ask difcomposed
+ferent types of questions. However, the questions that I, as treasure, would look at is how would students like to see funds spent
+and are they happy with the way funds are being spent now. It is
+imperative that we find out if students are happy with the current
+distribution of funds. Once this is accomplished, then I would help
+come up with ways to dispense the proper funds to different clubs,
+the community, social functions, and to our school.This is what
+should happen with SC funds.
+
+Ashley DeMello
+Treasurer
+
+,
+
+Treasurer is an important position and much
+time and consideration must be given in order
+to properly address the question of how funds
+should be allocated within student council. Luckily I have had many soul-drenching, hot days to
+sweat though this question and the answer is obviously more money
+to the idea of AIR-CONDITIONING. In a school which supposAaron Carlisle
+edly gives such great education, how come no one has considered
+CJC
+the power of this heat, this crazy heat and yes I do mean crazy
+I believe that it is safe to say that anyone because that stuff will just suck you in and do funky stuff to your
+who runs for the CJC sees himself or herself as brain. And this undeniable force has pushed many of us into
+a trustworthy individual. I believe that one would McCabe, which leads me to my second priority: some new NONnot run if he or she did not try his or her hardest RED carpet for the library. I don't think I can handle anymore of
+to be as honest and as fair as possible at all times; this insanity and some one must make it stop!
+trustworthiness is a prerequisite for the job. Personally, I pride
+myself on being a reliable person. I will approach each case with
+the utmost respect and consideration, and with the same serious
+Matthew Trakimas
+Appointments Chair
+demeanor as all cases brought before the CJC deserve. On my
+nigh school's Honor Council, I was known for never being late
+and always being alert and responsive no matter what hour we
+We have waited many years and many
+met. In high school, I was serious about the job we had to do, and,
+people have been hurt.
+if.elected, I will bring the same seriousness with me to the CJC.
+And for what cause?
+The self-interest of a select few, treating student government as a toy. Buffoons that serve
+the special interests of themselves, their friends, and their instituDaniel A. Simkin
+tions.
+CJC
+What has Swarthmore become? It has fallen from grace to the
+As a member ofthe CJC, I would put all my second-ranked liberal arts college in the country. Amherst realized
+personal feelings aside and do what seems best the path ofrighteousness! They revised their constitution in Febfor the College community. Being an indepenruary of 1998. Iti's about time for the power elite to give up the
+dent thinker, I stand up for what I believe in, not whips and chains. The era of the socialist totalitarians has set. Yes,
+necessarily for what is the most popular and premy fellow Swatties, the reign of Trakimas is at hand. Puny morvailing view. This would assist me in constructing an impartial, tals should bow before me, or be crushed underfoot. I believe a
+in
+unbiased, and objective account of the event from the testimony of
+constitution
+from
+the
+of
+God
+theological
+stemming
+power
+almighty
+both parties and their witnesses. By utilizing my integrity and honand our collective faith in the goodness of mankind. End it now!
+esty, I would be able to make decisions that look out for the benefit, welfare, and safety of all the students involved. I understand Elect me Appointments Chair!
+the serious nature of the CJC and look forward to giving Swarthmore the kind of representative its students deserve on the comDavid Thomas
+mittee.
+Appointments Chair
+Rebecca Paul
+CJC
+
+I like to think that I have an impartially favorable view of everyone, on meeting them and
+afterward. I have been accused on optimism and
+ignoring the bad sides, of people, but I consider
+this a flaw preferable to cynicism and general
+dislike of people. Because of this character trait, I see being on
+the CJC as an opportunity to help people who have made mistakes, instead of as a means to punish people harshly.
+As for trustworthiness, I believe that is something I cannot
+judge for myself. Ido my best to help people and keep my word,
+but whether I succeed is hard for me to know. No one has complained yet of my lackof trustworthiness, so I will take that as a
+good sign. Thank you.
+
+Josh Tropp
+CJC
+Being a good member of the College Judicial
+Committee is about, no surprise, judging. Fairly.
+In all cases. Regardless of whether the person
+in front of you is your best friend, someone
+you've never seen before, or someone that you'd
+normally wish lived a million miles away, when you're sitting on
+that Committee, that person is a member of the Swarthmore community—subject to the same rules and bias free judgement as anyone else. That's a hard thins to do—swallow your biases in the
+interest of justice. But I can do that. Ask my friends and even
+those who aren't as close-when a question of right and wrong
+comes up, I give the answer straight. Sometimes that's rough, but
+its the key to being just and fair and right to everyone. I can do
+that-and I will when you give me the opportunity.
+(
+
+Cathryn Polinsky
+
+Treasurer
+
+During the next year, SC will be revising its
+constitution and its processes. How would you
+improve the appointments process at Swat? I'm
+not sure the appointments process needs much
+changing. The required letter, then interview, is
+the best way to guarantee that the council members choose the
+person best qualified for the job. I think the human contact (the
+interview) is important in the appointing process. Though this approach might mean a lot of work, non-elected councils are too
+important to receive just an impersonal letter. As appointments
+chair, I would be willing to spend the extra hours a week to make
+sure the non-elected committees are staffed by the best people for
+the job.
+
+David Ellis
+
+Appointments Chair
+The appointments at Swarthmore can be
+improved immeasurably by providing fresh
+leadership. And this does not merely mean
+leadership coming from the hackneyed, elitist, corrupt power structure that has been ruling Swarthmore for too long. No, the new generation of leadership must come from outside the old institutions
+that have grown comfortable in complacency. Swarthmore has
+waited too long for new ideas, and too many people have been
+hurt as the old leadership has idled their time away.
+The appointments process has abandoned those who deserve
+it the most: you, the students. When is the last time that you
+heard who was going to be appointed to the newest position? If
+you elect me appointments chair, I vow to involve students in all
+aspects of the process.
+The students of Swarthmore deserve better representation.
+And I, David Ellis, with the help of the Almighty, hope to serve
+my fellow Swatties.
+
+Appointments Chair
+
+Student Council needs to expand the Appointments Chair beyond selecting new appointees to facilitating communication between Student Council and committee appointees. From
+personal experiences, I learned that many students serve their entire term without ever talking to anyone from
+Student Council. Although Swarthmore College is good at including students in decisions and meetings, the student body rarely
+hears about committee meetings. We clearly need to improve communication between appointees and Student Council. Meetings
+need to be organized between Student Council and student representatives. Directories of student appointees should be accessible
+to the student body. Archives of committee meetings and agendas
+should be made available on the web. These improvements will
+increase the effectiveness of student appointees so that they may
+become a voice for the campus.
+
+Selma Hassan
+Appointments Chair
+Even though I am a freshman and am not experienced with the
+
+appointments process here at Swarthmore, I do have one suggestion that I would like to put forth. I realized that the election pro-
+
+cess for an Appointments Chair starts relatively late in the Fall
+Semester. Because an appointments committee is needed to assign positions in various subcommittees within the Student Council, this would mean, that the Student Council as a whole body will
+not start functioning effectively until quite late into the year. Therefore, one of the things that I would like to improve is the efficiency
+and timing of the electoral processes in the appointments committee itself in order to allow the Student Council to become active as
+early as possible.
+
+Emily Sigalow
+
+Appointment Chair
+Hey, they call me Emily Sigalow. I am running for the appointment's chair, which basically appoints the heads of each student council committee. Because I am a first year student, I have like ten friends. So, I can assure
+you that my appointments will be impartial and
+won't be based on my friendship or allegiance to another student.
+I will try my hardest to appoint the best man/woman for each
+committee head. And, I promise to avoid appointing interns as
+committee heads based on our kinky, sexual relations.
+
+The Elie Wiesel Prize
+in Ethics
+1999 ESSAY CONTEST
+SUGGESTED THEMES
+
+Discuss ethics based on a personal experience
+are
+we here? How are we to meet our ethical obligations?
+Why
+Reflect on an ethical aspect of a literary text
+or public policy issue
+•
+
+•
+
+•
+
+ELIGIBILITY: FULL-TIME JUNIOR AND SENIOR UNDERGRADUATES
+DEADLINE: JANUARY 22, 1999
+more than three (3) essays from the same college, university or campus will
+be considered in any one contest year. Essays must be accompanied by a letter
+on school stationery verifying eligibility according to our guidelines.
+
+No
+
+FIRST PRIZE: $5,000
+
+SECOND PRIZE: $2,500
+
+THIRD PRIZE: $1,500
+TWO HONORABLE MENTIONS: $5OO EACH
+ENTRY FORMS AND FURTHER INFORMATION
+
+Send a self-addressed, stamped envelope by December 18, 1998 to:
+The Elie Wiesel Prize in Ethics
+The Elie Wiesel Foundation for Humanity
+450 Lexington Avenue, Suite 1920
+New York, NY 10017
+This information is also available online through FastWEß
+(Financial Aid Search Through the WEB) at www.fastweb.com.
+
+WANTED: Responsible person for
+babysitting my toddler in my home.
+Approx. 10 hrs/wk v flexible schedule,
+good pay. 338-0384. Call 9/11 or 9/
+12, or after 9/21.
+
+GREVmcatVlsat
+
+Take a FREE
+Practice Test
+Saturday, Sept. 26, 9 AM
+Swarthmore College
+Take a FREE practice exam, proctored like the real thing.
+You'll receive individual feedback and get strategies
+to help you pass the real exam.
+Call Kaplan at 1800-KAP TEST to register.
+
+KAPLAN J-800-KAP-TEST
+www.kaplan.com
+'
+
+Test names are registered trademarks of theirrespective owners.
+
+~
+
+THE PHOENIX
+
+September 18,1998
+
+SPORTS
+
+8
+
+String of opponents
+slam men's soccer
+Three shut-outs and a 9-1 loss
+
+send team to bottom of
+rankings with 1-5 record
+put the ball away. They are hot
+three goals better that us, but we
+have to show that on the field
+and on the scoreboard." Frank
+Sersale 'O2 comments on the
+last game of the tournament.
+On Wednesday, Sept 16, the
+team traveled to Millersville
+University (PA) to partake in a
+contest under the lights.
+Millersville, a Division II institution, proceeded to dominate
+the majority of the game from
+the very beginning. "After they
+scored 2 goals on us in the first
+four minutes, we were mentally
+defeated," Matt Kaelin 'O2 describes the attitude felt on the
+field. The score was 5-0 at half
+time and the Garnet returned to
+the field psyched after a uplifting halftime talk. The men's
+team struggled through out the
+rest game but did manage to
+score one goal (9-1). Frank Yeo
+'Ol was attributed for the lone
+goal. The Garnet finish off the
+week with a 1-5 record.
+The men travel to Johns
+Hopkins (Md) for a centennial
+conference contest on Sept 19 for
+7:00 start time. On Sept 23, the
+Garnet host Stevens Tech for a
+4:oopm nonconference contest.
+They will also host Western
+Maryland on Sept 26 for a
+conference contest at 3:30 pm.
+
+by Amber Adamson
+Contributing Writer
+On Sept. 12, the Garnet
+traveled to Walton Field home
+of our friendly neighbor,
+Haverford College, for the
+Jimmy Mills Tournament. This
+tournament consisted of four
+institutions: Goucher College
+(Md.) "Gophers," Haverford
+College (PA) "Fords," St.
+Mary's College of Maryland
+"Seahawks," and Swarthmore
+College "Garnet."
+Swat kicked off the tournament with a contest against St.
+Mary's on Saturday. They came
+out with an early aggression
+with the smooth soccer skills of
+Scott Samels '99 and the fancy
+footwork of freshman Frank
+Sersale 'O2. Goalie Andrew
+Kramer 'O2also had several excellent saves in this first part of
+the game. At halftime, the game
+was scoreless for either team but
+alas! The Garnet lost to St.
+Mary's 1-0 as the Seahawks
+scored with less than seven minutes left in the contest.
+On Sunday the Garnet were
+shutout by Goucher 3-0 their
+fourth consecutive scoreless
+contest.
+"Goucher was another
+heartbreaker. We played then
+well and we just needed to finish. The bottom line is that they
+finished and we didn't. We had
+our chances and we could not
+,
+
+A member of the field hockey team strives to keep the ball away from her opponent, photo by Jaspal Singh
+
+Field Hockey smashes rivals
+Undefeated squad extends win streak to 4, pair of
+shutouts closes down W. Maryland 5-0 and F&M 1-0
+
+,
+
+by Jean Quinn
+Sports Editor
+Field hockey's victory
+streak continued with a pair of
+wins over two conference opponents. The Garnet routed Western Maryland, 5-0, and notched
+a 1-0 final tally over Franklin
+and Marshall. Swat is now 4-0
+overall, 2-0 in Centennial Conference action. —■—
+Against
+the Green Terror, the team '
+scored repeatedly throughout the contest
+and dominated
+the
+entire
+match. Captain
+Holly
+'99
+Baker
+pushed the
+first
+goal
+across, off an assist from Julie
+Finnegan 'OO, ten minutes in to
+play. With just under 11 minutes remaining in the half,
+Donna Griffin '99 scored off
+Baker. Lurah Hess '99 scored
+five minutes later, with help
+from Finnegan and Becca Stites
+'OO, and Finnegan collected her
+third assist of the day with 49
+seconds remaining in the half
+when she aided Krista Hollis 'Ol
+on her first goal of the season.
+The Garnet were not yet done
+with their offensive attack
+
+though, and Baker scored the
+team's fifth goal, off Griffin, in
+the second half. Swat outshot
+the Green Terror by a 20-1 margin. Goalie Jane Kendall 'OO,
+who has not yet allowed a goal,
+picked up her third shut-out.
+"The Western Maryland
+game was awesome. Our team
+was feeling a bit sluggish at the
+end of last week, but miraculously the entire team managed to be
+pumped for
+the game on
+Saturday,"
+said Christine
+Crumley 'O2.
+"The offense
+was goal-hungry and the
+defense gave
+every bit of
+in
+energy
+them to keep the ball out of the
+defensive twenty-five."
+It took the Garnet considerably longer to post a goal
+over the Diplomats. Hess
+found the inside of the cage
+with 28 minutes remaining in
+the game to propel her squad
+to another victory. Griffin assisted on the goal. Kendall
+made three saves to accrue her
+fourth shut-out. Having not
+allowed any goals, Kendall
+leads
+the
+currently
+conference's goalkeepers.
+
+The team scored
+repeatedly
+throughout the
+contest and
+dominated the
+entire match.
+M
+
+_
+
+___
+
+The upcoming season for
+women's soccer at Swat should not be
+"slept on." The team has had six
+games already, and the implications
+from these seem to be positive. The
+team began the season against
+Immaculata and embarrassed them 70. They then whipped Alvernia 8-0.
+The next two games were a disappointment as they lost to Beaver College
+and Widener, 0-3, and 1-4, respectively. However, the team did not allow themselves to become discouraged, and they promptly defeated Villa
+Julie 1-0, and Ursinus 1-0.
+The team is looking forward to a
+promising season. Some of the key
+players are midfielder Sarah Jay 'Ol,
+defender Amy Phillips 'OO, and attacking Amy Markey '99. Markey has already stepped up her play in clutch
+situations this season by scoring a goal
+against Widener and the game-winning shot against Villa Julie. Captain
+Kirsten Knox '99 has also used her
+talent for great long-distance shots to
+
+keep opposing goaltenders frightened.
+Along with this returning unit comes
+a group of gifted freshmen, who are
+already being called upon to set into
+starting roles. Phillips remarked,
+"They have a really calm style of play
+
+votv fro
+
+AwAW
+%
+
+The field hockey team has had four games, four victories
+and four shut-outs this season. Two wins were within the
+
+StarComm Development, Inc.
+1
+inlmut Solutions thai Mtan Butint**
+
+*
+
+P.O. Box 1013
+Drexel Hill PA 19026
+
+conference, photo by Jaspal Singh
+
+Tel
+Fax
+
+Paris $428
+London $4Ol
+Frankfurt $573
+Los Angeles $302
+Bangkok $716
+m !■•»,
+
+610284.0846
+610284.9185
+
+M MM MUSH
+
+MV
+
+■ ■WIkMOHOIMi
+
+Baker and Hess are one and break the Gettysburg Bullets
+Trcny/
+m
+two respectively in overall rising spirit. Always a strong
+Trainer* Consultants Developers
+CUE: Ca»K)l l»ttf uimuU
+the
+Gettysburg
+split
+points, while Finnegan, Baker opponent,
+and Griffin are three of the conference championship las
+3606 A Chestnut St
+conference's top assist leaders. year with Washington an<
+Peggy McGroarty
+Philadelphia
+Swarthmore.
+Carly Hammond comAdministrative Assistant
+(215) 382-0343
+mented on the team's dominatThe Bullets already inpeggy © starcomm.com
+•website: wwwstaiaxnm.com
+ing performances so far, "We flicted a 2-1 victory
+www.counciltravel.com
+are a very deep team, meanover Washington.
+mmm
+ing everyone can play, often at Barring any unforemore than one position. We are seen upsets, a Swarthalso a fast team, and it's great more victory Saturday
+to score early and often to could prove to be the
+Cancun Nassau
+Jamaica Mazatlan Acapulco
+break the other team's spirit." game that decides the
+Bahamas Cruise Florida South Padre
+The Garnet will face perseason and the conferhaps their toughest battle this ence championship
+Travel Free and make lots of Cash !
+Saturday when they try to outright.
+Top reps are offered full-time staff jobs.
+
+4-2 record bodes well
+for women's soccer
+by Uche Eneanya
+Contributing Writer
+
+Welcome back...
+
+that is unusual with freshman adapting
+to the college game. They also have
+
+great soccer sense."
+Molding this entire unit into a collective juggernaut is new coach Shawn
+Ferris. He has much coaching experience, having instructed men's and
+women's teams at various levels of
+competition. His biggest contribution
+to the new season is organization. He
+also has introduced a new passing attack to confuse defendersand move the
+ball quickly around the field. These
+new drills force everyone to be able to
+effectively handle the ball. This new
+style is a big change from last year's
+run and kick method of play.
+The general goal for the season is
+improvement upon last year's six victories. The've already talliedfour. Two
+important goals are the play of the
+freshman starters and the quick learning of the new offensive system. Everyone must adopt Coach Ferris' new
+system. A change in game-plan is very
+difficultfor any team to make: the duration that it takes this team to adjust
+will impact their win-loss total. The
+next few games should serve as a good
+indicator for the team's future.
+The team travels to Cabrini tomorrow for a Ipm contest, but returns to
+their home-field Monday to meet Drew
+at 4 pm. On Wednesday, the Garnet
+will tackle conference opponent F& M.
+
+•
+
+••
+
+•
+
+-——
+
+SPRING BREAK 99!
+
+*
+
+*
+
+Men's tennis
+struggles in tourney
+from staff reports
+After only six days of practice, the
+men's tennis team traveled to upstate
+Pennsylvania last weekend for the annual Bloomsburg Invitational tournament. Other teams participating were
+Division I Rutgers, Villanova, Seton Hall
+and Quinipiac and Division II
+Bloomsburg.
+Greg Emkey '99 and Peter Schilla
+'Ol both won two matches in the A flight
+and together forced Villanova's top
+doubles team into a tiebreaker before finally succumbing. Nick Slimack '99 and
+Dennis Mook 'Ol each won one match
+in the B flight. In the C flight, Scott
+Grant 'Ol and John Thomas 'O2 faced
+stiff competition but were able to pull
+out one and two matches, respectively.
+The doubles teams ofMook-Thomas and
+Slimack-Grant were both upended by
+Division I teams. In the D flight, Ben
+Geller 'Ol won one match.
+This weekend, Swarthmore will host
+the Tim Berman Memorial tournament,
+likely to be the toughest of the season.
+include
+Division
+I
+Invitees
+Pennsylvannia State, Providence,
+Georgetown and UConn, Division II
+Kutztown and Division 111 Kenyon. The
+team hopes to get some valuable match
+experience in anticipation of the Eastern Rolex tournament to be held at Swarthmore October 2-5.
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Lowest price Guaranteed. Call now for details!
+
+www.classtravel.com 800/838-6411
+"Twenty years from now you will be more
+disappointed by the things that you didn't
+do than by the ones you did do."
+—Mark Twain
+
+Consider
+the
+Peace Corps
+Information Meeting
+September 22nd
+Bond Memorial Hall
+7:00 p.m.
+Information Table
+September 22nd
+Dining Hall
+11:00 a.m. -1:00 p.m.
+Peace Corps 800-424-8580, option 1
+www.peace corps.gov
+
+/
+
+

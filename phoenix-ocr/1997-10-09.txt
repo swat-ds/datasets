@@ -1,0 +1,3275 @@
+The Swarthmore Phoenix
+October 9, 1997
+
+Swarthmore
+
+Volume 119. Issue 6
+
+College
+
+CC difficulties to be remedied soon
+By
+
+of the week
+kk
+If genius
+
+minds
+do not
+learn
+about
+the rest
+ofthe world other than
+what they study, then the
+
+college is not really teaching
+then.
+-Andrew Bryce 'OO
+
+7l
+
+News
+"Something Odd in
+the Water:" A nasty
+surprise greets the
+Tufts University
+men's crew team as
+they row down the
+Charles River.
+
+4
+
+A
+
+David King
+
+Printouts have vanished, a network outage
+is scheduled for next Monday, and the new
+Netscape browser runs excruciatingly slow
+on some machines. But although the Computing Center has already run into these minor problems this semester, the staffinsists
+the difficulties are not indicative of any underlying disarray within the organization;
+rather they have come about coincidentally,
+for unrelated reasons.
+The greatest frustration of late for public
+area computer users has been the "flushing"
+of documents (a term referring to a software
+error that occasionally prevents documents
+from printing). 15% of all documents have
+been flushed this semester, estimates Dylan
+Humphrey '9B, Dispatcher Manager, making it a major problem for users who print to
+the Beardsley printers.
+The trouble came about when the Computing Center upgraded its "spooler"—the
+computer in the dispatcher's room that controls thefour printers —this past summer. The
+new Power Macintosh7100, whichreplaced
+a Quadra, came with a new version of the
+Macintosh system software that they hoped
+would remedy stability problems with the
+older system. However, the upgrade brought
+about other unanticipated difficulties, since
+the new system software still uses the
+LaserWriter 7 protocol for printing, while
+some computers require LaserWriter 8. In
+particular, PostScript graphics, from such
+applications as Mathematica and Matlab,
+tend to conflict with the older protocol.
+Humphrey says users should try printing a
+flushed document again from withinanother
+similar application. He concedes this is difficult for word processing documents, since
+WordPerfect is the only official word processor on public area machines; but for users who have access to ClarisWork orWord,
+he says, this is the best option. He also sug-
+
+gests that engineers print to Hicks printers,
+and other departments print to their respective printers, if they have them. If documents
+must be sent to Beardsley, he encourages
+printing to different printers, if necessary.
+Ideally, he says it's best to "get your work
+done a little ahead of time, so you have time
+to print out on multiple printers, if you have
+to."
+Fortunately, the CC received the new version of the spooler software yesterday and
+hopes to install it either today or tomorrow,
+according to Eric Behrens, Humanities Computing Coordinator. Behrens believes this
+should solve the problem.
+On an unrelated matter, a campus-wide
+network outage is planned for next Monday
+at 5 p.m., running through Tuesday at 7:30
+a.m. at the latest, to give the ComputingCenter time to install a backup power supply for
+the Beardsley public area. The outage will
+only affect services based in Beardsley, such
+as the Internet gateway and campus servers,
+according to Bob Velez, Network Administrator. Networks connections within dorms
+will be unaffected.
+The power supply would maintain an uninterrupted flow ofpower to Beardsley computers, should normal power go out, says
+Ralph Thayer, Director of Maintenance. Although there is no backup system in place
+right now, such a system is deemed a necessity, because an immediate loss of power
+would be disastrous for the equipment in the
+building.
+While an erroneous campus-wide e-mail
+mistakenly identifiedthis past Monday as the
+date, the outage is in fact planned for this
+coming Monday.
+Responding to user complaints that
+Netscape Communicator, which replaced
+Navigator on public area machines, runs
+painfully slow, Chris Couples, Social Sciences Computing Coordinator, acknowledges the problem but says that it's out of
+the CC's control— at least for now.
+
+The
+Computing
+Center staff
+is busy
+
+combatting
+various
+
+problems that
+have recently
+been
+vKonvenienang
+
+users.
+
+Couples explains that when the Computing Center installed software on the public
+area machines this year, Navigator 4 had not
+yet been released by Netscape. In order to
+give students the latest browser they went
+with Communicator, which, to its credit, has
+an entire suite of Internet applications, rather
+than just one.
+However, its size makes for a longer startup
+
+PCs and Water-fowl: Martin Kraft
+offers Campus-Wide PC Support
+
+Opinions
+Andrew Bryce looks
+at diversity at
+Swarthmore.
+
+By
+
+A3
+
+Living
+
+Art
+
+&
+
+In search of Sharpies
+II: Find out where the
+campus' most elusive
+Sharpies
+is
+hiding
+in this
+•s:
+ss*a
+weeks
+m
+2z
+Living
+and Arts section
+iEHTtg.
+
+courtesy Mandara Meyers
+
+'.S
+
+5
+
+A
+
+Sports
+
+SCLP Coordinators clockwise from top left: Erica Turner, Chloe Dowley, Elisa Nigrini,
+Andrea Meller, Nicole Breazeale, and Mandara Meyers. Tortured pre-teen Dawn
+Wienerdog could have used a team like this.
+
+SCLP paves the way for '98
+By
+
+Women's Rugby
+shuts out U. Del
+while Men's Tennis
+dominates the Rolex
+Tournament
+
+6
+
+A
+
+Weather
+Extended Forecast
+
+Lo
+
+Thursday
+
+Dan Marrin
+
+The summer of 1997 saw the
+inauguration of the Summer
+Community Learning Project
+(S.C.L.P), a program aimed at
+generating self-reliance and
+bonding between adolescent
+girls in grades five through
+seven.
+The project was the brainchild of six Swattie women in
+the class of '99 who, after taking an education course involving adolescence, became
+alarmed by the huge self-esteem slides that adolescent girls
+
+often experience in educational, social, and physical matters.
+
+The S.C.L.P ran for two
+weeks in June at the Women's
+Resource Center behind
+Sharpies. Coordinated by
+Nicole Breazeale, Elisa
+Nigrini, Erica Turner, Andrea
+Meller, Mandara Meyers, and
+Chloe Dowley, its program involved 3 curricula, "Individual," "Social," and "Global,"
+each dealing with a different
+aspect of adolescence.
+The "Individual" curriculum
+stressed self-awareness through
+activities including "Who We
+
+Are" self-descriptions and
+daily journal entries.
+The "Social" curriculum dealt
+with understanding thegroups
+affect the way a girl acts and
+thinks about herself, and her
+concept of people in general.
+The "Global" curriculum was
+aimed towards enhancing educational skills in the sciences,
+as well as supporting an understanding of individual functions
+within communities. These
+two objectives were realized
+together by studying biological
+communities of ants and their
+
+James Wing
+
+Would you let a MaD dUCK
+work on your computer? Enter
+Martin Krafft, first-year student
+and native of Munich, Germany :
+he's stepped up to the plate to take
+over PC support after Aaron Marsh
+recently resigned the position.
+"I was 4 years old the first time I
+broke my Dad's computer," quips
+Krafft over a Sharpies meal. Receiving his first computer at the age
+of 7 —a Macintosh, ironically—
+Krafft managed to author some
+public domain software before acAdam Stem
+quiring a PC at the age of 14. Why
+the switch of allegiance? "The that will allow him to sponsorclinMac is reliable and stable, but slow ics and publications to train more
+compared to the PC."
+support personnel to service PCs,
+Clearly, Krafft comes to as well as to teach students proper
+Swarthmore with a wealth of PC maintenance of their sometimes
+knowledge. In the summer of unwieldy systems.
+1995,Krafft and a friend managed
+Around campus, Martin has alto learn everything there is to know
+ready responded to about 15 serabout the newly-released Windows vice calls. "Most were minor
+95 operating system, although he problems," explains Krafft.
+says he now prefers to work with Martha Santana 'OO, a PC owner,
+Novell Netware and Windows NT. adds: "it seems like he knows
+It was a "game," he recalls. A very what he is doing... seeing him
+profitable game: the beginnings of work on my computer... I know
+Krafft's computer consulting busideep inside that it is going to be
+ness, Administrative System Manfixed!"
+On-line and in general, Martin
+agement —his German-based operation through which he's inis known as "MaD dUCK," a
+stalled networks of over 40 users. pseudonym given to him 5 years
+In addition he's tested pre-release ago by his friends. Krafft explains:
+"betas" of several major software "mad" is self-explanatory. Why a
+packages on the market (including duck? "Maybe because I can't
+Windows 95).
+keep my mouth shut, or when I
+As didAaron Marsh, Martin volfreak out, I act like a duck."
+unteers his time to help PC users
+If his computer expertise is any
+in need. In addition, Martin is on indication, this verruckte Ente
+the Computing Center's technical ("mad duck" in German) is anysupport assistance team, where he thing but.
+also services Macintoshes on camAll Requests for PC support
+pus—a position unrelated to his free of charge, should be directed
+work with PCs. He hopes that the to the URL
+http://
+CC will eventually provide funds www.sccs.swarthmore.edu/org/pc
+,
+
+:
+
+see SCLP, AI
+
+Supreme Court to hear Nf affirmative action case
+
+Fndaj
+
+Saturda)
+
+By
+
+Jennifer Flescher
+
+Medill News Service
+
+Sundav
+
+Monday
+coutesy of www.yahoo.com
+
+Index
+News
+Opinions
+Living & Arts
+Sports
+
+time, and the complexity of web content today, coupled with the fact that public area
+machines are first generation Power
+Macintoshes, causes Communicator to at
+times run extremely slow.
+"We are examining the standalone navigator for installation in a future upgrade," he
+says. "It is possible that this upgrade may
+happen over winter break."
+
+AI, A 4
+A2,A3
+A5, A 6
+A7, A 8
+
+(U-WIRE) WASHINGTON —As the
+debate escalates over the fairness of voluntary affirmative action admissions and
+hiring policies, the idea of affirmative
+action could be expelled from campuses
+for good depending on how the Supreme
+Court rules on a new case it has put at
+the top of this year's docket.
+The Supreme Court began its new term
+Monday by accepting an appeal of a
+workplace discrimination case that
+threatens to end all voluntary affirmative action guidelines. The Board of Education of Piscataway N.J. v. Taxman will
+require the court to decide whether or
+
+Piscataway Board of Education brought
+to court for firing white HS teacher
+not racial employment guidelines are
+
+acceptable under any circumstances.
+In 1989,the Piscataway Board of Education cut one high-school business
+teacher position from its budget. Of two
+existing business instructors, one was
+white and the other was black. In order
+to protect racial diversity at the school,
+the board decided to lay off the white
+teacher. Eight years later, Sharon
+Taxman was reinstated because other
+teachers retired, but continues her claim
+of discrimination in the initial layoff.
+
+In anticipation of the high
+court's decision to hear the Piscataway
+case, the American Association of College Registrars and Admissions Officers
+began a two-day policy summit Monday
+to discuss higher education diversity
+policies and tactics.
+"Our goal is to promote diversity on
+campus," said Daren Bakst, director of
+government relations at the lobbying
+branch of AACRAO. "The environment
+is changing, and we have to find the best
+practices for the climate." Bakst empha-
+
+sized the importance of working with
+opposing views to find guidelines for the
+future.
+But Hilary Shelton, assistant director
+of the Washington chapter of the
+NAACP, is not as optimistic about the
+opportunities campuses would face in
+the wake of a possible anti-affirmative
+action court ruling.
+"Affirmative action has opened the
+door for women and ethnic minorities in
+places we were traditionally locked out
+of," said Shelton. Eliminating the policies and goals created by such programs
+""would mean the resegregation of society."
+The policy summit will continue Tuesday with the Piscataway case leading the
+discussion throughout the day.
+
+The Swarthmore Phoenix
+
+A2
+
+'
+
+October 9, 1997
+
+EDITORIALS
+
+K/
+
+George Balgobin/Editor-in-Chief
+
+111
+
+Arun Mohan/Editor-in-Chief
+
+(D
+
+Dan Fanaras/Publisher/Advertising
+
+O
+
+Min Lee/News Editor
+Emily Shartin/News Editor
+
+!S? H
+
+Jill Belding/Sports Editor
+*
+
+(
+
+O
+
+Drew Mast/Opinions Editor
+Elizabeth Cho/L&A Editor
+Patrick Runkle/L&A Editor
+Adam Stern/Photo Editor
+Nick Attanasio/Layout Editor
+Abe Pachikara/Layout Editor
+Mike Tsan/Layout Editor
+Wilson Kello/Cartoonist
+
+Dimitriy Levin/Graphic Artist
+Patrice Harper/Circulation Manager
+
+How about some spirit
+Here
+at
+Swarthmore,
+we like to
+think we've
+got it all. We
+know we work
+hard,
+have
+of
+tons
+
+classwork,
+
+kk
+By placing the emphasis
+solely on intellectual
+pursuits and relegating
+social events to a secondary status, Swarthmore
+creates a lopsided campus mentality
+
+benefit from
+well-respected
+professors and
+have
+been
+named the
+number one liberal arts school in
+the nation for the second year running. Unfortunately, we lack one
+of the most fundamental aspects of
+a healthy college life: Swarthmore
+students have no school spirit.
+Any one of the very few students
+who actually attends school athletic
+events can tell you that other
+Swatties hardly ever show up. Even
+at football games, which are relatively well attended, the visiting
+team frequently dwarfs the Garnet's
+supporters, many of whom are not
+even students here anyway. At a
+campus that ostensibly prides itself
+on its overall activism and enthusiasm, such clear apathy smacks of
+hypocrisy. Innumerable off-capus
+concerns, Crum monitoring and
+perpetual fruitless arguments over
+who can be more liberal inexplicably take precedence over campus
+issues vital to the overall balance
+of school life.
+Yet the issue is not simply as clear
+cut as a school-wide case of apathy on the part of students. Some
+students say they have too much
+work, others claim they don't watch
+games because of the poor quality
+of play and dismal standings of
+Swarthmore athletic teams. But
+these excuses aren't thereal reasons
+for our lack ofenthusiasm. Ifthey
+were, every Swattie who had "too
+much work" wouldn't participate in
+any extra-curricular activities and
+a losing team like football wouldn't
+draw more fans than a winning
+team like field hockey.
+The real reason behind the lack
+of student support for athletic
+events lies with Swat's uniquely
+
+warped campus culture.
+The nature of
+the school itself
+the
+empa s i s
+placed on the
+impressiveness of one's
+workload and
+the importance of bei
+g
+n
+11 competetive
+stunts the students' willingness to
+attend games; being a fan won't
+show up on your transcript as nicely
+as a 4.0 GPA or a presidency of the
+Chem club. By placing the emphasis solely on intellectual pursuits
+and relegating social events to a
+secondary status, Swarthmore creates a lopsided campus mentality.
+This imbalance promotes the fragmentation of the campus and
+dampens studententhusiasm for the
+school as a whole. We are so busy
+being "Swarthmore students" that
+we don't have time to cease our
+neurotic stressing and hang out at
+a game once or twice a month.
+No one knows our fight song or
+our alma matter. We don't have a
+mascot. There's no such thing as a
+home field advantage at
+Swarthmore. People treat the football team as a perennial joke without having ever watched a game.
+And the worst part is we do it to
+ourselves.
+Not only do administrators and
+faculty seldom encourage anything
+otherthan the strictest obedience to
+Swarthmore's rigorous academics,
+as students we ourselves seem to
+take a perverse sort of pride in our
+anti-normal world view. We're so
+obsessed with being different and
+being Swatties that we reject
+wholesale all of college's "stereotypical" qualities notably, school
+spirit without examining them.
+Not only will a sense of scholastic pride do wonders forall student
+atheletes, it will also invigorate
+campus life and renew the dismal
+mindset of many Swatties.
+-
+
+—
+
+-
+
+-
+
+-
+
+An open invitation
+u
+
+Unfortu
+Diversity.
+It's a word
+nately, veryon
+So again, with this
+that you hear
+has his or he
+intent, we extend an
+own vested in
+everyday at
+terests, and n
+Swarthmore.
+invitation to all students matter
+how im
+And rightone trie
+partial
+become
+member
+fully so. Afto
+a
+to be, they ar
+ter all, it is
+The Phoenix Editorial
+always to som
+our differextent inher
+ences that
+Board.
+make learnently limited
+ll by
+them
+ing possible.
+be
+it
+socio-ecoHence
+we
+need
+who
+people
+repreracial,
+Diversity,
+nomic, or gender, exposes us to new sent as broad a range of interests as
+possible.
+ideas and experiences, broadening
+And the fact that the board is all
+our minds and creating a forum for
+discussion and debate.
+male right now doesn't help.
+Edboard should strive to become
+The Swarthmore Phoenix Editorial Board is one group that is para micrcosm of the college commuticularly concerned with diversity. nity itself so that our opinions might
+While the Ed board is not responbetterreflect the best interests of the
+sible for the content of the paper, it community-at-large.
+is responsible for the content of the
+So again, with this intent, we extend an invitation to all students
+staff editorials. Thus, the Ed
+Board's purpose is to think in terms to become a member ofThe Phoeof the greater good of the communix Editorial Board.Questions or
+nity, to encompass as many voices concerns may be directed to
+as possible.
+phoenix @ swarthmore.edu.
+
+of
+
+Corrections
+In the October 3, 1997 issue of
+The Phoenix, the article on page
+A4, "Lang creates endowment to
+
+commission young composers," did
+not have a byline. It should read,
+"By Kathryn Tong."
+
+The Swarthmore Phoenix Editorial Board is comprised of George
+Balgobin, Min Lee, Arun Mohan, Benjamin Chan, George Flagherty,
+Nick Attanasio, and Rory Alarcon. The views represented herein reflected those of the Editorial Board and not necessarily the opinions
+held by the school's respective faculty, staff, administrationand students.
+
+Letters
+
+to the Editor
+
+Swat students are pretty wimpy relatively speaking
+To the editor:
+While stopping by the ice cream
+bar at Sharpies recently, I realized
+just how wussy Swarthmore really is. I mean, let's face it people,
+we are straight-up wimps. I know,
+the ice cream is really frozen, but
+it shouldn't take us 10 minutes
+just to get 2 scoops. Sweat was
+pouring down Swatties faces.
+They strained every muscle in
+their puny little bodies, as they
+worked furiously to get that perfect scoop of Butter Pecan.
+Seriously, we are weak. Though
+"hermitian operators" may be a
+phrase in many students vocabulary, "weight room" is not. We
+look like scrawny, malnourished
+supermodels (the guys at least)
+trying to cover it up by wearing
+baggy jeans and shirts two sizes
+too large. This is not an easilysolved dilemma. In fact, I see no
+solution in sight, other than regimented body building and Mon-
+
+day Night Football watching. Sure,
+there are some guys out there who
+are pretty tbugh (or at least think
+they are, in the case ofDU and Phi
+Psi), but I mean, tough compared
+to whom? (Note: No truly tough
+people use the word "whom.")
+The ice cream bar incident started
+me thinking, if Swat got into an allout rumble with other schools, who
+would win? What other upstanding institutions could we actually
+kick the crap out of? Okay, for starters we could definitely take
+Haverford, not only because they
+are wimps, but also because we
+have the mental edge; I mean, they
+all wanted to gohere and didn't get
+in. I think we could also beat up
+Bryn Mawr, although that would be
+a little closer. On that same note,
+we could probably have our way
+with all of the former Seven Sisters (yes, that means you, Vassar).
+This is where our dominance
+ends. Williams and Amherst would
+
+clobberus. Most Ivy League Med
+Schools could kick our asses and
+then stitch us back up at exorbitant prices. I think the only Division One school that we could take
+is Akron, powerhouse of the
+midwest. This would be a very interesting fight. I propose that Akron become our nemesis, as
+Haverford is merely a waste of
+time. Listen up, Akron's sports
+teams are known as "The Zips."
+The Zips, people. The storied
+Swarthmore-Akron rivalry could
+go down in history up there with
+Michigan-Ohio State and FloridaFlorida State. Oh, and by the way,
+we should try to stay as far away
+from offending Florida State as
+possible. The result of an allschool brawl between us and
+Florida State would be disastrous.
+I wholeheartedly respect Florida
+State and everything that it stands
+for. Even though it may be scary, I
+will now attempt to speculate on
+
+the casualties accumulated in such
+rumbles:
+' Swarthmore 1,400 CasualtiesFlorida State 300 (FSU'ers get carried away in their celebration)
+Swarthmore 600-Haverford
+1,000 (Piece of Cake)
+Swat 20-Vassar 2,346 (All of
+Swat's losses would be English
+Majors)
+And now the true test:
+Swat 750-Akron Zips 24,351
+(This leaves us with one more student than those pesky "Zips.")
+In closing, I propose that U.S.
+News and World Report add a new
+category to their college rankings:
+Wuss Factor. Although this may be
+damaging to our total score, it
+would provide a valuable service
+to any prospective student (at least
+those wimpy enough to use U.S.
+News to pick their college).
+Sincerely,
+Anonymous Fellow
+
+Roger's
+Joel Rogers lecture sharply misdrawn
+headline gave
+ard Freeman ofHarvard), while
+ing American workplace, schedTo the Editors:
+shows
+that
+workuled
+for October 31st. It will be
+perfect,
+clearly
+the wrong spin Our experience of the talk given
+Nelson
+given
+by
+Prof.
+not
+
+To the editor:
+In my column last week about
+Joel Rogers's talk, I intended to
+raise questions, not pontificate.
+Unfortunately, its headline lent
+the piece a different connotation.
+I had asked the Phoenix not to
+use the word "sexist" in the headline, because I thought the episode warranted reflection, not
+clear-cut judgment; I regret that
+the extremely strong word "misogyny" was associated with my
+opinion.
+
+Tim Stewart-Winter
+
+by Joel Rogers on September 24th
+differs considerably from the perception of possible "mysogyny,"
+according to the headline on the
+op-ed piece by Tim Stewart-Winter in last week's issue. We were
+instead excited to learn the results
+of the first genuinely comprehensive survey ofAmerican worker attitudes, a landmark study that will
+soon affect policy debate. The
+Rogers-Freeman survey (named
+after Rogers, who teaches at the
+University of Wisconsin, and Rich-
+
+ers want autonomous representation at the workplace. We also
+found that the half-hour questionand-answer session as instructive
+as the talk. In the course of about
+a dozen questions from male and
+female professors, students, and
+members of the general public, all
+taken seriously and respectfully,
+we were able to see a genuinely
+orginal social thinker at work.
+We hope that the Phoenix will
+decide to cover, as a news story,
+the final talk in the Cooper Foundation lecture series on the chang-
+
+Lichtenstein, one of the country's
+
+most distinguished labor historians. In covering this news event,
+
+and the workshop that follows it,
+the Phoenix would serve the many
+people-students, staff, administration, buildings and grounds people,
+custodians, security officers, and
+faculty—who make Swarthmore
+College work.
+Prof. Meta Mendel-Reyes
+Prof. Richard Valley
+
+The Phoenix is currently gathering data for an article on the
+meal plan/ dining services here at Swat. If you have any
+information or opinions regarding this information, please
+e-mail nattanal. Thank you.
+Letter Policy
+
+Letters to the editor can be submitted via email to
+phoenix@swarthmore.edu, dropped off to the Phoenix office on Parrish sth or mailed to:
+
+The Swarthmore Phoenix
+500 College Avenue
+Swarthmore, PA 19081
+Letters should contain the author(s)' name(s) and year(s)
+if applicable. Letters should be no longer than 250 words.
+The Swarthmore Phoenix reserves the right to edit all letters for clarity and brevity.
+
+Join the
+Phoenix, not a
+gang
+email phoenix@swarthmore.edu
+
+The Swarthmore Phoenix
+
+October 9, 1997
+
+Op-Ed
+Swarthmore is
+Truly Diverse
+
+Don't
+be a
+pink
+elephant
+
+Let's
+
+By Dave Gorman
+Kentucky Kernel
+You
+(U-WIRE) LEXINGTON, Ky.
+have a test tomorrow.
+What do you do? A) Watch "Seinfield,"
+B) Take a nap, C) True D) Make out with a
+girl or E) All of the above.
+If you're a procrastinator like me these
+are some of the temptations you face, when
+you should be hitting the books.
+We all suffer from procrastination and the
+stages we go through include: relaxation,
+worry, forgetfulness, more worry, all-out
+panic and then we finally study.
+If you are reading this column, then you
+are likely putting off more important matters and needlessly procrastinating. Instead,
+you should be paying attention to your professor and his boring lecture instead of
+reading my column. So go ahead, take five
+minutes to get your affairs in order.
+OK, glad you're back.
+The problem with procrastination is that
+students find themselves cramming too
+much, with too little time to really learn
+anything at all.
+Think of those cartoons you watched when
+you were younger and picture the big pink circus elephant hiding from a mouse by stuffing
+himself into a soda can. For a few briefs moments the elephant stays crammedinto the can,
+but when the mouse comes around snooping,
+the elephant must always pop out and, well,
+you know the rest.
+Just like the pink elephant, you try to fit
+massive amounts of information in your
+brain (soda can) for a short period of time.
+If you are a procrastinator
+I know you
+are
+then you probably try to cram eight
+chapters of molecular biology into your
+head the night before the test.
+You have all heard the myth that your
+brain does not absorb information past 2
+in the morning, but you want to beat the
+odds.You're tired, you want to go to sleep
+and you want the impossible "A." So what
+
+A3
+
+do you do?You
+turn it up a
+notch, your ste-
+
+reo that is. Your
+roommate
+turns to you
+
+nervously as
+the themefrom
+Rocky plays
+and he knows
+what time it is:
+It's game time
+HOOO!
+A half hour later you've somehow managed to learn the names and years of every
+American war and the Periodic Table of Elements
+backward. So now you're ready
+for the test, you're feeling good and you
+think, "I'll just lay down for a few minutes
+to refresh myself." Hours later you wake
+with a jolt of terror as you realize that your
+alarm clock has betrayed you and the test
+begins in 15 minutes.
+With boogers in your eyes and breath to
+kill, you dash out of bed, grab a ballcap, a
+blue book and pencil.
+With the hunger ofChris Farley chasing a
+Good Humor truck and the speed of Carl
+Lewis on the last leg of a 4x4 relay in the
+Olympics, you race to the classroom.
+With visions of "A"s written across the
+back of your test booklet followed by a note
+from the teacher saying, "Good job," you
+feel cool and confident. As you are nearing
+the White Hall Classroom Building, people
+split like the Red Sea as they look on at their
+fellow procrastinators passing by on Judgment Day.
+Finally you enter the dungeon of doom
+(classroom) and the casually dressed teacher
+hands out the tests.
+Why do teachers feel they don't need to
+...
+
+dress up on test days? Things that
+make you go hmmm ? With the smell of
+fear accompanied by your kickin' breath,
+you open the test. You close the test. You
+open the test again. You panic.
+You never even think of cheating because it is immoral and you also do not
+want to be that guy. You know, the guy
+who gets called out in the middle of class
+and he gets his test taken away like a puny,
+foolish, pathetic twerp.
+As you start reading the test you forget
+everything you studied the night before.
+All that information is gone. You begin
+thinking of the pink elephantpopping out
+of the can and running from the mouse.
+You want to run from the test, but you
+can't. You want to be the pink elephant.
+You love pink elephants.
+Like a blind-folded Gheorge Muresean
+swinging at a pinata you make "educated"
+guesses on the trick questions.
+All of you students out there need to
+drop procrastinating like Ric Flair in a
+DDT. If you don't, you'll end up broke
+with no job, no education and no front
+teeth, "Livin' in a van down by theriver!"
+Get ahead in life, don't be the pink elephant.
+
+talk
+bout
+diversity. Last
+week I saw a
+letter to the editor
+appear in The Phoenix that proclaimed
+the College's goal
+and purpose to provide the absolute
+best academic environment that a
+Andrew
+young college stuBryce
+dent could hope for.
+Diversity, the letter
+said, should not be
+considered a reason for recruitment or admittance to this fine institution of learning.
+The only grounds for admittance should be
+ability, the only authority, excellence, and
+it is the job of society to lead children of
+minority to excellence in elementary school
+rather than give them the illusion of it later
+on in life when it is really too late anyway.
+I thought for a long time about this. I have
+heard for a long time, long before I came
+here, that diversity is a huge societal step
+towards Utopia, that wherever you went,
+things would be fine if only diversity followed. Is this really true? What, in reality,
+does diversity do to a place like
+Swarthmore? It sounds kind of pat and trite,
+and has been beaten to a politically correct
+death to the point where anyone but the
+most devout liberal will just smile and nod
+at things such as "DiversityWorkshop", but
+I believe that diversity is the absolute, endall, most valuable virtue about which
+Swarthmore College can boast.
+I agree, it is wonderful that we can call
+ourselves the best liberal arts college in the
+country, and it is wonderful that
+Swarthmore is good and challenging
+enough that we can have t-shirts that proclaim that it would have been an A anywhere else. I love the challenge of this
+school. I have learned things here about the
+world thatI never even knew existed. But /
+do not care if we are first or tenth or fifteenth in the U.S. News and World Report,
+and / do not care if our average SAT scores
+are twenty or thirty or fifty points lower
+than their maximum potential. I do not see
+these things as the most important parts of
+the college community.
+What I have really learned here, what the
+most real and difficult challenge I have
+found here is trying to cope with the idea
+that Life is not a constant, that there are
+
+ideas and philosophies that have absolutely nothing to do with what I conceive
+of the world to be. I come from a very
+homogeneous little town where you are
+either white or hispanic and conform to
+one of two basic philosophies that really
+aren't that much different to begin with.
+Although I knew that there were other
+forms of thought, I found it very hard to
+understand and cope with. I really had no
+conception of what those other ideas might
+be until I came here. The purpose of
+Swarthmore is to replace such ignorance
+with knowledge of the world today and to
+show us again and again that there are
+other voices, and that those voices are saying things that we never would have even
+considered to exist.
+I have always thought of myself as liberal and tolerant, but I am stunned at how
+ready to accept other and alien aspects of
+the world I have become since I came here
+last year. I thrill in seeing myself finally
+taking my place in the world. I am beginning to see what the whole world is like
+beyond those aspects ofit that I have lived.
+Such vision is the highest lesson life can
+teach anyone, and it transcends Einstein
+and Descartes and Sophocles; what use is
+Sophocles if one does not truly understand
+how the world really is? I believe that I
+am learning how the world really is, and I
+attribute that to the fact that Swarthmore
+makes it a point to have a very diverse student body. Let us consider a hypothetical
+college of homogeneity. This college can
+have the best academics in the world, and
+its students can be the most intellectually
+developed in the world, but if those genius minds do not learn about the rest of
+the world other than what they study, then
+the college is not really teaching them, because they will leave the school with a very
+incomplete concept of humanity.
+Let us not lose sight of the real lesson.
+When a place like Swarthmore declares
+diversity to be a part of the admissions process, it declares in a loud voice that it has
+not lost sight of what life really is for. Really, when it comes down to it, that's all a
+college is for, isn't it, to teach people about
+different aspects of life? That is what diversity is for, and that is what Swarthmore
+does, and so let us rejoice in it and look
+upon it as Swarthmore's gift to us. Around
+us is the world, my friends. Let us never
+lose it.
+Andrew T Bryce 'OO
+
+Promise Keeper’s Rhetoric Downplays
+Women’s Victimization
+
+3y Molly Hennessy-Fiske
+The Harvard Crimson
+
+(U-WIRE) CAMBRIDGE, Mass.
+In a recent letter to the editor of the
+
+Bucknell campus newspaper, The
+Bucknellian, a female student who had
+been the victim of domestic abuse spoke
+out about the nature of her struggle against
+oppression.
+"Women who are abused are not justphysically beaten, but are brainwashed to believe
+that they deserve to be treated as less than
+human, because they are women," she wrote.
+"Abuse is about power
+the power men
+have over women in our society."
+As the conservative Christian Promise
+Keepers crowded Washington, D.C. last
+Saturday for
+"Standing in
+iff
+the Gap," a
+national convent i on
+aimed to save
+the souls of
+errant husbands, attention was diverted from
+the fact that
+every
+six
+hours
+a
+woman dies in the U.S. as a result of domestic violence. The real problem behind
+marital abuse
+women's second-class status
+was ignored altogether as men
+bonded over Bibles, doing their best to suppress women&sup 1;s voices with a mix of
+secrets and lies.
+Promise Keepers president Randy
+Phillips told The NewYork Times that, "We
+are not a political organization. We do not
+have any political goals." Someone should
+let Promise Keepers supporters and religious-right politicos from Pat Buchanan to
+evangelists Dale D. Schlafer and Billy Graham in on that secret.
+"God is not calling us to a playground,
+he is calling us to a battleground," said Graham in a video-message presented at
+"Standing in the Gap." "This is warfare,
+and we are at the center of the battle."
+How do you combat spousal abuse when,
+for example, a man grows frustrated by his
+nagging wife and decides to beat her for
+being the breadwinner?
+"Sit down with your wife," recommends
+
+Promise Keeper spokesperson Tony Evans,
+"and say something like this, 'Honey, I've
+made a terrible mistake. I've given you my
+role. I gave up leadership of this family :
+now I must reclaim that role.' There can be
+no compromise here. If you're going to lead,
+you must lead."
+Promise Keepers are the latest line of defense for the religious right, and their weapons ofchoice are lies.
+Women are lied to by men who promise
+love and keep abusing them in the interest
+of Christian patriarchy, and both women and
+men are lied to by a group of men that say
+the inequity of women's work garnering low
+pay and little respect is not only
+logical but justifiable.
+Promise Keepers are right to encourage
+men?especially
+abusive men
+in
+stepping forward
+and asking for
+are
+help. The secret is
+that both men and
+ll women
+appreciate
+the potential joys
+of married life; both men and women enjoy
+raising families and participating in community networks and both men and women
+would like to avoid the emotional and economic trauma of divorce.
+So why, if communication and understanding are mutual goals, should one gender
+choose to wage war on the other in the interests of discussion?
+"Promise Keepers gives moral legitimacy
+to men who wish to regain power," said
+Promise Keepers spokesperson Jay Coakly
+in a recent NewYork Times interview. "Men
+in general, and white men in particular, feel
+they haven't been treated fairly and they
+need to get together to make sure that won't
+happen in the future."
+If you switch the word "men" to "women,"
+that statement sounds a lot like what Patricia
+Ireland has been saying about women's
+struggle for equality ever since she became
+president of the National Organization for
+Women (NOW), a group that Promise Keepers so staunchly opposes.
+
+Promise Keepers are the
+latest line ofdefensefor the
+religious right, and their
+weapons of choice
+lies.
+
+—
+
+As Ireland noted in reponse to recent
+Promise Keepers critiques of NOW,
+women's bodies are not broken by abuse
+because they can't make the marriage
+dream work and exclusive male groups
+will do little to solve the problem. Women
+like Ireland who fight for their right to be
+equal and who often consider themselves
+feminists are not, as Coakly says, "Just
+looking for the right man to lead them'
+they are taking the lead.
+It is significant that as hundreds of thousands of men crowded onto the Mall last
+Saturday, not one single woman was to
+
+7»
+
+denial continues, the chances are that current undergraduates will soon count them-
+
+selves among the casualties.
+If Promise Keepers are genuinely interested in helping women, they should stop
+battling us
+assuming that their actions
+are in our best interest
+and start talking.
+Productive conversations between spouses,
+brothers and sisters, or between male and
+female co-workers encourage the abused
+to speak out against domestic violence. And
+they unearth the false assumptions Promise Keepers make propagate a patriarchal
+inequality through secrets and lies..
+
+Contributing
+Condoms
+
+(U-WIRE) ATHENS,
+Ohio
+A New York University study says condom
+distribution in high schools
+does not increase sexual activity, only safe sex.
+The study, conducted during the 1994-95 school year,
+compared demographically
+similar schools in NewYork
+City, where there are condom programs, and Chicago, where HIV and
+AIDS are taught but
+condoms are not
+provided.
+Increased
+sexual activity
+i
+one I
+
+By The Post Staff
+The Post (Ohio U.)
+
+of/
+
+critics'
+—-"
+
+be spotted among the Bible-toting
+milieu?except those vending concessions
+and souvenirs.
+Promise Keepers is fighting to subdue
+budding female leadership in America.
+Therefore, it comes as no surprise that campus conservatives recently brought the
+message home in debates at Harvard.
+If, as Promise Keepers contend, personal
+happiness for women derives from a devotion to men, then American women must
+be very happy indeed, for we are currently
+making the ultimate sacrifice: our lives.
+If the trend of abuse and conservative
+
+most frequently cited argu-
+
+ments against school condom programs. The logic goes that if you give
+teenagers condoms, you are, in a sense,
+giving them permission to have sex.
+The study disproves that argument. The
+rate of sexual activity has not increased
+this year, a positive step forward for the
+schools. This study shows schools can
+
+make a real difference in young
+people's lives by actively promoting safe sex and responsibility.
+It is about time. About a quarter of
+new HIV infections and three million
+other sexually transmitted disease cases
+occur in 13- to-19 year-olds.
+Although only one-fifth of sexually active students reported receiving a condom
+from school, those having frequent sex received school condoms more often than
+students who have less frequent sex. This
+shows students know the dangers of their
+behavior and are doing something about
+it.
+We cannot deny that high school students
+are having sex. The same study shows
+nearly one in 10 New York City students
+reports having three or more partners in six
+months. This is a situation that can no
+longer be ignored. Condom programs in
+
+schools are actively combating the dire
+consequences of unsafe sex.
+In New York City, specially-trained
+teachers make condoms available in special health resource rooms. It is intimidating for young people to go to authority figures and ask for condoms. It is a good system but could be better. Instead, vending
+machines in bathrooms or locker rooms
+would make access easier for students.
+School personnel do not have to be involved.
+We can either ignore the problem and
+watchyoung people die from AIDS related
+conditions or other sexually transmitted
+diseases. Or we can give students the information and the tools to make the choice
+to save their own lives.
+We congratulate the New York City
+school system on their success and hope
+to see more of it in Ohio.
+
+The Swarthmore Phoenix
+
+A4
+
+October 9, 1997
+
+NEWS
+
+Preferential hiring of 3 Black
+faculty at WSU called illegal
+By
+
+Morning shuttle service to begin after break
+
+amiss.
+
+Juanita Driscoll
+
+Daily Evergreen
+
+(U-WIRE) Preferential hiring is
+future for Washington
+State University.
+At a meeting with the NAACP in
+Spokane, WSU administrators announced three black faculty would
+be preferentially hired by the end
+of the school year.
+Now, officials say the statement
+was misrepresented. "It is illegal
+to have set asides," Provost
+Gretchen Bataille said. "We can't
+do it."
+Instead, the university is looking
+into programs to provide opportunities to diversify the makeup of the
+WSU faculty.
+Thus far no progress has been
+made. "Nothing's been done,"
+Bataille said. "I'm waiting for recommendations from the deans."
+Neil Walker, who was present at
+the late-evening NAACP meeting,
+said at the time the statement was
+made, he knew something was
+not in the
+
+The Budget
+Committee recently
+approved a plan for
+morning shuttle
+service toPPR and
+Mary Lyons.
+Shuttles will run
+from the dorms to
+campus every 20
+minutes between
+8:00 and 10:00 am.
+The plan will go into
+effect on a trial basis
+after October break.
+All students
+interested in driving
+the shuttle should
+contact Budget
+Committee
+Treasurer Vincent
+I Jones at vjonesl or
+|J at ex. 3566.
+
+"I'm not calling them out, but I
+want them to be accountable for the
+successful recruitment and retention of people of color," Walker
+said.
+The three-hour discussion centered around the "Black Exodus,"
+a term used by several in the WSU
+community to describe the departure of 16 Black faculty and staff
+members over the summer.
+The predominately AfricanAmerican audience wanted to know
+why 16 Black faculty and staff left
+the university.
+University officials restated their
+claims ofcommitment to diversity
+on campus. Bataille said the commitment is still intact.
+Others who attended the meeting
+are upset and leery of the
+administration's pledges. Student
+Ed Prince wonders if the session
+had any productive outcomes.
+"At the time, I felt they were making progress. Now I'm wondering
+if they've been honest with us the
+entire time," he said.
+
+*
+
+>
+
+U. Perm police target parties in fight against alcohol Tufts crewers find corpse
+lan Rosenblum
+
+Daily Pennsylvannian
+
+(U-WIRE) Spurred by a recent
+rash of alcohol-related assaults, University of Pennsylvannia and state
+police officials plan to step up their
+fight against underage drinking
+putting a new emphasis on patrolling rowdy private parties.
+In a recent forum on the issue, University Police and the state Liquor
+Control Enforcement Bureau emphasized plans to attack the problem
+from many angles, including citing
+restaurants and bars that sell to minors, arresting students who break
+liquor laws or shutting down campus parties if they violate the law.
+Police representatives opened the
+meeting with Penn and Drexel University officials and local bar and
+restaurant owners as part of efforts
+to explain everyone's responsibili-
+
+ties clearly and answer any questions
+about police policy.
+Director of Police Operations
+Maureen Rush praised most area liquor license holders for following
+the law, noting that University Police focuses much of its efforts on
+combatting underage drinking at
+parties.
+"By no means are we saying that
+restaurants and bartenders are the
+only concern," she explained.
+Managing Director of Public
+Safety Tom Seamon added that University Police "will be stepping up
+our enforcement, and much of that
+will be directed to private parties."
+The LCE will continue to play an
+important role in the effort by "intervening" in parties that spill out
+into the street and "going in and
+making arrests" at open off-campus
+parties charging entrance fees, LCE
+supervisor Gary Kardisco said.
+the LCE can cite students at such
+events because parties that spill onto
+
+PART-TIME
+EMPLOYMENT
+OPPORTUNITIES
+Residential Staff
+$7-$lO per hour
+•Gain experience while working towards your degree
+•flexible weekend and evening hours
+•Flexible fulMime schedules
+•Benefitslnclude tuition reimbursen
+2, Devereux is the nation's largest
+-profit provider of treatment services
+adolescents, and adults who have
+J behavioral and developmental disabilities.
+r programs in campus-based, community, and
+ient settings.
+
+located
+
+on Boot Road in West Chester, Devereux's
+Kanner Center provides campus-based and community
+services to individuals aged six to young adult.
+Currently, we are accepting applications for part-time
+and full-time Residential Staff.
+Individuals with educational, social work, criminal
+justice, and/or psychology backgrounds usually excel
+in Residential staff positions. However, individuals with
+a caring, nurturing approach to service generally meet
+the needs of the position. To qualify, you must have a
+driver's license and a high school diploma.
+At the Kanner Center, we expect quality and commitment from our employees. In return, we offer an
+innovative work environment, competitive rates
+($7.00-$lO.OO per hour depending on position,
+education, and experience), benefit plan options for
+full-time positions and opportunity for growth.
+
+For applications, please contact:
+
+Devereux
+Kanner Center
+Human Resources Department
+390 E. Boot Road
+West Chester, PA 19380
+(610)431-8127
+
+the streets violate the law, he explained. Additionally, houses holding parties that charge admission are
+no longer legally considered private
+homes.
+Kardisco refused to say how often
+LCE personnel are at Penn, although
+he acknowledged that "we're on
+campus a lot" and that his officers
+"routinely travel through campus."
+Throughout the meeting,police officials stressed the seriousness of underage drinking and the violence it
+
+complaints revolved around perceptions that police and the LCE crackdown on them while virtually ignoring private parties held by students.
+"The most frustrating part of the
+whole thing is that there's minors
+drinking throughout the campus and
+the University tolerates it, the LCE
+tolerates it, everyone tolerates it,"
+Cavanaugh's owner Bill Pawliczeck
+said in a separate interview. "But as
+soon as it happens in my business
+establishment, it's not tolerated."
+
+can cause.
+Seamon expressed shock at the
+high level of alcohol-related violence so far this semester.
+"We don't know if it's the phase
+of the moon or what, but it's a different flavor this year," he noted.
+Four violent incidents last weekend were attributed to alcohol, and
+police now say alcohol-related violence has forced itself to the forefront of their agenda.
+Most of the owners' questions and
+
+In choosing to focus on how much
+students drink instead of whether
+they drink at all, many at the meeting admittedthat stopping underage
+drinking altogether wouldbe impossible.
+"I'm not so naive as to think we're
+going to stop college students from
+drinking," Kardisco said. "The thing
+is, what we can do is to tone it down
+or to have students drink in moderation."
+
+SCLP helps teens
+from SCLP, AI
+various roles within groups: an
+excercise which served as a good
+allegory for the importance of the
+roles each girl has in her family
+and in her relationships with her
+friends, school, and community.
+The S.C.L.P coordinators have
+since been giving lectures on the
+need for mentors for adolescent
+girls. They continue to meet once
+a month with the girls from this
+
+summer, and have just begun
+planning for next year.
+The S.C.L.P. will also publish
+a newsletter discussing its activities every semester.
+The S.C.L.P coordinators are
+now seeking new mentors for another group of adolescents next
+summer. A planning and recruiting meeting last week brought in
+several interested Swatties who
+all want to do their part to help a
+group of girls get through the hell
+we all know as adolescence.
+
+By
+
+you're going to see a body floating;
+in the river," he said, "It was a tad,
+'_
+disturbing."
+Wolf said he spoke to the police
+
+Leah Massar
+Tufts Daily
+
+'
+
+(U-WIRE) Members of Tufts
+men's crew were shocked to encounter a dead male body floating in the
+Charles River during the team's practice on Saturday.
+"We came under the BU Bridge
+and I noticed something odd in the
+water. After a second glance, I realized it was a dead body," said coxswain Kendal Wolf.
+Although it was unsafe to stop the
+boat under the bridge immediately
+after noticing the body, Wolf explained that the rowers stopped as
+soon as they could and notified their
+coach.
+Coach Peter Velyvis explained that
+although he was in a boat near the
+rowers, he did not see the red-shirted
+body at first. He said heknew something was wrong when he noticed the
+team members' look of surprise at
+the sight.
+"I drove right over to the BU boathouse and called the police. They
+showed up about a minute-and-ahalf later," the coach recalled.
+Members ofthe team said that they
+did not believe it was a dead body at
+first. Their descriptions of what they
+originally thought the object was included a mop, a log, and a BU prank.
+"What I had seen was him doing
+the dead man's float with his head
+turned sideways, like the dead man's
+float you learn in swimming lessons," Wolf said.
+Senior rower Kraig Parkinson explained that the sight surprised all the
+men in the boat. "You don't think
+
+EXTRA INCOME FOR '97
+
+Get ready to join the...
+
+Dynamic Industry Leader That Has
+Openings For Full-Timers And Part-Timers
+In Horsham Ft. Washington, PA!
+
+Earn $5OO $lOOO weekly stuffing
+envelopes. For details RUSH $l.OO
+with SASE to:
+OROUP FIVE
+-
+
+-
+
+6547 N Acidtmy ■lvd.Dopt N
+Colorado Springs, Co. 80918,
+
+£
+
+The Prudential Insurance Company of America
+is one of the largest, diversified financial
+services institutions in, the world and, based
+on total assets, the largest insurance company
+in North America. Prudential has positions
+available in Finance, Administration,
+Information Systems, Healthcare,
+Underwriting and Customer Service.
+
+If you would like to be
+
+Prudential offers a
+great benefits package
+which includes 90"»
+
+tuition reimbursement
+for higher level
+education.
+
+later on Saturday and was told that
+the body was still unidentified, but.'
+the man was approximately 30 years'.
+old and had been in the water for a
+few days prior to being found. The,'
+police, however, did not think he was'.
+homeless, like the majority of bod;'
+ies the police find in or near theriver.'.
+According to Wolf, the police of*'
+ficer told him that this was the 12th'
+body found near the river this year.'
+"He was surprised that I was shocked,
+about this," he said.
+Sophomore rower Dan Bronson'
+said that although the team contin-'
+ued to practice, many members con-'
+tinued to wonder about the body.
+"Right when I realized it was'
+someone dead, I wanted to go back
+and look at it," Bronson said. He
+added, however, that the rest of the
+rowers did not want to return.
+"At one point, I sort of got an ur>
+set stomach," Parkinson said. He
+said, however, that he quickly re-'
+gained his concentration and that the'
+incident will not keep him from rowing everyday. Recalling problems in
+the river last year, he added, "And
+people thought the bacteria was bad"
+Velyvis and several of the rowers
+said that the incident affected the rest
+of practice. "You could telleveryone's mind wasn't really into
+practice," senior co-captain David
+Hassell said.
+But the rowers maintain that thes
+had fully recovered by their race oit
+Sunday, where they placed second.
+"Kendal told us to take ten strokes
+for the dead guy," Bronson said.
+
+considered for any of these positions, send
+a scannable (clean, clear, no graphics and
+preferably unfolded) resume with salary
+requirements and Job Code: PAROS7BCOL
+for entry in our central resume database:
+Prudential Regional Employment Center,
+100 Mulberry St.,2 Gateway Center Four,
+Newark, NJ 07102. Positions located in Fort
+Washington and Horsham, PA. Only those we
+are interested in interviewing will be contacted.
+Bilingual individuals are encouraged to apply.
+We are an equal opportunity/affirmative action
+employer and are committed to diversity in our
+workforce.
+
+Job and Directions Hotline:
+215-956-3980
+htrp://www.prudenh'al.com
+
+"'EARN FREE TRIPS & CASH!
+CLASS TRAVEL needs students to promote Spring Break 1998!
+Sell 15 trips & travel freel Highly motivated students can earn
+a free trip & over $lO,OOOl Choose Cancun, Bahamas,
+Mazatlan, Jamaica or Florida! North America's largest student
+tour operator! Call Now! 1-800-830-6411
+"•
+
+Are Hives Complicating
+Your Life?
+Consider participating in a clinical trial
+for individuals with chronic hives. If you
+are 12 years or older you may
+be eligible for:
+
+\
+
+By
+
+*
+
+*
+
+FREE EXAMS FREE TESTS
+FREE STUDY MEDICATION
+STIPEND
+*
+
+*
+
+*
+
+*
+
+*
+
+AA/EOE. Drug-Free Workplace.
+Drug Testing Required.
+
+www.devereux.org
+
+Vs Prudential
+
+If interested call (215) 572-9910
+Participation dependent upon eligibility
+
+I
+
+Phoenix
+
+October 9, 1997
+
+—
+
+Quick Read
+
+In the Next Issue:
+
+-
+
+Skydiving spectacular!
+Living & Arts editors
+'Patrick Runkle and Lii
+Cho are taking the big
+leap this fall break and will be back
+next issue with an electrifying report. The Living & Arts editors wish
+everyone a happy and safe fall break.
+And remember, if you must use
+force aim for the eyes and groin.
+
+The
+poet's
+voice
+Last Sunday,
+four of my friends
+and I decided to
+head down to the
+Painted Bride Arts
+Center in Philadelphia to hear a poetry reading by local poet Major
+Jackson and the
+
+Cathy
+Muller
+
+A5
+
+LIVING &
+
+arts
+
+Sea snakes come to the surface of the sea to
+breathe but they can stay under water for up
+to eight hours. They are able to accomplish
+such a feat due to the fact that they are mostly
+lung; it even occupies the space right up to
+the tip of the tail. Sea snakes are about ten
+times more poisonous than the most poisonous land snake. Some snakes' venom is strong
+enough to kill within 3 or 4 seconds.
+
+In SEARCH OF ,,,SHARPLES II
+SHARPLES II
+
+unbelievable
+
+Sharon Olds. We
+piled into Ayesha's
+cute, little (and I
+repeat
+little) car
+Poetry Beot
+and headed for this
+charming venue. There's nothing like the
+cjpwn car effect for the long drive into
+Philly. We chugged off down the road,
+back up the road, down a different road,
+around in a circle, back again, and finally
+found the 230 Vine Street. In case you
+haven't been there, the Bride is breath''
+taking. Its exterioris completely covered
+by a collage of bright paint, pieces of ceramics, and broken mirrors, to create an
+effect of a circus splashed up against a
+wall. The interior is no less beautiful: It
+holds a small gallery and two well-arranged performing art spaces. The air is
+comforting and full with lingering scents
+of good perfume, coffee, and wood floors.
+Unfortunately, we didn't have time to
+truly appreciate these sensory joys, since
+we were almost half-an-hour late. We
+% were rushed up and down stairs while the
+usher searched for more chairs for us. In
+the end, only two couldbe found, because
+the place was packed. We made do with
+stairs and settled down to hear the end of
+Jackson's reading. One remarkable element of his reading was the quiet irony
+.
+
+see OLDS, B3
+
+Denmark
+markedly
+different
+I hope that some
+of thedetails on my
+list from last issue
+cause you to reexamine your ideas
+and assumptions
+about America as I
+was forced to do on
+a daily basis during
+my experience
+abroad.
+How could I explain to a Danish
+Gross
+teenager that there
+Denmark
+is (probably) more
+to Minnesota than
+just the fact that "Brandon and Brenda
+from 90210 were born there"? What
+would make my host father accept that I
+genuinely do not want to put ketchup and
+peanut butter together on everything that
+I eat? How do I convince a Dane in a
+disco that the name of the American guy
+I am with is not Michael Jackson?
+On the other hand, why do I cross the
+street when the light is red (Danes will
+wait for a green signal even if there are
+no cars around for miles)? Why do I assume that when I purchase groceries a bag
+will automatically be included (in Denmark it is not)? Why do I expect conversation from people who I see everyday
+during my daily commute (Danes are said
+never to talk on trains)? From seemingly
+mundane questions such as these to larger
+questions such as those discussed above,
+every day I was confronted with issues
+of cultural difference and was forced to
+try to reach at least a tentative resolution,
+if only for the purpose of sanity.
+In Copenhagen I lived with a host family in a residential area west of downtown
+named Vanlose. This necessitated a 13
+
+Wilson Kello
+
+by Kae Eisdorfer
+
+Wf
+
+here, and what, is Sharpies II?
+It follows from simple logic:
+There is Sharpies Dining Hall
+(presumably Sharpies I), and Sharpies 111, but
+no Sharpies 11. I think that most of us have it
+in the back of our minds that there must be a
+
+Sharpies II somewhere.
+Is Sharpies II under our noses, and we don't
+even know it? Could it be underground, or
+nestled in the Crum Woods beside the
+
+Voorhees residence? No one seems to know.
+So I went in search of Sharpies 11, trying to
+
+Jennifer
+
+see DENMARK,A6
+
+see
+
+SHARPLES 11,A6
+
+Observatory night gazes upward
+by Elizabeth Cho
+
+Stars
+
+courtesy of www.yahoo.com
+
+Mighty Saturn, its rings never visible to the naked eye, is captured
+here by a CCD camera like the one Sproul observatory has.
+
+are beautiful when viewed with
+the naked eye; I have often lain in the
+grass in rural Pennsylvania and stared
+in awe at the sparkling orbs of light.
+However, when planetary bodies are seen with
+a telescope, their details spring at you—what
+seems to be a ball of white fire is a planet with
+scarlet rings. It has the air of an epiphany—the sudden understanding of what was previously unknown.
+This past Tuesday, on October 7th, the Physics and Astronomy department held a Sproul
+Observatory Visitors Night. There were few
+Swarthmore students at the event, but a high
+school teacher brought a bevy of his students
+from the Christian Academy in Brookhaven.
+The teenagers expressed enthusiasm for the
+field trip; they eagerly lined up to look at Jupiter and Saturn. It was stunning to see the red
+rings and four moons of Jupiter through the
+telescope; without its magnifying power, the
+planet looks much like the stars in the sky.
+Many of the Brookhaven students seemed especially excited to see the moons of Saturn.
+
+Usually, visitors look at stars as well as planets, but Christian Academy teacher felt that
+planets would be more enjoyable for his students.
+There were older people who were in their
+late fifties at the Visitors Night as well. They
+chatted warmly with the teacher from the
+Christian Academy; there was a familial air to
+the entire gathering. The shared wonder
+seemed to make people more friendly. The
+adults discussed Galielo and his fallout with
+the Catholic Church while the teenagers chattered among themselves.
+If you missed the Visitors Night this week, it
+will also be held on October 14. On the second Tuesday of every month, an open house is
+held at the observatory.
+Another way to take advantage of the telescopes on campus is to reserve the observatory on your own by talking to Wulff Heintz,
+an astronomy professor. Heintz, an expert on
+binary stars, will take you into the observatory and show you how to operate the telescopes.
+
+The Swarthmore Phoenix
+
+A6
+
+October 9, 1991
+
+Olds carries strong voice of honesty
+5
+
+from OLDS, A
+
+and slightly angry laughter that was
+sitting on the inside edge of each
+of Major Jackson's poems. His
+tone was peaceful enough to allow
+the listener in, yet bold enough to
+convey his strong messages about
+African-American youth. Sharon
+Olds had a similar technique, although her lightness of tone rested
+only in her speaking voice, not in
+the words of thepoems themselves.
+The poems dealt with serious topics, such as the pain involved in her
+
+relationships with her daughter and
+her father, growing older, and marriage, yet her vocalization of them
+made them seem as if they were
+inside jokes she was sharing with
+us. This made them strike us even
+deeper, because we were invited to
+laugh and then were shocked to realize that we couldn't. Of all the
+poems, the one that touched me the
+most deeply was entitled "Hair." It
+told of a character who, at 53, collected her gray hairs and let them
+fly out on the wind every night so
+that the birds could build their nests
+
+from them. Her husband thinksthat
+it's silly, and so she stops for a
+while, but then begins her collection again. In the end, she brings
+them out to the birds so they may
+see what she has created, how each
+hair is like a palpable tear. The final lines poignantly connect this
+tale to the issues of being at the
+middle of your life, having created
+so many silver hairs and desiring
+that they can continue after you are
+gone.
+The presentation left me with a
+feeling of calm, because Olds' per-
+
+spective on life was extremely per- '■>
+ceptive and reassuring. I encour->
+age everyone to read some of her/
+work, to have a taste of the hoW-.
+esty, plainness of language, and
+strength of voice that is possible in
+poetry. Also, be sure to keep an eye
+out for upcoming events at The
+Painted Bride, since it is a comparatively intimate and inexpensive
+venue, dedicated to allowing art of
+all forms to come to life. The readings by Major Jackson and Sharon
+Olds were part of the Bride's "Living Word" series.
+*
+
+*
+
+Sharpies II could possible have been a pool
+of olden times that mysteriously burned down
+from SHARPLES 11,A5
+
+courtesy www.yahoo.com
+
+Chuck Norris whips out the big guns while singlehandedly saving the United States of America. Chuck
+does what he has to do to the the job done.
+
+unravel the Sharpies Enigma
+once and for all.
+A quick look at a Chronological
+List of Swarthmore Building Acquisitions asked more questions
+than it answered. There were two
+references to a Sharpies Swimming
+Pool, and one of the references says
+that the Sharpies Swimming Pool
+was destroyed by fire in 1965,
+while the other claims it was demolished in 1988. But there's nothing in the book refering to any
+building as Sharpies 11. Could the
+
+Sharpies Swimming Pool be the
+object ofmy search? Or is it a ruse,
+concocted by the administration to
+cover the existence of the 'real'
+Sharpies II? I needed to find out.
+So, working from an Artist's rendition of what Sharpies II could be
+(above), I took an aerial survey of
+campus to make sure there's nothing I was missing. But Sharpies II
+still didn't turn up.
+In desperation, I went to the Friends
+Historical Library (a greatresource, by
+the way) where Mary Ellen Chijioke
+offered to solve the mystery.
+After pointing out that everyone
+
+on campus mispronounces
+Sharpies—it should be 'Sharpless'—she said that the lodges located near the Sharpies Dining Hall
+are supposed to be "The Sharpies
+Lodges," probably just because of
+their proximity to the Dining Hall.
+All of them were frat houses when
+originally constructed.
+Stunningly, the Dining Hall isn't
+Sharpies I, as I had previously thought,
+but, instead, Sharpies I would be one
+ofthe lodges, as would be Sharpies
+11-IV. The other buildings, of
+course, are known by other names,
+and the ownership of the DU house
+
+has not reverted to the College yet,
+so it can't technically be counted
+as one of the Sharpies lodges.
+While I'm thankful to Mary Ellen<
+for this information, the overall
+vagueness of the answer, coupled
+with
+the
+rampant
+mispronounciation of its name and
+the 'missing' Sharpies Swimming
+Pool, all make me suspicious that, a,
+massive cover-up was initiated to
+disguise the original location and
+true intent of the Sharpies II buikU
+ing. Anyone who has information
+on this can come forward by emailing phoenix@swarthmore.edu.
+
+Denmark: not as rotten as
+you would think
+50's with four children to be married are
+called into question. You are obliged to
+reshape your notions of your world and
+your place within its suddenly unstable
+boundaries. One might call it culture
+shock.
+By giving it this label, one obscures the
+highly individual nature of a dynamic process of encounter and interpretation. For
+example, during a paper presentation seminar for my marine ecology course in Denmark, a student was questioned about the
+validity of his sources by my professor, to
+which he replied with something like "Oh,
+you know, some people will do anything
+just to get published. It's kinda hard. Look
+how long you have been trying". It would
+have been easy to attribute my amazement
+with this level of familiarity and jocularity
+that is acceptable between students and
+teachers in Denmark to culture shock.
+Rubber-stamping my reaction as culture
+shock might have prevented me from examining in more depth the source of my
+response to this situation, which I believe
+is rooted in the relative formality of teacher/
+student relations at Swarthmore.
+Have you ever met an 18-year old Austrian shoemaker leaving her family in
+search of an apprenticeship in Venice at
+Sharpies dinner? I have not, but I ran into
+one in Europe. Everything seemed possible when I was living in Denmark. A
+Friday afternoon without classes became
+a weekend trip to the Czech Republic or
+an overnight train ride to Oslo. No moment was left unfilled, whether it be with a
+celebration of the Queen's birthday at
+
+from DENMARK.AS
+minute train ride into the city followed by
+a 10 minute walk from the main station in
+order to reach the DiS headquarters. My
+biology classes took place outside of a town
+called Roskilde, a 20 minute trainride from
+Vanlose. This commute required switching lines in the town of Valby, followed by
+a 2 km walk to the classroom building. An
+average day in Denmark involved at least
+an hour and a half in transit, and compared
+with other DiS students, I lived relatively
+close to the center city.
+This was a completely different game of
+numbers than the one I play every morning at Swarthmore. No longer was nine
+minutes sufficient for me to arrive at class
+on time. "Snoozing" was no longer a viable option unless I wanted to set my alarm
+for 5 a.m. Imagine requiring a time investment of an hour if you accidently forgot
+the add/drop form at home that must be
+turned in by noon that day? Imagine sitting on a train every morning deciphering
+advertisements you cannot read and listening to hushed conversations you cannot
+understand? Imagine not being able to
+speak the same language as the person who
+makes your grilled sandwich in Tarble?
+What would make me, or any Swarthmore
+student, abandon the ease and familiarity
+of our cozy community and daily lives for
+the proverbial "great unknown"?
+Making the decision to study abroad and
+following through with that resolution is a
+bold endeavor. Even assumptions as seemingly basic as expecting a couple in their
+
+Top Ten
+
+Jukebox Tunes at
+
+Sharpies:
+
+Jen Gross-
+
+Prince Hamlef s castle.
+Amalienborg Palace, an afternoon at the
+Hall of Viking Ships, a school-sanctioned
+field trip to the Carlsberg Brewery, or wonderful nights of dancing and skal (Danish
+for 'cheers') in downtown Copenhagen
+with friends from across the world.
+People choose to study abroad and to
+travel for many different reasons, ranging
+from a desire to "experience the world" to
+a need to escape from unhappy social/academic situations. Yet unless you spend
+your entire experience abroad holed up in
+
+your room consuming American novels or
+in a computer lab trying to remain connected to Swat life via e-mail, I think it is
+fair to assert that every individual who
+elects to study abroad is forced to undergo
+this process of confrontation and change.
+I posed the question earlier as to why a student would willingly abandon that which
+is comfortable and understood for the unknown. I believe that it is for the allure of
+the prospect of transformed dimensions, of
+accelerated change itself.
+
+What do these changes imply for a student returning to Swarthmore from Denmark, Nepal, or Madagascar? Is foreign
+study an act that can only affect the individual involved? What does it mean for
+the Swarthmore community to have a large
+number of swollen-headed students wan
+dering around who believe they have "seen
+the world" and now, in spite of these experiences and their associated changes, are
+confined once again to our slower-paced
+corner of the world?
+
+:
+
+HOW TO RESUSCITATE A LIZARD
+
+1. Queen -Another One Bites The Dust
+
+2. Rick
+
+James-Superfreak
+3. Journey- Don't Stop Believin'
+
+4. Chic- Le Freak
+5. Lakeside- Fantastic Voyage
+
+6. Aerosmith- Dude Looks Like A Lady
+7. Four Seasons- Oh What A Night
+8. Van Halen- Dancin' In The Streets
+
+9. Donna Summer- Last Dance
+10. Righteous Brothers- Unchained
+Melody
+
+-compiled by Rory Alarcon
+
+Hear
+the
+Red
+Tide
+Wed.
+morn
+
+2-3A.M.
+91.5
+WSRN
+
+ALLERGY & ASTHMA SPECIALISTS, P.C.
+CLINICAL RESEARCH CENTER
+
+If you or anyone you know suffers from ASTHMA, you may
+qualify to participate in one of our CLINICAL RESEARCH STUDIES.
+
+source: The CoEvolution Quarterly/David Sun
+
+\roL)\
+
+We provide:
+
+z
+
+?
+
+p
+
+FREE EXAMS
+
+&
+
+FREE STUDY MEDICATIONS
+FREE LAB TESTS
+PATIENT STIPEND(PAYMENT)
+Our offices are conveniently located in
+
+JENKINTOWN and LANSDALE
+
+ii
+
+<A«Aj
+
+215-572-9910
+
+Vi<« bzobb
+
+Council Trawl
+CIEE: Council on International Educational Exchange
+
+3606 A Chestnut Street
+Philadelphia
+
+For more information, call:
+
+■I
+
+(215) 382-0343
+
+The Swarthmore Phoenix
+
+October 9, 1997
+
+SPORTS
+
+Intramural
+By
+
+sports
+
+before the playoffs. Both the 1-20
+
+Annie Bacon
+
+Currently there are two unde-
+
+feated intramural soccer teams: the
+Fabulous Faculty and Stupendous
+Staff and the Willets Hoodlums.
+
+Two weeks ago the Faculty/Staff
+defeated a scrappy Willets
+iasement squad, and last week they
+defeated last year's champions, the
+Latin Lovers, 4-1. Things have not
+been going so well however for the
+ML Posse, who lost to the Latin
+Lovers 1-5, and to the 1-20 team 212. However they still have time
+
+Seam
+
+team and the Willets Hoodlums
+managed to shut out Fuhgetaboutit
+
+5-0 and 4-0, respectively. The other
+Willets team however, Willets
+Basement awarded the Pittbulls
+their first victory of the season,
+when they lost in a close 0-2 match.
+The Pittbulls lost the previous week
+to Scarlet Begonia, 0-8.
+On the Wallyball courts, Da Dana
+Ducts were awarded a forfeit win
+over the Happy Onions. Willets
+Basement finished strong with a 21 win over the Ultimate Martial
+
+update
+
+Arts Experience. Playoffs will begin after fall break.
+The upper campus walkways
+were the sight of some blazing skaters on Saturday morning. The
+course was a different one from last
+year, this year's being much faster,
+with more obstacles. Matt Schultz
+('00) was the men's winner with a
+time of 6:38. Coming in at a close
+second was the Mad Duck, Martin
+Krafft('ol)withatimeof6:42. In
+the Women's division, Chancy
+Schulte ('00) crossed the line with
+a 10:06 time.
+
+Warmothers end a whirlwind
+7
+
+see ULTIMATE, A
+
+pSst, all the games with the Venus
+team have been close. Swarthmore
+scored early in the game, playing
+with great flow, strong defense, and
+few turnovers. They managed to
+take the lead 3-1, before the worried Venus team called a time out,
+after which Swat's rhythm was disrupted. UPenn began to make
+fewer turnovers, and be more aggressive on the defensive blocks,
+eventually beating Swarthmore 13-6.
+
+The third game on Saturday was
+against Rutgers University. The
+points lasted very long, as Rutgers
+had many of their rookies in, however they still managed to beat the
+Warmothers 13-2. Co-captain,
+Mandy Hourihan '9B was out for
+half of the game due to a build up
+of injuries, the most recent of which
+was a head concussion.
+The quickest game ofthe day was
+against the team who endedup winning the entire tournament, and
+who will go onto Nationals, the fa-
+
+INFORMATION FAIR
+
+GRADUATE
+
+season
+
+Field Hockey
+
+SwaTthmore
+
+Johns Hopkins
+Gettysburg
+Dickinson
+
+9-2-0
+11-1-0
+8-3-0
+7-5-0
+3-8-0
+
+2-3-0
+2-4-0
+0-5-0
+0-5-0
+
+4-8-0
+3-8-0
+2-10-0
+2-10-0
+
+2-3-0
+
+Muhlenberg
+&
+
+5-1-0
+4-1-0
+4-1-0
+4-1-0
+3-2-0
+
+W-L-T W-L-T
+
+Washington
+
+Franklin
+
+Conf
+
+Over
+
+COLLEGE OF COMMERCE & FINANCE
+COLLEGE OF ARTS & SCIENCES
+COLLEGE OF NURSING
+COLLEGE OF ENGINEERING
+SCHOOL OF LAW
+DIVISION OF PART-TIME &
+CONTINUING STUDIES
+
+However the season doesn't have
+to end here. The team will continue
+to practice and scrimmage with the
+men's team to prepare for a co-ed
+tournament on October 26, andpossibly other tournaments.
+
+Marshall
+
+iyestern Maryland
+Mawr
+Haverford
+
+4-6-0
+
+Cross Country Men
+
+Mlentown College (6 teams)
+Bowdoin 15, Swarthmore 50
+Bowdoin 15, Muhlenberg 50
+Swarthmore 18, Muhlenberg 32
+Swarthmore 18, Susquehanna 43
+Swarthmore 24, Allentown 31
+Lebanon Valley 28, Muhlenberg 27
+Muhlenberg 20, Susquehanna 36
+Muhlenberg 33, Allentown 24
+1.
+
+Michael Mouradian, B
+
+,3>BillMcElroy,M
+'James Batzel, M
+rfftr
+I2. JeffDoyan,S
+13.-j>hil Tones, S
+16. Mark Nierman, S
+18 Graham Lucks, S
+21. Derek Bruzericz, S
+27. Aaron Bova, M
+31 Pete Dunlaevy, W
+38, Neal Sheridan, M
+
+27:36
+28:20
+28:31
+28:40
+28:50
+29:15
+29:18
+29:23
+29:43
+29:58
+
+30:41
+
+Men's Soccer
+
+Allentown College (6 teams)
+Bowdoin 16, Muhlenberg 47
+Swarthmore 18, Muhlenberg 39
+Muhlenberg 27, Lebanon Valley 30
+Muhlenberg 27, Susquehanna 30
+Muhlenberg 26, Allentown 30
+Swarthmore 19, Lebanon Valley 38
+Swarthmore 18, Muhlenberg 39
+Swarthmore 17, Allentown 42
+
+Muhlenberg
+Gettysburg
+Johns Hopkins
+Western Maryland
+Franklin Marshall
+
+1. Joko Aguloye,SC
+
+Washington
+
+2.
+7.
+8.
+14.
+19.
+23.
+
+Danielle Wall, SC
+Elissa Murphy, MC
+Alissa Parmelee, SC
+Karen Lyoyd,SC
+Sarah McClure, SC
+Lauren Weisenberger, MC
+24. Cindy Bredefeld, MC
+28. Laura Roth,MC
+30. Katy duFosse, MC
+
+STANDINGS
+
+&
+
+Dickinson
+
+19:55
+19:57
+21:01
+21:05
+21:30
+21:46
+
+Ursinus
+Haverford
+Swarthmore
+
+21:58
+22:00
+
+STANDINGS
+Western Maryland
+
+Hopkins
+Johns
+Franklin Marshall
+&
+
+Dickinson
+
+Gettysburg
+
+W-L
+3-0
+2-0
+2-0
+1-0
+
+1-2
+
+Ursinus
+
+1-2
+
+Muhlenberg
+
+0-3
+0-3
+
+Swarthmore
+
+W-L
+5-0
+3-1
+
+2-2
+2-2
+2-2
+2-3
+0-4
+
+0-4
+
+end. Two other players got knocked out the game
+well, and we just couldn't get in sync", claimed
+captain Ben Hall '9B.
+Numbers have continued to be a problem. "With
+so 'many players going both ways and playing all
+the' special teams, we just get worn down to the
+point where our players are getting hurt. We have
+around thirty available players, and many of them
+are playing hurt" one coach claimed.
+
+Las
+
+•
+
+•
+
+Gettysburg
+
+5-0-0
+
+11-1-0
+
+Western Maryland
+
+3-0-0
+
+5-3-0
+
+A/1 Information Fair attendees will
+receive a waiver of the application fee.
+
+Franklin
+Ursinus
+
+3-1-0
+4-2-0
+3-2-0
+
+8-1-0
+8-4-0
+7-6-0
+
+Haverford
+
+2-2-0
+
+7-4-0
+
+For more information, please contact
+
+Muhlenberg
+
+2-3-0
+1-4-0
+0-4-0
+0-5-0
+
+4-6-2
+4-8-0
+0-11-0
+1-12-0
+
+Johns Hopkins
+&
+
+Marshall
+
+Swarthmore
+Dickinson
+Bryn Mawr
+
+Conf
+
+Over
+
+Offensive and defensive sides must both have strong
+games in order to be effective. Though the defense
+played well for the most part, the offense was shut
+out for the third time in four games.
+Up next for the Tide are the winless Muhlenberg
+Mules. This may be the best chance the Garnet have
+this year of winning. "We have many injuries
+that forces us to shuffle our lineup a bit, but
+hopefully we can come together as a team by
+Saturday" captain Bernard Nossuli '9B said
+about the coming game.
+
+GW Semester in Washington
+An Undergraduate Program in Political Management
+
+Spring, Summer, and Fall Sessions
+Make Connections to
+Launch Your Career
+
+5-3-1
+
+5-4-2
+3-7-0
+3-7-1
+6-3-2
+2-9-0
+
+W-L-T W-L-T
+
+Garnet Tide falls to Ursinus
+from FOOTBALL,AB
+
+Faculty and students will be available to
+speak with you about specific programs.
+CoreStates representatives will suggest
+special financing options.
+Kaplan, the foremost authority on entrance
+exam preparation, will be available to
+answer questions about test preparation.
+
+•
+
+T
+
+Football
+Over
+
+Oner
+
+W-L-T
+8-2-1
+6-3-1
+6-2-0
+1-4-2
+
+Wompn's Soccer
+VWlllCll 3
+
+22:26
+22:47
+STANDINGS
+
+Conf
+
+Conf
+
+W-L-T
+3-0-1
+2-0-1
+2-1-0
+1-0-2
+1-2-1
+1-1-1
+1-2-0
+1-2-0
+0-1-2
+0-3-0
+
+PART-TIME UNDERGRADUATE
+
+-
+
+Warmothers, 13-0.
+
+Cross Country Women
+
+&
+
+Tuesday, October 21,1997
+4:00 9:00 PM
+Villanova's Connelly Center
+
+mous Philly Peppers.
+The
+Warmothers were determined to
+score at least one point, however the
+Peppers quickly defeated Swat, 130. The game on Sunday was a similar story, when Flo, the number two
+club team in DC, defeat the tired
+
+SWARTHMORE COLLEGE VARSITY SPORTS STANDINGS
+STANDINGS
+
+A5
+
+Villanova University at (610) 51W5555
+Avww.viH.edu/~conted
+MESSAGE TO ALL STUDENTS:
+
+Hey!
+Wanna save a few bucks
+getting around?
+Then get yourself a SEPTA College Weekend Pass.
+
+It lets you travel on buses, trolleys, and subways for just $l.OO. And
+on trains for only $2.00! (Fri 6pm -Mon 2am). Over a semester, that adds
+up to some serious loot.
+
+Ani, best of all, the College Weekend Pass is totally FREE!
+To get one, simply go to your student activity center. Or fax this ad
+(plus a photocopy of your 1.D.) to SEPTA's sales office at
+
+215-580-7163.
+
+P.S."
+
+>
+
+For more info about the SEPTA "College Weekend Pass,"
+call 215-580-7800 today.
+
+...'p
+
+Name
+
+Now Accepting Applications
+On A Rolling Admissions Basis
+
+Ad
+City
+
+Address:
+
+Zip
+
+State
+
+College:
+
+Apply NOWI
+
+Year of graduation:
+valid student I.D.
+a photo copy of your
+enclose
+to
+Remember
+
+Session Deadlines:
+
+Spring October 31,1997
+Summer-March 31, 1998
+Fall-June 1,1998
+•
+
+Jhe
+
+>rge
+
+ungton
+wohinoioi
+
+i>t'
+
+\
+
+Tke Graduate
+dekool of
+
+<:'
+
+&EISJ&
+
+SEPTA
+At Your Service.
+
+IHanageonenr.
+
+GW ii on equal opportunity/aflitmaliYe action institution
+
+For More Information, And To Receive An Application, Contact:
+
+(800) 367-4776, (202) 994-6000
+
+http://www.gwu.edu/-gspm
+
+Now Accepting Applications On A Rolling Admissions Basis.
+Apply NOW 1 Spring Session Deadline: October 31, 1997
+
+The Phoenix is looking for a statistician. If
+you're interested, please contact amohanl
+
+The Swarthmore Phoenix
+
+A6
+
+October 9, 19971
+
+Sports
+Cross country
+runners blaze
+to conference
+
+Men's
+
+victories
+
+dominates
+
+doubles
+
+By Ingrid Spies
+
+Rolex
+
+Cross country runners are every-
+
+where, bounding up Parrish hill
+while you sit outside Sharpies enjoying 'POTATO BAR', running
+laps on the track while you trudge
+back to ML, or cruising around the
+dance floor at Paces Saturday night.
+And while you are certainly aware
+of their presence (Nevin Katz '99
+apologizes to everyone he's run
+over in the last two weeks), you
+may be asking yourself, "are these
+guys any good?" The answer, my
+fellow Swatties, is: "Yes, they are."
+Although there was no meet last
+Saturday, on September 27, both
+the mens and womens teams came
+in first in our Conference at Allentown College against Allentown,
+Muhlenburg, and Lebanon Valley.
+If it weren't for Bowdoin,
+Swarthmore would have come in
+first overall.
+Joko Agunloye 'Ol and Danielle
+Wall '9B won the womens race, in
+a smoking 19:55 and 19:57, respectively, while the next finishers were
+minutes behind. Stellar freshman
+harrier Alissa Parmelee braved the
+hazards of the mud pit to finish in
+21:05, and was followed immediately by Karen Lloyd 'OO (21:30)
+and Sarah McClure 'OO (21:46).
+Cristina Cardemil 'Ol (22:02) and
+Sarah Howard '9B (23:25) rounded
+out our top seven, followed by
+freshmen Talia "Sunshine" Young
+(24:00) and Vanessa "Energizer"
+Agosto(24:l6).
+In the mens race, sophomore Jeff
+Doyan led the Swarthmore Pack,
+showing amazing talentfor his first
+collegiate cross country season
+with a time of 28:40. Veteran seniors Phil Jones '9B (28:50), Graham "Bubbles"Lucks '9B (29:18)
+and Wyn Strodtbeck '9B (29:46)
+flew up the hill to the finish, along
+with cyberfrosh Mark Nierman
+(29:15) and cybersoph Derek
+Bruzewicz (29:23). The future
+legacy of the team, freshmen
+Ambrose"Jailbird" Dieringer
+(30:57), Dan "imal" Schwartz
+(31:09), Ari "Intramural" Houser
+'Ol (33:27), and Seth "Iron" Steed
+'Ol (35:49), showed their thirst for
+blood by mercilessly picking off the
+hapless competition in the last mile.
+Gene Yoshida '99 molested the
+course and finished in a feverish
+32:15, with Nevin "Nevcat" Katz
+*99 (33:07) and Jeff Lockman '9B
+(33:38) following close behind.
+Supplemented by a steady
+diet of repeat miles prescribed by
+"Dr. Coach" Ted Dixon, the cross
+country teams prepare to smother
+the competition at the Dickinson
+Invite this weekend.
+
+courtesy Jill Belding
+
+The 1997 Field Hockey team continues to play strongly moving up in the regional rankings this week
+
+Field hockey rises in regional poll
+By
+
+Jean Quinn
+
+The Garnet notched a big win
+over Dickinson last weekend, but
+fell to Washington College, 2-1,
+Tuesday in a tight contest. The loss
+snapped a twenty-two game Centennial Conference win streak that
+began two seasons ago. The Garnet are now 11-1 overall, 4-1 in the
+conference.
+The team traveled to Dickinson Saturday and routed the Diplomats, 5-0.
+The offense was well-balanced with
+five players picking up points in the
+match. Danielle Duffy '9B scored two
+goals and two assists. Lurah Hess '99
+scored twice, and Jen Hagan '99 once.
+Holly Baker '99 picked up a trio of assists, and Kristen English 'Ol earned
+one as well.
+"Dickinson was a good team but
+
+we had more stick skill and more
+speed," said Coach Karen Borbee.
+"They tried to play us with a different strategy than anyone we had
+faced this season. It worked for a
+while, but as soon as we adjusted,
+we took control."
+Defender Lynne Steuerle '99
+commented on the Garnet's performance. "We did not have our best
+game, possibly because of the poor
+condition of their field. It made it
+difficult for us to play our fast run
+and hit game when the grass was
+so long."
+Borbee praised the team's ability
+to adapt to the opponent's style and
+still come out on top. "I was impressed with our ability to adjust
+our style of play to Dickinson's
+slow field and to their strategy to
+pack it in front of the goal and back
+
+off in the midfield. I has happy to
+see we could maintain the level of
+our game and still adapt to what
+was happening on the field," she
+said.
+Unfortunately, the team lost the
+offensive power of forward Hess in
+the second half, likely for the remainder of the season. Hess believes the bone in her left hand,
+beneath the pinky, is broken
+While she has played with broken
+fingers and splints before, the position of the injury and the placement of the cast which it will most
+probably require prevents her from
+gripping the stick and playing.
+This win, following the team's
+stellar performance at the Seven
+Sisters' Tournament, helped the
+Garnet move up a spot in regional
+rankings. Swarthmore bumped
+.
+
+Montclair State out of the fourth
+position.
+On Tuesday, the Garnet lost to
+Washington College, 2-1. Baker
+scored Swat's only goal, the first
+of the game. The Bullets tied the
+game on a penalty stroke in the first
+half and scored again to put them
+in the lead for good. Players noted
+that the field, in contrast to the
+grassy, slow conditions in the game
+against Dickinson, was exceptionally fast. The defeat is the first conference loss for the Garnet in a
+while. The Garnet went undefeated
+in the Centennial Conference in
+1995 and 1996, the years of their
+conference championships.
+The Garnet have almost a week
+off. They next take the field Sunday Oct. 12,when they host Ithaca,
+the top-ranked team in the region.
+
+imate wraps
+
+By
+
+up season at
+
+Pat Donaghy
+
+The Garnet Tide's record fell to
+0-4 Saturday with the 31-0 loss at
+Ursinus. The Bears defense dominated the game, limiting
+Swarthmore to minus 1 yard rushing, and 92 total yards.
+With hopes of defeating the defending conference champions,
+Swarthmore jumped out early and
+completed two long passes to junior receivers Brian Bell and Mason
+Tootell. However, the rushing
+game never got on track, and
+Swarthmore was forced to punt.
+
+Regionals
+Annie Bacon
+
+The Women's Ultimate team
+ended their official fall season last
+weekend at Regionals. Although
+they lost all the games they played,
+they competed valiantly against
+some strong ultimateFrisbee teams.
+The Warmothers played four
+games on Saturday and one on Sunday. They opened on Saturday
+against the third seeded team,
+Catshit. Although they managed to
+score 2 points, Catshit dominated
+the game, winning 13-2. However
+theWarmothers still had the energy
+and spirit to play strongly in their
+second game against UPenn. In the
+
+The men's tennis team ended
+their fall season with a bang at the
+Rolex Eastern Championships last
+weekend as they dominated the
+tour. Nine players from the team
+took part in the tournament, which
+was held at Swarthmore. They include three doubles teams: Peter
+Schilla and Dennis Mook, Roger
+Werner and Greg Emkey, and John
+Temin and John Leary. The singles
+players were all of the participants
+in doubles plus Ben Geller and
+Scott ????, and Sasha Sheehan.
+In the singles matches, Peter
+Schilla lost in the quarterfinals
+against the number three seed from
+Gettysburg, who then went ahead
+to beat Dennis Mook in the semifinals. Roger Werner played him in
+the finals in a three set match, and
+came out victorious in a tie breaker
+in the third set after having playgd
+for three and a half hours.
+In doubles, both the teams of
+Emkey/Werner and Temin/Leary
+advanced to the finals, having to
+play each other Tuesday night with
+a 6-1, 7-6 victory for Temin and
+Leary. Swarthmore was victorious all around, and Roger Werner,
+John Leary, and John Temin will all
+go to Memphis, Tennessee on October 23rd for the Rolex National
+Championships. As sophomore
+John Leary said, "Last year
+f
+didn't send anybody [to nationals], t
+but this year hopefully we'lLdo
+some damage."
+This tournament was their third
+and last of the season, following the
+Bloomsberg Invitational and Tim
+Berman Invitational earlier this fall.
+The fall season ended with ihe
+Rolex tournament, and nownhe
+players are responsible for training
+on their own before the spring season starts after winter break. Tly, ,
+main goal for the fall, according V*
+John Leary, is "to get a lot ofexperience and play matches. We're
+looking tight for the spring season."
+When spring starts, the team will
+get ready for their first matches
+against U.Penn and Colombia in
+late February and early March.
+On another note, the women's
+team has their last tournament, the
+Capitol Classic, this weekend in
+College Park, Maryland.
+
+Despite valiant effort, Garnet
+Tide football once again suffers
+due to small team size
+
+Women's Ult-
+
+By
+
+Laurie Smith
+
+By
+
+Swarthmore's defense, suspect
+
+against the run all season, finally
+clamped down and stuffed the
+Bears for most of the first half.
+Tucker Zengerle 'OO, one of the few
+bright spots this year for the Tide,
+registered 20 tackles, 13 of which
+were solo. Zengerle's play earned
+
+George Arun Balgobin
+
+Football falls to Ursinus 31-0
+
+him a spot on the conference honor
+roll. The only scores allowed was
+on two big plays by the Bears, and
+the halftime score was 14-0.
+Realizing they were down by
+only two scores, the team rallied
+themselves at the half. "We were
+tired and hurt, but we only have
+thirty minutes left" encouraged
+Tony Skiadas '99, one of the vocaf
+leaders of the team.
+But the Bears running game finally wore down the defense, and
+an early third quarter touchdown
+provided all the insurance they
+would need as they coasted the rest
+of the way to victory.
+Though the defense played a
+tough game, the offense sputtered,
+especially in the second half when
+they were limited to one first down.
+"We had so many injuries on of-'
+fense, we didn't even have a tight
+see FOOTBALL, A7l
+
+7
+
+see ULTIMATE, A
+
+Women's ruggers bulldoze U. of Delaware
+By
+
+Amber
+
+Halsey
+
+Last Saturday, the Swarthmore women
+ruggers battled the University ofDelaware
+in their second division match of the season. The A-side squad defeated their worthy opponent by a score of 7-0, while the
+B-side team matched U Del's second side
+with a final score of 14-14.
+Swat's A-side team dominated the field
+for the full 70 action packed minutes. The
+only try of the game was scored in the second half by both Alexa Miller 'OO and
+Meghan Brennan 'OO after a series of intense scrum downs only 5 meters from
+Swat's try zone. With Sarah Cross '99 playing at loose head prop once again, the
+undefeatable duo of Cross and Becky
+Snyder '9B proved to be an intimidating
+pair for the Delaware forwards. Joan
+
+Hoffman '9B, the veteran second row,
+played an amazing game despite severe illness; Hoffman, along with her trusty sidekick Mary McGuire 'OO drove the A-side
+scrum over the opposition throughout the
+game.
+The back line players proved once again
+to be the quickest ruggers on the field with
+Kira Cochran-Bond 'OO and Beth Vose '99
+sidestepping tackles in order to move the
+ball continuously up the field. Emily
+Wilkins' 'Ol foot proved to be a valuable
+addition for the A-side squad, kicking the
+conversion in the game, and scoring two
+more points for the home team.
+The B-side squad once again showed
+improvement above and beyond even
+CoachAlan Matas' wildest dreams. Rhiana
+Swartz 'OO scored all 14 points of the game,
+placing the ball on the ground in the try
+
+zone twice and kicking both conversion
+kicks as well. Swartz was driven into the
+try zone by rookie powerhouses Marisa
+Chavez 'Ol and Ariana Freeman 'Ol.
+Sandra Albro 'Ol and Sandra Schrauf '9B,
+a.k.a. Sandra squared, both played at second row, aiding in the B-side scrum's domination of their weaker opponent.
+The B-side back line consisting of Noelle
+Goodin 'OO, Ursula Lang 'Ol, Erika Anderson 'Ol, and Morgan Kelly '9B outsmarted
+the Delaware line, who was left in the dust
+after the powerful kicks of fullback Cathy
+Vaughan 'Ol.
+With the U Del victory under their belts,
+the Swarthmore team has one more division game to face in order to qualify for
+EPRU championships. Come support the
+toughest women on campus this Saturday
+at 11:00am on Dupont field.
+
+COSTA
+
+RICA
+
+Study Paradise this Spring
+This Organization far Tropical Studies in partnership with
+Duke University offers a fieloWienfed semester abroad program
+in tropical ecology and Latin American culture, Students earn 1 6 credit
+hours in biology, environmental science, and Spanish language culture.
+Credits may be transferred from Dvke,
+&
+
+•
+
+hands-on biology cultural immersion field trips
+independent projects remote field sites
+research
+exotic wildlife
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+For brochure and application materials, contact
+Organization for Tropical Studies, Duke University
+Box 90633, Durham NC 27708-0633
+Tel: (919) 684-5774; E-mail: <noo4*acpub.duke.edu>
+
+http://www.ots.duke.edu
+Application deadline for 1998 Spring semester is October 15, 1997.
+
+
