@@ -1,0 +1,4599 @@
+ID,Last Name,First Name,OCCUPATION,COUNT
+0000,Lennox,Basil,watchman ,1
+0001,Shepherd,Jacob,lab ,1
+0001,Shepherd,Jacob,waterman ,1
+0002,Ashmead,Louisa,null,null
+0003,Poole,Emaline,drives dray ,1
+0004,Chain,Thomas,barber ,1
+0005,Brown,George,barber ,1
+0006,Robinson,Jane,various kinds ,1
+0007,Smiley,David,laborer ,1
+0008,Estcott,James,seaman ,1
+0009,Early,John,laborer ,1
+0010,Lucas,Eleanor,null,null
+0011,Shepherd,Louisa,null,null
+0012,View,Martha,null,null
+0013,Roberts,Eliz,null,null
+0014,Riley,Ebenezer,stevedore ,1
+0015,Gray,Ann,waiter ,1
+0015,Gray,Ann,seaman ,1
+0016,Richard,Thos,laborer ,1
+0017,Cornish,Eliza,null,null
+0018,Johnson,William,temp sailor c h ,1
+0019,Lee,David,stevedore ,1
+0020,Moore,Eliz,null,null
+0021,Thompson,Mary,null,null
+0022,Depee,Robert,waiter ,1
+0023,Hitchins,Eliza,null,null
+0024,Smith,Gabriel,laborer ,1
+0025,Agustus,Richard,various ,1
+0026,Townsend,Allen,seaman ,1
+0027,Thompson,Charlotte,null,null
+0028,Stokley,Weymouth,seaman ,1
+0029,Cork,John,laborer ,1
+0030,Ludlow,Levi,porter ,1
+0031,Derrikson,Esther,null,null
+0032,Evans,James,whitewasher ,1
+0033,Davis,Myers,stevedore ,1
+0034,Allen,George,stevedore ,1
+0035,Beverly,Lydia,null,null
+0036,Denby,Abraham,laborer ,1
+0037,Rosi,Diana,null,null
+0038,Dillin,Sarah,washer ,1
+0039,Miller,Keziah,null,null
+0040,Madden,Abigail,null,null
+0041,Richards,Amia,null,null
+0042,Mintess,Elizabeth,null,null
+0043,Martin,John,porter ,1
+0044,Stewart,Rachel,null,null
+0045,Macklin,Eliza,null,null
+0046,Purnell,John,porter ,1
+0047,Golding,Eliza,null,null
+0048,Murray,Samuel,laborer ,1
+0049,Brown,Anna,null,null
+0050,Withington,Comfort,null,null
+0051,Richardson,Ann,null,null
+0052,West,George,null,null
+0053,Wilson,Joseph,laborer ,1
+0054,Lee,Eliza,null,null
+0055,Christian,Issac,porter ,1
+0056,Smith,Fanny,null,null
+0057,Whitaker,William,laborer ,1
+0058,Scott,James,laborer ,1
+0059,Purnell,Nancy,null,null
+0060,Hughes,George W.,laborer ,1
+0061,Gibbs,Anna Marie,null,null
+0062,Dill,Catharine,null,null
+0063,Johnson,Edward,porter ,1
+0064,Day,Robert,laborer ,1
+0065,Boston,Grace,laborer ,1
+0066,Mason,George,drives furniture car ,1
+0067,Thompson,James,waiter ,1
+0068,Walker,Emmanuel,cake seller ,1
+0069,Thompson,Anna,lab ,1
+0069,Thompson,Anna,seaman ,1
+0070,Primrose,Magaret,null,null
+0071,Murray,James,waiter ,1
+0072,Middleton,Nancy,null,null
+0073,Thomas,James,porter ,1
+0074,Jones,Absolom,lab ,1
+0075,Jackson,Mary,null,null
+0076,Coushaw,Lydia,null,null
+0077,Wilson,Jacob R,whitewasher ,1
+0078,Black,Ann,null,null
+0079,Hamblton,George,lab ,3
+0080,Cook,Lewis A,lab ,1
+0081,Johnson,Emery,lab ,1
+0082,Dean,Louisa,lab ,1
+0083,Cauldwell,Perry,laborer ,1
+0084,Brown,Soloman,laborer ,1
+0085,Miller,John,porter ,1
+0086,Golden,Scotland,whitewasher ,1
+0087,Hardy,Craford,lab ,1
+0088,Hartless,William,stevedore ,1
+0089,Smith,Joseph,porter ,1
+0090,Matthews,Lucy Ann,null,null
+0091,Holcomb,Martha,null,null
+0092,Potter,Mary,null,null
+0093,Johnson,Judith,null,null
+0094,Blunden,Iona,laborer ,1
+0095,Dolphin,Rebecca,null,null
+0096,Anderson,George,porter ,1
+0097,Barnes,Rebecca,laborer ,1
+0098,Prince,Abraham,lab ,1
+0098,Prince,Abraham,boot black ,1
+0099,Jawnna,Henry,boot black ,1
+0100,Singleton,George,service ,1
+0101,Douglas,Robert,barber ,2
+0101,Douglas,Robert,port ,1
+0101,Douglas,Robert,sign painter ,1
+0101,Douglas,Robert,photographist ,1
+0102,Cooper,William G,bootmaker ,1
+0103,Coines,Basil,barber ,1
+0104,Augustine,Mary,null,null
+0105,Jones,Robert,barber ,1
+0106,Jones,Mary,barber ,1
+0107,Johnson,Samuel,waiter ,1
+0108,Derrickson,Peter,laborer ,1
+0109,Nichols,Jemima,drives dray ,1
+0110,Noker,Allen,stevedore ,1
+0111,Depee,,null,null
+0112,Suphay,Emma,null,null
+0113,Mitchell,Gideon,wire worker,1
+0114,Darrah,Sarah,null,null
+0115,Edwards,Daniel,seaman ,1
+0116,Trusty,Jonathan,porter ,1
+0117,Burton,Chas,seaman ,1
+0118,Calbert,Tamzin,null,null
+0119,Chavens,Jesser,musician & boot mr,1
+0120,William,William,drives fur car ,1
+0121,Savage,Chas,drives fur car ,1
+0122,Evans,Harriett,null,null
+0123,Edwards,Peter,null,null
+0124,Morris,Nancy,null,null
+0125,Burk,Nancy,null,null
+0126,Heminway,Isa,barber ,1
+0127,Gordon,An?sSarah,ladies shoemaker ,1
+0128,Quand,Stephen,barber ,1
+0129,Goldem,Samuel,porter ,1
+0130,Mitchell,Josiah,steward ,1
+0131,Cutchins,Miles,porter ,1
+0132,Well,Emanuel,porter ,1
+0133,Allen,Joseph W,barber ,1
+0134,Purnell,Amelia,null,null
+0135,Reddon,George L,sea captain,1
+0136,Martin,Nelson,service ,1
+0137,McNeal,Sarah,steward ,1
+0138,Prevan,Phyllis,null,null
+0139,Baker,Elizabeth,null,null
+0140,Roberts,Sarah,null,null
+0141,Baker,Emaline,drives dray ,1
+0142,Brister,James,waiter ,1
+0143,Tyler,Ann,null,null
+0144,Galloway,Ann,null,null
+0145,Davis,Jemimah,waiter ,1
+0146,Burton,Hamilton,porter ,1
+0147,Hart,John L,barber ,1
+0147,Hart,John L,porter ,1
+0148,Waterford,Chas,porter ,1
+0149,Brake,Ann,null,null
+0150,Truwall,Henry,seaman ,1
+0151,Jones,Henry,waiter ,1
+0152,Jacobs,David,clothes dealer ,1
+0153,Taylor,Isaac,porter ,1
+0154,Tucker,William,oyster peddler ,1
+0155,Campbell,Elizabeth,barber ,1
+0156,Campbell,Joshua,tailoer ,1
+0157,Coleman,Lewis,stevedore ,1
+0158,Montier,William,bootmaker ,1
+0159,Butler,Elijah,waiter ,1
+0160,Ingram,Mary,null,null
+0161,Parker,Nancy,null,null
+0162,Butler,?,porter ,1
+0163,Powell,John,porter ,1
+0164,Stratton,John,shoemaker ,1
+0165,Curtis,Anthony,waiter ,1
+0166,Brown,David,messanger ,1
+0167,Boston,Jacob,whitewasher ,1
+0168,Worthington,John,ice cream maker ,1
+0169,Cooper,William,bootmaker ,1
+0170,Floriin,Mary,null,null
+0171,Evans,George,seaman ,1
+0172,Forten,Charlotte,sail maker ,1
+0173,Humphries,Joseph P,tailor ,1
+0174,Riley,William H,bootmaker ,1
+0175,Vesey,Edward,clothes dealer ,1
+0176,Ayres,Jacob,tailor ,1
+0177,Brister,James,laborer ,1
+0178,Thomas,Abraham,laborer ,1
+0179,Robinson,Joel,porter ,1
+0180,Roberts,Aaron,porter ,1
+0181,Roberts,Robert,porter ,1
+0182,Cope,Thomas,hat dyer,1
+0183,Hall,Sarah,null,null
+0184,Bun,Thomas,dealer ,1
+0185,Powell,James M,porter ,1
+0186,Weaver,Jane,null,null
+0187,Johnson,Mary,null,null
+0188,Miller,Thos,waiter ,1
+0189,Hughes,Jane,laborer ,1
+0190,Holden,Sarah,null,null
+0191,Wright,Marla,null,null
+0192,Hogan,Rebecca,null,null
+0193,Kenton,Augustus,washer french cook and musician ,1
+0193,Kenton,Augustus,traveling preacher ,1
+0194,Height,Joseph,waiter ,1
+0195,Beck,Ignatiius,sweep ,1
+0195,Beck,Ignatiius,seaman ,2
+0196,Jones,William,laborer ,1
+0197,Simmons,Eliza,laborer ,1
+0198,Moore,Alice,null,null
+0199,Hopkins,Caroline,null,null
+0200,Hitchins,John,currier ,1
+0201,Perkins,Edith,null,null
+0202,Brown,Ann,null,null
+0203,Cooper,Benjamin,waterman ,1
+0204,Williams,Henry F,musician ,1
+0205,Parker,Wingate,stevedore ,1
+0206,Lowy,George,laborer ,1
+0207,Conican,Henry,stevedore ,1
+0207,Conican,Henry,seaman ,1
+0208,Battise,John,steward ,1
+0209,Bustill,Charles C,porter ,1
+0210,Carney,Lydia,null,null
+0211,Hollingsworth,George,boot black ,1
+0212,Miller,Mary,null,null
+0213,King,Cathaine,null,null
+0214,Rodney,Hannah,null,null
+0215,Creamer,Emily,null,null
+0216,Cos,Rachel,null,null
+0217,Brown,Susan,null,null
+0218,Debity,Major,laborer ,1
+0219,Pierce,James F,porter ,1
+0220,Jefferies,William,porter ,1
+0221,Cummings,Hester,null,null
+0222,Bass,Mary,null,null
+0223,Hubbard,Nancy,null,null
+0224,Hill,Margaret,null,null
+0225,Lancaster,Hester,bootmaker ,1
+0226,Crosby,Diana,null,null
+0227,Waterford,Keziah,null,null
+0228,Jackson,Rachel,null,null
+0229,Gittis,Elizabeth,seaman ,1
+0230,Wright,Chas,waterman ,1
+0231,Gray,Sophie,null,null
+0232,Savoy,Joseph,waiter ,1
+0233,Young,Lewis,waiter ,1
+0234,Allen,Thos,traveling minister ,1
+0235,White,Jasl M,barber ,1
+0236,Libby,Abraham,seaman ,1
+0237,Jacoles,Priscilla,null,null
+0238,Sullivan,Jane,null,null
+0239,Smith,Elizabeth,null,null
+0240,Mason,Isaac,porter ,1
+0241,Williams,John,laborer ,1
+0242,Gater,Geroge M,porter ,1
+0243,Cornish,John,boot ,1
+0243,Cornish,John,shoemaker ,1
+0244,Cassey,Joseph,gentleman ,1
+0245,Donald,Jane M,steward ,2
+0246,Sullivan,Ezekiel,clothes dealer ,1
+0247,White,George,porter ,1
+0247,White,George,barber ,1
+0248,Johnson,Sarah,null,null
+0249,Riley,Rachel,null,null
+0250,Wills,Geroge,barber ,3
+0251,Belfast,Msrsh,lab sometimes ,1
+0251,Belfast,Msrsh,say nothing when boat stops running ,1
+0252,Barrett,James,steward ,1
+0253,Buck,Levi,seaman ,1
+0254,Okey,William,putting in coal irregular cant tell ,1
+0255,Polk,Jacob,porter irregular ,1
+0256,Hitchins,Elisha,waiter ,1
+0257,Hale,Elias,laborer ,1
+0258,White,Nancy,null,null
+0259,Nelson,Henry,waiter ,1
+0260,Wilmer,Harriet,null,null
+0261,Reading,Richard,coachman ,1
+0262,Foster,Ann,null,null
+0263,Jefferies,David,seaman ,1
+0264,Maclow,George,waiter ,1
+0265,Little,Phoebe,null,null
+0266,Jones,Edward,porter ,1
+0267,Sullivan,Sophia,null,null
+0268,Chamber,Edward,null,null
+0269,Thompson,Ellen,null,null
+0270,Allen,John,cake seller average ,1
+0271,Hunn,Louisa,null,null
+0272,Bosier,Louisa,null,null
+0273,Johnson,Maria,null,null
+0274,Welcome,Josephine,null,null
+0275,Johnson,Jacob,hat dyer,1
+0276,Stewart,Mary,laborer ,1
+0277,Bishop,John,hod carrier ,1
+0278,Baker,James,works for a bottler ,1
+0279,Townsend,James,laborer ,1
+0280,Armstrong,Mary,null,null
+0281,Fisher,Nancy,at service ,1
+0282,Brown,Henry,lab ,1
+0283,Brown,James,waiter ,1
+0284,Burkitt,Rebecca,null,null
+0285,Francis,Chas,waiter ,1
+0286,Reese,Chas,drives coal cart ,1
+0287,Campbell,Elizabeth,null,null
+0288,Wilson,Benjamin,porter ,1
+0289,Parker,Jacob,porter ,1
+0290,Moore,John L,bootmaker ,1
+0291,Davis,Jane,null,null
+0292,Horace,Nancy,null,null
+0293,Melevier,Christina,null,null
+0294,George,Ann,null,null
+0295,Humphrie,Evaline,null,null
+0296,Laws,Jane,null,null
+0297,Charles,Mary,service ,1
+0298,Gibbs,James,cook ,1
+0298,Gibbs,James,steward ,1
+0299,Smith,Moses,seaman ,1
+0300,Lewis,Ellen,null,null
+0301,Woodson,Frederick,waiter ,1
+0302,White,Mary Ann,null,null
+0303,Parker,Willman,eating house ,1
+0304,Guyjet,Stephen W,shoemaker ,1
+0305,Martin,Josiah,porter ,1
+0306,Williams,Issac,porter ,1
+0307,Harris,Cyrus,stevedore ,1
+0307,Harris,Cyrus,when canal is open ,1
+0308,Dixon,Milford,waiter ,1
+0309,Polk,Mary,laborer ,1
+0310,Miller Sr.,James,attends at mens library ,1
+0311,Burr,John P,barber ,1
+0312,Martin,Clara,null,null
+0313,Huggl,William,waiter ,1
+0314,Hugg,William,waiter ,1
+0315,White,Andrew,laborer ,1
+0316,Powell,Andrew,coachman ,1
+0317,Moore,James,porter ,1
+0318,Lancaster,Rachel,null,null
+0319,Milton,Rex,hod carrier wood sawyer ,1
+0320,Braddock,William,shoemaker ,1
+0321,Cramer,Fanny,null,null
+0322,White,William,grain carrier ,1
+0323,Bailey,Suzanna,null,null
+0324,Harris,Maria,service ,1
+0325,Times,Isom (?),hod carrier ,1
+0326,Allen,Richard,does nothing ,1
+0327,Tilghman,Mary Ann,null,null
+0328,Banks,Soloman J,whitewasher ,1
+0329,Collins,Cate,oyster house ,1
+0329,Collins,Cate,barber ,1
+0330,Roberts,Julia,null,null
+0331,Rilley,Abner,barber ,1
+0332,Collins,George,barber ,1
+0333,Waters,Hannah,null,null
+0334,Miller,Tabitha,null,null
+0335,Robinson,Selita,null,null
+0336,Jackson,Robert,hod carrier ,2
+0337,Thompson,David,stevedore ,1
+0338,Chew,John,laborer ,1
+0339,Tucker,Benjamin,laborer ,1
+0339,Tucker,Benjamin,porter ,1
+0340,Watkins,Henry,putting in coal irregular ,1
+0341,Lewis,Peter,lab in stove store ,1
+0342,Black,John,seaman irregular ,1
+0343,Milburn,Levi,laborer ,1
+0344,Johnson,Jane,null,null
+0345,Kane,Charlotte,null,null
+0346,Pitt,Henry,various & irregular,1
+0347,Emmons,Thomas B,seaman ,1
+0348,Moon,Titus,rag gatherer ,1
+0349,Gibson,Chas,hod carrier ,1
+0350,Ashmore,Julia,various ,1
+0351,Heminway,James,waiter ,1
+0352,Webb,?,laborer ,1
+0353,Miller,Jupiter,wood sawyer ,1
+0354,Brown,Maria,porter ,1
+0355,Davis,Sarah,drives cart ,1
+0356,Dennis,John,hod carrier irregular ,1
+0357,Hopper,Joseph,various irregular ,1
+0358,Leger,Ann,null,null
+0359,Ayres,Charlotte,null,null
+0360,Green,Frederick,laborer each ,2
+0361,Thompson,William,labor ,1
+0362,White,Letitia,waterman ,1
+0363,Rhodes,Hester Ann,puts in coal ,1
+0363,Rhodes,Hester Ann,laborer ,1
+0364,Burton,Caroline,null,null
+0365,Wilson,Jesse,waiter wages very low ,1
+0366,Johnson,Nathaniel,coachman ,1
+0367,Jones,Ellen,null,null
+0368,Coggins,Soloman,no occupation lame ,1
+0369,Button,Caroline,null,null
+0370,Swain,Mary,null,null
+0371,Brown,Joseph,whitewasher ,1
+0372,Green,Eliza,null,null
+0373,Gibbs,Harriet,tailor cant tell ,1
+0374,Loman,William,barber dont know ,1
+0375,Easton,Sarah,null,null
+0376,Dutton,Richard,porter sometimes ,1
+0377,Shippen,Hester Ann,null,null
+0378,Cato,William,porter ,1
+0379,Carris,Moses,porter very little drives coal cart ,1
+0380,Julius,Rebecca,drives dray ,1
+0381,Smith,Franklin,tanner ,1
+0382,Hughes,Cyrus,various irregular ,1
+0383,Simpson,Charles,boat & shoemaker,1
+0384,Hall,Albert H,porter ,1
+0385,Lee,Lucy,drives dray ,1
+0386,Robinson,Alfred V,barber ,4
+0386,Robinson,Alfred V,coachman ,1
+0387,Johnson,Gerorge,porter ,1
+0388,Trades,Rebecca,null,null
+0389,Gordon,James R,confectioner ,1
+0390,Lu,William,waterman ,2
+0390,Lu,William,porter ,2
+0391,Long,Catharine,null,null
+0392,Hovington,Isaac,laborer ,3
+0393,Davis,Phillip,porter ,1
+0394,Thompson,Joseph,laborer irregular ,1
+0395,White,Miles,porter but little ,1
+0396,Shepherd,Reziah,null,null
+0397,Williams,Louisa,null,null
+0398,Jackson,Edward,wood sawyer ,1
+0398,Jackson,Edward,porter ,1
+0399,Hale,Jacob,service ,1
+0400,Kirby,Maria,null,null
+0401,Murray,James,stevedore cant tell ,1
+0402,Brown,John,drives horse ,1
+0402,Brown,John,various ,1
+0403,Brister,Anamias,hod carrier ,1
+0404,Bayman,Adam,clothes dealer ,1
+0405,Court,Edward,null,null
+0406,Thomas,Henry,waiter ,1
+0407,Lewis,John,stone dealer ,1
+0407,Lewis,John,barber ,1
+0408,Lewis,Samuel,hod carrier dont know ,1
+0409,Graves,Henry,various ,1
+0409,Graves,Henry,seaman ,1
+0410,Smith,William,herb doctor cant tell ,1
+0411,Bishop,Peregrin,clothes dealer ,1
+0412,Ayres,Robert B,tailor irregular ,1
+0413,Dill,Jane,null,null
+0414,Sipple,Jane,tailor irregular ,1
+0415,Hays,Henry,seaman ,1
+0416,Dorsey,Mary Ann,null,null
+0417,Bush,John,huckster,1
+0418,Moutier,Richard,shoemaker ,1
+0419,Clarkson,Soloman,school teacher ,1
+0420,Copeland,Alan,cupper bleeder ,1
+0421,Fisher,Elias,porter ,1
+0422,Francis,Jacob,porter ,1
+0423,Hawkins,William,coachman ,1
+0424,Gross,Mary,null,null
+0425,Pero,Lucretia,porter ,1
+0426,Ludley,John,seaman ,1
+0427,Hicks,William,eating house ,1
+0428,Purnell,Rhoda,porter ,1
+0428,Purnell,Rhoda,laborer ,1
+0429,Boldin,Joseph,stevedore irregular ,1
+0430,Colden,John,porter very dull ,1
+0431,Furbit,Paul,hod carrier ,1
+0432,White,Hannah,seaman ,1
+0433,Johns,Jacob,stevedore ,1
+0434,Richard,Hannah,null,null
+0435,Bell,Wilhemina,null,null
+0436,Clark,Benjamin,various irregular ,1
+0437,Hicks,Henrietta,null,null
+0438,Rez,Joseph,coachman ,1
+0439,Robinson,Rachel Ann,null,null
+0440,Golding,Samuel,lab in stove store part of the time ,1
+0441,Carney,Montgomery,various very little ,1
+0442,Carson,George,rag dealer ,1
+0443,Potter,Benjamin,rag dealer ,1
+0444,Comess,Rachel,null,null
+0445,Marlson,Fanny,null,null
+0446,Morris,Robert,waiter ,1
+0447,Brown,Constant,stevedore irregular ,1
+0448,Denby,John,porter ,1
+0449,Young,William,cant tell ,1
+0450,Rankin,James,waiter ,1
+0451,Fisher,Edward,waiter ,1
+0452,Janey,Edward,waiter ,1
+0453,Glouceter,Stephen,paster central presbyterian church ,1
+0454,Willshire,Elizabeth,null,null
+0455,Reede,Judith,seaman ,1
+0456,Smith,Hannah,null,null
+0457,James,Ruben,waiter ,1
+0458,Davis,James,null,null
+0459,Silva,Susan,null,null
+0460,Cuff,Ruben,laborer ,1
+0461,Polk,Tamar,null,null
+0462,Fisher,Raymond,porter ,1
+0463,Morris,Leah,null,null
+0464,Price,Elizabeth,null,null
+0465,Coleman,Sarah,null,null
+0466,Kimberry,Samuel,waiter ,1
+0467,Fowles,Willis,steward ,1
+0468,Banton,William,boot black ,1
+0469,Washington,George,boot black ,1
+0470,Harris,Ebenezer,wood sawing when able ,1
+0471,Eldridge,Sarah,null,null
+0472,Phillips,Joseph,cake baker ,1
+0473,Phillips,Mary,null,null
+0474,Mitchell,Hannah,null,null
+0475,Thomas,Sarah,null,null
+0476,Venice,Mary,null,null
+0477,Johnson,Robert,porter ,1
+0478,Wood,Josiah,seaman ,1
+0478,Wood,Josiah,cobbler ,1
+0479,Johnson,Maria,lab in dug mill ,1
+0479,Johnson,Maria,wood sawyer ,1
+0480,Johnson,Daniel,porter irregular ,1
+0481,Barrett,Araminta,hod carrier ,1
+0481,Barrett,Araminta,various ,1
+0482,Harmon,Mary,laborer ,1
+0483,French,William,laborer ,1
+0484,Cole,Joseph,drives cart ,1
+0485,Watson,Joseph,hod carrier ,1
+0486,Millburn,Anthony,cook ,1
+0487,Williams,John,stevedore ,1
+0488,Dyer,John,stevedore ,1
+0489,Harlan,Isaac,porter ,1
+0490,Parson,Elijah,porter irregular ,1
+0491,Furby,Edward,porter very little now ,1
+0492,Shankland,William,porter ,1
+0493,Bennett,Joseph,seaman ,1
+0494,Barrett,Lydia,null,null
+0495,Bennett,Mary,null,null
+0496,C`ollier,John,hod carrier ,1
+0497,Laws,Daniel,herb doctor ,1
+0498,Boon,Margaret,null,null
+0499,Lewis,Harrison,seaman ,1
+0500,Johnson,William,shoemaker ,1
+0501,Fitzgerald,David Sen,past doing work ,1
+0502,Souden,Jacob,wood sawyer ,1
+0503,Black,Washington,porter ,1
+0504,Hopkins,Mary,null,null
+0505,Thompson,Francis,various kinds ,1
+0506,Williams,John,seaman ,1
+0507,Anderson,Rebecca,null,null
+0508,Waters,George,painter ,1
+0508,Waters,George,glazier ,1
+0508,Waters,George,waiter ,1
+0509,Davis,Elijah B,porter ,1
+0509,Davis,Elijah B,not able ,1
+0510,Thomas,Willliam,hod carrier ,1
+0511,Comfort,Summers,null,null
+0512,Smart,Charles,shoemaker ,1
+0512,Smart,Charles,various very little ,1
+0513,Hart,John,various kinds ,1
+0514,Law,Mathilda,null,null
+0515,Bailey,James,laborer ,1
+0515,Bailey,James,porter ,1
+0516,Hicks,Robert,laborer ,1
+0517,Johnson,Chas,hod carrier ,1
+0518,Williams,Nicholas,seaman ,1
+0518,Williams,Nicholas,various ,1
+0518,Williams,Nicholas,grain carrier ,1
+0519,Bryan,Samuel,grain carrier cant tell ,1
+0520,Thorn,Leah,null,null
+0521,Smith,John,laborer ,1
+0522,Johnson,Totten,laborer ,1
+0523,Morris,Louisa,null,null
+0524,Samson,David,seaman ,1
+0525,Eddy,Joshua P B,barber ,1
+0526,White,Harriet,null,null
+0527,Hurst,William,porter ,1
+0528,Manuet,Phebe,null,null
+0529,Johnson,Edward,shop keeper ,1
+0530,Stevens,Soloman,lab in drug store ,1
+0531,Davis,Alexander,laborer ,1
+0532,Price,Lydia,null,null
+0533,Tullas,Jonathan,school teacher ,1
+0534,Blake,John,coachman ,1
+0535,Brown,George,seaman ,1
+0536,Simmons,McKenzie,temp seaman ch ,1
+0537,Sutton,Benjamine,oyster stand irregular ,1
+0538,Williams,Violet,null,null
+0539,Cleaver,Charles,shoemaker ,1
+0540,Harding,Garrison,laborer irregular ,1
+0541,Minton,John,carter his own ,1
+0542,Johnson,Charles,huckster laborer ,1
+0542,Johnson,Charles,porter ,1
+0543,Fitzgerald,David Jr,carter his own ,1
+0544,Powell,Hannah,null,null
+0545,Biddle,Charles,waiter ,1
+0546,Sisco,Francis,waiter ,1
+0547,Barrett,Elijah,various ,1
+0548,Thomas,Elizabeth,null,null
+0549,Wharton,Mary,null,null
+0550,White,Ann,null,null
+0551,Laws,Alexander,seaman ,1
+0552,Burgess,John,seaman ,1
+0552,Burgess,John,wood sawyer ,1
+0553,Laws,Caleb,porter ,1
+0554,Pyross,Lavinia,null,null
+0555,Harris,Katharine,null,null
+0556,Chain,Joseph,porter ,1
+0557,Lancaster,Sarah,null,null
+0558,Demer,William,peddler ,1
+0559,Davis,Frances Ann,null,null
+0560,Matthews,Henry,seaman ,1
+0560,Matthews,Henry,porter ,1
+0561,Armstrong,Ann,null,null
+0562,Christopher,William,wood sawyer ,1
+0563,Turnell,Confer,null,null
+0564,West,Obediah,hod carrier ,1
+0565,Hays,Mary,null,null
+0566,Alexander,Fanny,null,null
+0567,Hall,John,seaman ,1
+0568,Minus,Betsy,null,null
+0569,Robinson,Abel,stevedore ,1
+0569,Robinson,Abel,hod carrier ,1
+0570,Green,Patrick,various ,1
+0571,Mitchell,Alfred,waterman ,1
+0572,Purnell,Joshua,carter his own ,1
+0573,Purnell,Thomas,porter ,1
+0574,Short,Rebecca,null,null
+0575,Riley,Alice,waterman ,1
+0576,Thomas,Henry,various ,1
+0577,Dempsey,David,porter ,3
+0578,Parker,Nathan,well digger ,1
+0579,Jacoby,Ann,null,null
+0580,Johnson,Henry,grain carrier ,1
+0581,Gould,Elizabeth,null,null
+0582,Middleton,Morris,carter his own ,1
+0582,Middleton,Morris,drives cart ,1
+0583,Smothers,Frances,various sometimes ,1
+0584,Taylor,John,shoemaker average ,1
+0585,Johnson,James P,shoemaker ,2
+0585,Johnson,James P,eating house ,1
+0585,Johnson,James P,laborer ,1
+0586,Hazzard,Issac,lab in boat yard ,1
+0587,Dorsey,Phyllis,null,null
+0588,Franks,Benjamin,shoemaker is unsteady ,1
+0589,Palmer,Levi,hod carrier ,1
+0590,Parker,Mary,null,null
+0591,Hall,Joshua,oyster house ,1
+0592,Goutier,John,painter ,1
+0592,Goutier,John,glazier ,1
+0593,Lonnon,Thos,hod carrier cant tell ,1
+0594,Dutton,Abraham,porter not much ,1
+0595,Moore,Charles M,porter irregular ,1
+0596,Wood,George,cake baker ,1
+0597,Skinner,Margaret,laborer ,1
+0598,Moore,Penina,null,null
+0599,Thompson,Stephen,stevedore cant tell ,1
+0600,Marks,Edward,lab in oyster h ,1
+0601,Moore,John,porter ,1
+0602,Strikrs,Samuel,waiter ,1
+0603,Pointer,John,porter irregular ,1
+0604,Foulks,Joshua,well digger or anything can get to do ,1
+0605,,George,waiter ,1
+0606,Pitts,Joseph,wood sawyer ,1
+0607,Pitts,Samuel,hominy dealer ,1
+0608,Gibson,Henry,hod carrier ,1
+0609,Bond,Henry,rag dealer cant tell ,1
+0610,Thompson,Binah,null,null
+0611,Banks,James,stevedore dull in winter ,1
+0612,Simmons,Peter,hod carrier ,1
+0612,Simmons,Peter,in sum ,1
+0613,Hollland,Thomas,waiter ,1
+0614,Rink,Ann,waiter ,1
+0615,Au?,Elisha M,oyster peddler ,1
+0616,Dunn,John,salt carrier irregular ,1
+0617,Willmore,Joseph,laborer ,1
+0618,Anderson,John,sweep ,1
+0619,Lewis,John,salt carrier ,1
+0620,Clift,Elizabeth,null,null
+0621,Burton,Guy M,waiter ,1
+0622,Gray,Elizabeth,null,null
+0623,Burton,George,seaman ,1
+0624,Russell,Richard,basket maker ,1
+0625,Albert,Mahala,null,null
+0626,Johnson,Allen,porter ,1
+0627,Williams,Ellen,null,null
+0628,Altman,Mary Ann,null,null
+0629,Bell,Caleb,porter cant tell ,1
+0630,Midcap,Elizabeth,porter ,2
+0631,Peters,Rachel,porter ,2
+0632,Diu,Abner,wood sawyer ,1
+0632,Diu,Abner,porter ,1
+0633,Bailey,Garrison,laborer ,1
+0634,Matttack,Lydia,null,null
+0635,Robinson,Philip,porter ,1
+0636,Hood,Joseph,porter ,1
+0637,Martin,James,porter ,1
+0638,Clymer,John,seaman ,1
+0639,Nelson,John,boarding house ,1
+0640,Anderson,Sophia,lab with grain meast ,1
+0641,Rodney,Ann Eliza,null,null
+0642,Clarkson,Line Somerset,null,null
+0643,Jones,Issac,barber cant tell ,1
+0644,Watson,Absalom,putting in coal ,1
+0645,Hopkins,Edward,porter ,1
+0646,Brown,Rachel,barber ,1
+0647,Accov,William,laborer ,1
+0648,Ringgola,Alexander,hod car ,1
+0648,Ringgola,Alexander,wood sawyer ,1
+0649,Edwards,Joseph,not able to work ,1
+0650,Grubb,Mark,various ,1
+0651,Miller,Thos,crippled in his hands ,1
+0652,Miller,Frances,null,null
+0653,Grant,Isaiah,porter ,1
+0654,Lemon,Nathaniel,rag dealer ,1
+0655,Robinson,George,laborer irregular ,1
+0656,Montgomery,Ann,null,null
+0657,Purnell,Amy,null,null
+0658,Green,Lorenzo,porter ,1
+0659,Gibbs,Margaret,null,null
+0660,Allen,Mary,null,null
+0661,Williams,John,grain carrier good wages sometimes ,1
+0662,Denby,James,huckster very dull ,1
+0663,Ellsby,William,seaman ,1
+0664,Bundy,Richard,lab with grain measure ,1
+0664,Bundy,Richard,hod carrier ,2
+0665,Willliams,John W,waterman part of his time ,1
+0666,Brown,Catharine,laborer ,1
+0667,Denby,Christopher,hod carrier ,1
+0668,Hinson,Maria,porter ,1
+0669,Barrett,John,various ,1
+0670,Wilson,James,musician ,1
+0671,Cook,Ann,drives cart ,1
+0672,Brown,Jacob,porter cant tell ,1
+0673,Hull,Daniel,barber ,1
+0674,Sipple,James,cook ,1
+0675,Cole,Joseph H,waiter ,1
+0676,Cole,Daniel G,waiter ,1
+0677,Bush,George,seaman ,1
+0678,Stokes,John W,cake peddlers ,2
+0679,Benson,William,waiter ,1
+0680,Leekman,William,waiter ,1
+0680,Leekman,William,seaman ,1
+0681,Stogden,Frederick,past work ,1
+0682,Patterson,William,porter cant tell ,1
+0683,Hughes,Hannah,null,null
+0684,Purvis,Issac,wood sawyer ,1
+0685,Queen,Jane,hominy man ,1
+0686,Compton,Julia Ann,null,null
+0687,Cornish,Henry,boot & shoemaker,1
+0688,Burton,Hannah,null,null
+0689,Cropper,Lemuel,not able ,1
+0690,Jackson,Mary,null,null
+0691,Allen,Samuel,laborer ,1
+0692,Ambrose,Charlotte,private teacher ,1
+0693,Prince,?,waiter ,1
+0694,Cramer,Shadrack,laborer ,1
+0695,Lewis,Cato,waterman ,1
+0696,Walker,Francis,barber cant tell ,2
+0697,Hall,David,hod car ,1
+0698,Smith,Robert,waiter ,1
+0698,Smith,Robert,porter ,1
+0699,Corsey,Serena,null,null
+0700,Polk,Lewis,hod carrier ,1
+0701,Furron,John,porter dont know ,1
+0702,Lewis,Sarah Jane,null,null
+0703,Jones,George,null,null
+0704,Smith,Harlan,porter very little ,1
+0705,Walton,Eliza,null,null
+0706,Carney,George,boxman ,1
+0707,Blake,Mary,null,null
+0708,Mount,Sarah,null,null
+0709,Paul,Thos,laborer ,1
+0710,Stevenson,John,seaman ,1
+0710,Stevenson,John,not able ,1
+0711,Marcus,Samuel,porter dull moro ,1
+0712,Stafford,William,waiter ,1
+0713,Decodevu,William,porter cant tell ,1
+0714,Gater,Amelia,null,null
+0715,Lavell,Samuel,boxman ,1
+0716,Miller,Ellens,seaman ,1
+0717,Richardson,Benjamin,waiter ,1
+0718,Jordan,Thos,laborer ,1
+0719,Black,James P,porter ,1
+0720,Stewart,,hostler ,1
+0721,Davis,Char,laborer ,1
+0721,Davis,Char,porter ,1
+0721,Davis,Char,waiter ,1
+0722,Smith,Thomas,seaman ,1
+0723,Butler,John,cook ,1
+0724,Williams,Samuel,porter house ,1
+0724,Williams,Samuel,porter ,1
+0725,Williams,Thomas,seaman ,1
+0726,Rowley,Letitia,barber ,1
+0727,Hopkins,Agnes,null,null
+0728,Weston,Lydia,null,null
+0729,Henry,James,porter ,1
+0730,Ballard,Hannah,null,null
+0731,Wilson,Charlotte,null,null
+0732,Ambrose,Issac,dealer pretty good ,1
+0733,Kennedy,Joshua,shoemaker ,1
+0734,Jones,Anthony,steward ,1
+0735,Johnson,Eliza,null,null
+0736,Simpson,Rebecca,seaman cant tell ,1
+0737,Wiggins,James,steward ,1
+0738,White,Robert,drives fur cart his own ,1
+0739,Cropper,Harriet,null,null
+0740,Parker,Robert,porter ,1
+0741,Laws,William,white washer irregular ,1
+0742,Vanderbeck,Abraham,barber dont know ,1
+0743,Crummell,John,waiter ,1
+0744,Smith,Eliza,null,null
+0745,Francis,Mary,null,null
+0746,Bell,John,tailor cant tell ,1
+0747,Bristel,Louisa,stove dealer ,1
+0748,Wilson,Isaac,porter ,1
+0748,Wilson,Isaac,waiter ,1
+0749,Harman,John,eating house ,1
+0750,Shorter,Charles,hackman his own ,1
+0751,Wyatt,Eliizth,null,null
+0752,Collick,Hannah,null,null
+0753,Richard,Susan,null,null
+0754,Ford,Maria,null,null
+0755,Henson,Anna,null,null
+0756,Buchanan,Philip,hominy man and hackman his own ,1
+0757,Butler,William,sadler ,1
+0757,Butler,William,porter ,1
+0758,Clark,Sarah,null,null
+0759,Frisby,Charles,cabinet maker ,1
+0759,Frisby,Charles,undertaker ,1
+0759,Frisby,Charles,barber ,1
+0760,Cornish,Mary,null,null
+0761,Jordan,Benjamin,carter his own ,1
+0762,Fells,James M,engineer ,1
+0763,Chambers,Lehman,oyster peddler ,1
+0764,Moore,John,hod car when can get it ,1
+0765,Wilkins,Benjamin W,oyster house ,1
+0766,Goines,Luke,barber ,1
+0767,Wilson,Richard,carter his own ,1
+0768,Wallace,Loveless,carter his own ,1
+0769,Robinson,Henry,porter ,1
+0770,Prout,Henrietta,null,null
+0771,Dowden,Soloman,not able to do much ,1
+0772,Jordan,John,stevedore ,1
+0773,Dexter,Ann,porter ,1
+0774,Wilson,James,various ,1
+0775,McEwen,Robert,seaman ,1
+0776,Milburn,James,barber ,2
+0777,Ware,James,waiter ,1
+0778,Rivers,Rachel,null,null
+0779,Martin,Justine,null,null
+0780,Mitchell,John,waiter ,1
+0781,Montier,Hiram,eating house ,1
+0782,Burton,Moses,cook ,1
+0783,Lewis,James,brick moulder ,1
+0784,Todd,Mary,null,null
+0785,Sprigg,Osborne,waiter ,1
+0786,Spencer,Ann,null,null
+0787,Sheaff,William,waiter ,1
+0788,Bell,William,hod carrier ,1
+0789,Archbald,Robert,sail ,1
+0789,Archbald,Robert,when has work ,1
+0790,Linus,Levi,not able ,1
+0791,Welsh,Benjamin,porter ,1
+0792,Testamaker,William,seaman ,1
+0793,Dutert,Francis A,carpenter ,1
+0793,Dutert,Francis A,builder ,1
+0793,Dutert,Francis A,type caster ,1
+0794,Jackson,Ephraim,hod carrier ,1
+0795,Chandler,Joseph,various ,1
+0796,Ware,David,school teacher ,1
+0797,Richardson,Mary,null,null
+0798,Dill,Hester,null,null
+0799,Danielo,Joseph,seaman ,1
+0800,Amens,Celeste,null,null
+0801,Green,Charity,null,null
+0802,Benson,Dorcas,null,null
+0803,Brown,Isaiah,waiter ,1
+0804,Wilson,Horace,waiter ,1
+0804,Wilson,Horace,seaman ,1
+0805,Willis,George,stevedore ,1
+0805,Willis,George,oyster peddler ,1
+0806,Valentine,Liorly,waiter ,1
+0807,Saunders,Robert,porter ,1
+0808,Welsh,Benjamin Jr.,master carpenter ,1
+0809,Clark,Daniel,porter ,2
+0810,Richars,Washington P,waiter ,1
+0811,Dorsey,Joseph,waiter ,1
+0812,Bell,Caleb,various ,1
+0813,Draper,Henry,coachman ,1
+0814,Perry,Julia Ann,porter ,2
+0814,Perry,Julia Ann,lab ,1
+0815,Lei,Elizabeth,null,null
+0816,Waten,Ann,null,null
+0817,Kirk,Ann,null,null
+0818,Pierce,Hannah,seaman ,1
+0819,Webber,Issac,porter ,1
+0820,Thompson,Rebecca,null,null
+0821,Clarkson,Charles,waiter ,1
+0822,Allen,Eliza,null,null
+0823,Burton,Hannah,null,null
+0824,Spencer,Edward,seaman ,1
+0825,Christy,Olivia,null,null
+0826,White,Ann,null,null
+0827,Newby,Gracey,wood sawyer ,1
+0828,Trusty,Hester,null,null
+0829,Ross,Eliza,null,null
+0830,Parham,Ann,null,null
+0831,Armstrong,Henry,waiter ,1
+0832,Parham,Mansfield,stevedore ,1
+0833,Hodges,Thos,wood sawyer ,1
+0834,Anthony,William,clothes dealer ,1
+0835,Turner,William H,various ,1
+0836,Green,Chas,barber ,1
+0837,Gideon,William,seaman ,1
+0838,Wright,Thomas,seaman ,1
+0839,Haines,Mary,null,null
+0840,Poulson,Sarah,null,null
+0841,Cook,Joseph,waiter ,1
+0842,Wiley,Elizabeth,null,null
+0843,Bishop,Carolyn,null,null
+0844,White,John F,barber ,2
+0845,Robinson,Thos,eating house ,1
+0846,Robinson,James,porter ,1
+0847,Todd,Catharine,null,null
+0848,Johnson,Diana,null,null
+0849,Davis,Elizabeth,washer ,1
+0850,Till,Daniel,past labor ,1
+0851,Moses,Hannah,null,null
+0852,Bean,Susan,null,null
+0853,Gray,Lewis,coachman ,1
+0854,Hicks,John,barber ,1
+0855,Harding,James,tavern keeper ,1
+0855,Harding,James,undertaker ,1
+0856,Peck,David,porter ,1
+0857,Jones,Moses,whitewasher ,1
+0858,Wilson,Jesse,waiter ,1
+0859,Jones,Moses,whitewasher ,1
+0860,Wilson,Jesse,waiter ,1
+0861,Bundy,Thos R,washer ,1
+0861,Bundy,Thos R,bootmaker ,1
+0862,McCoy,Ann,null,null
+0863,Goodwin,Jane,null,null
+0864,Blake,-,null,null
+0865,Black,Cyrus,clothes dealer ,1
+0866,Corsey,John,huckster,1
+0867,Cork,Isaac,porter ,1
+0868,Gibbons,James,carpenter ,2
+0869,Ancess,William,indian doctor ,1
+0870,Jones,Lemuel,mans nurse ,1
+0871,Morris,Emanuel,barber ,1
+0872,Thomas,Charlotte,null,null
+0873,Trusty,William,various ,1
+0874,Benson,Henry,shoemaker ,1
+0875,Richard,Kirk,seaman ,1
+0876,Benson,Rachel,null,null
+0877,Ballard,John,seaman ,1
+0878,Williams,James,various ,1
+0879,Benson,Phillip,laborer ,1
+0880,Solomon,Ann,null,null
+0881,Lewis,-,null,null
+0882,Roberts,Lloyd W,muffin baker ,1
+0883,Ball,Rosanna,null,null
+0884,Woodland,Samuel,null,null
+0885,Davis,Harriet,laborer ,1
+0886,Bobane,Sarah,null,null
+0887,Peterson,Ann,null,null
+0888,Polk,Dennis,seaman ,1
+0889,Blackson,Ellen,null,null
+0890,Davis,Victoria,null,null
+0891,Wilson,Alexander,waiter ,1
+0891,Wilson,Alexander,laborer ,1
+0892,Clarkson,Belinda,null,null
+0893,Van Breakle,James,shoemaker ,1
+0893,Van Breakle,James,musician ,1
+0894,Denby,Denby,null,null
+0895,Dixon,Daniel,seaman ,1
+0896,Howard,Robert,cook ,1
+0897,Davis,Jane,null,null
+0898,Williams,Sarah,null,null
+0899,Marshall,York,master cooper in ny ,1
+0900,Hill,Francis,porter ,1
+0901,Mules,Sarah,null,null
+0902,Short,Amelia,null,null
+0903,Brown,Margaret,null,null
+0904,Reason,Samuel,not able ,1
+0905,Duff,William,stevedore ,1
+0906,Williams,James,waterman ,1
+0907,Craig,Anthony,huckster,1
+0908,Perry,Ann,blind not able ,1
+0909,Sinclair,Hester,null,null
+0910,Miller,Peter,stevedore ,1
+0911,Scott,Samuel,porter ,1
+0912,Stevens,Jesse,seaman ,1
+0913,Tompson,Nathan,laborer ,1
+0914,Cropper,Lavinia,null,null
+0915,Hughes,Theodorick,stevedore ,1
+0916,Nicoles,John,seaman ,1
+0917,Buck,John,stevedore ,1
+0918,Sewall,Cipio,public waiter ,1
+0919,Butler,Eliza Ann,null,null
+0920,Thompson,Hannah,null,null
+0921,Turner,Alexander,stevedore ,1
+0922,Morris,Mary Ann,null,null
+0923,Harman,Levi,stevedore ,1
+0923,Harman,Levi,seaman ,1
+0924,Burton,Lucy,null,null
+0925,Waterford,Isaiah,shoemaker ,1
+0926,Walton,Jane,porter ,1
+0927,Moore,William,musician ,1
+0928,Hamilton,George,waiter ,1
+0929,Harman,George,laborer ,1
+0930,Jasper,Theodore,laborer ,1
+0931,Burton,Mary,null,null
+0932,Bryan,Mary,null,null
+0933,Williams,Ann,null,null
+0934,Queen,Edward,stevedore ,1
+0935,Rutter,James,stevedore ,1
+0935,Rutter,James,lab ,1
+0936,Moore,Letitia,null,null
+0937,Christie,Mary,null,null
+0938,Bostwick,Jane,waiter ,1
+0939,Pierce,Thos,traveling preacher ,1
+0940,Jackson,Elizabeth,cook ,1
+0940,Jackson,Elizabeth,not able ,1
+0941,Mifflin,Ann,null,null
+0942,Todd,Rachel,waiter ,2
+0943,Clark,Jacob,porter ,2
+0944,Golding,Ann,null,null
+0945,Pierce,Anna,waiter ,1
+0946,Higgins,William,waiter ,1
+0947,Bundy,Sarah,null,null
+0948,Morris,Hannah,null,null
+0949,Murray,John,brick moulder ,1
+0950,Banks,Dorothemina,null,null
+0951,Boldin,Richard,hod carrier ,2
+0952,Mathews,Hannah,null,null
+0953,Williams,Mary,null,null
+0954,Johnson,Helen,null,null
+0955,Appo,William,music teacher ,1
+0956,Dixon,Reuben,wood piler ,1
+0957,Davis,Richard,dealer ,1
+0958,Hoffman,Mary,null,null
+0959,Dowden,Maria,null,null
+0960,Hazard,James,porter ,1
+0961,Cole,Leroy,plasterer ,1
+0962,Bennett,Martha,null,null
+0963,Miney,Elizabeth,null,null
+0964,Simmons,Maria,null,null
+0965,Jacobs,Lucretia,null,null
+0966,Cook,Edward,drives cart ,1
+0967,Richards,Sarah,null,null
+0968,Shipley,William,porter ,1
+0969,Ferris,Stephen,various ,1
+0970,Taylor,William,waiter ,1
+0971,Johnson,Peter,herb doctor ,1
+0972,Shorter,Ellen,null,null
+0973,Barclay,Jane,null,null
+0974,Yeppee,Henry,waiter ,1
+0974,Yeppee,Henry,cook ,1
+0975,Patrick,Dennis,laborer ,1
+0976,Harris,Elizabeth,null,null
+0977,Cleaver,Samuel,laborer ,1
+0978,Jones,Elizabeth,null,null
+0979,Fitzgerald,Frances Ann,null,null
+0980,Davis,Jane,null,null
+0981,Addick,Robert,hod carrier ,1
+0982,Scott,Juliet,null,null
+0983,Mitchell,Ann,null,null
+0984,Despot,Sarah,null,null
+0985,Ross,Mary,null,null
+0986,Heill,Chas,porter ,1
+0987,Thomas,Martha,drives dray ,1
+0988,Black,Ebenezer,scourer ,1
+0988,Black,Ebenezer,public waiter ,1
+0989,Collins,Ann,null,null
+0990,Green,David S,waiter ,1
+0991,Tilgman,John,seaman ,1
+0992,Lee,Margaret,null,null
+0993,Saltin?,Paris,bricklayer ,1
+0994,Miller,Mary,null,null
+0995,Draper,John,waiter ,2
+0996,Thomas,Elizabeth,null,null
+0997,Bruce,Luke,waiter ,1
+0997,Bruce,Luke,barber ,1
+0998,Cooper,Issac,clothes dealer ,1
+0999,Boyer,Edith,null,null
+1000,Lang,Benjamin,private watchman ,1
+1000,Lang,Benjamin,seaman ,2
+1001,Rigby,Jane,null,null
+1002,Lee,James W,cabinet maker now porter ,1
+1003,Allain,Joseph,not able ,1
+1004,Winten,?,various ,1
+1005,Brown,Susan,null,null
+1006,Brown,Nicholas,not able ,1
+1007,Proctor,Walter,shoemaker ,1
+1007,Proctor,Walter,barber ,1
+1008,Needam,James,barber ,2
+1009,Allen,John,public waiter ,1
+1010,Day,Mathias,hod carrier ,1
+1011,Blake,John,coachman ,1
+1012,Lowry,Comfort,null,null
+1013,Addick,Lloyd,sexton ,1
+1014,Montier,Soloman,shoemaker ,1
+1015,Parsis,Jacob,porter ,1
+1016,Edward,Samuel,laborer ,1
+1017,Brister,Charles,lab in sugar house ,1
+1018,Carmac,Isaac,wood sawyer ,1
+1019,Murray,Meriam,null,null
+1020,Hayes,Edmund,waiter ,1
+1021,Pecker,Edward,steward ,1
+1021,Pecker,Edward,boatman ,1
+1022,Brinckle,Robert,waiter ,1
+1023,Macklin,Issac,bootmaker ,1
+1024,Brown,Thos,seaman ,1
+1025,Sullivan,Harrison,clothes dealer ,1
+1026,Howell,Richard,oyster house ,1
+1026,Howell,Richard,traveling preacher ,1
+1027,Drivef,Othmil,waiter ,1
+1028,Daggers,Cynthia,null,null
+1029,Johnson,James,seaman when able ,1
+1030,Wilson,James,porter ,1
+1031,Shaffer,Mary,null,null
+1032,Campbell,James,seaman ,1
+1033,White,Thos,shoemaker ,1
+1034,Robinson,John,lab ,1
+1034,Robinson,John,waiter ,1
+1034,Robinson,John,muscian ,1
+1035,Constante,Francis,cooks ,2
+1036,Jones,William,barber ,1
+1037,Hopkins,George,cake seller ,1
+1037,Hopkins,George,barber ,1
+1038,Wilson,James,shoemaker ,1
+1038,Wilson,James,janitor ,1
+1038,Wilson,James,seeking business ,2
+1039,Hall,Morris,waiter ,1
+1040,Smith,Ann,idle ,1
+1040,Smith,Ann,cake baker ,1
+1041,Todd,Thomas Jr,coachman ,1
+1041,Todd,Thomas Jr,teacher ,1
+1042,Trusty,Delia,null,null
+1043,Stevens,Charlotte,null,null
+1044,Johnson,Phyliss,null,null
+1045,Gillam,Wesley,waiter ,1
+1046,Miller,Mary,not able ,1
+1047,Andrews,John,seaman ,1
+1047,Andrews,John,waiter ,1
+1048,Hall,Sarah,null,null
+1049,Stokes,William,porter ,2
+1050,Henderson,Joseph,lab ,1
+1050,Henderson,Joseph,waiter ,1
+1051,Oliver,John D,whitewasher ,1
+1052,Edwards,Samuel,whitewasher ,1
+1053,Holland,Issac,oyster peddler ,1
+1054,Chase,Thos,coachman ,1
+1055,Griffin,Henry,drives cart ,1
+1056,Williams,Charlotte,null,null
+1057,Conner,Flora,null,null
+1058,Lester,Peter,boot maker,1
+1059,Luca,John,bootmaker ,2
+1060,Townsend,Esther,null,null
+1061,Hodge,Lydia,null,null
+1062,Brown,William,shop keeper ,1
+1063,Jackson,Ann,null,null
+1064,Ricks,Henry,whitewasher ,1
+1065,London,Mary,null,null
+1066,Phillips,Trusty,seaman ,1
+1067,White,Hannah,seaman ,1
+1068,Lugrian,Luke,laborer ,1
+1069,Dolphin,James,porter ,1
+1069,Dolphin,James,box dealer ,1
+1070,Bennett,Frances,barber ,1
+1070,Bennett,Frances,seaman ,1
+1071,Agustus,George,seaman ,2
+1072,London,Henry,hod carrier ,1
+1073,White,Martin,various ,1
+1074,Ross,Michael,stevedore ,1
+1075,Ludlow,Barbara,waiter ,2
+1075,Ludlow,Barbara,coachman ,1
+1075,Ludlow,Barbara,wood sawyer ,2
+1076,Berry,Joshua,boatman ,1
+1077,Gibbs,Abraham,laborer ,1
+1078,Bond,Charles,watchman ,1
+1079,Lawrence,Richard,boot cleaner ,2
+1080,Johnson,Robert,cook ,1
+1081,Martin,Thomas,porter ,1
+1082,Taylor,George,laborer ,1
+1083,Smith,Elijah,laborer ,1
+1084,Christie,Richard,laborer ,1
+1085,Newton,Rachel,null,null
+1086,Washington,Henry,herb doctor ,1
+1087,Rich,Charles,coachman ,1
+1088,Valentine,Glo B,waiter ,1
+1089,Fletcher,Ann,null,null
+1090,Hutchins,James,waiter ,1
+1091,Campbell,Catharine,null,null
+1092,Stamford,Stephen,null,null
+1093,Allenese,John,dealer ,1
+1093,Allenese,John,bootmaker ,1
+1094,Davis,Richard,carpenter ,1
+1095,Myers,Rachel,null,null
+1096,Mitchell,Mary,null,null
+1097,Sullivan,Issac,clothes dealer ,1
+1097,Sullivan,Issac,porter ,1
+1098,Dunn,James,seaman ,1
+1099,Gaines,Ellen,barber ,6
+1100,Leary,Sarah,null,null
+1101,Reeves,Margaret,null,null
+1102,Carroll,Amelia,null,null
+1103,Tolaver,James,shoe maker ,1
+1104,Mcpherson,Thos,brick moulder ,1
+1105,Washington,Joseph,gardener ,1
+1106,Miller,Benjamin,collecter ,1
+1107,Martin,Stephen r,oyster house ,1
+1108,Johnson,William,laborer ,1
+1109,Stokes,Randolph,herb doctor ,1
+1110,Potter,Horace,porter ,1
+1111,Henry,Margaret,null,null
+1112,Lane,Phillip,porter ,1
+1113,Norman,Jane,null,null
+1114,Turner,Raymond,umbrella maker ,1
+1115,Garrett,Leonard,laborer ,2
+1116,Morris,Letitia,null,null
+1117,Lawrence,Alfred,lab ,1
+1118,Buck,Richard,carter his own ,1
+1119,Johnson,George,stevedore ,1
+1120,Britton,Peter,seaman ,1
+1121,Grant,Margaret,null,null
+1122,Sipple,Melinda,null,null
+1123,Brinck,James,wood sawyer ,1
+1124,Tate,Arthur,porter ,1
+1125,Wright,Mary,null,null
+1126,Henry,James,hod carrier ,1
+1127,Roberts,Penelope,null,null
+1128,Brown,Joshua,clothes dealer ,1
+1129,Rickett,Soloman,poeter ,1
+1130,Curtis,James,stevedore ,1
+1131,Moore,Chas,waiter ,1
+1132,Blake,Grace,null,null
+1133,Smith,Tamar,null,null
+1134,Johnson,Louisa,porter ,1
+1134,Johnson,Louisa,waiter ,1
+1135,Purnell,James,seaman ,1
+1136,Marshall,Susan,null,null
+1137,Todd,William,coachman ,1
+1138,Jones,Celeney,null,null
+1139,Reed,Mary Ann,null,null
+1140,Lec,Susanna,waiter ,1
+1141,Boyer,Anthony,waterman ,1
+1142,Burton,Matilda,laborer ,1
+1143,Ash,Joshua,porter ,1
+1144,Dorsey,Nicholas,porter ,1
+1144,Dorsey,Nicholas,waiter ,1
+1145,Alexander,Rebecca,null,null
+1146,Peters,Mary,null,null
+1147,Francis,Mary,null,null
+1148,Charles,Mary,null,null
+1149,Peters,Rosanne,null,null
+1150,Perry,Joanna,null,null
+1151,Miller,James,porter ,1
+1152,Stogden,Aaron,waiter ,1
+1153,White,Anna,null,null
+1154,Wiggins,Ann,null,null
+1155,Short,Hannah,porter ,1
+1156,Moore,William,traveling preacher ,1
+1157,Taylor,Nancg,waiter ,1
+1158,Fullman,Edward,waiter ,1
+1159,Wiltbank,Anthony,ship carpenter ,1
+1160,Jones,William,stevedore ,1
+1161,Turner,Elizabeth,null,null
+1162,Nelson,Dorcas,null,null
+1163,Chambers,Sophia,null,null
+1164,Smith,James,seaman ,1
+1165,Beckett,Isaac,porter ,1
+1166,Hill,Jerimiah,waiter ,1
+1167,Phillips,Elizabeth,null,null
+1168,Shorter,William,seaman ,1
+1169,Palmer,Mahala,null,null
+1170,Perkins,Cecilia,null,null
+1171,Johnson,John,whitewasher ,1
+1172,Auderson,Eliza,null,null
+1173,Jones,Ann,null,null
+1174,Gilby,Shepard,sexton ,1
+1175,Brown,Henrietta,null,null
+1176,Thompson,John W,herb doctor ,1
+1177,Miller,Nancy,null,null
+1178,Frisbey,George,puts in coal ,1
+1179,Moore,John,sail maker ,1
+1180,Anderson,Joseph,musician ,1
+1181,Johnson,Augustus,musician ,1
+1182,Nixon,Benjamin,seaman ,1
+1182,Nixon,Benjamin,carter his own ,1
+1183,Jackson,Jacob,waiter ,2
+1184,Robinson,Major,drives fur car ,1
+1185,Thompson,Bennett,seaman ,1
+1186,Whittingtone,Palmer,hod carrier ,1
+1187,Deviine,Louisa,hack driver ,1
+1188,Hill,Henry,waterman ,1
+1189,Macklin,Isaac,waiter ,1
+1190,Turner,Grace,null,null
+1191,Summers,Ann,null,null
+1192,Wothington,Ann,null,null
+1193,Coffin,Rachel,null,null
+1194,Gibb,Nathaniel,waiter ,1
+1195,Thompson,Maria,null,null
+1196,Lindsay,Margaret,null,null
+1197,Levin,Blake,wood sawyer ,1
+1198,Mitchell,Issac,laborer ,1
+1199,Duncan,Sarah,laborer ,1
+1200,Poulson,Aivey,null,null
+1201,Livingston,Abigail,null,null
+1202,Jordan,Diana,null,null
+1203,Blake,Elizabeth,null,null
+1204,Matthews,Leah,null,null
+1205,Broadwater,James,waterman ,1
+1206,Washington,Charlotte,null,null
+1207,Woodley,Nancy,null,null
+1208,Thomas,Charlotte,null,null
+1209,James,Judith,null,null
+1210,Murray,Rachel,null,null
+1211,Daffney,Ceclia,null,null
+1212,Francoise,Eliza g,null,null
+1213,Hart,Samuel,waiter ,1
+1214,Thompson,Elias,laborer ,1
+1215,Camper,Chas W,dealer ,1
+1216,Wooley,Abraham,dealer ,1
+1217,Parker,Stephen,boot cleaner ,1
+1218,Mitchell,Hannah,null,null
+1219,Prattis,Hannah,waiter ,1
+1220,Furrow,Joseph,huckster,1
+1221,Bustick,George,laborer ,1
+1222,Mackry,James,laborer ,1
+1223,Burman,Phyllis,null,null
+1224,Williams,Thos,waiter ,1
+1225,Green,Stephen,laborer ,2
+1226,James,Ann,null,null
+1227,Morris,Perry,stevedore ,1
+1228,Rich,Edward,coachman ,1
+1229,Tenent,William,musician ,1
+1230,Williams,Ann,null,null
+1231,Grant,James,various ,1
+1232,Redding,Henry,various ,1
+1233,Spencer,Rachel,null,null
+1234,Wilson,Lavinia,null,null
+1235,Richards,Sarah,null,null
+1236,Uie,Christopher,cook ,1
+1237,Chew,Catharine,null,null
+1238,Harding,Catharine,null,null
+1239,Black,Louisa,null,null
+1240,Thompson,Noah,steward ,1
+1241,Vandyke,Phoebe,null,null
+1242,Brown,Andrew,barber ,1
+1242,Brown,Andrew,porter ,1
+1243,Waters,Ann E,null,null
+1244,Mode,Jenry,eating house ,1
+1245,Bastian,Joseph,musician ,1
+1246,Griffith,Jerimiah,puts in coal when able ,1
+1247,Cozer,Maria,null,null
+1248,Ford,John,waiter ,1
+1249,Valantine,William,waterman ,1
+1250,Morgan,Peter,oyster peddler ,1
+1251,Anthony,Thos,laborer ,1
+1252,,John,laborer ,1
+1253,Caldwell,Maria,laborer ,1
+1254,Lee,Taressa,null,null
+1255,Hutt,Elijah,carter his own ,1
+1256,Cantine,John,carpenter ,1
+1257,Rosel,John,drives dray ,1
+1258,Kendall,Robert,herb doctor ,1
+1259,Reley,Sarah Ann,laborer ,2
+1259,Reley,Sarah Ann,waiter ,1
+1260,Manliff,Eliza,null,null
+1261,Tilghman,Margaret,null,null
+1262,Bush,Daniel,seaman ,1
+1263,Gilmore,Lewis,laborer ,1
+1264,Crummill,Samuel,sail maker ,1
+1265,Barrett,Andrew,waiter ,1
+1265,Barrett,Andrew,laborer ,1
+1266,Snowdew,John,carter his own ,1
+1267,Warren,Elizabeth,null,null
+1268,Taylor,William,various ,1
+1269,Tilghman,Sarah,null,null
+1270,Nixon,Ann,not able ,1
+1271,Johnson,Peter,porter ,1
+1271,Johnson,Peter,waiter ,1
+1272,Page,Josephine,null,null
+1273,Joseph,John J,barber ,1
+1274,Scott,Edmund J,porter ,1
+1275,Thomas,George,laborer ,2
+1276,Bird,James,bootmaker ,1
+1277,Cook,Deborah,huckster,1
+1278,Murray,Samuel,seaman ,1
+1279,Derry,Maria,null,null
+1280,Hubert,Littleton,grocer ,1
+1281,Dorsey,Elizabeth,null,null
+1282,Till,Issac,not able ,1
+1283,Sammons,Sarah Ann,null,null
+1284,Williams,Tracy,null,null
+1285,Collins,Asher,coachman ,1
+1286,Blake,John,hod carrier ,2
+1286,Blake,John,various ,1
+1287,Graves,Issac,porter ,1
+1288,Bowser,James,laborer ,2
+1288,Bowser,James,cabman ,1
+1289,Bowser,Issac,laborer ,1
+1290,Jackson,George,oysterman ,1
+1291,Davis,William H,shoemaker ,1
+1291,Davis,William H,music teacher ,1
+1292,Dowden,John,shoemaker ,1
+1293,Patterson,James,seaman ,1
+1294,Daniels,Jane,null,null
+1295,Ringella,Henry,laborer ,1
+1296,Barris,John,porter ,1
+1297,Williams,Hannah,null,null
+1298,Kitchings,Livi,seaman ,1
+1299,Washington,Moses,drives cart ,1
+1300,Demby,Thomas,porter ,1
+1301,Hopkins,James,laborer ,1
+1302,Robinson,Sarah,stevedore ,1
+1303,Rigby,Joseph,waiter ,1
+1304,Carter,Samuel,traveling preacher ,1
+1305,Hamilton,John,seaman ,1
+1306,High,Mary,laborer ,2
+1307,Powell,John,null,null
+1308,Weatheringon,Patricia,null,null
+1309,Hazel,Warner,laborer ,1
+1310,Waters,George,drives cart ,1
+1311,Watkins,William D,porter ,1
+1311,Watkins,William D,oyster peddler ,1
+1312,Cropper,George,state service ,1
+1313,Hale,Eliza,null,null
+1314,Temple,James,shoemaker ,1
+1315,Green,George,laborer ,1
+1316,Davis,Edwad,eating house ,1
+1317,Anderson,Samuel,lab ,1
+1317,Anderson,Samuel,waiter ,1
+1318,Robbins,John,hod carrier ,1
+1319,Lee,Thomas,porter ,1
+1320,Griffin,Thomas,laborer ,1
+1321,Harriges,Peter,laborer ,2
+1322,Thompson,John,waiter ,2
+1322,Thompson,John,rag dealer ,1
+1323,Richardson,Michael,laborer ,1
+1324,Smith,William H,seaman ,1
+1325,Wells,James,laborer ,1
+1326,Robinson,David,stevedore ,1
+1327,Hicks,Robert M,salt & grain carrier,1
+1328,Shorter,Marie,waiter ,1
+1328,Shorter,Marie,cab driver,1
+1328,Shorter,Marie,stevedore ,1
+1329,Roberts,Daniel,various ,1
+1330,Green,Diana,null,null
+1331,Duffy,John,huckster,1
+1332,Henry,Samuel,laborer ,1
+1333,Stewart,Joseph,porter ,1
+1334,Thompson,Belinda,null,null
+1335,Scuchins,Soloman,stevedore ,1
+1336,Cox,Charles,grain carrier ,1
+1337,Lewis,Peter D,stove ,1
+1337,Lewis,Peter D,furniture dealer ,1
+1338,Lewis,Ceasar,stone dealer ,1
+1339,Lewis,John,seaman ,1
+1340,Lewis,Cate,laborer on farm ,1
+1341,Banks,Murrile,basket maker ,1
+1342,Armstrong,Hester,waiter ,1
+1343,Brown,Perry,laborer ,1
+1344,Taylor,Maria,null,null
+1345,White,Tabitha,null,null
+1346,Brown,Mahala,null,null
+1347,Downs,Hawkins,laborer ,1
+1348,Williams,Edward,laborer ,1
+1349,Drummond,Lewis,shoemaker ,1
+1350,Thomas,Anna,null,null
+1351,tvomes(?),Chas,shoemaker ,1
+1352,Laws,Peter,porter ,1
+1352,Laws,Peter,barber ,1
+1353,Downs,Ann,null,null
+1354,Myers,Jacob B,barber ,1
+1355,Seymour,Lewis,porter ,1
+1355,Seymour,Lewis,musician ,2
+1355,Seymour,Lewis,private teacher ,1
+1356,Potter,George,oyster house ,2
+1357,Annis,Josiah,shoemaker ,1
+1358,Burns,Mary,null,null
+1359,Williams,Kitty,null,null
+1360,Oaten,Josiah,seaman ,1
+1361,Bailey,Richard,puts in coal ,1
+1362,Fitzgerald,Joseph,huckster,1
+1363,Johnson,James,painter ,1
+1363,Johnson,James,glazier ,1
+1364,Reece,Eliza Ann,null,null
+1365,Malson,Ephraim,gentleman ,1
+1365,Malson,Ephraim,wood sawyer ,1
+1366,Johnson,Edward H,musician ,1
+1367,Anderson,William,coachman ,1
+1368,Johnson,Jacob,musician ,1
+1369,Dennis,Margaret,null,null
+1370,Cornwall,Abigail,null,null
+1371,Watson,Margaret,null,null
+1372,Williams,Abraham,hod carrier ,1
+1373,Rex,Moses,porter ,1
+1374,Fisher,Thos C,seaman ,1
+1375,Miller,John,seaman ,1
+1376,Sammons,Thomas,porter ,1
+1377,Curtis,Wealthy,null,null
+1378,Thomas,Elizabeth,waiter ,1
+1379,Gaines,Sarah,lab ,1
+1379,Gaines,Sarah,engineer ,1
+1380,Chandler,Henry,porter ,1
+1381,Atkins,Charles,carpenter when able ,1
+1382,Garrett,Soloman,laborer ,1
+1383,Ruffin,Robert,dealer ,1
+1384,Accoo,Catharine,null,null
+1385,West,Issac,waiter ,1
+1386,Derrickson,Sarah,null,null
+1387,Dorsey,Diane,null,null
+1388,Boldin,Robert,waiter when able ,1
+1389,Saunders,Simpson,laborer ,1
+1390,Miller,James,laborer ,1
+1391,Warren,Thomas,whitewasher ,1
+1392,Harris,Thos,whitewasher ,1
+1393,Gibbs,Joshua,coachman ,1
+1394,Styers,James,waiter ,1
+1395,Hitchin,Milford,porter ,1
+1395,Hitchin,Milford,waiter ,1
+1396,Richan,Gale,porter ,1
+1397,White,Jane,null,null
+1398,Peters,Diane,null,null
+1399,Todd,Ann,null,null
+1400,Bibens,John,shoemaker ,1
+1401,Stewart,Henry,waiter ,1
+1401,Stewart,Henry,seaman ,2
+1402,Biddle,Josiah,drives cart ,1
+1403,Grantum,William H,oyster house ,1
+1404,Andrews,Sarah,null,null
+1405,Hale,James,coachman ,1
+1406,Morgam,Sarah,null,null
+1407,Merritt,John,coachman ,1
+1408,Frame,Sarah,null,null
+1409,Bacon,William,seaman ,1
+1410,Staten,Caleb,carpenter ,1
+1411,Biggs,John,traveling preacher ,1
+1412,Lawrence,Lucy,null,null
+1413,Warner,Noah,laborer ,1
+1414,Buchanan,William,porter ,1
+1415,Barker,William,drives cart ,1
+1416,Losier,Robert,porter ,1
+1417,Kennard,Cyrus,waiter ,1
+1418,Jones,Emery,coachman ,1
+1419,Ware,Eliza,null,null
+1420,Craig,Mary,seaman ,1
+1421,Stewart,George,waiter ,1
+1422,Primisis,Nathan,waiter ,1
+1423,no entry,,null,null
+1424,Hale,Daniel I,waiter ,1
+1425,Brown,Margaret,null,null
+1426,Jordan,George,waiter ,1
+1427,Henry,George W.,porter ,1
+1428,Mead,Richard,coachman ,1
+1429,Atlas,Hiram,laborer ,1
+1430,Bladen,Aaron,dyer scouner ,1
+1431,Glover,Samuel,waiter ,1
+1432,Gilbert,Christiana,null,null
+1433,Williams,Ruth,null,null
+1434,Barnes,George,putting in coal ,1
+1435,Joyce,Anna MF,null,null
+1436,Vance,Emma,painter ,1
+1436,Vance,Emma,glazier ,1
+1437,Redding,Henrietta,null,null
+1438,Ramsey,Zillah,null,null
+1439,Ruffin,Daniel,raises hogs ,1
+1440,Bloxom,Peter,wood sawyer ,1
+1440,Bloxom,Peter,laborer ,1
+1441,Bloxam,Agnes,porter ,1
+1442,Richardson,Rachel,labors on farm ,1
+1443,Henderson,Edward,not able ,1
+1444,Gray,Matilda,null,null
+1445,Paul,Abby,null,null
+1446,Simmons,Henry,various ,2
+1446,Simmons,Henry,not able ,1
+1447,Bird,Phebe Ann,null,null
+1448,Mills,Elizabeth,null,null
+1449,Mitchell,Rosetta,null,null
+1450,Morris,James,porter ,1
+1451,Rodney,Henry,waiter ,1
+1452,Anderson,William,seaman ,1
+1453,Randall,Daniel,coachman ,1
+1454,Bewley,Samuel,waiter ,1
+1455,Brown,William J,waiter ,1
+1456,Gibbs,Sarah,null,null
+1457,Chase,Daniel,porter ,2
+1457,Chase,Daniel,laborer ,1
+1457,Chase,Daniel,waterman ,1
+1458,Spencer,Peter,waiter ,1
+1458,Spencer,Peter,porter ,1
+1459,Colder,Hiram,carter his own ,1
+1460,Jackson,Joshua,wood sawyer ,1
+1461,Rinnard,Thomas,laborer ,1
+1462,Langford,Arthur,barber ,1
+1462,Langford,Arthur,not able ,1
+1463,,Esther,null,null
+1464,Murray,William,lab ,1
+1464,Murray,William,past labor ,1
+1465,Brown,Andrew,porter ,1
+1466,Thompson,Joseph,porter ,1
+1467,Howell,Elizabeth,porter ,1
+1468,Barrett,Tamar,seaman ,1
+1469,Mason,Mary,null,null
+1470,Bustill,Samuel,porter ,1
+1471,Paul,Perry,boot cleaner ,1
+1472,Brown,George,laborer ,1
+1473,Young,John,puts in coal ,1
+1473,Young,John,seaman ,1
+1474,Demby,Andrew,hod carrier ,1
+1474,Demby,Andrew,porter ,1
+1475,Robinson,David,laborer ,1
+1476,Collins,Diana,null,null
+1477,Miller,Elizabeth,null,null
+1478,White,Handy,waiter ,1
+1479,Cole,Clarissa,drives furniture car ,1
+1479,Cole,Clarissa,drives cart ,1
+1480,Cezar,Martha,null,null
+1481,Rollins,Daniel,past work ,1
+1482,Fitterman,Henry,porter ,1
+1483,Roberts,Sarah,barber ,1
+1483,Roberts,Sarah,waiter ,1
+1484,Green,Rachel,null,null
+1485,Douglass,William,wood sawyer ,1
+1486,How,Benjamine,hod carrier ,1
+1487,Brown,Samuel,matt maker ,1
+1488,Cox,James,hod carrier ,1
+1489,Smith,Flora,null,null
+1490,Clover,James,shoemaker ,1
+1491,,Temperance,null,null
+1492,Watkins,Julia,null,null
+1493,O'Neil,Susan,seaman ,1
+1494,Davis,George,lab when able ,1
+1495,Lawrence,Mary,lab ,1
+1496,Hubbard,Leah,null,null
+1497,Martin,Tamar,null,null
+1498,Harper,George,stevedore ,1
+1499,Peters,Phoebe,null,null
+1500,Barrott,Samuel H,barber ,1
+1501,Frisby,James,waiter ,2
+1502,Ware,Perry,laborer ,1
+1503,Queen,Amy,waiter ,1
+1503,Queen,Amy,lab on farm ,1
+1504,Pointer,Ann,null,null
+1505,Clements,George,waiter ,1
+1506,Knight,Charity,null,null
+1507,Williams,Ellen,drives cart ,1
+1508,Wilson,Hamilton,barber ,2
+1509,Monroe,Sarah,null,null
+1510,Wilson,Alice,null,null
+1511,King,Darius,steward ,1
+1512,Bond,Robert,porter ,2
+1512,Bond,Robert,seaman ,1
+1513,Prosser,James,oyster house ,1
+1514,Gray,Hannah,barber ,1
+1515,Lemmon,John,porter ,1
+1516,Keyser,Margaret,null,null
+1517,Wilson,Joseph,clock printer by trade ,1
+1518,Higgins,John,dyer ,1
+1518,Higgins,John,scourer ,1
+1518,Higgins,John,dentist ,1
+1519,Meyhew,Mark,waiter ,2
+1520,Rogers,Anna,null,null
+1521,Johnson,Peter,clothes dealer ,2
+1522,Crook,James,waterman ,1
+1523,Waters,Bazil,coachman ,1
+1523,Waters,Bazil,cake seller ,1
+1524,Coursey,Ann,null,null
+1525,Miller,David,hod carrier ,1
+1526,Mintess,James,currier ,1
+1527,Bowen,Nicolas,waiter ,1
+1528,Potter,William,oysterman ,1
+1528,Potter,William,waiter ,1
+1529,Burton,Lavinia,null,null
+1530,Brown,William,shoemaker ,1
+1531,Riley,Maria,null,null
+1532,King,William,waiter ,1
+1533,Henry,Joseph,eating stand in market ,1
+1534,Erwin,John,waiter ,3
+1535,Ecobb,Job,coachman ,1
+1536,Poutoo,Elizabeth,null,null
+1537,Wright,Henrietta,null,null
+1538,Milby,George,laborer ,1
+1539,Matthews,Daniel,porter ,1
+1540,Jones,Charles,porter ,1
+1541,Qwens,John,coachman ,1
+1542,Chambers,Robert,wood sawyer ,1
+1543,Allen,William,barber ,2
+1544,Peterson,Harriet,null,null
+1545,Todd,Anna,null,null
+1546,Roberts,Samuel,waiter ,1
+1547,Galloway,Isaac,coachman ,1
+1547,Galloway,Isaac,shoemaker ,1
+1548,Chambers,Nathan J,porter ,1
+1549,Thomas,Amos,laborer ,1
+1550,Burton,George,wood sawyer ,1
+1550,Burton,George,waiter ,1
+1551,Coursey,Trim,coachman ,1
+1552,Dorsey,Leah,null,null
+1553,Accoo,Jesse,coachman ,1
+1554,Coulter,John,boot cleaner ,2
+1555,Drummond,Joseph,oyster house ,1
+1556,Little,Aaron,barber ,1
+1557,Cooper,Uriah,barber ,1
+1557,Cooper,Uriah,porter ,1
+1558,Rudolph,Evan,porter ,1
+1559,Everson,Sarah,null,null
+1560,Tutifer,Sarah,sexton ,1
+1561,Springs,Frederick,coachman ,1
+1562,Morgan,Nathaniel,seaman ,1
+1562,Morgan,Nathaniel,laborer ,2
+1563,Johnson,Jane,null,null
+1564,Alexander,Lewis,null,null
+1565,Steward,Margaret,null,null
+1566,Johnson,Lavinia,porter ,1
+1566,Johnson,Lavinia,seaman ,1
+1567,Frisby,William,stevedore ,1
+1568,Saddler,Emery,tanner ,1
+1568,Saddler,Emery,currier ,1
+1569,Johnson,Abraham B,cake baker ,1
+1570,Seymour,Patience,null,null
+1571,Morgan,Peter,barber ,1
+1572,Landoway,Abraham,hod carrier ,1
+1573,Barney,Richard,porter ,1
+1574,Allen,John,tailor ,1
+1575,Sand,Hannah,null,null
+1576,Parker,Mary,null,null
+1577,Green,Robert,waiter ,1
+1578,Woodward,Issac,carter his own ,1
+1579,Welsh,John H,barber ,1
+1579,Welsh,John H,laborer ,1
+1580,Dempsey,Mathew,barber ,1
+1580,Dempsey,Mathew,hod carrier ,1
+1581,Murray,William,porter ,1
+1582,Clincher,Mary,waiter ,1
+1583,Miller,Matilda,not able ,1
+1584,Johnson,Gracie,null,null
+1585,Harris,Lephelia,null,null
+1586,Miller,Keziah,null,null
+1587,Beasten,John,waiter ,1
+1588,Biddle,Martha,laborer ,1
+1589,Wilson,Charles,porter ,1
+1589,Wilson,Charles,hominy man ,1
+1590,Williams,Mary,null,null
+1591,Jeffers,Perry,porter ,1
+1592,Smith,Stephen,lumber merchant ,1
+1593,Parker,James,porter ,2
+1593,Parker,James,waterman ,1
+1594,Allen,James,porter ,1
+1595,Murphy,Amaretta,funiture cart his own ,1
+1596,Duffy,Henry,very little ,1
+1597,Mathews,John,stevedore ,1
+1598,Caldwell,Daniel,lab when able ,1
+1599,Sheppard,Shay,cake seller ,1
+1600,Harris,Mitchell,waiter ,1
+1601,Sullivan,Abraham,barber ,1
+1602,Seth,William,clothes dealer ,1
+1603,Trusty,Patience,null,null
+1604,Daily,Louisa,null,null
+1605,Times,Samuel,clothes dealer ,1
+1606,Johnson,William,waiter ,1
+1607,Mason,Thos,sail maker ,1
+1607,Mason,Thos,bootmaker ,2
+1608,Richardson,William,porter ,1
+1609,Freeman,Margaret,null,null
+1610,Lewis,Taressa,ivory turner ,1
+1610,Lewis,Taressa,steward ,1
+1610,Lewis,Taressa,bootmaker ,1
+1611,Cornish,James C,shoemaker ,1
+1612,Henderson,Mary Ann,null,null
+1613,Harris,Delphine,null,null
+1614,Allen,Hannah,various ,1
+1615,Cunningham,Mary,porter ,1
+1616,Burnley,William A,coachman ,1
+1616,Burnley,William A,sailmaker ,1
+1617,Dorsey,Hammond,waiter ,1
+1618,Fisher,Josiah,waiter ,1
+1619,Vann,Jacob,waiter ,1
+1620,Tilghman,Reziah,null,null
+1621,Cole,Charles,waiter ,1
+1622,Allen,James,seaman ,1
+1623,Chase,Hale,stevedore ,1
+1624,Taylor,Cornelia,stevedore ,1
+1625,Black,Jesse,porter ,2
+1626,Black,Cyrus,porter ,1
+1627,Davis,Alexander,hod carrier ,1
+1628,Tile,John,porter ,1
+1629,Barrett,James,wood sawyer ,1
+1630,Saddler,William,waiter ,1
+1631,Brady,Henry,waiter ,2
+1632,Hinesly,Risdon,biscuit baker ,1
+1633,Biddle,Harriet,seaman ,1
+1633,Biddle,Harriet,waiter ,1
+1634,Colgate,John,porter ,1
+1634,Colgate,John,boatman ,1
+1635,Lecourt,Joseph,laborer ,1
+1635,Lecourt,Joseph,boxman ,1
+1635,Lecourt,Joseph,seaman ,2
+1636,Lecourt,James,cabinet ,1
+1636,Lecourt,James,undertaker ,1
+1637,Holloway,Edward,shoemaker ,1
+1638,Charnock,Thos,cabinet maker ,2
+1639,Logan,Spencer,porter ,1
+1640,Brown,Perry,carter his own ,1
+1641,Brown,Marcus,shoemaker ,1
+1641,Brown,Marcus,not able ,1
+1642,Venning,Edward,carpenter ,1
+1643,Lewis,Lydia,null,null
+1644,Galloway,Benjamin,dyer ,1
+1644,Galloway,Benjamin,boxman ,1
+1645,Bradley,Charles,waiter ,1
+1645,Bradley,Charles,barber ,1
+1646,Reith,Ivin,oyster house ,1
+1646,Reith,Ivin,coachman ,1
+1647,Reed,William,shoemaker ,1
+1648,Chase,Rachel,null,null
+1649,Lee,Mary,null,null
+1650,Champion,John,whitewasher ,1
+1651,McRed,Ann,null,null
+1652,Williams,Devonshire,cake seller ,2
+1653,Torrin,Rebecca,null,null
+1654,Pointer,Rayner,waiter ,1
+1655,Tasker,Emily,null,null
+1656,Marshall,Adam,laborer ,2
+1657,Brown,William,drives cart ,1
+1658,Williams,Rebecca,null,null
+1659,Jones,Martha,null,null
+1660,Brown,Morris,boot ,1
+1660,Brown,Morris,shoemaker ,1
+1661,Grace,William,waiter ,2
+1661,Grace,William,coachman ,1
+1662,Venning,John,carpenter ,1
+1663,Black,Thomas,waiter ,2
+1664,Green,George,waiter ,1
+1665,Watson,John,waiter ,1
+1666,Cady,Horace,barber ,1
+1667,Lovedy,Charlotte,null,null
+1668,Hamilton,Rosana,null,null
+1669,Robbins,Sabina,null,null
+1670,Duffin,John,waiter ,1
+1670,Duffin,John,barber ,1
+1671,Parker,James,null,null
+1672,Nichols,Wesley,porter ,1
+1672,Nichols,Wesley,bootmaker ,1
+1673,Garrison,Mary Ann,null,null
+1674,Stiles,Flora,null,null
+1675,Hale,George,barber ,1
+1676,Hambleton,William,various ,1
+1677,Wilson,Frederick,waiter ,1
+1678,Hoy,James,porter ,1
+1679,Pierce,Julie Ann,null,null
+1680,Brisler,Elizabeth,null,null
+1681,Boardley,Rebecca,turner ,1
+1681,Boardley,Rebecca,carver ,1
+1681,Boardley,Rebecca,tailor ,2
+1681,Boardley,Rebecca,waiter ,1
+1682,Owee,Delia,null,null
+1683,Williams,Henry,waiter ,1
+1684,Page,Joseph,bootmaker ,1
+1685,Huggs,Barzillai,waiter ,1
+1685,Huggs,Barzillai,various ,1
+1686,Blake,Rachel,null,null
+1687,Demby,Delia,null,null
+1688,Carrumbas,Chas,waiter ,1
+1689,Tilton,Alice,waiter ,3
+1690,Cornelius,Phillip,waiter ,1
+1690,Cornelius,Phillip,laborer ,1
+1691,Hale,Enos,janitor ,1
+1692,Gilbert,Henry,putting in coal ,1
+1693,Jeffrey,John,waiter ,1
+1694,Powell,Thomas,waiter ,1
+1695,Riley,Peter,waiter ,1
+1696,Davis,George,seaman ,1
+1697,Turner,Levi,various ,1
+1698,Harris,Hannah,null,null
+1699,Crosby,David H,various ,1
+1700,Draper,William,barber ,1
+1701,Fernack,John,waiter ,1
+1702,Barnes,Albert,laborer ,1
+1703,Shane,Peter,waiter ,1
+1704,Hazel,Henry,laborer ,1
+1705,Highgate,James,barber ,1
+1706,Cork,Hennrietta,seaman ,2
+1706,Cork,Hennrietta,porter ,1
+1707,Purnell,John,waiter ,1
+1708,Fleming,Asher,waiter ,1
+1709,Hooper,Nathan,porter ,1
+1710,Smith,Jeremiah,coachman ,1
+1710,Smith,Jeremiah,bootmaker ,1
+1711,French,John,silversmith ,1
+1711,French,John,coachman ,1
+1712,Cooper,George,barber ,1
+1712,Cooper,George,not able ,1
+1713,Parke,Jane,null,null
+1714,Burns,William,waiter ,1
+1715,Reed,Joseph,porter ,1
+1716,Walker,Jane,null,null
+1717,Tolbert,Henry,clothes dealer ,1
+1718,Rhodes,Samuel,hod carrier ,1
+1718,Rhodes,Samuel,waiter ,1
+1719,Draper,Soloman,waiter ,1
+1720,Smith,Eliza,null,null
+1721,Burton,Peter,porter ,1
+1722,Lecourt,Pracilla,null,null
+1723,Venning,Luke,boot & shoemaker,1
+1724,Williams,Ann,null,null
+1725,West,Tobias,clothes dealer ,1
+1726,Burk,John,hod carrier ,1
+1726,Burk,John,wood sawyer ,1
+1727,Allen,Ann,null,null
+1728,Marks,Mary,null,null
+1729,White,Parker,laborer ,1
+1730,Fletcher,Cornelia,null,null
+1731,Mosley,Chas,waiter ,1
+1732,Brogden,William,porter ,1
+1733,Smith,Airey Ann,null,null
+1734,Cole,Joseph P,porter ,1
+1735,Orkey,Simon Van,bottler ,1
+1736,Brown,John P,cake seller ,1
+1737,Hamilton,Maria,packer ,1
+1738,Jordan,James,waiter ,1
+1739,Lockwood,Henrietta,null,null
+1740,Jackson,Ann,null,null
+1741,Brown,John,whitewasher ,1
+1742,Pole,Sidney,null,null
+1743,Goines,George W.,barber ,1
+1744,Adams,Samuel,shoemaker ,1
+1745,Booz,James,laborer ,1
+1746,Ricker,Alice,waiter ,1
+1747,Evans,John,seaman ,1
+1748,Henry,Sarah,null,null
+1749,Brown,Sarah,null,null
+1750,Bressie,Chas,wood sawyer ,2
+1751,Bradick,John,porter ,1
+1752,Wolfe,?,null,null
+1753,Hill,Winston,clothes dealer ,1
+1754,Colden,Anthony,porter ,1
+1755,Colden,Luke,carpenter ,1
+1756,White,Hiram,oyster house ,1
+1757,Stevenson,William,confectioner ,1
+1758,Fountain,James,waiter ,1
+1759,Davis,Elijah J,waiter ,1
+1760,Allen,Francis L,waiter ,1
+1761,Laws,William,coachman ,1
+1762,Palmer,Palmer,waiter ,1
+1763,Simpson,Samuel,drives dray ,1
+1764,Collins,Elias,hod carrier ,1
+1765,Gardner,Jacob,waiter ,1
+1765,Gardner,Jacob,not able ,1
+1766,Henry,Charity,null,null
+1767,Cropper,Edwin,porter ,1
+1768,Tillson,Mary,null,null
+1769,Urick,John,porter ,1
+1770,Scutollins(?),George W.,seaman ,1
+1771,Gibbs,Joseph,porter ,1
+1772,Gilbert,Richard,porter ,1
+1773,Jones,Elizabeth,null,null
+1774,Budge,Samuel,waiter ,1
+1775,Warner,David J,shoemaker ,1
+1776,Holven,Samuel,waiter ,1
+1776,Holven,Samuel,s washer ,1
+1777,Jackson,David,coachman ,1
+1778,Nance,Thomas,painter ,1
+1778,Nance,Thomas,glazier ,1
+1779,Evans,John,tailor ,1
+1780,Brown,Samuel,waiter ,1
+1781,Howard,William,porter ,1
+1781,Howard,William,makes saw handles ,1
+1782,Moore,William,various ,1
+1783,Parker,Elizabeth,null,null
+1784,Clement,James,cabinet maker ,2
+1785,Haines,Isaac,coachman ,1
+1786,Harmon,Mary,null,null
+1787,George,Robert W,school teacher ,1
+1788,Marshall,Lyduey,null,null
+1789,Chambers,Lewis C,waiter ,2
+1789,Chambers,Lewis C,drives dray ,1
+1790,Rochester,Joseph,laborer ,1
+1791,Mintess,Rebecca,shoemaker ,1
+1792,Nelson,Ann,null,null
+1793,Hale,Chas,waiter ,1
+1793,Hale,Chas,porter ,1
+1794,Brown,Judah,various ,1
+1795,Beard,William,wood sawyer ,1
+1796,Hargres(?),Benjamin,laborer ,2
+1797,Steward,Daniel,barber ,1
+1798,Thompson,Hannibal,wood sawyer ,1
+1798,Thompson,Hannibal,lab ,1
+1799,Jefferson,Mary,null,null
+1800,Francis,Maria,null,null
+1801,Bogle,Amelia,null,null
+1802,Groves,Rebecca,null,null
+1803,Henderson,John,barber ,1
+1804,Ireland,John,brick moulder ,1
+1805,Aler,Eliza,null,null
+1806,Bryman,Daniel,various ,1
+1807,Bacon,James,not able ,1
+1808,Gardner,Abraham,porter ,1
+1808,Gardner,Abraham,laborer ,1
+1809,Ayers,Josiah,hod carrier ,1
+1810,Kennedy,Catharine,null,null
+1811,Robinson,Rachel,null,null
+1812,White,Ann,null,null
+1813,Johnson,Robert,waiter ,1
+1814,Vinny,Louisa,null,null
+1815,Garrnet,John,hod carrier ,1
+1816,Thomas,Benjamin,waiter ,1
+1817,Bull,Francis T,various ,1
+1817,Bull,Francis T,not able ,1
+1818,Sambo,William,porter ,1
+1819,Hughes,Ann,null,null
+1820,Guyer,Amos,waiter ,1
+1821,Parker,Mary,null,null
+1822,Jackson,Sarah,null,null
+1823,Festas,George,carter his own ,1
+1824,Williams,?,null,null
+1825,Clark,Hester,null,null
+1826,Spencer,Sophia,null,null
+1827,Bubbler,Henry,porter ,1
+1828,Green,Rhoda,waiter ,1
+1829,Parker,Elizabeth,null,null
+1830,Waters,Nancy,null,null
+1831,Burton,Julia,null,null
+1832,Matlack,James,hod carrier ,1
+1832,Matlack,James,waiter ,1
+1833,Brown,Matilda,null,null
+1834,Mercer,Maria,porter ,1
+1835,Harris,Lucinda,null,null
+1836,Duffy,Issac,laborer ,1
+1837,Hinson,Henrietta,null,null
+1838,Noke,Cornelia,null,null
+1839,Brinkle,Richard,porter ,1
+1840,Thompson,Enos,shoemaker ,1
+1841,Farris,Eba,null,null
+1842,Collins,Patrick,seaman ,1
+1843,Lambert,Ann,null,null
+1844,Gray,Lucy,null,null
+1845,Thompson,Jonathan,stevedore ,1
+1846,Massey,James,waiter ,1
+1847,Bangs,Charles,hod carrier ,1
+1848,Bedford,Phylllis,null,null
+1849,Francis,Joseph,waiter ,1
+1850,Griffiths,Phillip,porter ,1
+1850,Griffiths,Phillip,seaman ,1
+1850,Griffiths,Phillip,not able ,1
+1851,Bird,Elizabeth,null,null
+1852,Garrett,George,porter ,1
+1852,Garrett,George,waiter ,1
+1853,Williams,Ann,null,null
+1854,Stevenson,Jensey Ann,null,null
+1855,Gardner,Samuel,whitewasher ,1
+1855,Gardner,Samuel,musician ,1
+1856,Boon,Horace,porter ,1
+1857,Ellsby,Mary,null,null
+1858,Maxfield,Alexander,laborer ,1
+1859,Powell,John,laborer ,1
+1860,Wood,Judah,waiter ,1
+1861,Stevens,Harriet,various ,1
+1862,Adams,David,waiter ,1
+1863,Harris,Edward,waiter ,1
+1864,Johnson,Amelia,null,null
+1865,Knight,James,waiter ,1
+1866,Bacon,Dennis,hod carrier ,1
+1867,Jenkins,Sarah,null,null
+1868,Stratton,Priscella,waiter ,1
+1869,Heyliger,Julia,null,null
+1870,Hill,Nathan,whitewasher ,1
+1871,Gordon,Charles,porter ,1
+1872,Johnson,Susan,null,null
+1873,Lloyd,Deborah,waiter ,1
+1874,Luff,Ann,various ,1
+1875,Green,Benjamin,waiter ,1
+1876,Coombs,Pricilla,null,null
+1877,Taylor,John,wood sawyer ,1
+1878,Wardrub,John,waiter ,1
+1878,Wardrub,John,carpenter ,1
+1879,Jackson,Randolph,porter ,1
+1880,Bell,John,coachman ,1
+1881,Gibbs,Maria,at college ,1
+1882,Reynold,Mezzy,null,null
+1883,Tobia,Davia,porter ,1
+1884,Hull,George,porter ,1
+1885,Webb,Peter,porter ,1
+1886,Boardly,Mary,null,null
+1887,Robinson,John,stevedore ,1
+1888,Irons,Lewis,stevedore ,1
+1889,Howard,Peter,hod carrier ,1
+1890,Brown,Richard,stevedore ,1
+1891,Jones,Josiah,waiter ,1
+1892,Turner,Cecilia,porter ,1
+1892,Turner,Cecilia,waiter ,1
+1893,Williams,Pricilla,days work ,1
+1893,Williams,Pricilla,washer ,1
+1894,Tribu,William,hod carrier ,1
+1895,Bayman,Caleb,hod carrier ,1
+1896,Thompson,George,porter ,1
+1897,Gray,James,porter ,1
+1898,Brown,William,steward ,1
+1898,Brown,William,shoemaker ,1
+1898,Brown,William,brick maker ,1
+1899,Tilton,Matilda,null,null
+1900,Tolson,Mary,null,null
+1901,Harding,William,varnisher when can get it ,1
+1902,Powell,Susan,null,null
+1903,Cropper,Sarah,null,null
+1904,Blake,William,stove dealer ,1
+1905,Norman,John,porter ,1
+1906,Brister,Hannah,null,null
+1907,Johnson,Henrietta,null,null
+1908,Williams,Ann,null,null
+1909,Tennant,?,steward ,1
+1910,Stevens,William,boot cleaner ,1
+1911,Sears,Rebecca,null,null
+1912,Highgate,William,commission merchant ,1
+1913,Dennis,Chas,waiter ,1
+1914,Place,Whylan,waiter ,1
+1915,Pruitt,Walter,carter his own ,1
+1916,Grigg,Maria,null,null
+1917,Wise,Peter,stevedore when able ,1
+1918,Dennis,Margaret,null,null
+1919,Kimberry,Siscomb,waiter ,1
+1920,Robert,Aaron,porter ,1
+1920,Robert,Aaron,bootmaker ,1
+1921,Wills,Sarah,null,null
+1922,Green,Samuel,porter ,1
+1923,Emmons,Maria,null,null
+1924,Roberts,?,null,null
+1925,Brown,Robert P,barber ,1
+1926,Smith,Williams,shoemaker ,1
+1927,Lee,Osborne,porter ,2
+1928,Dennis,Nice,null,null
+1929,Nutz,John,seaman ,1
+1930,Beckett,Edward,laborer ,2
+1931,Boldin,Spencer,waiter ,1
+1932,Morris,Hannah,grain carrier ,1
+1933,Blace,Mary Ann,null,null
+1934,Bundy,Ephraim,waiter ,1
+1935,Johnson,Cecilia,null,null
+1936,Dorsey,Thomas,public waiter ,1
+1937,Brister,Susan,null,null
+1938,Ponser,Eliza,null,null
+1939,Cliff,Ann,null,null
+1940,Carter,Daniel,wood sawyer ,1
+1940,Carter,Daniel,seaman ,1
+1941,Vandyke,Catharine,null,null
+1942,Hutchinson,John,steward ,1
+1943,Hollis,James,porter ,1
+1944,Cooper,Aaron,coachman ,1
+1945,Clinton,Margery,null,null
+1946,Cole,Elizabeth,seaman ,1
+1947,Baptiste,Flora,null,null
+1948,Campbell,Catharine,null,null
+1949,Thomas,Julia Ann,null,null
+1950,Green,William,null,null
+1951,Ford,Ann Maria,null,null
+1952,Downing,Levi,not able ,1
+1953,Phillips,Jacob,wood sawyer ,1
+1954,Colesberry,Clarissa,null,null
+1955,Ferra,Mary,null,null
+1956,Frisby,Jeremiah,drives cart ,1
+1957,Haines,Rachel,waiter ,1
+1958,Press,George,carter ,1
+1958,Press,George,grocer ,1
+1959,Smith,Susa,null,null
+1960,Carr,Patience,waiter ,1
+1961,Carter,Tamar,null,null
+1962,Moore,Francis,tailor ,1
+1963,Jones,Sarah,null,null
+1964,Greenwich,Sarah,null,null
+1965,Williams,Issac,porter ,1
+1966,Peterson,William,porter ,1
+1967,Gallentine,Alfred,puts in coal ,1
+1968,Halltid,Elizabeth,dress maker,2
+1969,Emery,William,whitewasher ,1
+1969,Emery,William,barber ,1
+1970,Carney,Ann Eliza,shoemaker ,1
+1971,Rider,Ann,null,null
+1972,Diamone,Francis,waiter ,1
+1973,Hutchins,David,stevedore ,1
+1973,Hutchins,David,coachman ,1
+1974,Peters,Amber,brick moulder ,1
+1975,Clark,John,stevedore ,1
+1976,Baptiste,Eugene,cabinet maker ,1
+1977,Johnson,Edward,wood sawyer ,1
+1978,Moore,Green,sweep master ,1
+1979,Brown,Robert,whitewasher ,1
+1980,Damugh,Tilghman,whitewasher ,1
+1981,Collins,Robert,public waiter ,1
+1981,Collins,Robert,oysterman ,1
+1982,Nixon,Jacob,barber ,1
+1983,Wood,George,waiter ,1
+1984,Green,Dennis,barber ,1
+1985,Roberts,Elizabeth,null,null
+1986,Millers,Edward,seaman ,1
+1986,Millers,Edward,waiter ,1
+1987,Greenwich,Sarah,null,null
+1988,Hopwell,George,clothes dealer ,1
+1989,Sullivan,Garrison,clothes dealer ,1
+1990,Van Brackle,Samuel,cabinet maker ,1
+1991,Williams,Isaac,poeter ,1
+1992,Peterson,William,porter ,1
+1993,Hallbird(?),Elizabeth,null,null
+1994,Emery,William,whitewasher ,1
+1994,Emery,William,barber ,1
+1995,Carey,Ann Eliza,shoemaker ,1
+1996,Diamond,Francis,waiter ,1
+1997,Hutchins,Daniel,stevedore ,1
+1997,Hutchins,Daniel,coachman ,1
+1998,Peters,Amber,brick moulder ,1
+1999,Glasgow,Agustus,hod carrier ,1
+2000,Baptists,Eugene,cabinet maker ,1
+2001,Johnson,Edward,wood sawyer ,1
+2002,Moore,Green,sweep master ,1
+2003,Miller,Deborah,null,null
+2004,Brown,Robert,whitewasher ,1
+2005,Danaugh,Tilghman,whitewasher ,1
+2006,Murphy,Sarah,null,null
+2007,Collins,Robert,public waiter ,1
+2007,Collins,Robert,oyster house ,1
+2008,Jones,Alice,waiter ,1
+2009,Nixon,Jacob,barber ,1
+2010,Wood,George,waiter ,1
+2011,Green,Dennis,barber ,1
+2012,Roberts,Elizabeth,null,null
+2013,Miller,Edward,seaman ,1
+2013,Miller,Edward,waiter ,1
+2014,Murray,Samuel,seaman ,1
+2014,Murray,Samuel,waiter ,1
+2015,Johnson,George,public waiter ,1
+2015,Johnson,George,tailor ,1
+2016,Brooks,Daffney,null,null
+2017,Wiltbank,Elrey,waiter ,1
+2018,Moore,Hannah,null,null
+2019,Freeman,Gouldsberry,waiter ,1
+2020,Holgate,John,laborer ,2
+2021,Trout,Lydia,waiter ,2
+2022,King,Joseph,barber ,1
+2023,Peyton,Julius,waiter ,2
+2023,Peyton,Julius,coachman ,1
+2024,Newman,James,whitewasher ,1
+2024,Newman,James,waiter ,1
+2025,Miller,Clayton,clothes dealer ,1
+2026,Lee,Emily,null,null
+2027,Johnson,William,waiter ,1
+2028,Clerker,Lavinia,null,null
+2029,Bell,Peter,hat presser ,1
+2030,Jones,Henry,public waiter ,1
+2031,Armstrong,Elizabeth,null,null
+2032,Williams,Richard,coachman ,1
+2033,Wooden,George,seaman ,1
+2034,Warner,Kensey,seaman ,1
+2035,Simmens,Anna,null,null
+2036,Trusty,Jacob,wood piler carter his own ,1
+2037,Pusey,Alexander,bootmaker ,1
+2038,Balaam,Lavinia,null,null
+2039,Bowdy,Charles,barber ,1
+2040,Phelps,Mary,null,null
+2041,Gibson,Rachel,null,null
+2042,Harmon,Timothy,porter ,1
+2042,Harmon,Timothy,washer ,1
+2043,Jackson,Daniel,whitewasher ,1
+2044,Kelly,Abby,null,null
+2045,Coones,Harriet,null,null
+2046,Bishop,Abner,porter ,1
+2047,Amos,Ann Marie,null,null
+2048,Lewis,Charles,not able ,1
+2049,Robinson,Jerimiah,whitewasher ,1
+2050,Cole,George P,porter ,1
+2051,Franklin,James,porter ,1
+2052,Skinner,?,null,null
+2053,Chambers,James,cake seller ,1
+2054,Peyton,Thomas,coachman ,1
+2055,Burns,Clarissa,null,null
+2056,Embers,Mary,null,null
+2057,Hazzard,Isaac,musician ,1
+2058,Jackson,Peter A,confectioner ,1
+2058,Jackson,Peter A,musician ,1
+2059,Furman,Jonathan,waiter ,1
+2060,Owens,Jonas,coachman ,1
+2061,Turner,Edward,wood sawyer ,1
+2062,Freeman,Charles M,boot ,1
+2062,Freeman,Charles M,shoemaker ,1
+2063,Anderson,Christopher,waiter ,1
+2063,Anderson,Christopher,boot cleaner ,1
+2064,Berny,Rex,clothes dealer ,1
+2064,Berny,Rex,porter ,1
+2065,Shipley,Lephis,waiter ,1
+2066,Potter,Rachel,null,null
+2067,Hutchins,Rachel,null,null
+2068,Biddle,Rhoda,null,null
+2069,Hale,Alice,null,null
+2070,Rodine,William,various ,1
+2071,Day,Harriet,null,null
+2072,Chambers,Diana,null,null
+2073,Smallwood,Joseph,barber ,3
+2074,Jones,Charles,barber ,1
+2075,Tilghman,Peter,porter ,1
+2076,Seaman,Charles,barber ,1
+2077,Johnson,Susan,plasterer ,1
+2078,Purnell,Phillip,coachman ,1
+2079,Jones,Soloman,coachman ,1
+2080,Minton,Robert,barber ,1
+2081,Hollis,Jonathan,porter ,2
+2082,Viney,Patience,null,null
+2083,Stevens,John,wood sawyer ,1
+2084,Reese,Jane,null,null
+2085,Lake,Violet,null,null
+2086,Kelly,Elizabeth,null,null
+2087,Brown,Eliza,null,null
+2088,Madden,Nathan,not able ,1
+2089,Johnson,Rachel,null,null
+2090,Stansbury,Eliza,null,null
+2091,Winten,William W,carter his own ,1
+2091,Winten,William W,drives cart ,1
+2092,Williams,Draper,laborer ,1
+2092,Williams,Draper,various ,1
+2093,Bassell,William,porter ,1
+2094,Freeman,Hiram,null,null
+2095,Wilson,Benjamin,hackman ,1
+2096,Jones,William H,carpenter ,1
+2097,Robinson,Henry,waiter ,1
+2098,Benton,Sarah,null,null
+2099,Taylor,Jemina,null,null
+2100,Johnson,William,coachman ,1
+2101,Bennett,Edward,scourer ,1
+2101,Bennett,Edward,seaman ,2
+2102,Rogers,John,waiter ,1
+2103,Murphy,Susan,null,null
+2104,Bibery,Thomas,oysterman ,1
+2105,White,Charles,porter ,1
+2106,Lewis,Rachel,waiter ,1
+2107,Chambers,Isaac,waiter ,1
+2108,Molony,Berry,waiter ,1
+2109,Marshall,Soloman,drives cart ,1
+2110,Hall,Ann,null,null
+2111,Porter,Hannah,null,null
+2112,Ballard,Hagar,null,null
+2113,Werthington,Priscilla,null,null
+2114,Mintess,Lavinia,null,null
+2115,Taylor,Joana,null,null
+2116,Hegamin,John,porter ,1
+2116,Hegamin,John,waiter ,1
+2117,Purnell,Josiah,waiter ,1
+2118,Qwen,George,waiter ,1
+2119,Bean,Nathan,waiter ,1
+2119,Bean,Nathan,laborer ,1
+2119,Bean,Nathan,not able ,1
+2120,Driver,Adam,traveler ,1
+2121,Moore,Elizabeth,null,null
+2122,Deal,Daniel,whitewasher ,1
+2122,Deal,Daniel,hominy man ,1
+2123,Jobs,John,shoemaker ,1
+2124,Ryser,Elizabeth,null,null
+2125,Woodlin,Lewis,coachman ,1
+2126,Green,Thomas,waiter ,1
+2127,Lewis,Clarisa Ann,null,null
+2128,Freeman,George,china packer ,1
+2129,Smith,James,various ,1
+2130,Costello,Nancy,null,null
+2131,Stout,Rosanna,null,null
+2132,Ingram,Alfred,cabinet maker ,1
+2132,Ingram,Alfred,undertaker ,1
+2133,Ingram,Mary,null,null
+2134,Kincaid,Mary,null,null
+2135,Smith,Gertrude,null,null
+2136,Miller,Thomas,hod carrier ,1
+2137,Cox,Clement,coachman ,1
+2138,Jones,Charles,seaman ,1
+2138,Jones,Charles,musician ,1
+2139,Medad,George,shoemaker ,1
+2140,Young,Theodore,laborer ,1
+2140,Young,Theodore,huckster,1
+2141,Short,Spencer,porter ,1
+2142,Hanson,Mary,null,null
+2143,Robinson,Rachel,null,null
+2144,Shire,Joseph,porter ,1
+2145,Seawall,William,seaman ,1
+2146,Everett,Samuel,waiter ,1
+2147,Dutriell,Mary,null,null
+2148,Harding,Pricilla,null,null
+2149,Williams,Ephraim,bootmaker ,1
+2150,Ramsey,John,wood sawyer ,1
+2151,Buck,Julia,hod carrier ,1
+2152,Kelly,Sewall,hod carrier ,1
+2153,Colly,Daniel,shoe maker ,1
+2153,Colly,Daniel,barber ,1
+2153,Colly,Daniel,clothes dealer ,1
+2154,Barrett,Peter,waiter ,1
+2155,Lewis,David,coachman ,1
+2156,Elias,Charles,waiter ,1
+2157,Davis,John,sweep master ,1
+2158,Steel,Loudon,various ,1
+2159,French,Christiana,null,null
+2160,Young,Mary,null,null
+2161,Stratton,Ann,null,null
+2162,Kincaid,Samuel,seaman ,1
+2163,Semour,Margaret,null,null
+2164,Prosser,Elizabeth,null,null
+2165,Sammons,William,coachman ,1
+2166,Shanklaw,William,porter ,1
+2167,Blake,Ruth,null,null
+2168,Gray,James,brick layer ,1
+2168,Gray,James,plasterer ,1
+2169,Black,Prince,clothes dealer ,1
+2170,Hale,William,waiter ,1
+2171,Griffin,Matthew,various ,1
+2172,Burton,John,waiter ,1
+2173,Coursey,Hortense,seaman ,1
+2174,Wills,Jacob,laborer ,1
+2175,Harris,Phyllis,null,null
+2176,Powell,Henry,seaman ,1
+2176,Powell,Henry,various ,1
+2177,Fullman,Sarah,null,null
+2178,Fitzhugh,Agnes,null,null
+2179,Jones,Stephen,porter ,1
+2180,Johnson,Peter A,herb doctor ,1
+2180,Johnson,Peter A,various ,1
+2181,Depee,Margaret,null,null
+2182,Wetherington,Joseph,whitewasher ,1
+2182,Wetherington,Joseph,muscician ,1
+2183,Chambers,William,stevedore ,1
+2184,Mathison,Rosana,null,null
+2185,Brown,Henry,hod carrier ,1
+2186,Howard,Amelia,null,null
+2187,Chambers,Taressa,null,null
+2188,Reed,Margaret,null,null
+2189,West,Mahala,null,null
+2190,Beckett,Isaac,various ,1
+2190,Beckett,Isaac,shoemaker ,1
+2191,Green,Harriet,null,null
+2192,Gettes,George,waiter ,1
+2193,Bishop,Rosana,seaman ,1
+2194,Gibson,Nice,null,null
+2195,Willows,Moses,laborer ,1
+2196,Johnson,William,wood sawyer ,1
+2197,Morris,Phebe,null,null
+2198,Luff,London,porter ,1
+2199,Ray,Jacob,hod carrier ,1
+2199,Ray,Jacob,seaman ,1
+2200,Custis,Edith,null,null
+2201,Johnson,Thomas,hod carrier ,1
+2202,Matthews,Nathaniel,porter ,1
+2203,Thorn,James H,puts in coal ,1
+2204,Oliver,Charles,porter ,1
+2205,Moore,Jacob,drives coal cart ,1
+2206,Coots,Reuben,boot & shoemakers,2
+2207,Hill,Nancy,null,null
+2208,Bowman,Mary,null,null
+2209,Mathews,Susan,waiter ,1
+2210,Rogers,John,hod carrier ,1
+2211,Davis,Elias,musician ,1
+2212,Adams,Henry,musician ,1
+2213,Waters,David,lab in ink factory ,1
+2214,Fisher,Eliza,null,null
+2215,Gibbs,Maria,wood sawyer ,1
+2216,Nelson,William,coachman ,1
+2217,Parks,Edward,waiter ,1
+2218,Jones,John,waiter ,1
+2219,Smith,Ann,null,null
+2220,Kendall,Isaac,pub waiter ,1
+2220,Kendall,Isaac,washer ,1
+2221,Johnson,Clara,barber ,1
+2222,Caldwell,Thos,porter ,1
+2223,Sammons,Ashel,painter ,1
+2223,Sammons,Ashel,glazier ,1
+2224,Purnell,Ellen,null,null
+2225,Boyer,Mary,null,null
+2226,Levsck,Chas H,shop keeper ,1
+2227,Seymour,Francis,musician ,1
+2228,Smith,Samuel,sexton ,1
+2229,Thomas,Harriet,null,null
+2230,Burton,Daniel,drives cart ,1
+2231,George,Julia,null,null
+2232,Mitchell,Minny,engineer ,1
+2232,Mitchell,Minny,seaman ,1
+2233,Brown,Zebedee,various ,1
+2233,Brown,Zebedee,shoemaker ,1
+2234,Barkley,Omoretta,null,null
+2235,Ballar,Joseph,coachman ,1
+2236,Murphy,Alfred,waiter ,2
+2237,Myers,Hickman,shoemaker ,1
+2238,Orton,Morris,waiter ,1
+2239,Cooness,Gilbert,coachman ,1
+2240,Johnson,Page Ann,shoemaker ,1
+2241,Brown,Jane,coachman ,1
+2242,Butler,James,laborer ,1
+2243,Sammons,Harriet,null,null
+2244,Becham,Hester,null,null
+2245,Hart,Joseph,lab ,1
+2245,Hart,Joseph,cake seller ,1
+2245,Hart,Joseph,stove dealer ,1
+2246,Evans,William,laborer ,1
+2247,Welsh,Sidney,null,null
+2248,Jacobs,Martha,null,null
+2249,White,Candance,null,null
+2250,Stevens,William,waiter ,1
+2251,Minton,Henry,refectory ,1
+2252,Glasgow,Jesse E,waiter ,1
+2252,Glasgow,Jesse E,whitewasher ,1
+2253,Beck,Asbury,porter ,1
+2254,Morent,?,seaman ,1
+2255,Simpson,Reuben,waiter ,1
+2256,McKee,Alexander,coachman ,1
+2257,Harris,James,waiter ,12
+2258,Bendick,Levi,null,null
+2259,Bendick,Levi,bootmaker ,1
+2260,Brister,Elizabeth,null,null
+2261,Duff,Christopher,carter his own ,1
+2261,Duff,Christopher,chair bottomer ,1
+2262,Freeman,William G,seaman ,1
+2263,Bayan,Maria,null,null
+2264,Thompson,Harriet,null,null
+2265,Hill,Mary,null,null
+2266,Green,Joseph,cake seller ,1
+2267,Fells,James,carpenter ,1
+2268,Dickenson,William H,waiter ,1
+2269,Scott,David,paster of union bap ch ,1
+2270,Fisher,Jonathan,hominy man ,1
+2271,Tribu,Jane,null,null
+2272,Miller,Jacob,laborer ,1
+2273,Williams,Susan,null,null
+2274,Collins,Saint,waiter ,1
+2275,Gibbs,Richard,steward ,1
+2276,Trupe,Peter,hod carrier ,1
+2277,Gordan,James,laborer ,1
+2278,Ware,Joel,porter ,1
+2279,Carpenter,Caleb,various ,1
+2279,Carpenter,Caleb,shoemaker ,1
+2280,Thomas,David,brick moulder ,1
+2281,Hooper,John,porter ,2
+2282,Tennington,Jacob,porter ,1
+2283,Burton,James,waiter ,1
+2284,Gibbons,Margaret,null,null
+2285,Craig,Rebecca,null,null
+2286,Chambers,Diana,null,null
+2287,Hayes,Caleb,waiter ,1
+2288,Fisher,Bridget,null,null
+2289,Smith,Mary,null,null
+2290,Benson,John Hl,whitewasher ,1
+2291,Butter,Sarah,null,null
+2292,Dickinson,Titus,various ,1
+2293,Browning,Maria,bootmaker ,1
+2294,Thompson,William,waiter ,1
+2295,Hill,Abraham,traveling preacher ,1
+2296,Frisby,Richard,barber ,1
+2297,Mathews,Ann,null,null
+2298,Biggs,Robert,hod carrier ,1
+2299,Evans,Samuel,porter ,1
+2300,Jordan,Alexander,drives dray ,1
+2301,Dickson,William,seaman ,1
+2301,Dickson,William,confectioner ,1
+2302,Seymour,John,porter ,1
+2303,Bell,Hezikiah,wood sawyer ,1
+2303,Bell,Hezikiah,porter ,1
+2304,Gaines,John,laborer ,1
+2305,Nixon,Jane,null,null
+2306,Enos,Hannah,null,null
+2307,Augustus,Samuel,porter ,1
+2308,Price,?,seaman ,1
+2309,Carson,Hannah,null,null
+2310,Martin,Mary,null,null
+2311,Campbell,Mary,null,null
+2312,Beck,Mary,null,null
+2313,Brown,Eli,waiter ,1
+2314,Harvey,Peter,porter ,1
+2314,Harvey,Peter,hominy man ,1
+2315,Bladen,Ann Eliza,null,null
+2316,Binder,Jerimiah,waterman ,1
+2317,Gilbert,Charles,laborer ,1
+2317,Gilbert,Charles,waiter ,1
+2318,Gilbert,Thomas,wood sawyer waiter ,1
+2319,Golding,Ann,null,null
+2320,Gladding,Parker,cake seller ,1
+2321,Purnell,Milby,hod carrier ,1
+2322,Gibson,William E,barber ,1
+2323,Craig,Hester,null,null
+2324,Eddy,Josiah,barber ,1
+2325,Walton,Dennis,porter ,1
+2326,Dawson,James,waiter ,1
+2326,Dawson,James,not employed,1
+2327,Howard,William,laborer ,1
+2328,Bruckle,Samuel Van,porter ,1
+2329,Cove,Emaline,null,null
+2330,Miller,Stephen,waiter ,1
+2331,Robinson,James,waiter ,1
+2332,Mann,Martin,laborer ,1
+2333,Mead,Lewis,barber ,2
+2333,Mead,Lewis,oysterman ,1
+2333,Mead,Lewis,not able ,2
+2334,Todd,Isaac,coachman ,1
+2334,Todd,Isaac,porter ,2
+2335,Willington,Emanual,whitewasher ,1
+2335,Willington,Emanual,waiter ,1
+2336,Frisby,Ray,laborer ,1
+2336,Frisby,Ray,waiter ,1
+2337,Hines,John,waiter ,1
+2337,Hines,John,coachman ,1
+2338,Beck,Clementine,null,null
+2339,Cutis,George,chaise driver ,1
+2340,Valentine,Phillis,null,null
+2341,Bass,Samuel,barber ,3
+2342,Little,Catharine,waiter ,1
+2343,Purnell,Charles,coachman ,1
+2344,Handy,Lilly,null,null
+2345,Purnell,Esau,laborer ,1
+2346,Woods,Peter,seaman ,1
+2347,Oliver,Richard,seaman ,1
+2348,Evans,David,laborer ,1
+2349,Forten,Southern,waiter ,1
+2350,Car,Littleton,lab ,1
+2350,Car,Littleton,not able ,1
+2351,Wharton,Mary,null,null
+2352,Warren,Mary,brick moulder ,1
+2353,Stokley,Levi,barber ,1
+2354,Brown,James,stevedore ,1
+2355,Okie,Robert,waiter ,1
+2356,Penn,Charles,barber ,1
+2357,Hogwood,John,carpenter ,1
+2358,Washington,George,porter ,1
+2359,Brown,John,laborer ,1
+2360,Foulke,Ann,seaman ,1
+2361,Derman,George,porter ,1
+2362,Hicks,Susan,null,null
+2363,Peak,Amelia,null,null
+2364,Reason,Isabella,null,null
+2365,Everett,James M,waiter ,1
+2366,Custis,Lewis,shoe maker ,1
+2366,Custis,Lewis,lab ,1
+2367,Brown,Hester,null,null
+2368,Bailey,Abner,porter ,1
+2369,Brown,George,porter ,1
+2370,Jones,Rebecca,null,null
+2371,Mill,William,laborer ,1
+2372,Hopkins,Amelia,null,null
+2373,Rex,Mingo,porter ,1
+2374,Fisher,Thomas,waiter ,1
+2375,Jones,Jane,null,null
+2376,Eroin,Letitia,null,null
+2377,Williams,Thomas,porter ,1
+2378,Lewis,Amos,waiter ,1
+2379,Johnson,Edward,waiter ,1
+2379,Johnson,Edward,porter ,2
+2380,Fullman,Anna,null,null
+2381,Juley,David,seaman ,1
+2382,Sopeman,Jonathan,waiter ,1
+2383,Huetchines,Elijah,waiter ,1
+2384,Hall,Ebenezer,waiter ,1
+2385,Still,William,clerk ,1
+2386,Merrion,Francis,waiter ,1
+2387,Wilson,Joseph,waiter ,2
+2388,Sloan,Paul W,bootmaker ,1
+2389,Cole,Maria,null,null
+2390,Weeks,Rhoda,waiter ,1
+2391,Frisby,Ann,null,null
+2392,Stokley,Chas,laborer ,1
+2393,Brown,John T,laborer ,1
+2394,Queen,Edward,porter ,1
+2394,Queen,Edward,waiter ,1
+2395,Wilson,James M,brick moulder ,1
+2396,Birch,John,brick moulder ,1
+2396,Birch,John,clothes dealer ,1
+2397,Wallup,Levi,lab ,2
+2397,Wallup,Levi,waiter ,1
+2398,Kennedy,Robert,musician ,2
+2398,Kennedy,Robert,washer ,1
+2399,Allen,William,seaman ,1
+2400,Richarson,Robert,various ,1
+2401,Aexander,Isaac,porter ,1
+2402,Pence,William,well digger ,1
+2402,Pence,William,waiter ,1
+2403,George,Alexander,wood sawyer ,1
+2403,George,Alexander,hod carrier ,1
+2404,Barnard,Sam,hod carrier ,1
+2405,Records,Rachel,laborer ,1
+2406,Dorsey,Agustus,clothes dealer ,1
+2406,Dorsey,Agustus,waiter ,1
+2407,Clay,James,clothes dealer ,1
+2408,Johnson,Abraham,public waiter ,1
+2409,Jacoby,Mary,coachman ,1
+2410,Yancy,Ellen,null,null
+2411,Pitts,Mark,clothes dealer ,1
+2412,Williams,Henry,waterman ,1
+2413,Hodges,Francis,waiter ,1
+2414,Francis,Teagle,waiter ,1
+2415,James,Levi,waiter ,1
+2416,Atlee,Adam,drives cart ,1
+2416,Atlee,Adam,waiter ,1
+2417,Smith,Elizabeth,null,null
+2418,Bailey,Peter,shoemaker ,3
+2419,Thompson,Morris,coachman ,1
+2420,Weeks,Laverne,lab ,1
+2420,Weeks,Laverne,drug grinder ,1
+2421,Davis,John,porter ,1
+2422,Brown,James,porter ,1
+2423,Holland,Charles,coachman ,1
+2424,White,Isaac,porter ,1
+2425,Valentine,Harrison,waiter ,1
+2426,Wilson,Isaac,waiter ,1
+2427,Goines,William,barber ,2
+2428,Swains,Robert,barber ,1
+2429,Rickert,Phillip,hod carrier ,1
+2430,Lawrence,Isaac,coachman ,1
+2431,Butler,William,livery stable ,1
+2432,Giles,Lewis,porter ,1
+2433,Tribu,James,drives coal cart ,1
+2433,Tribu,James,lab ,1
+2434,Murray,Isaac,seaman ,1
+2435,Cooper,Susan,cabinet maker ,1
+2436,Carney,Rachel,null,null
+2437,Warfield,Diana,null,null
+2438,Holling,Daniel,steward ,1
+2439,Carey,Robert,barber ,1
+2440,Gilbert,Benjamin,distiller ,1
+2441,Brent,Nelson,various ,1
+2442,Davis,Charles,poeter ,1
+2443,Jackon,Daniel,laborer ,1
+2444,White,Robert,porter ,1
+2445,Brown,Charles,various ,1
+2446,Hall,Charles,livery stable ,2
+2447,Stevens,Louisa,null,null
+2448,Miller,Benjamin,clothes dealer ,1
+2449,Farmer,Phillip,brass founder ,1
+2449,Farmer,Phillip,shoe maker ,1
+2450,Marshall,John,school teacher ,1
+2451,Carter,Rebecca,null,null
+2452,Harris,James,porter ,1
+2453,Collins,Rachel,null,null
+2454,Trusty,Washinton,hod carrier ,1
+2455,Bowman,Giah,hod carrier ,1
+2456,Lockman,Samuel,porter ,1
+2457,Williams,John,waiter ,1
+2458,Davis,Jacob,coachman ,1
+2459,Weeks,Nathaniel,shoemaker ,1
+2459,Weeks,Nathaniel,not able ,1
+2460,Johnson,Walter,laborer ,1
+2461,Beckett,Isaac,hod carrier ,1
+2462,Pitts,Jemima,null,null
+2463,Wiley,Andrew,laborer ,1
+2464,West,Ellen,waiter ,1
+2465,Gaubert,Julius,confectioner ,1
+2466,Anthony,?,null,null
+2467,Brown,James A,drives cart ,1
+2468,Beckett,Hester,laborer ,1
+2469,Bendick,Sarah,porter ,1
+2470,Thomas,James,coachman ,1
+2471,Morris,Benjamin,not able ,1
+2472,Allison,Mary,null,null
+2473,Morris,Stephen,various ,1
+2474,Brown,William,laborer ,1
+2475,Sinclair,Maria,waiter ,1
+2475,Sinclair,Maria,porter ,1
+2476,Williams,Phoebe Ann,null,null
+2477,Osborne,Anthony,waiter ,1
+2478,Poole,Catharine,null,null
+2479,Jones,John,laborer ,1
+2480,Dull,Montgomery,seaman ,1
+2481,Gleeves,Henry,herb doctor ,1
+2482,Williams,Samuel,porter ,1
+2483,Stevenson,William,porter ,1
+2484,Johnson,William,whitewasher ,1
+2485,Bibery,Sam,wood sawyer ,1
+2486,Thomas,Hester,packer ,1
+2487,Scott,Violet,null,null
+2488,Brooks,John,barber ,1
+2489,Farmer,James,porter ,1
+2490,Matthews,John,boot cleaner ,1
+2491,Ware,William,laborer ,1
+2492,Moore,Henry,engineer ,1
+2493,Wester,Isaac,barber ,2
+2494,Lewis,Joseph,brick moulder ,2
+2495,Morris,Harriet,null,null
+2496,Gesper,Lewis,barber ,1
+2497,Wilson,Elijah,barber ,1
+2498,Douglas,William,recter of st thomass ch ,1
+2499,Bowers,Henrietta,tailor ,2
+2500,Ballard,Hagar,null,null
+2501,Adams,Alexander,brick yard ,1
+2502,Agustus,Maria,null,null
+2503,Allmon,Mickes,carpenter ,1
+2504,Amos,George H,tanner ,1
+2505,Anderson,Adaline,null,null
+2506,Anderson,Dianah,null,null
+2507,Anderson,Isaac,tanner ,1
+2508,Anderson,William,laborer ,1
+2509,Anderson,William,hod carrier ,1
+2510,Armstrong,William,waiter ,1
+2511,Avtson,Richard,hod carrier ,1
+2512,Beck,John,wood sawyer ,1
+2513,Bell,Aaron,laborer ,1
+2514,Bell,Alexander,public porter ,1
+2515,Bennett,Charles,coachman ,1
+2516,Bennett,David,sawyer ,1
+2516,Bennett,David,carter ,1
+2517,Bennett,James,laborer ,1
+2518,Benson,John,hair dresser ,1
+2519,Bird,James,laborer ,1
+2520,Blakton,Anthony,carter ,1
+2521,Bosley,Frederic,brick yard ,1
+2522,Bowen,Eliza,null,null
+2523,Bowman,Garnet,carter ,1
+2524,Bowsen,David,ornamental painter ,1
+2525,Bowsen,Jeremiah,oyster & eating cellar,1
+2526,Boyer,Abraham,potter ,1
+2527,Bramill,Daniel B,barber ,1
+2528,Brinkley,Ezekiel,brick maker ,1
+2529,Briston,Isaac,wood sawyer ,1
+2530,Brough,Letty,null,null
+2531,Brown,Jerimiah,laborer in lumber yard ,1
+2532,Brown,Abigail,null,null
+2533,Brown,Ann,laborer in lumber yard ,1
+2534,Brown,Ann,washing ,1
+2534,Brown,Ann,sewing ,1
+2535,Brown,Isaac,carter ,1
+2536,Brown,John,jobbing ,1
+2537,Bryant,Jacob,laborer ,1
+2538,Bull,Dianah,null,null
+2539,Burrow,William,jobbing ,1
+2540,Burtin,James,porter ,1
+2541,Bustill,David,plasterer ,1
+2542,Bustill,James,plasterer ,1
+2543,Cannon,Reese,laborer ,1
+2544,Carey,William,null,null
+2545,Carle,David,laborer ,1
+2546,Carney,Edward,tanner ,1
+2547,Carter,Isaac,jobbing ,1
+2548,Carter,James,hod carrier ,1
+2549,Carter,Perry,jobbing ,1
+2550,Celson,George,drayman ,1
+2551,Chandilen,John,sink cleaner ,1
+2552,Cipple,Anna,null,null
+2553,Cline,Claressa,null,null
+2554,Cline,David,work stove store ,1
+2555,Collins,Sarah,takes children to nurse ,1
+2556,Comming,Letitia,chimney sweeper ,1
+2557,Conner,Thomas,carter ,1
+2558,Cooper,Isaac,laborer ,1
+2559,Cooper,Sarah,null,null
+2560,Cornilus,Richard,laborer ,1
+2561,Cornish,Scipio,drayman ,1
+2562,Crawford,Richard,jobbing ,1
+2563,Croppen,Isaac,public porter ,1
+2564,Dans,Hannah,null,null
+2565,Davis,Charles,sweep master ,1
+2566,Davis,Eli,null,null
+2567,Davis,Fransis,laborer ,1
+2568,Davis,George,carter ,1
+2569,Davis,Isaac,public porter ,1
+2570,Davis,Moses,dealer in s hand clothes ,1
+2571,Davis,Robert,oysterman ,1
+2572,Day,William,hod carrier ,1
+2573,Deal,Samuel,peddler of goods ,1
+2574,Dedorty,Frances A,null,null
+2575,Deleoice,Eliza,sons carter ,2
+2576,Dembry,Ass,null,null
+2577,Demby,Samuel,wood sawyer ,1
+2578,Demly,William,carter ,1
+2579,Denney,Joseph,carter ,1
+2580,Diton,John,in type foundry ,1
+2581,Dorsey,John W,dealer in oyster ,1
+2582,Downey,Jane,null,null
+2583,Drommonds,Frances,null,null
+2584,Dunn,Cornelius,coffee roaster ,1
+2585,Dunn,Thomas,seaman ,1
+2586,Dunson,George,wants situation ,1
+2587,Durham,NL,hair dresser ,1
+2588,Edger,John,groom ,1
+2589,Emmory,Thomas,wood sawyer ,1
+2590,Emory,Gustavus,wood sawyer ,1
+2591,Fauset,Susan,hair dresser ,1
+2592,Ferman,Uriah,laborer ,1
+2593,Finney,Samuel,brick yard ,1
+2594,Fisher,Benjamin,drayman ,1
+2595,Fisher,Deborah,null,null
+2596,Fisher,George,porter ,1
+2597,Fisher,Noah,hod carrier ,1
+2598,Forman,Francis,book maker ,1
+2599,Franklin,Edward,carter ,1
+2600,Freeman,Amos,jobbing ,1
+2601,Freeman,Eliza,null,null
+2602,Garrison,Gardiner,brick yard ,1
+2603,Giles,Jane,null,null
+2604,Gilison,John,drayman ,1
+2605,Ginn,James,jobbing ,1
+2606,Golden,BW,hair dresser ,1
+2607,Goodman,Perry,null,null
+2608,Goosbury,James,rases flags ,1
+2609,Gordon,William,hair dresser ,1
+2610,Gould,Samuel,carman ,1
+2611,Green,James,brick maker ,1
+2612,Green,Nelson,hod carrier ,1
+2613,Griffith,Aaron,carter ,1
+2614,Griffith,James,porter ,1
+2615,Griffith,James,brick maker ,1
+2616,Gross,Lloyd,carter ,1
+2617,Grummill,James McG,dentist ,1
+2618,Hackett,Phillip,coachman ,1
+2619,Hall,Issa,laborer ,1
+2620,Hall,James,brick yard ,1
+2621,Hall,John,brick maker ,1
+2622,Hall,Thomas L,laborer ,1
+2623,Hammond,John,laborer ,1
+2624,Harmon,Elizabeth,laborer ,1
+2625,Harmon,William,farmer ,1
+2626,Harris,Robert,coachman ,1
+2627,Haskins,William H,brick maker ,1
+2628,Haslett,Jacob,null,null
+2629,Hawkins,Elizabeth,null,null
+2630,Hawkins,James,laborer in lumber yard ,1
+2631,Hays,James,jobbing ,1
+2632,Henry,Elizabeth,null,null
+2633,Henry,Henry,coachman ,1
+2634,Henry,Nancy,null,null
+2635,Henson,Ruth,null,null
+2636,Hicks,Hannah,null,null
+2637,Higgins,Samuel,sink cleaning ,1
+2638,Holland,John,porter ,1
+2639,Hollowell,James,dealer in second hand cloths ,1
+2640,Hopper,Cecillia,null,null
+2641,Howard,Robert,coachman ,1
+2642,Howard,Thomas,laborer ,1
+2643,Howard,Thomas,laborer ,1
+2644,Hyatt,James,public porter ,1
+2645,Hytt,Amelia,null,null
+2646,Ingrem,Ann,null,null
+2647,Jackson,Benjamin,porter in store ,1
+2648,Jackson,Wilford,laborer ,1
+2649,Jacobs,Elijah,null,null
+2650,James,Edward,coal yard ,1
+2651,James,Garrison,laborer ,1
+2652,James,Jemima,washing ,1
+2653,James,Nancy,agent for the rent of the row ,1
+2654,James,Sarah A,washing ,1
+2654,James,Sarah A,sewing ,1
+2655,Jeffers,William,bootmaker ,1
+2656,Jinkins,Jacob,porter in store ,1
+2657,Johnson,Abraham,sailor ,1
+2658,Johnson,Edward,laborer ,1
+2659,Johnson,Edward,laborer ,1
+2660,Johnson,Elizabeth,null,null
+2661,Johnson,James,whitewasher ,1
+2662,Johnson,John,coffee roaster ,1
+2663,Johnson,John,laborer ,1
+2664,Johnson,Lewis,laborer ,1
+2665,Johnson,Reuben,coffee roaster ,1
+2666,Johnson,Richard,jobbing ,1
+2667,Johnson,Samuel,dealer in oyster ,1
+2668,Johnson,William,wood sawyer ,1
+2669,Johnson,William,tanner ,1
+2670,Johnson,William,sink cleaner ,1
+2671,Jones,Elizabeth,null,null
+2672,Jones,Enoch,brick maker ,1
+2673,Jones,Gabriel,drayman ,1
+2674,Jones,George,waiter ,1
+2675,Jones,Hannah A,waiter ,1
+2676,Jones,Thomas,brickmaker ,1
+2677,Jones,William B,brick maker ,1
+2678,Julius,George,jobbing ,1
+2679,Julius,John,laborer ,1
+2680,Kenton,Dominic,waiter ,1
+2681,King,Harriet,null,null
+2682,Kufl,James,laborer ,1
+2683,Lane,Henry,carman ,1
+2684,Latigee,John,laborer in coal yard ,1
+2685,Laws,George,jobbing ,1
+2686,Laws,John,tanner ,1
+2687,Lawston,William,oysterman ,1
+2688,Leary,David,tanner ,1
+2689,Lee,Francis,null,null
+2690,Levinton,Catharine,null,null
+2691,Lewton,John,carter ,1
+2692,Limes,James,hod carrier ,1
+2693,Listen,John,jobbing ,1
+2694,London,Isaac,laborer ,1
+2695,Manluff,Alexander,jobbing ,1
+2696,Manluff,John,jobbing ,1
+2697,Manual,Thomas,public porter ,1
+2698,Marsh,Lydia,null,null
+2699,McCormmic,Maria,null,null
+2700,Mead,Charles,laborer ,1
+2701,Mearu,Urias,hod carrier ,1
+2702,Milburn,Mathilda,null,null
+2703,Millen,Isaac,jobbing ,1
+2704,Millen,William,wood sawyer ,1
+2705,Miller,James,basket maker ,1
+2706,Mitchel,William,laborer ,1
+2707,Moore,Benjamin,brick maker ,1
+2708,Moore,Elizabeth,null,null
+2709,Moore,James,laborer ,1
+2710,Moore,James,musician ,1
+2711,Moore,Lidia A,null,null
+2712,Moore,Mathias,wheelwright ,1
+2713,Morgan,Grace,porter ,1
+2713,Morgan,Grace,tanner ,1
+2714,Morris,Elizabeth,coachman ,1
+2715,Murrell,David,waterman ,1
+2716,Myers,Daniel,jobbing ,1
+2717,Myers,Lodwick,laborer ,1
+2718,Newsome,Nathan,whitewasher ,1
+2719,Nixon,Briston,jobbing ,1
+2720,Parker,Henry,seaman ,1
+2721,Parker,James,jobbing ,1
+2722,Parker,Jeremiah,dealer in rope boxes ,1
+2723,Parker,John,tanner ,1
+2724,Parker,Mary,null,null
+2725,Parker,Sarah,null,null
+2726,Patterson,William,brick yard ,1
+2727,Pennington,Mary,waiter ,1
+2728,Peterson,George,laborer ,1
+2729,Phillips,James,jobbing ,1
+2730,Phillips,Jarole,oyster ,1
+2731,Pierce,Jacob,laborer ,1
+2732,Pierson,William,hod carrier ,1
+2733,Pinkton,Adam,jobbing ,1
+2734,Polk,James,laborer ,1
+2735,Porter,Patience,null,null
+2736,Potter,Charles,coachman ,1
+2737,Powell,John,waiter ,1
+2738,Price,Phillip,clothing seller,1
+2739,Purnell,Israel,waiter ,1
+2740,Purnell,James,works in market ,1
+2741,Purnell,Jenkens,coachman ,1
+2742,Purnell,Minty,works at confectionary ,1
+2743,Queen,Joseph,laborer ,1
+2744,Rafs,Minas,laborer in coal yard ,1
+2745,Randolph,William,tanner ,1
+2746,Rennand,James,laborer ,1
+2747,Rice,Charles,waterman ,1
+2748,Richards,Hannah,porter ,1
+2749,Richmond,James,public waiter ,1
+2750,Riggs,Isaac,brick maker ,1
+2751,Riggs,Nancy,null,null
+2752,Ringo,Sarah,sells pepper pot ,1
+2753,Ritter,Joseph,coachman ,1
+2754,Roach,Henry,tanner ,1
+2755,Roach,Purnell,hod carrier ,1
+2756,Roads,Alexander,brick mason ,1
+2757,Roads,Thomas,brick maker ,1
+2758,Roberson,Charles,brick moulder ,1
+2759,Robinson,George,plasterer ,1
+2760,Robinson,Wesley,hod carrier ,1
+2761,Robinson,Wignette,laborer ,1
+2762,Rodney,Simon,tanner ,1
+2763,Saddler,Anthony,seaman ,1
+2764,Saunders,James B,hair dresser ,1
+2765,Saunders,Solomon,jobbing ,1
+2766,Scott,James,waiter ,1
+2767,Scuchins,Willis,brick mason ,1
+2768,Shelly,Henry,whitewasher ,1
+2769,Shields,Henry,laborer on steamboat ,1
+2770,Short,D M,null,null
+2771,Shorter,Ann,null,null
+2772,Simmons,Charlotte,null,null
+2773,Simmons,John,hod carrier ,1
+2774,Smith,David,public porter ,1
+2775,Smith,Elizabeth,tanner ,1
+2776,Smith,Henry,shave shingles ,1
+2777,Smith,Joseph,brick maker ,1
+2778,Smith,Joseph,brick maker ,1
+2779,Solomon,John,hair dresser ,1
+2780,Spencer,Rachel,null,null
+2781,Stansburary,William,carter ,1
+2782,Steele,Henry,dealer in s hand clothes ,1
+2783,Stewart,Benjamin,jobbing ,1
+2784,Stewart,Eliza,null,null
+2785,Tate,Rachel,null,null
+2786,Tate,Solomon,laborer in coal yard ,1
+2787,Thomas,Ann,jobbing ,1
+2788,Thomas,Henry,whitewashing waiting cc ,1
+2789,Thomas,James,carter ,1
+2790,Thomas,John,porter in store ,1
+2791,Thomas,John,hod carrier ,1
+2792,Thomas,John,porter in store ,1
+2793,Thomas,John,carter ,1
+2794,Thomas,Mary,null,null
+2795,Thomas,Melinda,null,null
+2796,Thomas,Rebecca,null,null
+2797,Thomas,Richard,brick maker ,1
+2798,Thomas,William,labor ,1
+2799,Thompson,Alexander,wood sawyer ,1
+2800,Thompson,Charles,drayman ,1
+2801,Thompson,Edward,jobbing ,1
+2802,Thorn,Jacob,sink cleaner ,1
+2803,Tighlman,Grace,null,null
+2804,Tolley,Marth,null,null
+2805,Townsend,James,laborer ,1
+2806,Trusty,Jacob,coachman ,1
+2807,Tuless,George,waiter ,1
+2808,Tunion,Thomas,jobbing ,1
+2809,Tunnell,Maria,null,null
+2810,Tunnell,Peter,tanner ,1
+2811,Turner,Curtus,laborer ,1
+2812,Turner,Henry,public porter ,1
+2813,Turner,James,public porter ,1
+2814,Turner,Reuben,porter in store ,1
+2815,Turner,Robert,house carpenter ,1
+2816,Turner,Simon,jobbing ,1
+2817,Turner,William C,brick maker ,1
+2818,Underwood,Henry,porter house ,1
+2819,Varess,Thomas,labor ,1
+2820,Vever,Henrietta,man helpless ,1
+2821,Walker,Amelia,null,null
+2822,Walker,Hannah,null,null
+2823,Walls,John,carter ,1
+2824,Warfield,Charles,jobbing ,1
+2825,Warmen,Edward,laborer ,1
+2826,Warren,Nathan,laborer ,1
+2827,Warrison,William,laborer ,1
+2828,Waters,Rachel,null,null
+2829,Watson,Sarah,null,null
+2830,Wear,Isaiah C,hair dresser ,1
+2831,West,Dennis L,jobbing ,1
+2832,West,Sarah,null,null
+2833,White,Jacob C,barber bleeder ,1
+2833,White,Jacob C,dentist ,1
+2834,White,John,jobbing ,1
+2835,White,John,puts in coal ,1
+2836,White,Rachel,null,null
+2837,White,Reuben,hair dresser ,1
+2838,Whittaker,Israel,brick maker ,1
+2839,Willet,Adam,whitewashing ,1
+2840,Williams,Ann,laborer in lumber yard ,1
+2841,Williams,Charles,brick maker ,1
+2842,Williams,Isaac,foreman in lumber yard ,1
+2843,Williams,Jacob,whitewasher ,1
+2844,Williams,James,carter ,1
+2845,Williams,M,hod carrier ,1
+2846,Williams,Philip,brick maker ,1
+2847,Williams,Sarah W,null,null
+2848,Williams,Silas,laborer in lumber yard ,1
+2849,Williams,Thomas,brick yard ,1
+2850,Wilmore,Catharine,null,null
+2851,Wilmore,William,public porter ,1
+2852,Wilson,Robert,jobbing ,1
+2853,Young,Edward,hair dresser ,1
+2854,Young,Moses,carter ,1
+2855,Young,Richard,general jobbing ,1
+2856,Young,Richard,null,null
+2857,Young,Richard,labor ,1
+2858,Accooe,Edward,waiter ,1
+2859,Adams,John,seaman ,1
+2860,Adams,N,b maker hominy ,1
+2861,Adams,William,waiter ,1
+2862,Agustus,Rachel,null,null
+2863,Alexander,Benjamin,hod carrier ,1
+2864,Alexander,Rachel,null,null
+2865,Alexander,Thomas,seaman ,1
+2866,Allen,Elizabeth,waiter ,1
+2867,Allen,Israel,boot blacker ,1
+2868,Allen,Samuel,porter ,1
+2869,Allen,Samuel,laborer ,1
+2870,Alman,Thomas,house carpenter ,1
+2871,Ames,W,botanic physician ,1
+2872,Anders,Jacob,stove ,1
+2872,Anders,Jacob,furniture dealer ,1
+2873,Anders,William,hostler ,1
+2874,Anderson,Cecillia,null,null
+2875,Anderson,Eilzabeth,waiter ,1
+2876,Anderson,James,wood sawyer ,1
+2877,Anderson,John,boot cleaner ,1
+2878,Anderson,Phillip P,public waiter ,1
+2879,Antony,Charles,sail maker ,1
+2880,Antony,John,laborer ,1
+2881,Antony,Richard,rag picker ,1
+2882,Aramstrong,Littleton,clothes dealer ,1
+2883,Archer,Jeremiah,porter ,1
+2884,Armstrong,James,brick maker ,1
+2885,Armstrong,William,oyster ,1
+2885,Armstrong,William,eating establishment ,1
+2886,Ashton,Jeppo,laborer ,1
+2887,Ashton,John,waiter ,1
+2888,Ayrs,Ellen,null,null
+2889,Bacon,William,laborer ,1
+2890,Bagwell,Richard,brick mason ,1
+2891,Bailey,Henry,sailor ,1
+2892,Bailey,John H,steward on steam ship ,1
+2893,Baker,Margaret,null,null
+2894,Ballard,Hannah,null,null
+2895,Banks,Alexander,carpenter ,1
+2896,Banks,Henry,seaman ,1
+2897,Banks,John J,assembly rooms ,1
+2898,Banks,Nathaniel,porter ,1
+2899,Banks,William,seaman ,1
+2900,Barker,Peter,works on wharf ,1
+2901,Barrot,Jacob,black smith ,1
+2902,Bartlow,John,coal carrier ,1
+2903,Barto,Mary,null,null
+2904,Barton,James H,b maker ,1
+2904,Barton,James H,jobbing ,1
+2905,Bassett,Shedrick,dealer hominey ,1
+2906,Bassitt,Benjamin,laborer ,1
+2907,Batis,Josaph'l (?),rag & bone,1
+2908,Baul,William,hair dresser ,1
+2909,Beach,Hester,null,null
+2910,Bead,Fransis,laborer ,1
+2911,Beck,Caroline,null,null
+2912,Beckett,Warner,laborer ,1
+2913,Bedford,Thomas,brick yard ,1
+2914,Bell,Ceasar,laborer ,1
+2915,Bell,Peter,hat presser ,1
+2916,Benjiman,Emily,null,null
+2917,Benn,Sarah,laborer ,1
+2918,Benson,Maria,null,null
+2919,Benson,Sarah,null,null
+2920,Benton,John,waiter ,1
+2921,Berry,James H W,drayman ,1
+2922,Berry,Richard,waiter ,1
+2923,Berry,Risdon,jobbing ,1
+2924,Bias,Aexander,laborer ,1
+2925,Bibbins,Hezikiah,seaman ,1
+2926,Bibbins,Mrs,null,null
+2927,Bibbins,Samuel,stove dealer ,1
+2928,Biddle,Sarah,null,null
+2929,Bishop,Jacob,public porter ,1
+2930,Bissip,James,laborer ,1
+2931,Blackston,George W.,public waiter ,1
+2932,Blake,Caroline,null,null
+2933,Blake,George,rag & bone,1
+2934,Blake,Hannah,null,null
+2935,Blake,Henry G,stove dealer ,1
+2936,Blake,Moses,hod carrier ,1
+2937,Blaze,John P,musician ,1
+2938,Bloke,Samuel,carter ,1
+2939,Blue,Abraham,waiter ,1
+2940,Boardley,William,brick yard ,1
+2941,Boardly,Stephen,carman ,1
+2942,Bolden,Benjamin,stove store ,1
+2943,Boley,Joseph,seaman ,1
+2944,Boliver,George W.,dealer in tobacco ,1
+2945,Bonds,Jacob,laborer ,1
+2946,Bonning,Charles,jobbing ,1
+2947,Booker,Cornelius,black smith ,1
+2948,Booker,Lewis,coachman ,1
+2949,Boon,Daniel,brick maker ,1
+2950,Boon,James,school teacher ,1
+2951,Booth,James H,public waiter ,1
+2952,Bowen,Samuel,rag & bone,1
+2953,Bowen,William,works in market ,2
+2954,Bownan,John,laborer ,1
+2955,Bowsen,Thomas,porter ,1
+2955,Bowsen,Thomas,cabinet maker ,1
+2956,Bowser,Stephen,laborer ,1
+2957,Boyd,Walter,rag & bone,1
+2958,Boyer,Henry,jobbing ,1
+2959,Boyer,Henry,works in mahogany mill ,1
+2960,Bracy,Thomas,laborer ,1
+2961,Braddock,John,seaman ,1
+2962,Brandon,Howard,waterman ,1
+2963,Bridge,London,null,null
+2964,Bright,John Wesley,laborer ,1
+2965,Brinkley,George W.,hair dresser ,1
+2965,Brinkley,George W.,musician ,1
+2966,Brinkly,Richard,whitewasher ,1
+2967,Britton,Hall,null,null
+2968,Brooks,George,jobbing ,1
+2969,Brooks,Henry,porter in store ,1
+2970,Brooks,John,sailor ,1
+2971,Brown,Abraham,laborer ,1
+2972,Brown,Benjamin,waiter ,1
+2973,Brown,Cathrine,null,null
+2974,Brown,David,public waiter ,1
+2975,Brown,George,door mat maker ,1
+2976,Brown,Henry,carman ,1
+2977,Brown,Henry,hominy dealer ,1
+2978,Brown,Henry,engineer ,1
+2979,Brown,James,waiter ,1
+2980,Brown,James,coachman ,1
+2981,Brown,Jane,waiter ,1
+2982,Brown,John,jobbing ,1
+2983,Brown,John,laborer ,1
+2984,Brown,John A,jobbing ,1
+2985,Brown,Marcus,null,null
+2986,Brown,Minos J,tailor store ,1
+2987,Brown,Morris,minister ,1
+2988,Brown,Peter,hod carrier ,1
+2989,Brown,Rebecca,null,null
+2990,Brown,Richard,wood sawyer ,1
+2991,Brown,Richard A,sailor ,1
+2993,Brown,Robert,laborer ,1
+2994,Brown,Robert,waiter ,1
+2995,Brown,Thomas,porter ,1
+2996,Brown,Timothy,rag & bone,1
+2997,Brown,William,null,null
+2998,Brown,William,laborer ,1
+2999,Bruce,William,waiter ,1
+3000,Bryan,Fransis M,laborer ,1
+3001,Bryant,Sandy,seaman ,1
+3002,Buck,Charles,laborer ,1
+3003,Buck,Joseph,public porter ,1
+3004,Buck,Maria,null,null
+3005,Buhlin,Asbury,boot blacker ,1
+3006,Bumford,Thomas,rag & bone,1
+3007,Bundick,William,carter ,1
+3008,Bundy,Silas,sink cleaner ,1
+3009,Burke,Enoch A,bootmaker ,1
+3010,Burke,Ruth A,waiter ,1
+3011,Burleigh,Hannah,null,null
+3012,Burnell,Lambert,laborer ,1
+3013,Burst,Thomas,rag & bone,1
+3014,Burton,Daffney,null,null
+3015,Burton,George,laborer ,1
+3016,Burton,James,porter ,1
+3017,Burton,James,porter ,2
+3018,Burton,London,laborer ,1
+3019,Burton,Rachel,null,null
+3020,Burvies(?),Maria,null,null
+3021,Butler,Curtis,laborer ,1
+3022,Butler,Margaret,null,null
+3023,Butler,Patrick,porter ,1
+3024,Byard,Elizabeth,null,null
+3025,Byard,William,porter in store ,1
+3026,Cain,Charles,bmaker ,1
+3026,Cain,Charles,jobbing ,1
+3027,Call,Mary A,null,null
+3028,Calwell,George,jobbing ,1
+3029,Campbell,Hester,null,null
+3030,Campbell,Israel,rag & bone,1
+3031,Campbell,Randolph U,porter ,1
+3032,Cannidy,Daniel,carter ,1
+3033,Cardy,John,brick maker ,1
+3034,Carey,Ephraim,keeps hogs ,1
+3035,Carey,Thomas,wood sawyer ,1
+3036,Carman,Geoge,laborer ,1
+3037,Carney,Eliza,null,null
+3038,Carney,Lebric,waiter oyster cellar ,1
+3039,Carney,Thomas,porter in store ,1
+3040,Carpentar,William,waiter in oyster saloon ,1
+3041,Carpenter,Jacob,waiter ,1
+3042,Carroll,James,wood sawyer ,1
+3043,Carter,Dennis D,musician etc ,1
+3044,Carter,Jacob,waiter ,2
+3045,Carter,John,carman ,1
+3045,Carter,John,carter ,1
+3046,Carter,Noah,waiter on steam boat ,1
+3047,Carter,Samuel,carter ,1
+3048,Cato,Cecillia,null,null
+3049,Cavalier,Charles,raises hogs ,1
+3050,Cawlrell,Joseph,carter ,1
+3051,Chambers,Perry,public porter ,1
+3052,Chambers,Rachel,null,null
+3053,Chambers,William,seaman ,1
+3054,Charles,Rebecca,null,null
+3055,Chase,Abraham,jobbing etc ,1
+3056,Chase,Amelia,null,null
+3057,Chase,Gasway,porter in store ,1
+3058,Chase,James,brick yard ,1
+3059,Chase,John,laborer ,1
+3060,Chase,Samuel,rag picker ,1
+3061,Chew,John A,hair dresser ,1
+3061,Chew,John A,perfumery ,1
+3062,Chew,Moses,jobbing ,1
+3063,Christipher,Lindy,null,null
+3064,Christopher,Levinia,null,null
+3065,Claicton,Nathaniel,painter ,1
+3065,Claicton,Nathaniel,glazier ,1
+3066,Claixton,Hannah,null,null
+3067,Clark,David,waiter ,1
+3068,Clark,Dianah,porter ,1
+3069,Clark,Eliza,null,null
+3070,Clark,George,brick maker ,1
+3070,Clark,George,oysterman ,1
+3071,Clark,James,dealer in medicines etc ,1
+3072,Clark,Maria,jobbing ,1
+3073,Clark,Meillisa,null,null
+3074,Clark,Myrs,porter in store ,1
+3075,Clark,Thomas,carter his own ,1
+3076,Cline,John,rag & bone,1
+3077,Coal,Joseph,carting ,1
+3077,Coal,Joseph,night work ,1
+3078,Coin,Emmanuel,public waiter ,1
+3079,Cokeaney,Israel,hod carrier ,1
+3080,Cole,Aaron,porter ,1
+3081,Cole,David,public waiter ,1
+3082,Cole,Jonathan,porter in store ,1
+3083,Combs,Isaac,jobbing ,1
+3084,Combs,William,laborer ,1
+3085,Combs,William,porter ,1
+3086,Condy,James,cobbler ,1
+3087,Congo,Aaron,laborer ,1
+3088,Congo,John,laborer ,1
+3089,Connell,John,waiter ,1
+3090,Conner,Isaac,porter ,1
+3091,Cook,Ann,null,null
+3092,Cook,Sarah,null,null
+3093,Cooper,Cato,rag & bone,1
+3094,Cooper,Henry,waiter in oyster cellar ,1
+3095,Cooper,Isaac,hair picker ,1
+3096,Cooper,James,works on wharf ,1
+3097,Copeland,Ashley,b maker ,1
+3098,Copes,John,house carpenter ,1
+3099,Coplin,Sampson,jobbing ,1
+3100,Cornish,Amy,null,null
+3101,Cornish,David,waiter ,1
+3102,Cornish,James,sail maker ,1
+3103,Cornish,Mary A,null,null
+3104,Corsey,Emory,public waiter ,1
+3104,Corsey,Emory,porter ,1
+3105,Corsey,Moses,works on wharf ,1
+3106,Coward,Perry,confectionary ,1
+3107,Cox,Cathrine,works in market ,2
+3108,Cox,Rachel,null,null
+3109,Craig,Robert,oysterman ,1
+3110,Crippen,Abraham,porter ,1
+3111,Crippen,Esau,fiddler ,1
+3112,Crippen,Paul,rag & bone,1
+3113,Crippin,Abraham,preacher ,1
+3114,Cropper,George,house carpenter ,1
+3115,Cropper,Henry,coachman ,1
+3116,Cropper,Issac,porter in store ,1
+3117,Crummill,John,sail maker ,1
+3118,Cumming,Benjamin,jobbing ,1
+3119,Cummings,Louisa,works on wharf ,1
+3120,Curtis,John,rag & bone,1
+3121,Curtis,Samuel L,shoe maker ,1
+3122,Custus,Mary,null,null
+3123,Dale,Murrey,jobbing ,1
+3124,Davis,Ann,null,null
+3125,Davis,Daniel,coachman ,1
+3126,Davis,Deborah,laborer ,1
+3127,Davis,Eliza,null,null
+3128,Davis,Frederick,porter in store ,1
+3129,Davis,Leven,porter in store ,1
+3130,Davis,Peter,shoe maker ,1
+3131,Davis,Sydney,laborer ,1
+3132,Davis,William,works on wharf ,1
+3133,Davis,William,makes mats ,1
+3134,Deal,Benjamin,hominy dealer ,1
+3135,Deal,Isaac,laborer ,2
+3136,Deborty,John,waiter ,1
+3137,Demby,Hester,null,null
+3138,Demby,Viletta,null,null
+3139,Denis,Littleton,whitewashing ,1
+3140,Denis,Martha,null,null
+3141,Dennis,Abel,rag & bone,1
+3142,Dennis,George,null,null
+3143,Dennis,James,waiter ,1
+3144,Denton,Fransis,porter ,1
+3145,Depee,Nathaniel W,tailor ,1
+3145,Depee,Nathaniel W,draper ,1
+3146,Derrixson,Daniel,jobbing ,1
+3147,Despineau,Q,rag & bone,1
+3148,Dickerson,Edward,laborer ,1
+3149,Dicks,Noah,laborer ,1
+3150,Diggs,Ephraim,waiter ,1
+3151,Diggs,George,hair dresser ,1
+3152,Dill,Emory,fiddler ,1
+3153,Dill,James,seaman ,1
+3154,Dill,Robert,laborer ,1
+3155,Dillen,Edward,shand clothes dealer ,1
+3156,Dixon,Abraham,brick maker ,1
+3157,Dixon,Amilia,porter in store ,1
+3158,Dixson,Charles,works on wharf ,1
+3159,Dixson,Rody,null,null
+3160,Dorsey,Eliza,null,null
+3161,Dorsey,William,brick maker in store ,1
+3162,Dotson,David,waiter ,1
+3163,Dove,Alexander,seaman ,1
+3164,Dover,James,waiter ,1
+3165,Downing,Wilson,laborer ,1
+3166,Downs,Anne,null,null
+3167,Downs,Mary,laborer ,1
+3168,Duffy,Peter,wood sawyer ,1
+3169,Duncan,Hester,null,null
+3170,Dunlap,James,rag & bone etc ,1
+3171,Dunmore,John,carter ,1
+3172,Dunn,Oliver,laborer ,1
+3173,Duran,Timothy,brick maker ,1
+3174,Durham,Elijah,carter ,1
+3175,Durham,Elijah,oysterman ,1
+3176,Durham,James,waiter ,1
+3177,Durham,Jeremiah,clergyman ,1
+3178,Durham,John,porter ,1
+3179,Durham,Samuel,oyster seller ,1
+3180,Dutton,Absolom,carter ,1
+3181,Dutton,Benjamin,wood sawyer ,1
+3182,Ealey,Elizabeth,jobbing ,1
+3183,Edisson,Garret,hair dresser ,1
+3184,Edward,William,porter ,1
+3185,Ellender,George,oysterman ,1
+3186,Elliot,Sarah,jobbing ,1
+3187,Elliott,Frances,null,null
+3188,Elliott,Joseph,laborer ,1
+3189,Ellis,Thomas,rag & bone,1
+3190,Elsberg,Charles,waiter ,1
+3191,Emmory,William,salt carrier ,1
+3192,Euman,Catharine,null,null
+3193,Evans,Albert N,waiter ,1
+3194,Evans,Soloman,farmer ,1
+3195,Everman,William,public waiter ,1
+3196,Fields,Abraham,public waiter ,1
+3197,Fields,Henry,jobing ,1
+3198,Fields,Robert,drives ice cart in summer winter cook ,1
+3199,Fields,William,hod carrier ,1
+3200,Finney,William,sells door mats ,1
+3201,Finsure,John,porter in store ,1
+3202,Fisher,Caleb,boatman ,1
+3203,Fisher,George W.,lh clothes seller ,1
+3204,Fitzgiles,Charles,laborer ,1
+3205,Fletcher,Anthony,drayman ,1
+3206,Folks,Susen,jobbing ,1
+3207,Foreson,Lewis,porter in store ,1
+3208,Fositt,Aaron,public waiter ,1
+3209,Foster,John,jobbing ,1
+3210,Foster,Rebecca,null,null
+3211,Fox,Ann,waiter ,1
+3212,Fox,Daniel,baker unemployed ,2
+3213,Frame,David,hod carrier ,1
+3214,Frank,Peter,jobbing ,1
+3215,Fransis,Charles,waiter ,1
+3216,Fransis,James,porter ,1
+3217,Frazer,John,waiter ,1
+3218,Free,Sarah,null,null
+3219,Freeman,Caroline,null,null
+3220,Freeman,Emma,null,null
+3221,Freeman,John,carman ,1
+3221,Freeman,John,carter ,1
+3222,Freeman,William,eating cellar ,1
+3223,Frisby,Ariminta,porter ,1
+3224,Frisby,George,carter ,1
+3225,Frisby,Thomas,waiter in oyster cellar ,1
+3226,Fulman,James,wood sawyer ,1
+3227,Furnanders,Nancy,null,null
+3228,Gales,James,hair dresser ,1
+3229,Gales,Joseph,farmer ,1
+3230,Gales,William A,jobbing ,1
+3231,Ganzy,Sarah A,null,null
+3232,Gardener,Charles,preacher ,1
+3233,Garrison,John,seaman ,1
+3234,Gaskill,Samuel,engineer ,1
+3235,George,Mary,null,null
+3236,Gerdon,Emeline,porter ,1
+3237,Gibbs,James,porter ,1
+3238,Gibbs,John,works on wharf ,3
+3239,Gibson,Aaron,rag & bone,1
+3240,Gibson,Henry,rag & bone,1
+3241,Gilbert,Henry,laboratory ,1
+3242,Gilbert,John,works on wharf ,1
+3243,Gilbert,William,porter ,1
+3244,Gilden,Elizabeth,null,null
+3245,Gillim,Risley,waiter ,1
+3246,Gillum,William,porter ,1
+3247,Ginn,Jane,null,null
+3248,Givins,John,house carpenter ,1
+3249,Glascow,Julia A,null,null
+3250,Glascow,Mary,null,null
+3251,Golder,Robert,physician ,1
+3252,Gooden,John,porter ,1
+3253,Gordan,Henry,public waiter ,1
+3253,Gordan,Henry,cloth dealer ,1
+3254,Gordon,Charles,rag & bone,1
+3255,Gould,Samuel,works on wharf ,1
+3256,Govan,William,laborer ,1
+3257,Grant,James,laborer ,1
+3258,Grant,William,oysterman ,1
+3259,Grason,William,carpenter ,1
+3260,Graves,Henry,sailor ,2
+3260,Graves,Henry,hat colorer ,1
+3261,Graves,Phillip,hod carrier ,1
+3262,Gray,Francis,hair dresser ,1
+3263,Gray,Samuel,coachman ,1
+3264,Gray,Susan,null,null
+3265,Green,Elizabeth,null,null
+3266,Green,Enoch,jobbing ,1
+3267,Green,George,porter ,1
+3268,Green,Hillery,porter ,1
+3269,Green,Jacob,jobbing ,1
+3270,Green,James,porter ,1
+3271,Green,James,works in ten pin alley ,1
+3272,Green,Jesse,laborer ,1
+3273,Green,John A,bootmaker ,1
+3274,Green,Lot,seaman ,1
+3275,Green,Patrick,coal carrier ,1
+3276,Green,Rachel,null,null
+3277,Green,Solomon,porter ,1
+3278,Green,William,plasterer ,1
+3278,Green,William,whitewasher ,1
+3279,Greenwood,Sarah,sailor ,1
+3280,Greves,George,hostler ,1
+3281,Grien,Peter,dealer in tow linen c ,1
+3282,Grieves,Rosanna,null,null
+3283,Griffith,Jacob,farmer ,1
+3284,Groff,Ann,null,null
+3285,Grohege (?),Dulique,oysterman ,1
+3286,Gross,James,brick maker ,1
+3287,Gross,John,morocco dresser ,1
+3288,Groves,John,works in market ,1
+3289,Guilueberry,John B,tailor ,1
+3290,Guinn,Peter,porter in store ,1
+3291,Gustus,Mrs (?),works in market ,1
+3292,Guy,Samuel,laborer ,1
+3293,Hackett,Mary,null,null
+3294,Hailstock,Charles,hair dresser ,1
+3295,Halker,William,carter ,1
+3296,Hall,Frances,null,null
+3297,Hamilton,Henry,coachman ,1
+3298,Handy,James,waiter ,1
+3299,Handy,Robert,oyster seller ,1
+3300,Handy,Summerset,porter ,1
+3301,Hanes,James,in oil store ,1
+3302,Hankins,William,laborer ,1
+3303,Hansy,Ephraim,oyster seller ,1
+3304,Harden,Stephen,hod carrier ,1
+3305,Hardy,Jacob,muffin dealer ,1
+3306,Hardy,Susanna,null,null
+3307,Harman,John,rag & bone,2
+3308,Harmon,Amelia,null,null
+3309,Harmon,Catharine,null,null
+3310,Harmon,Nancy,null,null
+3311,Harmon,Painter,carter ,1
+3312,Harmon,William,preacher ,1
+3312,Harmon,William,in store ,1
+3313,Harrard,Isaac,porter in store ,1
+3314,Harris,Eliza,null,null
+3315,Harris,Elizabeth,null,null
+3316,Harris,George,jobbing ,1
+3317,Harris,Henry,porter in store ,1
+3318,Harris,John,farmer ,1
+3319,Harris,Thomas H,house carpenter ,1
+3320,Harvey,Hester,bootmaker ,1
+3321,Hatten,Dennis,fireman steamboat ,1
+3322,Hawkins,Alexander,hair dresser ,1
+3323,Hazard,William B,hair dresser ,1
+3324,Hazzard,Isaiah,works on wharf ,1
+3324,Hazzard,Isaiah,rag picker ,1
+3325,Hegamin,Charles,waiter ,1
+3326,Hegamin,John,porter in store ,1
+3327,Helford,Alfred,laborer ,1
+3328,Henderson,Ezekiel,jobbing ,1
+3329,Henderson,James,biscuit baker ,1
+3330,Henderson,Mariah,null,null
+3331,Henry,Fransis,black smith ,1
+3332,Henry,John,hat store ,1
+3333,Henry,Mahlon,well & cell digger,1
+3334,Hensley,Clara C,null,null
+3335,Hensley,Spencer,porter ,1
+3336,Henson,Charles,jobbing ,1
+3337,Henson,Chloe,null,null
+3338,Henson,Sarah,null,null
+3339,Hewitt,Benedict,seaman ,1
+3340,Hicks,Mary,null,null
+3341,Hill,Champion,bootmaker ,1
+3342,Hill,Clayton,jobbing ,1
+3343,Hill,Lewis,wood sawyer ,1
+3344,Hill,Margaret,coachman ,1
+3345,Hill,Robert,porter ,1
+3345,Hill,Robert,sailor ,1
+3346,Hill,Thompson,b maker ,1
+3347,Hill,Wilkerson,laborer ,1
+3348,Hilton,George W.,hair dresser ,1
+3349,Hines,Isaiah,laborer ,1
+3350,Hite,Ralph C,clergyman ,1
+3351,Hite,William,porter ,1
+3352,Hockerty,John,wood sawyer ,1
+3353,Hodges,Wilson,waiter ,1
+3354,Hogan,Barcus,porter in store ,1
+3355,Hogan,Margaret,null,null
+3356,Holland,Daniel,sailor ,1
+3357,Holland,William,porter in store ,1
+3358,Holmes,Eli,carter ,1
+3359,Hook,Peter,wood sawyer ,1
+3360,Hooper,Joseph,seaman ,1
+3361,Hopkins,Isaac,rag & bone,1
+3362,Hordy,George,rag & bone,1
+3363,Horney,Charles,carter ,1
+3364,Horsey,George,dog catcher ,1
+3365,Houston,Charles,works on wharf ,1
+3366,Houston,George,works on wharf ,1
+3367,Hubert,Richard,laborer ,1
+3368,Hubitt,Garrison,wood sawyer ,1
+3369,Huggs,James,coachman ,1
+3370,Huggs,Josiah,stove store ,1
+3371,Hughes,Mary,null,null
+3372,Hughes,Susen,null,null
+3373,Hutson,David,works on wharf ,1
+3374,Irons,James,carter ,1
+3375,Irons,Sarah,work in the market ,2
+3376,Jack,Nancy,null,null
+3377,Jackson,Benjamin F,porter ,1
+3377,Jackson,Benjamin F,waiter ,1
+3378,Jackson,Elizabeth,porter ,1
+3379,Jackson,Harrison,rag & bone,2
+3380,Jackson,Henry,teamster ,1
+3381,Jackson,Isaiah,laborer ,1
+3382,Jackson,John,laborer ,1
+3383,Jackson,Joseph,waiter ,1
+3384,Jackson,Louisa,null,null
+3385,Jackson,Mahlon,laborer ,1
+3386,Jackson,Mary,null,null
+3387,Jackson,Nicolas,rag picker ,1
+3388,Jackson,Waller,laborer ,1
+3389,Jackson,William,shoe maker ,1
+3390,James,Margaret,null,null
+3391,James,Peter,laborer ,1
+3392,James,Sarah,null,null
+3393,James,Wesley,porter ,1
+3394,Jeffers,James,laborer ,1
+3395,Jenkins,Richard W,boot cleaner ,1
+3396,Jinkins,David,laborer ,1
+3397,Johns,David,public waiter ,1
+3398,Johns,William,wood sawyer ,1
+3399,Johnson,Anne,null,null
+3400,Johnson,Benjamin,oysterman ,1
+3401,Johnson,Benjamin,porter ,1
+3402,Johnson,Benjamin,null,null
+3403,Johnson,David,hod carrier ,1
+3404,Johnson,Dianah,waiter ,1
+3405,Johnson,Edward,laborer ,1
+3406,Johnson,Elizabeth,seaman ,1
+3407,Johnson,George H,seaman ,1
+3408,Johnson,Henry,jobbing ,1
+3409,Johnson,Henry,laborer ,2
+3410,Johnson,Henry P,bar tender ,1
+3411,Johnson,Hetty,null,null
+3412,Johnson,James,porter in store ,1
+3413,Johnson,John,public porter ,1
+3414,Johnson,John,public porter ,1
+3415,Johnson,John,shoe maker ,1
+3416,Johnson,John K,hominy man ,1
+3417,Johnson,John W,null,null
+3418,Johnson,Joseph,seaman ,1
+3419,Johnson,Joseph,laborer ,1
+3420,Johnson,Joshua,seaman ,1
+3421,Johnson,Lewis,works on wharf ,1
+3422,Johnson,Louisa,null,null
+3423,Johnson,Lymns,public waiter ,1
+3424,Johnson,Major,oysterman ,1
+3425,Johnson,Peter L,porter in store ,1
+3426,Johnson,Quinton,wood sawyer ,1
+3427,Johnson,Rachel,null,null
+3428,Johnson,Samuel,oysterman ,1
+3429,Johnson,Thomas,seaman ,1
+3430,Johnson,William,carter ,1
+3431,Johnson,William Henry,coachman ,1
+3432,Jones,Abel,brick ,1
+3433,Jones,Alfred,works on wharf ,1
+3434,Jones,Anne,null,null
+3435,Jones,Charles,waiter ,1
+3436,Jones,Daniel,rag & bone etc ,2
+3437,Jones,David,laborer ,1
+3438,Jones,Edward,jobbing ,1
+3439,Jones,George,waiter ,1
+3440,Jones,George,laborer ,1
+3441,Jones,Isaac,seaman ,1
+3442,Jones,Jacob,waterman ,1
+3443,Jones,Jehu,tailor ,1
+3444,Jones,Norton,waiter ,1
+3445,Jones,Sarah Louisa,null,null
+3446,Jones,Thomas,iron foundry ,1
+3447,Jones,Thomas,porter ,1
+3448,Jones,Wilkerson,tailor ,1
+3448,Jones,Wilkerson,draper ,1
+3449,Jones,William,null,null
+3450,Joseph,Mrs,null,null
+3451,Kelley,William,shipping master ,1
+3452,Kilson,William,laborer ,1
+3453,King,Ceasar,coal carrier ,1
+3454,Knight,Mary,null,null
+3455,Knowls,Peter,rag & bone,1
+3456,Lamberson,James,sweep master ,1
+3456,Lamberson,James,coachman ,1
+3457,Lampson,Jacob,laborer ,1
+3458,Lancaster,Elizabeth,porter in store ,1
+3459,Lander,James,seaman ,1
+3460,Lane,James,laborer ,1
+3461,Lane,Louisa,null,null
+3462,Lango,Isaiah,jobbing ,1
+3463,Latham,Joshua,porter ,1
+3464,Laton,Enoch,porter ,1
+3465,Lawrence,Ann,null,null
+3466,Lawrence,David,laborer ,1
+3467,Lawrerance,Jane,brick maker ,1
+3468,Laws,Ann,null,null
+3469,Laws,Elijah,seaman ,1
+3470,Laws,Henry,rag & bone,1
+3471,Laws,Prince G,preacher ,1
+3472,Laws,Stephen,ship carpenter ,1
+3473,Lawson,James,works on wharf ,1
+3474,Layton,George,jobbing ,1
+3475,Leaden,Phillip,jobbing ,1
+3476,Lee,Jarana,preacheress ,1
+3476,Lee,Jarana,day work ,1
+3477,Lee,John,farmer ,1
+3478,Lee,Robert,jobbing ,1
+3479,Lee,William,drayman ,1
+3480,Leman,Thomas,hair dresser ,1
+3481,Levington,John,boot cleaner ,1
+3482,Lewis,Cathrine,null,null
+3483,Lewis,Daniel,seaman ,1
+3484,Lewis,Frances,null,null
+3485,Lewis,Fransis,waiter ,1
+3486,Lewis,George,porter in store ,1
+3487,Lewis,George C,porter ,1
+3488,Lewis,Gilbert,attends the sick ,1
+3489,Lewis,James,seaman ,1
+3490,Lewis,Margaret,null,null
+3491,Lewis,Mary,cuts rags ,1
+3491,Lewis,Mary,two days work ,1
+3492,Lewis,Mr,waiter ,1
+3493,Lewis,Nelson,waiter ,1
+3494,Linns,John,laborer ,1
+3495,Litle,Mary,null,null
+3496,Littleton,Carr,carter ,1
+3497,Littleton,Hurbert,brick maker ,1
+3497,Littleton,Hurbert,jobbing ,1
+3498,Liveley,Cathrine,waiter ,1
+3499,Lloyd,Bartley,waiter ,1
+3500,Lloyd,Hannah,ship carpenter ,1
+3501,Lloyd,William,laborer ,1
+3501,Lloyd,William,hog dealer ,1
+3502,Lober,Johnathan,porter ,1
+3503,Loccum,Stephen,carter ,1
+3504,Lockwood,Purnell,seaman ,1
+3505,Lodine,John,coal carrier ,1
+3506,Long,Evilinda,null,null
+3507,Lopeman,Ellen,null,null
+3508,Lopeman,Levin,laborer ,1
+3509,Lordon,Julia,null,null
+3510,Loteman,Joseph,jobbing ,1
+3511,Loton,Ann,oysterman ,1
+3512,Lowrey,Ann,null,null
+3513,Ludlow,Daniel,coachman ,1
+3514,Ludlow,Primes,night work ,1
+3515,Ludnam,Francis,laborer ,1
+3516,Lukins,George,hominy dealer ,1
+3517,Lyons,James,laborer ,1
+3518,Maclin,Caleb,porter ,1
+3519,Macline,Moses,wood sawyer ,1
+3520,Mandleff,John D,public waiter ,1
+3521,Mandoren,Emannuel,waiter ,1
+3522,Manlof,Jacob,well digging ,1
+3522,Manlof,Jacob,sink cleaner ,1
+3523,Mann,Thomas,wood sawyer ,1
+3524,Marle,John,porter ,1
+3525,Marley,Isaac,waiter ,1
+3526,Marshall,Joseph,porter ,1
+3527,Martin,Amy,null,null
+3528,Martin,Joseph,brick maker ,1
+3529,Martin,Letitia,null,null
+3530,Martin,Thomas,laborer ,1
+3531,Smith,Mary Ann,null,null
+3532,Mason,George,seaman ,1
+3533,Mason,John,waiter ,1
+3534,Mason,John,seaman ,1
+3535,Mason,Rebecca,null,null
+3536,Massey,William,jobbing ,1
+3537,Maston,James,porter in store ,1
+3538,Mathews,Issac,jobbing ,1
+3539,Mathews,James H,laborer ,1
+3540,Mathews,Mary A,null,null
+3541,Mathias,James,waiter ,1
+3542,Maul,James,laborer ,1
+3543,Maxwell,Stephen,hod carrier ,1
+3544,McClain,Hannah,null,null
+3545,McCoy,Rachel,rag & bone,1
+3546,McDonnell,Daniel,brick maker ,1
+3547,McKee,John,oysterman ,1
+3548,McKinsy,Henry,hair dresser ,1
+3549,McKnitt,Deborah,null,null
+3550,McKnitt,Elsberry,seaman ,1
+3551,McKnitt,James,seaman ,1
+3552,McKnitt,Mary,null,null
+3553,Meads,Claressa,null,null
+3554,Meads,Lucy,null,null
+3555,Mendoza,Louisa,null,null
+3556,Midcap,John,brick maker ,1
+3557,Middleton,Fransis,boot cleaner ,1
+3558,Milburn,George,wood sawyer ,1
+3559,Miller,Alex,cabinet maker ,1
+3560,Miller,Cyrus,hair dresser ,1
+3561,Miller,Eliza,null,null
+3562,Miller,John,porter ,1
+3563,Miller,John,waiter on steam boat ,1
+3564,Miller,Levinia,null,null
+3565,Miller,Mary,null,null
+3566,Miller,Myers,seaman ,1
+3567,Miller,William,night work ,1
+3568,Minton,Moses,porter ,1
+3569,Mitchall,Robert,jobbing ,1
+3570,Mitchall,Spencer,carter ,1
+3571,Mitchell,Perry,carman ,1
+3572,Molliston,Joshua,waiter ,1
+3573,Molliston,William,laborer ,1
+3574,Moore,Charles,rag & bone,1
+3575,Moore,Charles,rag & bone,1
+3576,Moore,John,works in market ,1
+3576,Moore,John,wood sawyer ,1
+3577,Moore,John J,clergyman ,1
+3578,Moore,Mary,null,null
+3579,Moore,Miles H,porter in store ,1
+3580,Moore,William,laborer ,1
+3581,Moran,William Allen,oystrman ,1
+3582,Morgan,Cecillia,null,null
+3583,Morgan,Daniel,livery stable ,1
+3584,Morris,Edward,waiter ,1
+3585,Morris,Isaac,oysterman ,1
+3586,Morris,John,in jewelry store ,1
+3587,Morris,Philip,porter ,1
+3588,Morris,Robert,coachman ,1
+3589,Morris,William R,waiter ,1
+3590,Morton,Abraham,whitewasher ,1
+3591,Morton,Jacob,seaman ,1
+3592,Moses,Ezekiel,seaman ,1
+3593,Moses,John,raises hogs ,1
+3594,Mott,Joseph,works in market ,2
+3595,Mundrane,Peter,seaman ,1
+3596,Munson,Joseph,laborer ,1
+3597,Murrey,Basil,porter in store ,1
+3598,Murrey,David,laborer ,1
+3599,Murrey,George,drives oyster cart,1
+3600,Murry,Abraham,jobbing ,1
+3601,Nelson,Philip,gentleman nurse ,1
+3602,Nelson,William,house painter ,1
+3603,Nice,Thomas,rag & bone,1
+3604,Nickens,Jethro,clothes dealer ,1
+3605,Nicklass,Richard,rag & bone,1
+3606,Nicolas,Samuel,coachman ,1
+3607,Nicolas,Samuel,sn hand clothes dealer ,1
+3608,Nixson,John,in chair store ,1
+3609,Nolen,Henry,bootmaker ,1
+3610,Nuby,Alfred,null,null
+3611,Numbers,Phoebe,null,null
+3612,Oakey,Albin,laborer ,1
+3613,Obey,Gilbert,farmer ,1
+3614,Oliver,James,jobbing ,1
+3615,Owns,Edward,porter in store ,1
+3616,Pagans,Henry,jobbing ,2
+3617,Page,William,jobbing ,1
+3618,Park,John,house carpenter ,1
+3619,Parken,Charles,jobbing ,1
+3620,Parker,Adam,waiter ,1
+3621,Parker,George,laborer ,1
+3622,Parker,Joseph,clothes seller ,1
+3623,Parker,Robert,rag & bone,2
+3624,Parker,Stephen,sink cleaner ,1
+3625,Parker,William,seaman ,1
+3626,Parkerson,Mary,null,null
+3627,Parlow,Daniel,plasterer ,1
+3628,Parmes,Shephard,jobbing ,1
+3629,Pasaby,Ebenezer,sweep master ,1
+3630,Pasaby,Hester,null,null
+3631,Patterson,James,brick maker ,1
+3632,Patterson,John,market works at ,1
+3633,Patterson,Joseph,coachman ,1
+3634,Paul,Francis,laborer ,1
+3636,Pennington,David,rag picker ,1
+3637,Perkins,Samuel,carman ,1
+3637,Perkins,Samuel,carter ,1
+3638,Perry,Elizabeth,null,null
+3639,Perry,John,seaman ,1
+3640,Perry,Thomas,chandler ,1
+3641,Peters,George,ice cream maker ,1
+3642,Peterson,George,laborer ,1
+3643,Peterson,Nicey,null,null
+3644,Pew,Henry,laborer in labratory ,1
+3645,Pierce,Aquilac,waiter ,1
+3646,Pitt,Harriet,null,null
+3647,Place,William,waiter ,1
+3648,Plain,Elizabeth,null,null
+3649,Pointer,Nathan,sh clothes dealer ,1
+3650,Pointer,William,waiter ,1
+3651,Polston,Edward,seaman ,1
+3652,Potter,Aaron,waiter ,1
+3653,Potts,Charity,null,null
+3654,Potts,Frank,teamster ,1
+3655,Potts,George W.,laborer ,1
+3656,Potts,William Henry,laborer ,1
+3657,Powell,James,porter in store ,1
+3658,Pratt,Henry,laborer ,1
+3659,Preston,Orie,waiter ,1
+3660,Priar,John,works in ten pin alley ,1
+3661,Price,George,coachman ,1
+3662,Price,Jacob,shipwright ,1
+3663,Price,James,b maker ,2
+3664,Price,Maria,brick maker ,1
+3665,Price,Mozin,seaman ,1
+3666,Price,Nathan,oysterman ,1
+3667,Primrose,Samuel,whitewasher ,1
+3668,Proctor,Henry,laborer ,1
+3669,Proctor,Mary,null,null
+3670,Purnell,Ann,null,null
+3671,Purnell,Daniel,wood sawyer ,1
+3672,Purnell,Edward,hod carrier ,1
+3673,Purnell,Stephen,carter ,1
+3674,Purnell,Stephen,hominy dealer ,1
+3675,Purvis,William,seaman ,1
+3676,Pusy,Jane,null,null
+3677,Puttyman,Enoch,wood sawyer ,1
+3678,Puttyman,Louisa,null,null
+3679,Puttyman,William,porter in store ,1
+3680,Quinn,Stephen,public waiter ,1
+3681,Quire,Peter,bootmaker ,1
+3682,Reed,Isaac,laborer ,1
+3683,Reed,Jacob,waiter ,1
+3684,Reed,John,public waiter ,1
+3685,Reed,John,waiter ,1
+3686,Reed,Presilla,null,null
+3687,Rennells,Elizabeth,null,null
+3688,Rial,James W,tin worker,1
+3688,Rial,James W,iron worker ,1
+3689,Ricco,Jane,rag & bone,1
+3690,Rice,George,public porter ,1
+3691,Rice,John,clothes dealer ,1
+3692,Rich,Julia A,null,null
+3693,Richards,Martha,null,null
+3694,Richards,Sarah,cook ,1
+3695,Richardson,George,stove store ,1
+3696,Richardson,James,porter in store ,1
+3697,Richardson,Joseph,laborer ,1
+3698,Richardson,Margaret,null,null
+3699,Richardson,Samuel,oysterman ,1
+3700,Richardson,Thomas,brick maker ,1
+3701,Richerson,Benjamin,jobbing ,1
+3702,Riley,Alfred,perfumery ,1
+3703,Riley,Ann,null,null
+3704,Riley,Ann Maria,porter ,1
+3705,Riley,John,laborer ,1
+3706,Riner,Isaac,laborer ,1
+3707,Rippley,John,porter ,1
+3708,Rivers,John,jobbing ,1
+3709,Roads,Ellen,null,null
+3710,Roads,Sarah,cooking ,1
+3710,Roads,Sarah,days work ,1
+3711,Roberson,Daniel,seaman ,1
+3712,Roberson,George,public porter ,1
+3713,Roberson,James,carter ,1
+3714,Roberson,James,huckster,1
+3715,Roberson,Jane,null,null
+3716,Roberson,Major,cook on boat ,1
+3717,Roberson,Nehemiah,jobbing ,1
+3718,Roberson,Parish,lumber yard ,1
+3719,Roberson,Richard,laborer ,1
+3720,Roberson,Rosanna,null,null
+3721,Roberson,Solomon,laborer ,1
+3721,Roberson,Solomon,night work ,1
+3722,Roberson,William,laborer ,1
+3723,Roberts,Daniel,hair picker ,1
+3724,Roberts,Edward,wood sawyer ,1
+3725,Roberts,James,porter ,1
+3726,Roberts,N L,waiter ,1
+3727,Robinson,Nancy,night work ,1
+3728,Rodgers,Ann L,null,null
+3729,Rodine,Mary A,null,null
+3730,Rodney,Sarah,null,null
+3731,Rodrick,Lewis,seaman ,1
+3732,Rogers,Phoebe A,null,null
+3733,Rooker,Sarah,null,null
+3734,Ruben,John,b maker jobbing ,1
+3735,Runnels,William,coachman ,1
+3736,Russell,Phebe,null,null
+3737,Russell,Richard,porter in store ,1
+3738,Saddler,Henry,laborer ,1
+3739,Sadller,Daniel,sink cleaner ,1
+3740,Salter,Washington,laborer ,1
+3741,Sammons,Elizabeth,null,null
+3742,Sammons,Henry,jobbing ,1
+3743,Sammons,Nathaniel,brick maker ,1
+3744,Sanders,Eliza,null,null
+3745,Sanders,Enoch,porter ,1
+3746,Sango,John,works on wharf ,1
+3747,Scotland,Sam,hair dresser ,1
+3748,Scotland,Samuel,carman ,1
+3749,Scott,Abraham,laborer ,1
+3750,Scott,Emanuel,laborer on wharf ,1
+3751,Scott,John,jobbing ,1
+3752,Scott,Joshua,seaman ,1
+3753,Scott,Mary,null,null
+3754,Scott,Solomon,clergyman itinerent ,1
+3755,Scott,Walter,wood sawyer ,1
+3756,Scott,William,laborer ,1
+3757,Scott,William,lamp dealer,1
+3757,Scott,William,fluid dealer ,1
+3758,Seeley,Harmon,porter in store ,1
+3759,Sephes(?),Levin,carter ,1
+3760,Shadd,Hans,tailor ,1
+3760,Shadd,Hans,draper ,1
+3761,Shafer,James,drayman ,1
+3762,Sharp,Sarah,null,null
+3763,Sheffer,John,carman ,1
+3763,Sheffer,John,jobber ,1
+3764,Shennett,Peter,seaman ,1
+3765,Shephard,Charles,laborer ,1
+3766,Shephard,Joshua,oyster cart ,1
+3767,Shields,James,wood sawyer ,1
+3768,Shockley,Cathrine,null,null
+3769,Shreves,Samuel,laborer ,1
+3770,Shreves,William,laborer ,1
+3771,Simpson,John,porter ,1
+3772,Singer,Theodore,waiter ,1
+3773,Singles,Thomas,refectory ,1
+3774,Sipple,Stephen,clothes seller ,1
+3775,Sipple,Thomas,laborer ,1
+3776,Smiles,Polodore,laborer ,1
+3777,Smith,Ann,null,null
+3778,Smith,Edward,porter in store ,1
+3779,Smith,Hester,null,null
+3780,Smith,James W,porter in store ,1
+3781,Smith,John,b maker jobbing ,1
+3782,Smith,John B,clothes dealer ,1
+3783,Smith,Mary T,null,null
+3784,Smith,Ovid,rag & bone etc ,1
+3785,Smith,William,carter ,1
+3786,Smith,William,seaman ,1
+3787,Smothers,Amos,sailor ,1
+3788,Sommond,Benjamin,laborer ,1
+3789,Sparrow,Adam,jobbing ,1
+3790,Spencer,Peter,shoe maker ,1
+3791,Spencer,William,rag & bone,1
+3792,Sprow,David,jobbing ,1
+3793,Spvies,Ann,null,null
+3794,Sroders,Richard,waiter ,1
+3795,Stafford,Louisa,null,null
+3796,Stanley,William,makes little wooden ornaments ,1
+3797,States,Owen,b maker jobbing ,1
+3798,Stevenson,John,laborer ,1
+3799,Steward,Alexander,oyster dealer ,1
+3800,Steward,John,brick maker jobbing ,1
+3801,Steward,Samuel,clothes dealer ,1
+3802,Steward,Stephen,rag & bone,1
+3803,Stewart,Henry,steward of s boat ,1
+3804,Stokes,Emanuel,farmer ,1
+3805,Stokley,Agnes,laborer ,1
+3806,Stokley,Briston,rag & bone,1
+3807,Stout,Susen,null,null
+3808,Street,Anderson,waiter ,1
+3809,Sulby,William,laborer ,1
+3810,Sully,Charlotte,null,null
+3811,Summers,George,sailor ,1
+3812,Sutton,Harriet,null,null
+3813,Swan,William,seaman ,1
+3814,Swanson,Rebecca,null,null
+3815,Swift,Alexander,jobbing ,1
+3816,Talbert,James,in store ,1
+3817,Taylor,Benjamin,waiter ,1
+3818,Taylor,Edward,waiter ,1
+3819,Taylor,Margaret,hair dresser ,1
+3820,Taylor,William H,waiter ,1
+3821,Teagle,John,porter ,1
+3822,Tekel,Littleton,laborer ,1
+3823,Templeton,Benjamin,clergyman ,1
+3824,Thomas,Elias,porter ,1
+3825,Thomas,Eliza,null,null
+3826,Thomas,Henry,jobbing ,1
+3827,Thomas,Hester,china store ,1
+3828,Thomas,Hester,works on wharf ,1
+3829,Thomas,Jacob,coal carrier ,1
+3830,Thomas,James,boot cleaner ,1
+3831,Thomas,John,waiter ,1
+3832,Thomas,John,seaman ,1
+3833,Thomas,John,works on wharf ,1
+3834,Thomas,Levinia,null,null
+3835,Thomas,Mary,null,null
+3836,Thomas,Phillip,porter in store ,1
+3837,Thomas,Sarah,null,null
+3838,Thomas,Susen,shoe maker ,1
+3839,Thomas,William,laborer ,1
+3840,Thomas,William,hair dressers one in store ,2
+3841,Thompson,Andrew,rag & bone,2
+3842,Thompson,Charles,night work ,1
+3843,Thompson,Edward,hair dresser ,1
+3844,Thompson,Isaiah,porter in store ,1
+3845,Thompson,Maria,null,null
+3846,Thompson,Martha,works on wharf ,1
+3847,Thompson,Mary,null,null
+3848,Thompson,Mary A,null,null
+3849,Thompson,Nathan,well digger ,1
+3849,Thompson,Nathan,night work ,1
+3850,Thompson,Philip,waiter ,1
+3850,Thompson,Philip,boot cleaner ,1
+3851,Thompson,Rolley,waiter ,1
+3852,Thompson,Samuel,laborer ,1
+3853,Thompson,Sarah,null,null
+3854,Thompson,Solomon,whitewasher etc ,1
+3855,Thompson,William,carter ,1
+3856,Tighlman,Mary,null,null
+3857,Till,Henry,waiter ,1
+3858,Till,Joseph,waiter ,1
+3859,Tillerson,George,jobbing ,1
+3859,Tillerson,George,carting ,1
+3860,Tilman,Perry,public waiter ,1
+3861,Tilman,William,porter ,1
+3862,Tingle,Solomon,seaman ,1
+3863,Tintell,Levin,seaman ,1
+3864,Titus,,washing ,1
+3864,Titus,,ironing ,1
+3865,Todd,Jane,null,null
+3866,Tolson,John,carpenter ,1
+3867,Tomkins,Richard T,waiter ,1
+3868,Towsands,William A,null,null
+3869,Tribule,James,null,null
+3870,Tribute,Eliza,null,null
+3871,Trotter,Thomas,jobbing ,1
+3872,Truepenny,Elizabeth,null,null
+3873,Trusty,Peter,seaman ,1
+3874,Tunnell,Abner,cabinet maker ,1
+3875,Tunnell,Esau,laborer ,1
+3876,Turner,Jacob,public waiter ,1
+3877,Turner,Jesse,bootmaker ,1
+3878,Turner,John,oysterman ,1
+3879,Turner,Stephen,wood sawyer ,1
+3880,Tyson,Jacob,laborer ,1
+3881,Urvin,Charlotte,null,null
+3882,Valentine,Tilman,brick ,1
+3882,Valentine,Tilman,bootmaker ,1
+3883,Valentine,William,waiter ,1
+3884,Van Brokle,Samuel,cabinet maker ,1
+3885,Van,Elias,laborer ,1
+3886,Vanarkey,Johnson,coachman ,1
+3887,Vanbribeck,Abraham,barber ,1
+3888,Vandibeck,Aaron,jobbing ,1
+3889,Venerables,Alexander,hod carrier ,1
+3890,Walford,George,public waiter ,1
+3891,Wall,Elizabeth,null,null
+3892,Walsey,Lydia,waiter ,1
+3893,Warfield,Reason,laborer ,1
+3893,Warfield,Reason,works in market ,2
+3894,Warner,Eli,laborer ,1
+3895,Warner,Rachel,null,null
+3896,Warren,John,refectory ,1
+3897,Washington,John,wood splitter ,1
+3898,Washington,Richard,jobbing ,1
+3899,Washington,Samuel,laborer ,1
+3900,Waterford,Eli,porter ,1
+3901,Waterford,Eli,porter ,1
+3902,Waterford,Joseph,sail maker ,1
+3903,Waterford,Robert,works on wharf ,1
+3904,Waters,Benjamin,b maker jobbing ,1
+3905,Waters,Ellen,clothes seller ,1
+3906,Waters,Frances,null,null
+3907,Watson,Cato,null,null
+3908,Watson,Lear,null,null
+3909,Watts,Benjamin,laborer ,1
+3910,Watts,Daniel,porter ,1
+3911,Watts,Ephraim,laborer ,1
+3912,Weakley,James,waterman ,1
+3913,Wearey,Prissilla,null,null
+3914,Weasey,Sarah,null,null
+3915,Weasle,Thomas,oysterman ,1
+3916,Webb,Rebecca,null,null
+3917,Webster,Amelia,null,null
+3918,Webster,George,brick maker ,1
+3919,Wellington,William,hair dresser ,1
+3920,Wells,John,wood sawyer ,1
+3921,Wesley,John,oysterman ,1
+3922,West,Author,porter in store ,1
+3923,West,George,works in lumber yard ,1
+3924,West,James,jobbing ,1
+3925,West,Robert,porter in store ,1
+3926,Westwood,Keeling,confectionary ,1
+3927,Wharton,Mary,null,null
+3928,White,Benjamin,b maker hominy ,1
+3929,White,Berry,carter ,1
+3930,White,Causamore,laborer ,1
+3931,White,Daniel,wood sawyer ,1
+3932,White,G,carter ,1
+3933,White,Gasper,null,null
+3934,White,Isaac,jobbing ,1
+3935,White,Sarah,null,null
+3936,White,Sarah,null,null
+3937,White,William,seaman ,1
+3938,White,William H,rag & bone gatherer,1
+3939,Whitley,Graham,picker of rags ,1
+3940,Whorton,Robert,null,null
+3941,Wiggin,Nathaniel,public waiter ,1
+3942,Wilkins,James,waiter ,1
+3943,Wilkins,Samuel,car man ,1
+3943,Wilkins,Samuel,carter ,1
+3944,William,Charles,jobbing ,1
+3945,William,Mary A,null,null
+3946,William,Mary A,null,null
+3947,Williams,Abraham,laborer ,1
+3948,Williams,Ann,null,null
+3949,Williams,Antony,porter ,1
+3950,Williams,Caroline,null,null
+3951,Williams,Edward,jobbing ,1
+3952,Williams,Edward,sailor ,1
+3953,Williams,Elizabeth,null,null
+3954,Williams,George,hod carrier ,1
+3955,Williams,George,steward on steam boat ,1
+3956,Williams,Gilbert,laborer ,1
+3957,Williams,Henry,waiter ,1
+3958,Williams,James,seaman ,1
+3959,Williams,James,waiter on s boat ,1
+3960,Williams,John,seaman ,1
+3961,Williams,John,works on wharf ,1
+3962,Williams,John,wood sawyer ,1
+3963,Williams,Mary,null,null
+3964,Williams,Moses,laborer ,1
+3965,Williams,Paul,wood sawyer ,1
+3966,Williams,Rachel,null,null
+3967,Williams,Samuel,public porter ,1
+3968,Williams,Samuel,refectory ,1
+3969,Williams,Sarah,null,null
+3970,Williams,Sarah,null,null
+3971,Williams,Susen,null,null
+3972,Williams,William P,hair dresser ,1
+3973,Willis,Nazrey,clergyman ,1
+3974,Wilmore,Charles,porter in store ,1
+3975,Wilson,Benjamin,public porter ,1
+3976,Wilson,Edmond,waiter ,1
+3977,Wilson,Eli,jobbing ,1
+3978,Wilson,George,picks coal ,1
+3979,Wilson,Harriet,null,null
+3980,Wilson,Henry,laborer ,1
+3981,Wilson,Henry,null,null
+3982,Wilson,Hester,null,null
+3983,Wilson,Hyram,barber ,2
+3984,Wilson,James,brick maker jobbing ,1
+3985,Wilson,John,jobbing ,1
+3986,Wilson,Julia A,null,null
+3987,Wilson,Maria,null,null
+3988,Wilson,Mary,null,null
+3989,Wilson,Samuel,jobbing ,1
+3990,Wilson,Thomas,carter ,1
+3991,Wilson,William,laborer ,1
+3992,Wines,Samuel,carter ,1
+3993,Winslow,Joseph,laborer ,1
+3994,Winston,Amelia,null,null
+3995,Winston,John,carter ,1
+3996,Wishes,James,porter ,1
+3997,Wolfe,Caesar,working on wharf ,1
+3998,Wood,Thomas,works in ten pin alley ,1
+3999,Wood,William,works on wharf ,2
+4000,Woodaker,John,brick yard ,1
+4001,Woodson,Frederic Jr,whitewasher ,1
+4002,Woodward,John,public porter ,1
+4003,Wright,Elizabeth,laborer ,1
+4004,Wright,James,rag & bone,1
+4005,Wright,William,jobbing ,1
+4006,Young,Charles,porter in store ,1
+4007,Young,Hester,null,null
+4008,Young,Richard,drayman ,1
+4009,Young,William,jobbing ,1
+4010,Adams,John,laborer ,1
+4011,Agustus,David,farmer ,1
+4012,Alison,John,carries salt ,1
+4013,Allen,Ann,null,null
+4014,Allman,Mukes,carpenter ,1
+4015,Amos,Nathan,whitewasher ,1
+4016,Anderson,Ann,null,null
+4017,Anderson,William,selling cakes ,1
+4018,Anderson,William,jobbing ,1
+4019,Armstrong,Eliza,null,null
+4020,Batteace,Charles,labor ,1
+4021,Beattey,Robert,brick maker ,1
+4022,Bell,Solomon,plasterer ,1
+4023,Black,Ann,null,null
+4024,Black,David,stevedore ,1
+4025,Black,Gideon,farmer ,1
+4026,Black,Mathia,carter ,1
+4027,Blake,Henry,labor ,1
+4028,Boggs,Frances,null,null
+4029,Borough,Letty,null,null
+4030,Bostic,Charles,carter ,1
+4031,Boyd,William,plaster ,1
+4031,Boyd,William,with hominy ,1
+4032,Bradford,Henry,carter ,1
+4033,Braumill,Daniel B,barber ,1
+4034,Brooks,Robert,labor ,1
+4035,Brown,Abigail,null,null
+4036,Brown,Andrew,melting iron ,1
+4037,Brown,Elen,null,null
+4038,Brown,John,blacksmith ,1
+4039,Brown,Juliana,null,null
+4040,Brown,Mary A,null,null
+4041,Brown,Stephen,porter in store ,1
+4042,Brown,Susan,null,null
+4043,Bullett,William,laborer ,1
+4044,Bundic,Joshua,sells cakes ,1
+4045,Bundice,Rosanna,null,null
+4046,Burton,John,waterman ,1
+4047,Cane,John,labor ,1
+4048,Cannon,Reese,laborer ,1
+4049,Carpenter,Peter,lime burner ,1
+4050,Carter,Amelia,null,null
+4051,Carter,J Lewis,waiter ,1
+4052,Chalbert,Luis,waterman ,1
+4053,Chase,Mary,laborer ,1
+4054,Cline,David,work stove store ,1
+4055,Coachman,Edward,porter ,1
+4056,Cole,James,drives cart ,1
+4057,Cole,William,carter ,1
+4058,Cooper,George,labor ,1
+4059,Copeland,Silva,null,null
+4060,Cornish,Maria,null,null
+4061,Coward,Charles,labor ,1
+4062,Craig,Margaret,null,null
+4063,Croper,Jeremiah,labor ,1
+4064,Cropper,William,labor ,1
+4065,Cross,Mary,null,null
+4066,Cuff,John,labor ,1
+4067,Davis,Eli,dealer in cakes ,1
+4068,Davis,Emanuel,carter ,1
+4068,Davis,Emanuel,jobber ,1
+4069,Davis,Maria,null,null
+4070,Deats,Benjamin,lumber yard ,1
+4071,Deleoice,Eliza,sons carter ,2
+4072,Demby,Ann,null,null
+4073,Demby,Richard,labor ,1
+4074,Demby,Wiliiam,carter ,1
+4075,Derry,George,labor ,1
+4076,Disberry,David,iron store ,1
+4077,Donenger,James,labor ,1
+4078,Dorsey,John W,dealer in oyster ,1
+4079,Downey,Jane,null,null
+4080,Draper,Ann,null,null
+4081,Draper,Charles,labor ,1
+4082,Draper,Charles Jr,rather worthless ,1
+4083,Draper,Milly,labor ,1
+4084,Duffy,John,labor ,1
+4085,Duglass,An,null,null
+4086,Dumpson,Martha,null,null
+4087,Dunson,George,wants situation ,1
+4088,Dutton,Susan,null,null
+4089,Elsey,Abraham,laborer ,1
+4090,Evans,James,labor ,1
+4091,Farrel,Elias,carter ,1
+4092,Fausit,Francis,brickmaker ,1
+4093,Fetterman,Jacob,laborer ,1
+4094,Fisher,George,waterman ,1
+4095,Flamer,William H,bootmaker ,1
+4096,Fransis,John,coachman ,1
+4097,Fransis,Mary,null,null
+4098,Gant,Elizabeth,carpenter ,1
+4099,Gardner,John,sailor ,1
+4100,Gasaway,Margaret,carter ,3
+4101,Gibbs,Elijiah,basket maker ,1
+4102,Goosbury,James,raises hogs ,1
+4103,Goosby,Francis,labor ,1
+4104,Goud,Joseph,labor ,1
+4105,Gray,Henderson,jobbing etc ,1
+4106,Hall,Fredrick T,porter ,1
+4107,Hall,Isaa,laborer ,1
+4108,Harmer,Edward,laborer ,1
+4109,Harris,Hannah,laborer ,2
+4110,Harrison,William,laborer ,1
+4111,Hawkins,Elizabeth,null,null
+4112,Hazel,Michel,carter ,1
+4113,Hendrickson,Francis,barber ,1
+4114,Henry,Elizabeth,null,null
+4115,Henry,Hanrietta,null,null
+4116,Henry,John,farmer ,1
+4117,Hicks,Isaac,carter ,1
+4118,Hill,Agnes,null,null
+4119,Holly,Aaron,labor ,1
+4120,Homes,Dianna,null,null
+4121,Hopkins,Henry,labor ,1
+4122,Howard,Thomas,labor ,1
+4123,Howell,Isaac,laborer ,1
+4124,Hutchinson,David,carter ,1
+4125,Ingrem,Ann,null,null
+4126,J(?)uel,Jacob,labor ,1
+4127,Jackson,William,clergyman ,1
+4128,Jacobs,James,labor ,1
+4129,James,Edward,coal yard ,1
+4130,James,Jemima (?),null,null
+4131,James,Lucy,son labor ,1
+4132,James,Richard,carter ,1
+4133,James Richard,,null,null
+4134,James,Thomas,carter ,1
+4135,Johnson,Abraham,sailor ,1
+4136,Johnson,Henry,labor ,1
+4137,Johnson,Isaac,laborer ,1
+4138,Johnson,Joseph,at mcburneys confectionary ,1
+4139,Johnson,Mary Ann,null,null
+4140,Johnson,Michel,farmer ,1
+4141,Johnson,Samuel,farmer ,1
+4142,Johnson,Susan,null,null
+4143,Johnson,William,null,null
+4144,Jones,Harriet,null,null
+4145,Jones,Robert H,public school teacher ,1
+4146,Jones,Sarah,null,null
+4147,Jones,Thomas,brick maker ,1
+4148,Kelley,Adaline,null,null
+4149,Kelly,Alriah,coachman ,1
+4150,King,James,saw mill ,1
+4151,Knight,David,waterman ,1
+4152,Kupl,James,laborer ,1
+4153,Lalbs (?),Jeremiah,porter ,1
+4154,Laurence,Adam,labor ,1
+4155,Laws,James,hostler ,1
+4156,Lee,Fenton,coachman ,1
+4157,Lee,Francis,null,null
+4158,Lewis,John,labor ,1
+4159,Lexton,Jane,null,null
+4160,Lodor,Harriet,null,null
+4161,Logan,Nehemiah,laborer ,1
+4162,Loh,James,labor ,1
+4163,Ludnum,Charles,wool factory ,1
+4164,Luff,Peter,porter ,1
+4165,Lum,Isaa,carter ,1
+4166,Malony,Solomon,carter ,1
+4167,Maman,Joseph T,porter ,1
+4168,Manluff,Julian,null,null
+4169,Martin,Henry,labor ,1
+4170,Martin,Lewis B,house carpenter ,1
+4171,Maxwell,John,nothing to do,1
+4172,McCoy,Benjamin,labor ,1
+4173,McGruder,Nicholas,laborer ,1
+4174,Meloney,Nancy,bootmaker ,2
+4175,Miler,Robert,porter ,1
+4176,Miller,Charles,waterman ,1
+4177,Miller,David,makes bricks ,1
+4178,Miller,James,laborer ,1
+4179,Miller,Johnathan,porter ,1
+4180,Miller,Joseph,labor ,1
+4181,Miller,Perry,sn hand clothes dealer ,1
+4182,Miller,Ralph,carter ,1
+4183,Miller,Reuben,labor ,1
+4184,Milton,Andrew,labor ,1
+4185,Minor,Anthony,stevedore ,1
+4186,Moore,Eliza,null,null
+4187,Moses,S Ann,null,null
+4188,Murphy,Jerimiah,labor ,1
+4189,Murrell,David,waterman ,1
+4190,Murry,Daniel,labor ,1
+4191,Murry,Jacob,shoemaker ,1
+4192,Murry,Jeremiah,porter ,1
+4193,Myrs,Charles,in winter jobbing in summer ice cream ,1
+4194,Nash,Charles,labor ,1
+4195,Neads,Aaron,laborer ,1
+4196,Neads,James,waiter ,1
+4197,Offet,John,waiter ,1
+4198,Orum,Luiza,null,null
+4199,Paggins,William,laborer ,1
+4200,Parker,Charles,coachman ,1
+4201,Parker,Simon W,shoe maker ,1
+4202,Patterson,Samuel,carter ,1
+4203,Peer,Anthony,barber ,1
+4204,Peer,Elllis J,baker ,1
+4205,Penn,Julia,null,null
+4206,Peters,James H,barber ,1
+4207,Phillips,Jacob,oyster ,1
+4208,Price,Phillip,clothing seller,1
+4209,Price,Rennolds,labor ,1
+4210,Price,Stephen,laborer ,1
+4211,Price,Stephen,laborer ,1
+4212,Purnell,Jenkens,coachman ,1
+4213,Purnell,Minty,null,null
+4214,Purnell,Israel,waiter ,1
+4215,Rerrais (?),David,carter ,1
+4216,Rice,Charles,waterman ,1
+4217,Rice,William,bar tender ,1
+4218,Richards,Hannah,porter ,1
+4219,Richardson,W,jobbing ,1
+4220,Ritter,Joseph,coachman ,1
+4221,Robinson,George,engineer ,1
+4222,Robson,Lydia,null,null
+4223,Rodgers,John,labor ,1
+4224,Rodney,David,laborer ,1
+4225,Roland,George,sels oyster ,1
+4226,Ross,Richard,labor ,1
+4227,Ross,William,carter ,1
+4228,Saulsbury,John,carter ,1
+4229,Scott,Giles,jobbing ,1
+4230,Scott,Henry,porter ,1
+4231,Selsby,Nathan,laborer ,1
+4232,Shephard,Martha,public porter ,1
+4233,Shuthens,Lucy,null,null
+4234,Simpson,Emery,labor ,1
+4235,Smith,Henry,shave shingles ,1
+4236,Smith,Henry,cook at hotel ,1
+4237,Smith,Mrs,null,null
+4238,Smullin,Lewis,labor ,1
+4239,Stansbury,William,carter ,1
+4240,Steward,William,laborer ,1
+4241,Still,Abraham,labor ,1
+4242,Still,Tobias,man nearly helpless ,1
+4243,Thomas,George,barber ,1
+4244,Thomas,Rachel,border labor ,1
+4245,Thomas,William,labor ,1
+4246,Thompson,Robert,labor ,1
+4247,Tilison,Joseph,coachman ,1
+4248,Tillman,Rebecca,null,null
+4249,Trusty,Jacob,coachman ,1
+4250,Tunnee,James,labor ,1
+4251,Tyson,Rosanna,null,null
+4252,Unctim,Francis,laborer ,1
+4253,Valentine,James,drayman ,1
+4254,Varess,Thomas,labor ,1
+4255,Vever,Henrietta,man helpless ,1
+4256,Vullen,Christopher,laborer ,1
+4257,Walker,John,stevedore ,1
+4258,Ward,Ida,null,null
+4259,Washington,William,carter in lumber yard ,1
+4260,Wesley,Peter,labor ,1
+4261,Whetington,Elmer,labor ,1
+4262,White,John,puts in coal ,1
+4263,White,Joseph,waterman ,1
+4264,Wilkerson,Major J,agent for ohio public school ,1
+4265,Williams,Ann,null,null
+4266,Williams,Catharine,null,null
+4267,Williams,Daniel,laborer ,1
+4268,Williams,Elexander,labor ,1
+4269,Williams,Hannah,jobbing ,1
+4270,Williams,Isaac,barber ,1
+4271,Williams,Janey (?),null,null
+4272,Williams,John,coachman ,1
+4273,Williams,Ruth,null,null
+4274,Williams,Thomas,labor ,1
+4275,Williams,William,brickmaker ,1
+4276,Willims,Caleb,labor ,1
+4277,Wilmore,Sarah,null,null
+4278,Wilson,Eliza Ann,null,null
+4279,Wilson,Martha,null,null
+4280,Wood,Allen,laborer ,1
+4281,Wood,Amy,null,null
+4282,Wood,William,labor ,1
+4283,Young,Richard,labor ,1

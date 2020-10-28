@@ -1,0 +1,5152 @@
+ID,Last Name,First Name,OCCUPATION,COUNT
+0000,Lennox,Basil,washer ,1
+0001,Shepherd,Jacob,washer ,1
+0002,Ashmead,Louisa,washer ,1
+0003,Poole,Emaline,eating house ,1
+0004,Chain,Thomas,domestic duties ,1
+0005,Brown,George,null,null
+0006,Robinson,Jane,washer ,1
+0007,Smiley,David,null,null
+0008,Estcott,James,service ,1
+0009,Early,John,null,null
+0010,Lucas,Eleanor,domestic duties ,1
+0011,Shepherd,Louisa,days work ,1
+0012,View,Martha,washer ,1
+0013,Roberts,Eliz,washer ,1
+0014,Riley,Ebenezer,washer ,1
+0015,Gray,Ann,washer ,1
+0016,Richard,Thos,washer ,1
+0017,Cornish,Eliza,washer ,1
+0018,Johnson,William,domestic duties ,1
+0019,Lee,David,washer ,1
+0020,Moore,Eliz,shop keeper ,1
+0021,Thompson,Mary,washer ,1
+0022,Depee,Robert,cook ,1
+0023,Hitchins,Eliza,days work ,1
+0024,Smith,Gabriel,null,null
+0025,Agustus,Richard,washer ,1
+0026,Townsend,Allen,washer ,1
+0027,Thompson,Charlotte,days work ,1
+0028,Stokley,Weymouth,cook ,1
+0029,Cork,John,days work ,1
+0030,Ludlow,Levi,days work ,1
+0031,Derrikson,Esther,sewing rags ,1
+0032,Evans,James,washer ,1
+0033,Davis,Myers,washer ,1
+0034,Allen,George,whitewasher ,1
+0035,Beverly,Lydia,washer ,2
+0036,Denby,Abraham,washer ,2
+0037,Rosi,Diana,washer ,1
+0038,Dillin,Sarah,null,null
+0039,Miller,Keziah,days work ,1
+0040,Madden,Abigail,days work ,1
+0041,Richards,Amia,days work ,1
+0042,Mintess,Elizabeth,washer ,1
+0043,Martin,John,washer ,1
+0044,Stewart,Rachel,washer ,1
+0045,Macklin,Eliza,washer ,1
+0046,Purnell,John,days work ,1
+0047,Golding,Eliza,null,null
+0048,Murray,Samuel,washer ,1
+0049,Brown,Anna,null,null
+0050,Withington,Comfort,days work ,1
+0051,Richardson,Ann,null,null
+0052,West,George,null,null
+0053,Wilson,Joseph,washer ,1
+0054,Lee,Eliza,days work ,1
+0055,Christian,Issac,washer ,1
+0056,Smith,Fanny,null,null
+0057,Whitaker,William,null,null
+0058,Scott,James,null,null
+0059,Purnell,Nancy,domestic duties ,1
+0060,Hughes,George W.,days work ,1
+0061,Gibbs,Anna Marie,cake baker ,1
+0061,Gibbs,Anna Marie,piebaker ,1
+0062,Dill,Catharine,washer ,1
+0062,Dill,Catharine,dress m ,1
+0063,Johnson,Edward,days work ,1
+0064,Day,Robert,washer ,1
+0065,Boston,Grace,whitewasher ,1
+0066,Mason,George,null,null
+0067,Thompson,James,washer ,1
+0068,Walker,Emmanuel,huckster,1
+0069,Thompson,Anna,eating & c house ,1
+0070,Primrose,Magaret,null,null
+0071,Murray,James,washer ,1
+0072,Middleton,Nancy,days work ,1
+0073,Thomas,James,null,null
+0074,Jones,Absolom,home duties ,1
+0075,Jackson,Mary,days work ,1
+0076,Coushaw,Lydia,at service ,1
+0077,Wilson,Jacob R,days work ,1
+0078,Black,Ann,days work ,1
+0079,Hamblton,George,days work ,1
+0080,Cook,Lewis A,days work ,1
+0081,Johnson,Emery,days work ,1
+0082,Dean,Louisa,wash ,1
+0082,Dean,Louisa,dress m ,1
+0082,Dean,Louisa,tailoress ,1
+0083,Cauldwell,Perry,washer ,1
+0084,Brown,Soloman,domestic duties ,1
+0085,Miller,John,washer ,1
+0086,Golden,Scotland,washer ,1
+0087,Hardy,Craford,washer ,1
+0088,Hartless,William,days work ,1
+0089,Smith,Joseph,domestic duties ,1
+0090,Matthews,Lucy Ann,at service ,1
+0091,Holcomb,Martha,washer ,1
+0092,Potter,Mary,w washer ,1
+0093,Johnson,Judith,days work ,1
+0094,Blunden,Iona,washer ,1
+0095,Dolphin,Rebecca,washer ,1
+0096,Anderson,George,days work ,1
+0097,Barnes,Rebecca,days work ,1
+0098,Prince,Abraham,days work ,1
+0099,Jawnna,Henry,null,null
+0100,Singleton,George,service ,1
+0101,Douglas,Robert,school teacher ,1
+0102,Cooper,William G,dressmaker ,2
+0103,Coines,Basil,domestic duties ,1
+0104,Augustine,Mary,cook and confectioner ,1
+0104,Augustine,Mary,shirt sur ,1
+0104,Augustine,Mary,dressmaker ,1
+0105,Jones,Robert,domestic duties ,1
+0106,Jones,Mary,washer ,2
+0107,Johnson,Samuel,shirt maker ,1
+0108,Derrickson,Peter,days work ,1
+0109,Nichols,Jemima,null,null
+0110,Noker,Allen,domestic duties ,1
+0111,Depee,,null,null
+0112,Suphay,Emma,days work ,1
+0113,Mitchell,Gideon,washer under ,1
+0114,Darrah,Sarah,w washer ,1
+0115,Edwards,Daniel,washer ,1
+0116,Trusty,Jonathan,service ,1
+0117,Burton,Chas,sempstress ,1
+0118,Calbert,Tamzin,not able to work ,1
+0119,Chavens,Jesser,domestic duties ,1
+0120,William,William,washer ,1
+0121,Savage,Chas,null,null
+0122,Evans,Harriett,days work ,1
+0123,Edwards,Peter,days work ,1
+0124,Morris,Nancy,days work ,1
+0125,Burk,Nancy,service ,1
+0126,Heminway,Isa,dom duties ,1
+0127,Gordon,An?sSarah,shirt m ,1
+0127,Gordon,An?sSarah,teacher ,1
+0127,Gordon,An?sSarah,palin sewer ,1
+0128,Quand,Stephen,domestic duties ,1
+0129,Goldem,Samuel,domestic duties ,1
+0130,Mitchell,Josiah,domestic duties ,1
+0131,Cutchins,Miles,washer ,1
+0131,Cutchins,Miles,sewing ,1
+0132,Well,Emanuel,days work ,1
+0133,Allen,Joseph W,dom duties ,1
+0134,Purnell,Amelia,washer ,1
+0135,Reddon,George L,dom duties ,1
+0136,Martin,Nelson,dom duties ,1
+0137,McNeal,Sarah,washer ,1
+0138,Prevan,Phyllis,whitewasher ,1
+0138,Prevan,Phyllis,service ,1
+0139,Baker,Elizabeth,days work ,1
+0140,Roberts,Sarah,days work ,1
+0141,Baker,Emaline,days work ,1
+0142,Brister,James,washer ,1
+0143,Tyler,Ann,huckster,1
+0144,Galloway,Ann,huckster,1
+0145,Davis,Jemimah,dressmaker ,1
+0146,Burton,Hamilton,washer ,1
+0146,Burton,Hamilton,dressmaker ,1
+0147,Hart,John L,sempstress ,1
+0148,Waterford,Chas,washer ,1
+0149,Brake,Ann,washer ,1
+0150,Truwall,Henry,washer ,1
+0151,Jones,Henry,washer ,1
+0152,Jacobs,David,washer ,1
+0153,Taylor,Isaac,null,null
+0154,Tucker,William,null,null
+0155,Campbell,Elizabeth,dressmaker ,2
+0156,Campbell,Joshua,domestic duties ,1
+0157,Coleman,Lewis,washer ,1
+0158,Montier,William,boot fitter ,1
+0159,Butler,Elijah,washer ,1
+0160,Ingram,Mary,days work ,1
+0161,Parker,Nancy,rag gatherer ,1
+0162,Butler,?,days work ,1
+0163,Powell,John,domestic duties ,1
+0164,Stratton,John,null,null
+0165,Curtis,Anthony,washer ,1
+0165,Curtis,Anthony,dressmaker ,1
+0166,Brown,David,washer ,1
+0166,Brown,David,dressmaker ,1
+0166,Brown,David,milliner ,1
+0167,Boston,Jacob,washer ,1
+0168,Worthington,John,domestic duties ,1
+0169,Cooper,William,dom duties ,1
+0169,Cooper,William,dressmaker ,1
+0169,Cooper,William,sempstress ,1
+0170,Floriin,Mary,sempstress ,1
+0171,Evans,George,sempstress ,1
+0172,Forten,Charlotte,domestic duties ,1
+0173,Humphries,Joseph P,dressmaker ,5
+0174,Riley,William H,domestic duties ,1
+0175,Vesey,Edward,washer ,1
+0175,Vesey,Edward,dressmaker ,1
+0176,Ayres,Jacob,null,null
+0177,Brister,James,domestic duties ,1
+0178,Thomas,Abraham,washer ,1
+0179,Robinson,Joel,domestic duties ,1
+0180,Roberts,Aaron,washer ,1
+0181,Roberts,Robert,washer ,1
+0182,Cope,Thomas,washer ,1
+0183,Hall,Sarah,days work ,1
+0184,Bun,Thomas,null,null
+0185,Powell,James M,various ,1
+0186,Weaver,Jane,dom duties ,1
+0186,Weaver,Jane,in rag store ,1
+0187,Johnson,Mary,washer ,1
+0188,Miller,Thos,washer ,1
+0189,Hughes,Jane,washer ,1
+0190,Holden,Sarah,washer ,1
+0191,Wright,Marla,days work ,1
+0192,Hogan,Rebecca,days work ,1
+0193,Kenton,Augustus,dom duties ,1
+0193,Kenton,Augustus,washer ,1
+0194,Height,Joseph,washer ,1
+0195,Beck,Ignatiius,dressmaker ,1
+0196,Jones,William,whitewasher ,1
+0197,Simmons,Eliza,service ,1
+0198,Moore,Alice,washer ,1
+0199,Hopkins,Caroline,washer ,1
+0200,Hitchins,John,domestic duties ,1
+0201,Perkins,Edith,dressmaker ,1
+0202,Brown,Ann,service ,1
+0203,Cooper,Benjamin,days work ,1
+0204,Williams,Henry F,dressmaker ,1
+0205,Parker,Wingate,washer ,1
+0206,Lowy,George,washer ,1
+0207,Conican,Henry,days work ,1
+0208,Battise,John,stewardess ,1
+0209,Bustill,Charles C,days work ,1
+0210,Carney,Lydia,tailoress ,1
+0211,Hollingsworth,George,washer ,1
+0212,Miller,Mary,days work ,1
+0213,King,Cathaine,days work ,1
+0214,Rodney,Hannah,days work ,1
+0215,Creamer,Emily,washer ,1
+0216,Cos,Rachel,washer ,1
+0217,Brown,Susan,washer ,1
+0218,Debity,Major,null,null
+0219,Pierce,James F,cool ,1
+0220,Jefferies,William,washer ,1
+0221,Cummings,Hester,washer ,1
+0222,Bass,Mary,service ,1
+0223,Hubbard,Nancy,days work ,1
+0224,Hill,Margaret,washer ,1
+0225,Lancaster,Hester,washer ,1
+0226,Crosby,Diana,washer ,1
+0227,Waterford,Keziah,various ,1
+0228,Jackson,Rachel,service ,1
+0229,Gittis,Elizabeth,washer ,1
+0229,Gittis,Elizabeth,sempstress ,1
+0230,Wright,Chas,washer ,1
+0231,Gray,Sophie,washer ,1
+0232,Savoy,Joseph,washer ,1
+0233,Young,Lewis,null,null
+0234,Allen,Thos,washer ,1
+0235,White,Jasl M,dress maker ,1
+0235,White,Jasl M,sempstress ,1
+0236,Libby,Abraham,washer ,1
+0236,Libby,Abraham,cook ,1
+0237,Jacoles,Priscilla,service ,1
+0238,Sullivan,Jane,washer ,1
+0239,Smith,Elizabeth,service ,1
+0240,Mason,Isaac,days work ,1
+0241,Williams,John,days work ,1
+0242,Gater,Geroge M,days work ,1
+0243,Cornish,John,dress shirt maker,1
+0244,Cassey,Joseph,domestic duties ,1
+0245,Donald,Jane M,domestic duties ,1
+0245,Donald,Jane M,dress ,2
+0245,Donald,Jane M,shirt maker ,1
+0246,Sullivan,Ezekiel,domestic duties ,1
+0246,Sullivan,Ezekiel,pastry cook ,1
+0247,White,George,washer ,1
+0247,White,George,dressmaker ,1
+0248,Johnson,Sarah,washer ,1
+0249,Riley,Rachel,days work ,1
+0250,Wills,Geroge,dressmaker ,2
+0250,Wills,Geroge,domestic duties ,1
+0251,Belfast,Msrsh,service ,1
+0252,Barrett,James,sempstress ,1
+0253,Buck,Levi,days work so irregular assist ,1
+0254,Okey,William,days work ,1
+0255,Polk,Jacob,days work ,1
+0256,Hitchins,Elisha,dom duties ,1
+0257,Hale,Elias,service ,1
+0257,Hale,Elias,sometimes ,1
+0258,White,Nancy,days work ,1
+0259,Nelson,Henry,days work ,1
+0260,Wilmer,Harriet,washer ,1
+0261,Reading,Richard,days work ,1
+0262,Foster,Ann,dealer in clothes ,1
+0263,Jefferies,David,null,null
+0264,Maclow,George,washer ,1
+0265,Little,Phoebe,service ,1
+0266,Jones,Edward,washer ,1
+0267,Sullivan,Sophia,washer ,1
+0268,Chamber,Edward,days work ,1
+0269,Thompson,Ellen,washer ,1
+0270,Allen,John,washer ,1
+0271,Hunn,Louisa,washer ,1
+0272,Bosier,Louisa,washer ,1
+0273,Johnson,Maria,at service sometimes ,3
+0274,Welcome,Josephine,service ,1
+0275,Johnson,Jacob,washer ,1
+0276,Stewart,Mary,service ,1
+0277,Bishop,John,null,null
+0278,Baker,James,dom duties ,1
+0279,Townsend,James,days work ,1
+0280,Armstrong,Mary,quilter ,1
+0280,Armstrong,Mary,sempstress ,1
+0281,Fisher,Nancy,days work ,1
+0281,Fisher,Nancy,service ,2
+0282,Brown,Henry,days work irregular ,1
+0283,Brown,James,washer ,1
+0284,Burkitt,Rebecca,does nothing ,1
+0285,Francis,Chas,washer ,1
+0286,Reese,Chas,null,null
+0287,Campbell,Elizabeth,service ,1
+0288,Wilson,Benjamin,washer ,1
+0289,Parker,Jacob,washer ,1
+0290,Moore,John L,days work ,1
+0291,Davis,Jane,service ,1
+0292,Horace,Nancy,washer ,1
+0293,Melevier,Christina,washer ,1
+0294,George,Ann,null,null
+0295,Humphrie,Evaline,washer ,1
+0296,Laws,Jane,washer ,1
+0297,Charles,Mary,null,null
+0298,Gibbs,James,dressmaker ,1
+0299,Smith,Moses,null,null
+0300,Lewis,Ellen,service ,1
+0301,Woodson,Frederick,washer ,1
+0301,Woodson,Frederick,dressmaker ,1
+0302,White,Mary Ann,upholsteress ,1
+0303,Parker,Willman,assists husband ,1
+0304,Guyjet,Stephen W,dressmaker ,1
+0304,Guyjet,Stephen W,washer ,1
+0304,Guyjet,Stephen W,nurse ,1
+0305,Martin,Josiah,shirt maker ,3
+0305,Martin,Josiah,quilter ,1
+0306,Williams,Issac,null,null
+0307,Harris,Cyrus,washer ,1
+0308,Dixon,Milford,washer ,1
+0309,Polk,Mary,washer ,1
+0310,Miller Sr.,James,muffin baker ,1
+0311,Burr,John P,intelligence office ,1
+0311,Burr,John P,sempstress ,1
+0312,Martin,Clara,childs nurse ,1
+0312,Martin,Clara,days work ,1
+0313,Huggl,William,washer ,1
+0314,Hugg,William,washer ,1
+0315,White,Andrew,domestic duties ,1
+0316,Powell,Andrew,washer ,1
+0317,Moore,James,washer ,1
+0318,Lancaster,Rachel,washer ,1
+0319,Milton,Rex,washer irregular ,1
+0320,Braddock,William,sempstress ,1
+0321,Cramer,Fanny,days work ,1
+0322,White,William,dom duties ,1
+0323,Bailey,Suzanna,care takes school room ,1
+0324,Harris,Maria,sempstress ,1
+0325,Times,Isom (?),days work in spring & fall,1
+0326,Allen,Richard,washer ,1
+0326,Allen,Richard,sempstress ,1
+0327,Tilghman,Mary Ann,service ,1
+0328,Banks,Soloman J,whitewasher ,3
+0329,Collins,Cate,washer ,1
+0329,Collins,Cate,tailoress ,1
+0330,Roberts,Julia,shirtm ,1
+0330,Roberts,Julia,dom duties ,1
+0331,Rilley,Abner,washer ,1
+0331,Rilley,Abner,dressmaker ,1
+0332,Collins,George,dressmaker ,1
+0332,Collins,George,milliner ,1
+0333,Waters,Hannah,washer ,1
+0334,Miller,Tabitha,days work ,1
+0334,Miller,Tabitha,dressm iregular ,1
+0335,Robinson,Selita,service ,1
+0336,Jackson,Robert,days work ,1
+0337,Thompson,David,null,null
+0338,Chew,John,null,null
+0339,Tucker,Benjamin,washer very irregular ,1
+0340,Watkins,Henry,days work irregular ,1
+0341,Lewis,Peter,days work irregular ,1
+0342,Black,John,days work irregular ,1
+0343,Milburn,Levi,domestic duties ,1
+0344,Johnson,Jane,days work ,1
+0345,Kane,Charlotte,days work ,1
+0346,Pitt,Henry,days work irregular ,1
+0347,Emmons,Thomas B,janitor ,1
+0348,Moon,Titus,days work average ,1
+0349,Gibson,Chas,days work ,1
+0350,Ashmore,Julia,days work ,1
+0351,Heminway,James,days work irregular ,1
+0352,Webb,?,null,null
+0353,Miller,Jupiter,days work ,1
+0353,Miller,Jupiter,rag sorter ,1
+0354,Brown,Maria,days work ,1
+0355,Davis,Sarah,days work irregular ,1
+0356,Dennis,John,days work irregular ,1
+0357,Hopper,Joseph,days work ,1
+0358,Leger,Ann,days work ,1
+0359,Ayres,Charlotte,days work considerable in summer ,1
+0360,Green,Frederick,days work irregular ,1
+0361,Thompson,William,days work very little ,1
+0362,White,Letitia,washer ,1
+0363,Rhodes,Hester Ann,domestic duties ,1
+0364,Burton,Caroline,washer cant tell ,1
+0365,Wilson,Jesse,days work ,1
+0366,Johnson,Nathaniel,whitewasher ,1
+0367,Jones,Ellen,not able to work ,1
+0368,Coggins,Soloman,washer cant tell ,1
+0369,Button,Caroline,service ,1
+0370,Swain,Mary,days work ,1
+0371,Brown,Joseph,washer ,1
+0372,Green,Eliza,days work ,1
+0373,Gibbs,Harriet,washer ,3
+0374,Loman,William,dressmakers very little ,3
+0375,Easton,Sarah,sempstress irregular ,1
+0376,Dutton,Richard,washer cant tell ,1
+0377,Shippen,Hester Ann,washer very little ,1
+0378,Cato,William,dom duties ,1
+0379,Carris,Moses,days work very little ,1
+0380,Julius,Rebecca,sempstress ,1
+0381,Smith,Franklin,dom duties ,1
+0382,Hughes,Cyrus,washer ,1
+0383,Simpson,Charles,domestic duties ,1
+0384,Hall,Albert H,washer ,1
+0385,Lee,Lucy,washer ,1
+0386,Robinson,Alfred V,dom duties ,1
+0386,Robinson,Alfred V,dressmaker ,1
+0387,Johnson,Gerorge,washer very little ,1
+0388,Trades,Rebecca,days work ,1
+0389,Gordon,James R,confectioner ,1
+0390,Lu,William,days work very little ,1
+0391,Long,Catharine,days work ,1
+0392,Hovington,Isaac,washer very little ,1
+0393,Davis,Phillip,washer irregular ,1
+0394,Thompson,Joseph,rug maker ,1
+0395,White,Miles,washer cant tell ,1
+0396,Shepherd,Reziah,washer ,1
+0397,Williams,Louisa,days work ,1
+0398,Jackson,Edward,washer but little ,1
+0399,Hale,Jacob,washer but little ,1
+0400,Kirby,Maria,washer cant tell ,1
+0401,Murray,James,service ,1
+0402,Brown,John,washer irregular ,1
+0403,Brister,Anamias,does nothing ,1
+0404,Bayman,Adam,washer very little ,1
+0405,Court,Edward,dress m millinery dont know ,1
+0406,Thomas,Henry,days work ,1
+0407,Lewis,John,shop keeper ,1
+0408,Lewis,Samuel,days work very little ,1
+0409,Graves,Henry,washer ,1
+0409,Graves,Henry,whitewasher ,1
+0410,Smith,William,sempstress dont know ,1
+0411,Bishop,Peregrin,school teacher ,1
+0412,Ayres,Robert B,dressm very little ,1
+0413,Dill,Jane,cook ,1
+0414,Sipple,Jane,cook ,1
+0415,Hays,Henry,washer ,1
+0416,Dorsey,Mary Ann,days work ,1
+0417,Bush,John,washer ,1
+0418,Moutier,Richard,washer ,1
+0419,Clarkson,Soloman,washer ,1
+0420,Copeland,Alan,washer ,1
+0421,Fisher,Elias,null,null
+0422,Francis,Jacob,null,null
+0423,Hawkins,William,null,null
+0424,Gross,Mary,days work ,1
+0425,Pero,Lucretia,washer ,1
+0426,Ludley,John,sempstress ,1
+0427,Hicks,William,assists husband ,1
+0428,Purnell,Rhoda,days work ,1
+0429,Boldin,Joseph,not able to work ,1
+0430,Colden,John,washer little ,1
+0431,Furbit,Paul,null,null
+0432,White,Hannah,dom duties ,1
+0433,Johns,Jacob,days work ,1
+0434,Richard,Hannah,washer cant tell ,1
+0434,Richard,Hannah,not able to work ,1
+0435,Bell,Wilhemina,days work ,1
+0436,Clark,Benjamin,days work irregular ,1
+0437,Hicks,Henrietta,days work ,1
+0438,Rez,Joseph,washer very little ,1
+0439,Robinson,Rachel Ann,service ,1
+0440,Golding,Samuel,washer ,1
+0441,Carney,Montgomery,days work very dull ,1
+0442,Carson,George,days work when can get it ,1
+0443,Potter,Benjamin,dressm nothing to do ,1
+0444,Comess,Rachel,washer ,1
+0444,Comess,Rachel,whitewasher ,1
+0445,Marlson,Fanny,service ,1
+0446,Morris,Robert,cook ,1
+0447,Brown,Constant,washer not able to do much ,1
+0448,Denby,John,domestic duties ,1
+0449,Young,William,washer ,1
+0450,Rankin,James,washer ,1
+0451,Fisher,Edward,washer cant get much to do ,1
+0452,Janey,Edward,washer irregular ,1
+0453,Glouceter,Stephen,washer ,1
+0454,Willshire,Elizabeth,not able to work ,1
+0455,Reede,Judith,service ,1
+0456,Smith,Hannah,days work ,1
+0457,James,Ruben,domestic duties ,1
+0458,Davis,James,service ,1
+0459,Silva,Susan,days work ,1
+0460,Cuff,Ruben,days work ,1
+0461,Polk,Tamar,days work ,1
+0462,Fisher,Raymond,domestic duties ,1
+0463,Morris,Leah,cook ,1
+0464,Price,Elizabeth,sempstress ,1
+0465,Coleman,Sarah,days work ,1
+0466,Kimberry,Samuel,washer dont know ,1
+0467,Fowles,Willis,sempstress ,1
+0468,Banton,William,days work ,1
+0469,Washington,George,shop keeper ,1
+0470,Harris,Ebenezer,washer when able ,1
+0471,Eldridge,Sarah,dressmaker ,1
+0472,Phillips,Joseph,null,null
+0473,Phillips,Mary,makes cocoanut candy ,1
+0474,Mitchell,Hannah,cook ,1
+0475,Thomas,Sarah,days work ,1
+0476,Venice,Mary,huckster,1
+0477,Johnson,Robert,washer ,1
+0478,Wood,Josiah,washer ,1
+0479,Johnson,Maria,washing or sewing when can get it ,1
+0480,Johnson,Daniel,null,null
+0481,Barrett,Araminta,domestic duties ,1
+0482,Harmon,Mary,washer ,1
+0483,French,William,days work ,2
+0484,Cole,Joseph,days work when can get it ,1
+0485,Watson,Joseph,days work occasionally ,1
+0486,Millburn,Anthony,service ,1
+0487,Williams,John,days work very dull ,1
+0488,Dyer,John,null,null
+0489,Harlan,Isaac,days work very little ,1
+0490,Parson,Elijah,not able to work ,1
+0491,Furby,Edward,washer cant make much gets cheated so ,1
+0492,Shankland,William,null,null
+0493,Bennett,Joseph,cook ,1
+0494,Barrett,Lydia,washer dont know ,1
+0495,Bennett,Mary,service ,1
+0496,C`ollier,John,dom duties ,1
+0497,Laws,Daniel,null,null
+0498,Boon,Margaret,washer ,1
+0499,Lewis,Harrison,days work ,1
+0500,Johnson,William,null,null
+0501,Fitzgerald,David Sen,null,null
+0502,Souden,Jacob,days work ,1
+0503,Black,Washington,huckster,1
+0504,Hopkins,Mary,days work very little ,1
+0505,Thompson,Francis,days work ,1
+0506,Williams,John,days work when able ,1
+0507,Anderson,Rebecca,washes ,1
+0508,Waters,George,days work very dull ,1
+0509,Davis,Elijah B,dom duties ,1
+0510,Thomas,Willliam,washer when can get it ,1
+0511,Comfort,Summers,days work scarcely any ,1
+0512,Smart,Charles,cuts carpet rags ,1
+0513,Hart,John,not able to work ,1
+0514,Law,Mathilda,wash when can get it ,1
+0515,Bailey,James,days work slack time now ,1
+0516,Hicks,Robert,days work ,1
+0517,Johnson,Chas,cook when able to go ,1
+0518,Williams,Nicholas,cook ,1
+0519,Bryan,Samuel,days work ,1
+0520,Thorn,Leah,days work ,1
+0521,Smith,John,days work ,1
+0522,Johnson,Totten,cuts carpet rags ,1
+0523,Morris,Louisa,huckster,1
+0524,Samson,David,at days work irregular ,2
+0525,Eddy,Joshua P B,assist father ,1
+0526,White,Harriet,days work ,1
+0527,Hurst,William,various ,1
+0528,Manuet,Phebe,various so little ,1
+0529,Johnson,Edward,huckster,1
+0530,Stevens,Soloman,dom duties ,1
+0531,Davis,Alexander,dom duties ,1
+0531,Davis,Alexander,dressmaker ,1
+0532,Price,Lydia,days work sempstree irregular ,1
+0533,Tullas,Jonathan,null,null
+0534,Blake,John,washer ,1
+0535,Brown,George,days work ,1
+0536,Simmons,McKenzie,assists husband ,1
+0537,Sutton,Benjamine,quilter cant tell ,1
+0538,Williams,Violet,washer ,1
+0538,Williams,Violet,white washer cant tell ,1
+0539,Cleaver,Charles,domestic duties ,1
+0540,Harding,Garrison,service ,1
+0541,Minton,John,null,null
+0542,Johnson,Charles,days work ,1
+0542,Johnson,Charles,sempstress very dull ,1
+0543,Fitzgerald,David Jr,domestic duties ,1
+0544,Powell,Hannah,washer ,2
+0545,Biddle,Charles,washer ,1
+0546,Sisco,Francis,days work ,1
+0546,Sisco,Francis,sempstress uncertain ,1
+0547,Barrett,Elijah,not able to work ,1
+0548,Thomas,Elizabeth,various ,1
+0549,Wharton,Mary,service ,1
+0550,White,Ann,days work ,1
+0550,White,Ann,not able ,1
+0551,Laws,Alexander,days work ,1
+0552,Burgess,John,eating house ,1
+0552,Burgess,John,sempstress ,1
+0553,Laws,Caleb,null,null
+0554,Pyross,Lavinia,not able to work ,1
+0555,Harris,Katharine,days work almost nothing ,1
+0556,Chain,Joseph,null,null
+0557,Lancaster,Sarah,shirt maker ,1
+0558,Demer,William,cake baker ,1
+0559,Davis,Frances Ann,days work very little ,2
+0560,Matthews,Henry,washer cant tell ,1
+0561,Armstrong,Ann,washer dont know ,1
+0562,Christopher,William,washer cant tell ,1
+0563,Turnell,Confer,days work ,1
+0564,West,Obediah,days work ,1
+0565,Hays,Mary,days work ,1
+0566,Alexander,Fanny,days work ,1
+0567,Hall,John,washer ,1
+0568,Minus,Betsy,days work ,1
+0569,Robinson,Abel,days work when can get it ,1
+0570,Green,Patrick,washer ,1
+0570,Green,Patrick,dressmaker ,1
+0571,Mitchell,Alfred,sempstress ,1
+0572,Purnell,Joshua,shop keeper ,1
+0573,Purnell,Thomas,dressm very little ,1
+0574,Short,Rebecca,domestic duties ,1
+0575,Riley,Alice,days work ,1
+0576,Thomas,Henry,washer ,1
+0577,Dempsey,David,null,null
+0578,Parker,Nathan,days work ,1
+0579,Jacoby,Ann,huckster,1
+0579,Jacoby,Ann,doubtful ,1
+0580,Johnson,Henry,washer ,1
+0581,Gould,Elizabeth,days work ,1
+0582,Middleton,Morris,days work ,1
+0583,Smothers,Frances,washer irregular ,1
+0584,Taylor,John,dom duties ,1
+0585,Johnson,James P,assists husband ,1
+0586,Hazzard,Issac,service commonly ,1
+0587,Dorsey,Phyllis,washer ,1
+0588,Franks,Benjamin,service ,1
+0589,Palmer,Levi,service ,1
+0590,Parker,Mary,service ,1
+0591,Hall,Joshua,service ,1
+0592,Goutier,John,cook ,1
+0593,Lonnon,Thos,dom duties ,1
+0594,Dutton,Abraham,dom duties ,1
+0595,Moore,Charles M,cook ,1
+0596,Wood,George,not able to work ,1
+0597,Skinner,Margaret,washer ,2
+0598,Moore,Penina,washer ,3
+0599,Thompson,Stephen,washer ,1
+0600,Marks,Edward,washer ,1
+0601,Moore,John,washer very little ,1
+0602,Strikrs,Samuel,washer very little ,1
+0603,Pointer,John,days work when can get it ,1
+0604,Foulks,Joshua,washer ,1
+0605,,George,null,null
+0606,Pitts,Joseph,washer ,1
+0607,Pitts,Samuel,washer cant tell ,1
+0608,Gibson,Henry,null,null
+0609,Bond,Henry,various ,1
+0610,Thompson,Binah,days work ,1
+0611,Banks,James,days work irregular ,1
+0612,Simmons,Peter,dom duties ,1
+0613,Hollland,Thomas,washer ,2
+0614,Rink,Ann,cook ,1
+0614,Rink,Ann,dressmaker ,1
+0615,Au?,Elisha M,cook ,1
+0616,Dunn,John,washer ,1
+0617,Willmore,Joseph,null,null
+0618,Anderson,John,service ,1
+0619,Lewis,John,dom duties ,1
+0620,Clift,Elizabeth,washer ,1
+0621,Burton,Guy M,dressm,1
+0622,Gray,Elizabeth,at service ,1
+0623,Burton,George,washer cant tell ,1
+0624,Russell,Richard,null,null
+0625,Albert,Mahala,washer cant tell ,1
+0626,Johnson,Allen,sempstress ,1
+0627,Williams,Ellen,washer ,1
+0628,Altman,Mary Ann,washer cant tell ,2
+0629,Bell,Caleb,washer very little ,1
+0630,Midcap,Elizabeth,days work cant tell ,1
+0631,Peters,Rachel,washer ,2
+0632,Diu,Abner,midwife cant tell gets so little of what she earns ,1
+0633,Bailey,Garrison,days work ,1
+0634,Matttack,Lydia,washer when can get it ,1
+0635,Robinson,Philip,cuts carpet rags ,1
+0636,Hood,Joseph,null,null
+0637,Martin,James,cuts carpet rags ,1
+0638,Clymer,John,dom duties ,1
+0639,Nelson,John,assists husband ,1
+0640,Anderson,Sophia,cook ,1
+0641,Rodney,Ann Eliza,washer ,1
+0642,Clarkson,Line Somerset,washer ,1
+0643,Jones,Issac,washer ,1
+0644,Watson,Absalom,dom duties ,1
+0645,Hopkins,Edward,washer ,1
+0646,Brown,Rachel,sempstress ,1
+0647,Accov,William,washer when can get it ,1
+0648,Ringgola,Alexander,huckster part of the year ,1
+0649,Edwards,Joseph,nurse ,1
+0649,Edwards,Joseph,service ,1
+0650,Grubb,Mark,cook ,1
+0650,Grubb,Mark,make mats ,2
+0651,Miller,Thos,nothing to do ,1
+0652,Miller,Frances,days work ,1
+0653,Grant,Isaiah,service ,1
+0654,Lemon,Nathaniel,dressmaker ,1
+0655,Robinson,George,days work when can get it ,1
+0656,Montgomery,Ann,days work ,1
+0657,Purnell,Amy,days work ,1
+0658,Green,Lorenzo,washer cant tell ,1
+0659,Gibbs,Margaret,cook ,1
+0660,Allen,Mary,service ,1
+0661,Williams,John,cuts carpet rags ,1
+0662,Denby,James,days work but little ,1
+0663,Ellsby,William,service ,1
+0664,Bundy,Richard,days work ,1
+0665,Willliams,John W,cuts carpet rags ,2
+0666,Brown,Catharine,service ,1
+0667,Denby,Christopher,shop keeper ,1
+0668,Hinson,Maria,shop keeper ,1
+0669,Barrett,John,service ,1
+0670,Wilson,James,null,null
+0671,Cook,Ann,days work when can get it ,1
+0672,Brown,Jacob,washer very little ,1
+0673,Hull,Daniel,washer sometimes ,1
+0674,Sipple,James,dom duties ,1
+0675,Cole,Joseph H,washer ,2
+0676,Cole,Daniel G,washer ,1
+0677,Bush,George,null,null
+0678,Stokes,John W,dom duties ,1
+0679,Benson,William,dom duties ,1
+0680,Leekman,William,sempstress ,1
+0680,Leekman,William,dom duties ,1
+0681,Stogden,Frederick,days work cant tell ,2
+0682,Patterson,William,washer very little ,1
+0683,Hughes,Hannah,cook ,1
+0684,Purvis,Issac,washer ,1
+0685,Queen,Jane,sempstress ,1
+0686,Compton,Julia Ann,days work ,1
+0687,Cornish,Henry,shirt m ,1
+0687,Cornish,Henry,dom duties ,2
+0688,Burton,Hannah,washer ,1
+0689,Cropper,Lemuel,days work ,1
+0690,Jackson,Mary,null,null
+0691,Allen,Samuel,days work ,1
+0692,Ambrose,Charlotte,cake baker ,1
+0692,Ambrose,Charlotte,hair dresser ,1
+0692,Ambrose,Charlotte,policy office ,1
+0693,Prince,?,days work ,1
+0694,Cramer,Shadrack,washer ,1
+0694,Cramer,Shadrack,sempstress ,1
+0695,Lewis,Cato,washer ,1
+0696,Walker,Francis,dom duties ,1
+0697,Hall,David,washer when able ,1
+0698,Smith,Robert,days work ,2
+0699,Corsey,Serena,days work ,1
+0700,Polk,Lewis,washer when able ,1
+0701,Furron,John,not able ,1
+0702,Lewis,Sarah Jane,days work ,1
+0703,Jones,George,days work ,1
+0704,Smith,Harlan,days work not much ,1
+0705,Walton,Eliza,days work ,1
+0706,Carney,George,cook ,1
+0707,Blake,Mary,washer ,2
+0708,Mount,Sarah,whitewasher ,1
+0709,Paul,Thos,cook ,1
+0709,Paul,Thos,dressmaker ,2
+0709,Paul,Thos,washer ,1
+0710,Stevenson,John,washer when able ,1
+0711,Marcus,Samuel,days work ,1
+0711,Marcus,Samuel,dressmaker ,1
+0712,Stafford,William,dom duties ,1
+0712,Stafford,William,washer ,1
+0713,Decodevu,William,dom duties ,1
+0714,Gater,Amelia,days work ,1
+0715,Lavell,Samuel,washer when can get it ,1
+0716,Miller,Ellens,null,null
+0717,Richardson,Benjamin,days work ,1
+0718,Jordan,Thos,eating house cant tell ,1
+0719,Black,James P,dressmaker ,1
+0720,Stewart,,cook ,1
+0721,Davis,Char,dom duties ,3
+0722,Smith,Thomas,washer ,1
+0723,Butler,John,dom duties ,1
+0724,Williams,Samuel,funeral furnishes ,1
+0725,Williams,Thomas,service ,1
+0726,Rowley,Letitia,dressmaker ,1
+0726,Rowley,Letitia,washer when can get it ,1
+0727,Hopkins,Agnes,service ,1
+0728,Weston,Lydia,washer very little ,1
+0729,Henry,James,washer dont keep count ,1
+0730,Ballard,Hannah,washer doesnt keep count ,1
+0731,Wilson,Charlotte,washer ,1
+0732,Ambrose,Issac,washer ,1
+0733,Kennedy,Joshua,at service ,1
+0734,Jones,Anthony,washer ,1
+0735,Johnson,Eliza,not able ,1
+0736,Simpson,Rebecca,tailoress ,1
+0736,Simpson,Rebecca,shirt & dressmaker,1
+0736,Simpson,Rebecca,dressmaker ,1
+0737,Wiggins,James,dom duties ,1
+0738,White,Robert,days work ,1
+0739,Cropper,Harriet,washer ,2
+0740,Parker,Robert,dom duties ,1
+0741,Laws,William,days work cant tell ,1
+0742,Vanderbeck,Abraham,washer ,1
+0743,Crummell,John,sempstress ,1
+0744,Smith,Eliza,null,null
+0745,Francis,Mary,washer ,1
+0745,Francis,Mary,not able ,1
+0746,Bell,John,dom duties ,1
+0747,Bristel,Louisa,dressmaker ,1
+0748,Wilson,Isaac,washer when can get it ,1
+0749,Harman,John,assists husband ,1
+0750,Shorter,Charles,dressmaker ,2
+0750,Shorter,Charles,dom duties ,1
+0751,Wyatt,Eliizth,washer dont know ,3
+0752,Collick,Hannah,service ,1
+0753,Richard,Susan,washer ,1
+0753,Richard,Susan,quilter ,1
+0754,Ford,Maria,washer ,1
+0754,Ford,Maria,sempstress ,1
+0755,Henson,Anna,nurse ,1
+0756,Buchanan,Philip,shop keeper ,1
+0757,Butler,William,dom duties ,1
+0758,Clark,Sarah,service ,1
+0759,Frisby,Charles,shop keeper ,1
+0760,Cornish,Mary,eating house ,1
+0761,Jordan,Benjamin,service ,1
+0762,Fells,James M,service ,2
+0763,Chambers,Lehman,null,null
+0764,Moore,John,days work when able ,1
+0765,Wilkins,Benjamin W,washer ,1
+0766,Goines,Luke,domestic duties ,1
+0767,Wilson,Richard,dressmaker ,1
+0767,Wilson,Richard,dom duties ,1
+0768,Wallace,Loveless,days work ,1
+0768,Wallace,Loveless,dom duties ,1
+0769,Robinson,Henry,days work ,1
+0770,Prout,Henrietta,days work ,3
+0771,Dowden,Soloman,service ,1
+0772,Jordan,John,washer ,1
+0773,Dexter,Ann,washer ,1
+0774,Wilson,James,null,null
+0775,McEwen,Robert,service ,1
+0776,Milburn,James,null,null
+0777,Ware,James,washer when able ,1
+0778,Rivers,Rachel,service ,1
+0779,Martin,Justine,washer when can get it ,1
+0780,Mitchell,John,washer when can get it ,1
+0781,Montier,Hiram,washer ,2
+0781,Montier,Hiram,dom duties ,1
+0782,Burton,Moses,washer ,1
+0783,Lewis,James,washer very little ,1
+0784,Todd,Mary,service ,1
+0785,Sprigg,Osborne,washer ,1
+0785,Sprigg,Osborne,not able ,1
+0786,Spencer,Ann,service ,1
+0787,Sheaff,William,washer when can get it ,1
+0787,Sheaff,William,sempstress ,1
+0788,Bell,William,dom duties ,1
+0789,Archbald,Robert,dom duties ,1
+0790,Linus,Levi,null,null
+0791,Welsh,Benjamin,dressmaker ,1
+0792,Testamaker,William,sempstress when can get it ,1
+0793,Dutert,Francis A,dressmaker & tailoress,1
+0793,Dutert,Francis A,not able ,1
+0794,Jackson,Ephraim,sempstress ,1
+0795,Chandler,Joseph,dom duties ,1
+0796,Ware,David,teacher & dressmaker,1
+0796,Ware,David,domestic duties ,2
+0797,Richardson,Mary,washer ,1
+0798,Dill,Hester,service ,1
+0799,Danielo,Joseph,washer ,1
+0799,Danielo,Joseph,not able ,1
+0800,Amens,Celeste,days work when able ,1
+0801,Green,Charity,service generally ,1
+0802,Benson,Dorcas,work sometimes ,1
+0803,Brown,Isaiah,washer ,1
+0804,Wilson,Horace,washer ,1
+0805,Willis,George,washer ,1
+0806,Valentine,Liorly,washer when able ,1
+0807,Saunders,Robert,washer ,1
+0808,Welsh,Benjamin Jr.,sempstress ,1
+0809,Clark,Daniel,washer ,1
+0810,Richars,Washington P,service ,1
+0811,Dorsey,Joseph,washer ,1
+0811,Dorsey,Joseph,whitewasher ,1
+0812,Bell,Caleb,sempstress ,1
+0813,Draper,Henry,washer ,1
+0814,Perry,Julia Ann,service ,1
+0815,Lei,Elizabeth,washer when able ,1
+0816,Waten,Ann,service ,1
+0817,Kirk,Ann,service ,1
+0818,Pierce,Hannah,days work ,1
+0819,Webber,Issac,days work when can get it ,1
+0820,Thompson,Rebecca,null,null
+0821,Clarkson,Charles,days work ,1
+0822,Allen,Eliza,null,null
+0823,Burton,Hannah,washer ,1
+0824,Spencer,Edward,days work when can get it ,1
+0825,Christy,Olivia,cook ,1
+0826,White,Ann,washer ,1
+0827,Newby,Gracey,days work when able ,1
+0828,Trusty,Hester,washer doesnt keep count ,1
+0829,Ross,Eliza,service ,1
+0830,Parham,Ann,washer ,1
+0831,Armstrong,Henry,washer ,1
+0831,Armstrong,Henry,not able ,1
+0832,Parham,Mansfield,washer ,1
+0833,Hodges,Thos,washer ,1
+0834,Anthony,William,washer ,1
+0835,Turner,William H,null,null
+0836,Green,Chas,washer ,2
+0837,Gideon,William,service ,1
+0838,Wright,Thomas,service ,1
+0839,Haines,Mary,washer ,1
+0840,Poulson,Sarah,null,null
+0841,Cook,Joseph,milliner ,1
+0842,Wiley,Elizabeth,washer ,1
+0843,Bishop,Carolyn,not able ,1
+0844,White,John F,dom duties ,1
+0845,Robinson,Thos,assists husband ,1
+0846,Robinson,James,days work ,1
+0847,Todd,Catharine,days work ,1
+0848,Johnson,Diana,washer ,2
+0848,Johnson,Diana,sempstress ,1
+0849,Davis,Elizabeth,null,null
+0850,Till,Daniel,washer ,1
+0851,Moses,Hannah,service ,1
+0852,Bean,Susan,cook ,1
+0853,Gray,Lewis,days work ,1
+0854,Hicks,John,service ,1
+0855,Harding,James,assist harding ,2
+0856,Peck,David,dom duties ,1
+0857,Jones,Moses,washer when able ,1
+0858,Wilson,Jesse,washer ,2
+0859,Jones,Moses,washer when able ,1
+0860,Wilson,Jesse,washer ,2
+0861,Bundy,Thos R,washer ,2
+0861,Bundy,Thos R,shirt maker ,1
+0862,McCoy,Ann,days work ,1
+0863,Goodwin,Jane,service ,1
+0864,Blake,-,confectioner ,1
+0864,Blake,-,school teacher ,1
+0865,Black,Cyrus,not able ,1
+0865,Black,Cyrus,tailoress ,1
+0866,Corsey,John,null,null
+0867,Cork,Isaac,washer ,1
+0868,Gibbons,James,dom duties ,1
+0868,Gibbons,James,dressmaker ,1
+0869,Ancess,William,shop keeper ,1
+0870,Jones,Lemuel,washer ,1
+0871,Morris,Emanuel,washer ,1
+0872,Thomas,Charlotte,cuts carpet rags ,1
+0873,Trusty,William,null,null
+0874,Benson,Henry,null,null
+0875,Richard,Kirk,null,null
+0876,Benson,Rachel,not able ,1
+0877,Ballard,John,washer ,1
+0878,Williams,James,washer ,1
+0879,Benson,Phillip,days work ,1
+0880,Solomon,Ann,not able ,1
+0881,Lewis,-,not able ,1
+0882,Roberts,Lloyd W,washer ,1
+0883,Ball,Rosanna,days work ,1
+0884,Woodland,Samuel,days work ,1
+0885,Davis,Harriet,huckster,1
+0886,Bobane,Sarah,washer ,1
+0887,Peterson,Ann,washer ,1
+0888,Polk,Dennis,days work ,1
+0889,Blackson,Ellen,days work ,2
+0890,Davis,Victoria,service ,1
+0891,Wilson,Alexander,days work ,1
+0892,Clarkson,Belinda,dom duties ,1
+0892,Clarkson,Belinda,sempstress ,1
+0893,Van Breakle,James,null,null
+0894,Denby,Denby,service ,1
+0895,Dixon,Daniel,washer ,1
+0896,Howard,Robert,washer ,1
+0896,Howard,Robert,not able ,1
+0897,Davis,Jane,service ,1
+0898,Williams,Sarah,days work ,1
+0899,Marshall,York,days work ,2
+0900,Hill,Francis,days work ,1
+0901,Mules,Sarah,dressmaker ,1
+0902,Short,Amelia,not able ,1
+0903,Brown,Margaret,service ,1
+0904,Reason,Samuel,null,null
+0905,Duff,William,days work ,1
+0906,Williams,James,days work ,1
+0907,Craig,Anthony,days work when able ,1
+0908,Perry,Ann,days work ,1
+0909,Sinclair,Hester,days work ,1
+0910,Miller,Peter,washer when able ,1
+0911,Scott,Samuel,days work ,1
+0912,Stevens,Jesse,washer ,1
+0912,Stevens,Jesse,sempstress ,1
+0913,Tompson,Nathan,days work ,1
+0914,Cropper,Lavinia,washer when able ,1
+0915,Hughes,Theodorick,days work ,1
+0916,Nicoles,John,cook ,1
+0917,Buck,John,days work ,1
+0918,Sewall,Cipio,washer ,1
+0919,Butler,Eliza Ann,rag gather ,1
+0920,Thompson,Hannah,service ,1
+0921,Turner,Alexander,washer ,1
+0922,Morris,Mary Ann,washer ,1
+0923,Harman,Levi,washer ,1
+0924,Burton,Lucy,pastry cook ,1
+0925,Waterford,Isaiah,work when able ,1
+0925,Waterford,Isaiah,days work ,1
+0926,Walton,Jane,cook ,1
+0927,Moore,William,washer ,1
+0928,Hamilton,George,days work ,1
+0929,Harman,George,days work ,1
+0930,Jasper,Theodore,days work ,1
+0931,Burton,Mary,various ,1
+0931,Burton,Mary,irregular ,1
+0932,Bryan,Mary,dressmaker ,2
+0932,Bryan,Mary,washer ,1
+0933,Williams,Ann,cook ,1
+0934,Queen,Edward,days work when can get it ,1
+0935,Rutter,James,null,null
+0936,Moore,Letitia,days work ,1
+0937,Christie,Mary,days work ,1
+0938,Bostwick,Jane,cook ,1
+0939,Pierce,Thos,whitewasher ,1
+0940,Jackson,Elizabeth,null,null
+0941,Mifflin,Ann,various ,1
+0942,Todd,Rachel,washer when able ,1
+0943,Clark,Jacob,null,null
+0944,Golding,Ann,days work ,1
+0945,Pierce,Anna,days work when able ,2
+0946,Higgins,William,rag sorter ,2
+0947,Bundy,Sarah,days work when can get it ,1
+0948,Morris,Hannah,days work when can get it ,1
+0949,Murray,John,days work ,1
+0950,Banks,Dorothemina,days work when able ,1
+0951,Boldin,Richard,days work ,1
+0952,Mathews,Hannah,not able ,1
+0953,Williams,Mary,washer when able ,1
+0954,Johnson,Helen,milliner ,1
+0954,Johnson,Helen,dressmaker ,1
+0955,Appo,William,dressmaker ,2
+0956,Dixon,Reuben,sempstress ,1
+0957,Davis,Richard,washer ,1
+0958,Hoffman,Mary,cook ,1
+0959,Dowden,Maria,service ,1
+0960,Hazard,James,washer ,1
+0961,Cole,Leroy,not able ,1
+0962,Bennett,Martha,dressmaker ,1
+0962,Bennett,Martha,tailoress ,1
+0963,Miney,Elizabeth,service commonly ,1
+0964,Simmons,Maria,service ,1
+0965,Jacobs,Lucretia,shop keeper ,1
+0966,Cook,Edward,days work ,1
+0967,Richards,Sarah,days work ,1
+0968,Shipley,William,washer when able ,1
+0969,Ferris,Stephen,null,null
+0970,Taylor,William,sempstress ,1
+0971,Johnson,Peter,days work very little ,1
+0972,Shorter,Ellen,various ,1
+0973,Barclay,Jane,cook ,1
+0974,Yeppee,Henry,shop keeper ,1
+0975,Patrick,Dennis,washer ,1
+0976,Harris,Elizabeth,washer when able ,1
+0977,Cleaver,Samuel,washer average ,1
+0978,Jones,Elizabeth,service ,1
+0979,Fitzgerald,Frances Ann,washer ,2
+0980,Davis,Jane,days work ,1
+0981,Addick,Robert,days work ,1
+0982,Scott,Juliet,washer ,1
+0983,Mitchell,Ann,null,null
+0984,Despot,Sarah,service ,1
+0985,Ross,Mary,washer ,2
+0986,Heill,Chas,dressmaker ,1
+0987,Thomas,Martha,washer ,1
+0988,Black,Ebenezer,days work ,1
+0989,Collins,Ann,washer ,1
+0989,Collins,Ann,dressmaker ,1
+0990,Green,David S,cook ,1
+0991,Tilgman,John,cook ,1
+0992,Lee,Margaret,days work when able ,1
+0993,Saltin?,Paris,dressmaker ,1
+0994,Miller,Mary,service ,1
+0995,Draper,John,washer ,1
+0996,Thomas,Elizabeth,washer ,1
+0997,Bruce,Luke,washer ,2
+0998,Cooper,Issac,milliner ,1
+0998,Cooper,Issac,dressmaker ,1
+0998,Cooper,Issac,embroider ,1
+0999,Boyer,Edith,service ,1
+1000,Lang,Benjamin,null,null
+1001,Rigby,Jane,washer ,1
+1002,Lee,James W,days work ,1
+1003,Allain,Joseph,cook ,1
+1004,Winten,?,washer ,1
+1005,Brown,Susan,days work ,1
+1006,Brown,Nicholas,null,null
+1007,Proctor,Walter,dressmaker ,3
+1008,Needam,James,washer ,1
+1009,Allen,John,washer ,1
+1010,Day,Mathias,washer ,1
+1011,Blake,John,washer ,1
+1012,Lowry,Comfort,days work ,2
+1013,Addick,Lloyd,days work ,1
+1013,Addick,Lloyd,not able ,1
+1014,Montier,Soloman,dressmaker ,1
+1014,Montier,Soloman,dom duties ,1
+1015,Parsis,Jacob,washer ,1
+1016,Edward,Samuel,dom duties ,1
+1017,Brister,Charles,days work ,1
+1017,Brister,Charles,washer ,1
+1018,Carmac,Isaac,washer ,1
+1019,Murray,Meriam,days work ,1
+1020,Hayes,Edmund,washer ,1
+1021,Pecker,Edward,washer ,1
+1022,Brinckle,Robert,null,null
+1023,Macklin,Issac,washer ,2
+1024,Brown,Thos,washer ,1
+1025,Sullivan,Harrison,milliner ,1
+1026,Howell,Richard,sempstress ,1
+1026,Howell,Richard,dom duties ,1
+1027,Drivef,Othmil,days work ,1
+1028,Daggers,Cynthia,service ,1
+1029,Johnson,James,days work ,1
+1030,Wilson,James,null,null
+1031,Shaffer,Mary,service ,1
+1032,Campbell,James,washer when can get it ,1
+1033,White,Thos,sempstress ,1
+1033,White,Thos,days work ,1
+1034,Robinson,John,washer ,1
+1035,Constante,Francis,washer ,1
+1036,Jones,William,dom duties ,1
+1037,Hopkins,George,washer ,1
+1038,Wilson,James,dom duties ,1
+1039,Hall,Morris,dom duties ,1
+1040,Smith,Ann,washer ,1
+1041,Todd,Thomas Jr,dom duties ,1
+1042,Trusty,Delia,washer ,1
+1042,Trusty,Delia,tailoress when able ,1
+1043,Stevens,Charlotte,service ,1
+1044,Johnson,Phyliss,service ,1
+1045,Gillam,Wesley,washer ,1
+1046,Miller,Mary,washer ,1
+1047,Andrews,John,cook ,1
+1048,Hall,Sarah,washer ,1
+1049,Stokes,William,washer ,1
+1050,Henderson,Joseph,washer ,2
+1051,Oliver,John D,washer ,2
+1051,Oliver,John D,not able ,1
+1052,Edwards,Samuel,washer ,1
+1053,Holland,Issac,washer ,2
+1054,Chase,Thos,washer ,1
+1055,Griffin,Henry,washer ,1
+1056,Williams,Charlotte,washer ,1
+1057,Conner,Flora,washer ,1
+1058,Lester,Peter,dom duties ,2
+1059,Luca,John,dom duties ,1
+1060,Townsend,Esther,days work ,1
+1061,Hodge,Lydia,service ,1
+1062,Brown,William,washer ,1
+1063,Jackson,Ann,sempstresses ,2
+1064,Ricks,Henry,washer ,2
+1064,Ricks,Henry,dressmaker ,1
+1065,London,Mary,service ,1
+1066,Phillips,Trusty,washer ,1
+1067,White,Hannah,whitewasher ,1
+1068,Lugrian,Luke,cook ,1
+1069,Dolphin,James,days work ,1
+1070,Bennett,Frances,cake seller ,1
+1071,Agustus,George,washer ,1
+1072,London,Henry,washer when can get it ,1
+1073,White,Martin,washer ,1
+1074,Ross,Michael,washer ,1
+1075,Ludlow,Barbara,barber ,1
+1076,Berry,Joshua,days work ,1
+1077,Gibbs,Abraham,assists at home ,1
+1078,Bond,Charles,washer ,1
+1079,Lawrence,Richard,washer ,1
+1080,Johnson,Robert,washer ,1
+1081,Martin,Thomas,cook ,1
+1081,Martin,Thomas,washer ,1
+1082,Taylor,George,days work ,1
+1083,Smith,Elijah,not able ,1
+1084,Christie,Richard,days work ,2
+1085,Newton,Rachel,huckster,1
+1086,Washington,Henry,washer ,2
+1087,Rich,Charles,washer ,1
+1088,Valentine,Glo B,dressmaker ,1
+1089,Fletcher,Ann,washer ,1
+1090,Hutchins,James,washer ,1
+1091,Campbell,Catharine,washer ,1
+1092,Stamford,Stephen,washer ,1
+1093,Allenese,John,washer ,2
+1093,Allenese,John,dressmaker ,1
+1094,Davis,Richard,dom duties ,1
+1095,Myers,Rachel,shop keeper ,1
+1096,Mitchell,Mary,washer ,2
+1097,Sullivan,Issac,scourer ,1
+1098,Dunn,James,null,null
+1099,Gaines,Ellen,dom duties ,1
+1099,Gaines,Ellen,sempstress ,1
+1099,Gaines,Ellen,washer ,1
+1100,Leary,Sarah,rag sorter ,1
+1101,Reeves,Margaret,service ,1
+1102,Carroll,Amelia,washer ,1
+1103,Tolaver,James,dom duties ,1
+1104,Mcpherson,Thos,sempstress ,1
+1105,Washington,Joseph,null,null
+1106,Miller,Benjamin,shop keeper ,1
+1107,Martin,Stephen r,assists husband ,1
+1108,Johnson,William,days work ,1
+1109,Stokes,Randolph,null,null
+1110,Potter,Horace,days work ,1
+1111,Henry,Margaret,service ,1
+1112,Lane,Phillip,washer ,1
+1113,Norman,Jane,days work ,1
+1114,Turner,Raymond,sempstress ,1
+1115,Garrett,Leonard,washer when able ,1
+1116,Morris,Letitia,days work when can get it ,1
+1117,Lawrence,Alfred,washer ,2
+1118,Buck,Richard,washer when can get it ,1
+1119,Johnson,George,service ,1
+1120,Britton,Peter,days work ,1
+1121,Grant,Margaret,service ,1
+1122,Sipple,Melinda,washer ,1
+1123,Brinck,James,washer when able ,1
+1124,Tate,Arthur,days work ,1
+1125,Wright,Mary,washer when able ,2
+1126,Henry,James,days work ,1
+1127,Roberts,Penelope,days work ,1
+1128,Brown,Joshua,dom duties ,1
+1129,Rickett,Soloman,whitewasher ,1
+1130,Curtis,James,days work ,1
+1131,Moore,Chas,washer ,1
+1131,Moore,Chas,not able ,1
+1132,Blake,Grace,cook when able ,1
+1133,Smith,Tamar,at service ,1
+1134,Johnson,Louisa,washer ,1
+1135,Purnell,James,washer ,1
+1136,Marshall,Susan,washer ,1
+1137,Todd,William,dom duties ,1
+1138,Jones,Celeney,washer ,2
+1139,Reed,Mary Ann,washer ,1
+1140,Lec,Susanna,washer when able ,1
+1141,Boyer,Anthony,washer ,2
+1142,Burton,Matilda,washer & whitewasher,1
+1143,Ash,Joshua,layer out of dead ,1
+1143,Ash,Joshua,sempstress ,1
+1144,Dorsey,Nicholas,washer ,1
+1145,Alexander,Rebecca,days work ,2
+1146,Peters,Mary,washer ,1
+1147,Francis,Mary,huckster,1
+1148,Charles,Mary,washer ,1
+1149,Peters,Rosanne,cook ,1
+1150,Perry,Joanna,days work ,2
+1151,Miller,James,sempstress ,1
+1152,Stogden,Aaron,service ,1
+1153,White,Anna,service ,1
+1154,Wiggins,Ann,washer when can get it ,1
+1155,Short,Hannah,washer ,2
+1156,Moore,William,dom duties ,1
+1157,Taylor,Nancg,sempstress ,1
+1158,Fullman,Edward,days work when can get it ,1
+1159,Wiltbank,Anthony,sempstress ,1
+1160,Jones,William,service ,1
+1161,Turner,Elizabeth,service ,1
+1162,Nelson,Dorcas,service ,1
+1163,Chambers,Sophia,service ,1
+1164,Smith,James,days work when able ,1
+1165,Beckett,Isaac,dom duties ,1
+1165,Beckett,Isaac,whitewasher ,1
+1166,Hill,Jerimiah,null,null
+1167,Phillips,Elizabeth,sempstress ,1
+1167,Phillips,Elizabeth,washer ,1
+1168,Shorter,William,domestic duties ,1
+1169,Palmer,Mahala,service ,1
+1169,Palmer,Mahala,at present ,1
+1170,Perkins,Cecilia,days work ,1
+1171,Johnson,John,service ,1
+1172,Auderson,Eliza,oyster house minimally ,1
+1173,Jones,Ann,days work ,1
+1173,Jones,Ann,washer ,1
+1173,Jones,Ann,not able ,1
+1174,Gilby,Shepard,domestic duties ,1
+1175,Brown,Henrietta,washer ,1
+1176,Thompson,John W,washer when able ,1
+1177,Miller,Nancy,null,null
+1178,Frisbey,George,days work ,1
+1179,Moore,John,washer ,1
+1180,Anderson,Joseph,washer ,1
+1181,Johnson,Augustus,washer ,2
+1181,Johnson,Augustus,not able ,1
+1182,Nixon,Benjamin,washer ,1
+1183,Jackson,Jacob,washer ,1
+1184,Robinson,Major,washer ,1
+1185,Thompson,Bennett,null,null
+1186,Whittingtone,Palmer,washer ,1
+1187,Deviine,Louisa,washer ,1
+1188,Hill,Henry,null,null
+1189,Macklin,Isaac,null,null
+1190,Turner,Grace,domestic duties ,1
+1191,Summers,Ann,null,null
+1192,Wothington,Ann,null,null
+1193,Coffin,Rachel,days work when able ,2
+1194,Gibb,Nathaniel,washer ,1
+1195,Thompson,Maria,service when can get it ,1
+1196,Lindsay,Margaret,days work when able ,1
+1197,Levin,Blake,days work when able ,1
+1198,Mitchell,Issac,null,null
+1199,Duncan,Sarah,whitewasher ,1
+1199,Duncan,Sarah,sempstress ,1
+1200,Poulson,Aivey,dressmaker ,1
+1200,Poulson,Aivey,days work ,1
+1201,Livingston,Abigail,days work ,1
+1202,Jordan,Diana,cuts carpet rags ,1
+1203,Blake,Elizabeth,null,null
+1204,Matthews,Leah,days work ,1
+1205,Broadwater,James,null,null
+1206,Washington,Charlotte,days work ,1
+1207,Woodley,Nancy,washer ,1
+1207,Woodley,Nancy,nurse ,1
+1208,Thomas,Charlotte,null,null
+1209,James,Judith,domestic duties ,1
+1210,Murray,Rachel,days work ,1
+1211,Daffney,Ceclia,washer ,1
+1212,Francoise,Eliza g,various ,1
+1213,Hart,Samuel,days work ,1
+1214,Thompson,Elias,days work ,1
+1215,Camper,Chas W,null,null
+1216,Wooley,Abraham,not able ,1
+1217,Parker,Stephen,days work ,1
+1218,Mitchell,Hannah,days work ,1
+1219,Prattis,Hannah,washer ,1
+1220,Furrow,Joseph,days work ,1
+1221,Bustick,George,days work ,1
+1222,Mackry,James,days work ,1
+1223,Burman,Phyllis,service ,1
+1224,Williams,Thos,washer ,1
+1224,Williams,Thos,not able ,1
+1225,Green,Stephen,washer ,1
+1226,James,Ann,cook ,1
+1227,Morris,Perry,washer ,1
+1228,Rich,Edward,washer ,1
+1229,Tenent,William,washer ,2
+1230,Williams,Ann,washer ,1
+1231,Grant,James,days work ,1
+1232,Redding,Henry,null,null
+1233,Spencer,Rachel,service ,1
+1234,Wilson,Lavinia,not able ,1
+1235,Richards,Sarah,sempstress ,1
+1236,Uie,Christopher,washer ,1
+1237,Chew,Catharine,washer ,1
+1238,Harding,Catharine,washer ,2
+1239,Black,Louisa,days work ,1
+1240,Thompson,Noah,dom duties ,1
+1241,Vandyke,Phoebe,matron moral refm retreat ,1
+1242,Brown,Andrew,eating house ,1
+1243,Waters,Ann E,days work ,1
+1244,Mode,Jenry,assist at the house ,2
+1245,Bastian,Joseph,days work ,1
+1245,Bastian,Joseph,idle ,1
+1246,Griffith,Jerimiah,days work when can get it ,1
+1247,Cozer,Maria,washer ,1
+1248,Ford,John,washer when able ,1
+1249,Valantine,William,probably idle ,3
+1250,Morgan,Peter,washer ,1
+1250,Morgan,Peter,not able ,1
+1251,Anthony,Thos,null,null
+1252,,John,null,null
+1253,Caldwell,Maria,washer ,1
+1254,Lee,Taressa,washer ,1
+1255,Hutt,Elijah,days work ,1
+1256,Cantine,John,washer sometimes ,1
+1257,Rosel,John,dom duties ,1
+1258,Kendall,Robert,washer ,1
+1259,Reley,Sarah Ann,days work ,1
+1259,Reley,Sarah Ann,dressmaker ,1
+1260,Manliff,Eliza,washer ,1
+1260,Manliff,Eliza,not able ,1
+1261,Tilghman,Margaret,cook ,1
+1262,Bush,Daniel,days work sometimes ,1
+1263,Gilmore,Lewis,dom duties ,1
+1263,Gilmore,Lewis,washer ,1
+1264,Crummill,Samuel,days work ,1
+1265,Barrett,Andrew,days work ,1
+1266,Snowdew,John,null,null
+1267,Warren,Elizabeth,washer ,1
+1268,Taylor,William,washer ,1
+1269,Tilghman,Sarah,days work ,1
+1269,Tilghman,Sarah,cook ,1
+1270,Nixon,Ann,cook house and dance house ,1
+1271,Johnson,Peter,days work ,1
+1272,Page,Josephine,nominal sempstresses ,3
+1273,Joseph,John J,null,null
+1274,Scott,Edmund J,dom duties ,1
+1275,Thomas,George,various ,2
+1276,Bird,James,null,null
+1277,Cook,Deborah,washer ,1
+1278,Murray,Samuel,sempstress ,1
+1279,Derry,Maria,various ,1
+1280,Hubert,Littleton,dom duties ,1
+1281,Dorsey,Elizabeth,dom duties ,1
+1281,Dorsey,Elizabeth,days work ,1
+1282,Till,Issac,washer when able ,1
+1283,Sammons,Sarah Ann,days work ,1
+1284,Williams,Tracy,cook ,1
+1284,Williams,Tracy,rag gatherer ,2
+1285,Collins,Asher,washer ,2
+1286,Blake,John,huckster,1
+1287,Graves,Issac,washer ,1
+1288,Bowser,James,washer when able ,1
+1289,Bowser,Issac,eating house ,1
+1289,Bowser,Issac,not able ,1
+1290,Jackson,George,washer ,1
+1291,Davis,William H,null,null
+1292,Dowden,John,washer when able ,1
+1293,Patterson,James,null,null
+1294,Daniels,Jane,various ,3
+1295,Ringella,Henry,sempstress ,1
+1295,Ringella,Henry,washer ,1
+1296,Barris,John,probably nothing ,1
+1297,Williams,Hannah,cuts carpet rags ,1
+1298,Kitchings,Livi,washer ,1
+1299,Washington,Moses,washer ,1
+1300,Demby,Thomas,null,null
+1301,Hopkins,James,washer ,1
+1302,Robinson,Sarah,washer ,1
+1303,Rigby,Joseph,days work ,1
+1304,Carter,Samuel,days work ,1
+1305,Hamilton,John,dom duties ,1
+1306,High,Mary,cook ,1
+1307,Powell,John,laborer,1
+1308,Weatheringon,Patricia,days work ,1
+1309,Hazel,Warner,various ,1
+1310,Waters,George,days work ,1
+1311,Watkins,William D,washer ,1
+1312,Cropper,George,probably idle ,2
+1313,Hale,Eliza,probably idle ,3
+1314,Temple,James,dom duties ,1
+1315,Green,George,shop keeper ,1
+1316,Davis,Edwad,dom duties ,1
+1317,Anderson,Samuel,dom duties ,1
+1318,Robbins,John,null,null
+1319,Lee,Thomas,null,null
+1320,Griffin,Thomas,days work ,1
+1321,Harriges,Peter,days work ,1
+1322,Thompson,John,cuts carpet rags ,2
+1323,Richardson,Michael,service ,1
+1324,Smith,William H,service ,1
+1325,Wells,James,cuts carpet rags ,1
+1326,Robinson,David,days work ,1
+1327,Hicks,Robert M,cuts carpet rags ,1
+1328,Shorter,Marie,days work ,1
+1329,Roberts,Daniel,null,null
+1330,Green,Diana,cook ,1
+1331,Duffy,John,mat maker ,1
+1332,Henry,Samuel,probably nothing ,1
+1333,Stewart,Joseph,null,null
+1334,Thompson,Belinda,days work ,1
+1334,Thompson,Belinda,washer ,2
+1335,Scuchins,Soloman,days work ,1
+1336,Cox,Charles,service when able ,1
+1337,Lewis,Peter D,assists husband ,1
+1337,Lewis,Peter D,dom duties ,1
+1338,Lewis,Ceasar,sempstresses ,2
+1339,Lewis,John,dom duties ,1
+1340,Lewis,Cate,dom duties ,1
+1341,Banks,Murrile,days work when able ,1
+1342,Armstrong,Hester,washer ,1
+1343,Brown,Perry,washer ,1
+1343,Brown,Perry,cook ,1
+1344,Taylor,Maria,days work ,1
+1344,Taylor,Maria,dom duties ,1
+1345,White,Tabitha,service ,1
+1346,Brown,Mahala,service ,1
+1347,Downs,Hawkins,days work ,1
+1348,Williams,Edward,days work ,1
+1349,Drummond,Lewis,null,null
+1350,Thomas,Anna,washer ,1
+1351,tvomes(?),Chas,dom duties ,1
+1352,Laws,Peter,sempstresses ,2
+1353,Downs,Ann,washer ,1
+1354,Myers,Jacob B,sempstress ,1
+1355,Seymour,Lewis,dressmaker ,1
+1356,Potter,George,dom duties ,1
+1357,Annis,Josiah,days work ,1
+1358,Burns,Mary,days work ,1
+1359,Williams,Kitty,washer ,1
+1360,Oaten,Josiah,days work ,1
+1361,Bailey,Richard,washer ,1
+1362,Fitzgerald,Joseph,null,null
+1363,Johnson,James,washer ,1
+1364,Reece,Eliza Ann,washer ,1
+1365,Malson,Ephraim,cook ,1
+1366,Johnson,Edward H,washer ,1
+1367,Anderson,William,days work ,1
+1368,Johnson,Jacob,dom duties ,1
+1369,Dennis,Margaret,days work ,2
+1370,Cornwall,Abigail,washer ,1
+1371,Watson,Margaret,washer ,2
+1372,Williams,Abraham,washer ,1
+1372,Williams,Abraham,dressmaker ,1
+1372,Williams,Abraham,milliner ,1
+1373,Rex,Moses,washer ,1
+1374,Fisher,Thos C,washer ,1
+1375,Miller,John,washer ,1
+1376,Sammons,Thomas,days work ,1
+1376,Sammons,Thomas,sempstress ,1
+1377,Curtis,Wealthy,service ,1
+1378,Thomas,Elizabeth,dom duties ,1
+1378,Thomas,Elizabeth,days work ,1
+1378,Thomas,Elizabeth,eating house ,1
+1379,Gaines,Sarah,various ,2
+1380,Chandler,Henry,dressmaker ,1
+1381,Atkins,Charles,dom duties ,1
+1382,Garrett,Soloman,washer ,1
+1383,Ruffin,Robert,washer ,1
+1383,Ruffin,Robert,dressmaker ,1
+1384,Accoo,Catharine,days work ,1
+1385,West,Issac,washer ,1
+1386,Derrickson,Sarah,washer ,1
+1387,Dorsey,Diane,washer ,1
+1388,Boldin,Robert,washer ,1
+1388,Boldin,Robert,dressmaker ,1
+1389,Saunders,Simpson,washer ,1
+1390,Miller,James,dom duties ,1
+1391,Warren,Thomas,sempstress ,1
+1392,Harris,Thos,days work ,1
+1393,Gibbs,Joshua,days work ,1
+1394,Styers,James,dom duties ,1
+1395,Hitchin,Milford,washer ,1
+1396,Richan,Gale,cook ,1
+1397,White,Jane,washer ,1
+1398,Peters,Diane,washer ,1
+1399,Todd,Ann,dressmaker ,1
+1400,Bibens,John,null,null
+1401,Stewart,Henry,not well ,1
+1401,Stewart,Henry,assists at home ,1
+1402,Biddle,Josiah,washer ,1
+1403,Grantum,William H,washer ,1
+1404,Andrews,Sarah,washer ,1
+1405,Hale,James,dressmaker when able ,1
+1406,Morgam,Sarah,cook ,1
+1407,Merritt,John,dom duties ,1
+1408,Frame,Sarah,washer ,1
+1409,Bacon,William,null,null
+1410,Staten,Caleb,dom duties ,1
+1411,Biggs,John,washer ,2
+1412,Lawrence,Lucy,days work ,1
+1413,Warner,Noah,not able ,1
+1414,Buchanan,William,days work ,1
+1415,Barker,William,w washer ,1
+1416,Losier,Robert,dom duties ,1
+1417,Kennard,Cyrus,washer ,1
+1418,Jones,Emery,days work ,1
+1418,Jones,Emery,not able ,1
+1419,Ware,Eliza,washer & whitewasher,1
+1420,Craig,Mary,washer ,1
+1421,Stewart,George,cook ,1
+1422,Primisis,Nathan,days work ,1
+1423,no entry,,service ,1
+1424,Hale,Daniel I,washer ,1
+1425,Brown,Margaret,washer ,1
+1426,Jordan,George,days work ,1
+1427,Henry,George W.,washer ,1
+1428,Mead,Richard,dom duties ,1
+1429,Atlas,Hiram,dom duties ,1
+1430,Bladen,Aaron,assists husband ,1
+1431,Glover,Samuel,washer ,1
+1432,Gilbert,Christiana,washer ,1
+1433,Williams,Ruth,days work ,2
+1434,Barnes,George,sempstress ,12
+1434,Barnes,George,not able ,1
+1435,Joyce,Anna MF,service ,1
+1436,Vance,Emma,washer ,1
+1437,Redding,Henrietta,dealer ,1
+1438,Ramsey,Zillah,washer ,1
+1438,Ramsey,Zillah,not able ,1
+1439,Ruffin,Daniel,washer ,1
+1440,Bloxom,Peter,days work ,1
+1440,Bloxom,Peter,not able ,1
+1441,Bloxam,Agnes,washer ,2
+1442,Richardson,Rachel,days work ,2
+1443,Henderson,Edward,washer ,1
+1444,Gray,Matilda,washer ,1
+1445,Paul,Abby,sempstress ,1
+1446,Simmons,Henry,dom duties ,1
+1447,Bird,Phebe Ann,washer ,1
+1448,Mills,Elizabeth,cook ,1
+1448,Mills,Elizabeth,washer ,1
+1449,Mitchell,Rosetta,days work ,1
+1450,Morris,James,null,null
+1451,Rodney,Henry,washer ,1
+1452,Anderson,William,various ,1
+1453,Randall,Daniel,washer ,1
+1454,Bewley,Samuel,washer ,1
+1454,Bewley,Samuel,not able ,1
+1455,Brown,William J,days work ,1
+1456,Gibbs,Sarah,service ,1
+1457,Chase,Daniel,washer ,2
+1458,Spencer,Peter,washer sempstress ,1
+1459,Colder,Hiram,washer ,1
+1460,Jackson,Joshua,days work ,1
+1461,Rinnard,Thomas,days work ,1
+1462,Langford,Arthur,washer ,1
+1462,Langford,Arthur,not able ,1
+1463,,Esther,washer ,1
+1464,Murray,William,washer ,1
+1465,Brown,Andrew,washer ,1
+1466,Thompson,Joseph,washer ,2
+1467,Howell,Elizabeth,days work ,1
+1468,Barrett,Tamar,very little afflicted ,2
+1469,Mason,Mary,days work when able ,1
+1470,Bustill,Samuel,washer ,1
+1471,Paul,Perry,days work ,1
+1472,Brown,George,days work ,1
+1472,Brown,George,cuts carpet rags ,1
+1473,Young,John,days work ,1
+1474,Demby,Andrew,washer ,1
+1475,Robinson,David,washer ,1
+1476,Collins,Diana,sempstress ,1
+1477,Miller,Elizabeth,washer ,2
+1478,White,Handy,days work ,1
+1479,Cole,Clarissa,whitewasher ,1
+1480,Cezar,Martha,washer ,1
+1480,Cezar,Martha,cook ,1
+1481,Rollins,Daniel,days work when able ,1
+1482,Fitterman,Henry,days work when able ,1
+1483,Roberts,Sarah,washer ,1
+1484,Green,Rachel,washer ,1
+1485,Douglass,William,washer ,1
+1486,How,Benjamine,washer ,1
+1487,Brown,Samuel,washer ,1
+1487,Brown,Samuel,whitewasher ,1
+1488,Cox,James,w washer when able ,1
+1489,Smith,Flora,w washer ,1
+1490,Clover,James,days work ,1
+1491,,Temperance,washer when able ,1
+1492,Watkins,Julia,null,null
+1493,O'Neil,Susan,days work ,1
+1494,Davis,George,null,null
+1495,Lawrence,Mary,days work ,3
+1496,Hubbard,Leah,days work ,1
+1497,Martin,Tamar,days work ,1
+1498,Harper,George,washer ,1
+1499,Peters,Phoebe,washer & whitewasher,1
+1500,Barrott,Samuel H,dom duties ,2
+1501,Frisby,James,sempstresses ,2
+1502,Ware,Perry,washer when able ,1
+1503,Queen,Amy,service ,1
+1504,Pointer,Ann,service ,1
+1505,Clements,George,washer ,1
+1506,Knight,Charity,washer ,1
+1507,Williams,Ellen,days work ,1
+1507,Williams,Ellen,sempstress ,1
+1508,Wilson,Hamilton,dom duties ,1
+1509,Monroe,Sarah,days work ,1
+1510,Wilson,Alice,washer ,2
+1511,King,Darius,dom duties ,1
+1512,Bond,Robert,washer when able ,1
+1512,Bond,Robert,sempstress ,1
+1513,Prosser,James,assist in oyster house ,2
+1514,Gray,Hannah,days work ,2
+1514,Gray,Hannah,sempstress ,1
+1515,Lemmon,John,days work when can get it ,1
+1516,Keyser,Margaret,days work ,1
+1517,Wilson,Joseph,dom duties ,2
+1518,Higgins,John,school teacher ,1
+1518,Higgins,John,dressmaker ,1
+1519,Meyhew,Mark,washer ,1
+1519,Meyhew,Mark,sempstress ,1
+1520,Rogers,Anna,stewardess ,1
+1520,Rogers,Anna,dom duties ,1
+1521,Johnson,Peter,washer ,1
+1522,Crook,James,days work ,1
+1523,Waters,Bazil,washer ,1
+1524,Coursey,Ann,washer ,1
+1524,Coursey,Ann,not able ,1
+1525,Miller,David,days work ,1
+1526,Mintess,James,washer ,1
+1526,Mintess,James,shirt maker ,1
+1527,Bowen,Nicolas,dom duties ,1
+1528,Potter,William,washer ,1
+1528,Potter,William,dressmaker ,1
+1529,Burton,Lavinia,washer ,1
+1529,Burton,Lavinia,not able ,1
+1530,Brown,William,washer ,1
+1531,Riley,Maria,days work ,1
+1532,King,William,washer ,1
+1533,Henry,Joseph,assists husband ,1
+1534,Erwin,John,cook ,1
+1534,Erwin,John,not able ,1
+1535,Ecobb,Job,washer ,1
+1536,Poutoo,Elizabeth,null,null
+1537,Wright,Henrietta,washer ,1
+1538,Milby,George,days work ,1
+1539,Matthews,Daniel,days work ,1
+1540,Jones,Charles,washer ,1
+1541,Qwens,John,washer ,1
+1542,Chambers,Robert,days work ,1
+1543,Allen,William,dressmaker ,1
+1544,Peterson,Harriet,washer ,1
+1545,Todd,Anna,days work ,1
+1546,Roberts,Samuel,washer ,1
+1547,Galloway,Isaac,dom duties ,1
+1548,Chambers,Nathan J,washer ,1
+1549,Thomas,Amos,washer ,1
+1550,Burton,George,washer ,2
+1550,Burton,George,not able ,2
+1551,Coursey,Trim,washer ,1
+1552,Dorsey,Leah,service ,1
+1553,Accoo,Jesse,dom duties ,1
+1553,Accoo,Jesse,dressmaker ,1
+1554,Coulter,John,washer ,1
+1555,Drummond,Joseph,null,null
+1556,Little,Aaron,dom duties ,1
+1557,Cooper,Uriah,washer ,1
+1558,Rudolph,Evan,washer ,2
+1559,Everson,Sarah,washer ,2
+1560,Tutifer,Sarah,washer ,1
+1561,Springs,Frederick,washer when can get it ,1
+1562,Morgan,Nathaniel,days work ,1
+1563,Johnson,Jane,service ,1
+1564,Alexander,Lewis,dom duties ,1
+1565,Steward,Margaret,washer ,2
+1566,Johnson,Lavinia,sempstress ,1
+1567,Frisby,William,washer ,1
+1568,Saddler,Emery,washer ,1
+1569,Johnson,Abraham B,null,null
+1570,Seymour,Patience,washer ,2
+1571,Morgan,Peter,dressmaker ,1
+1572,Landoway,Abraham,washer when can get it ,1
+1573,Barney,Richard,days work ,1
+1574,Allen,John,days work ,1
+1575,Sand,Hannah,washer ,1
+1576,Parker,Mary,null,null
+1577,Green,Robert,days work ,1
+1578,Woodward,Issac,washer ,1
+1578,Woodward,Issac,sempstress ,1
+1579,Welsh,John H,dom duties ,1
+1580,Dempsey,Mathew,days work ,1
+1581,Murray,William,washer ,1
+1582,Clincher,Mary,shop keeper ,1
+1583,Miller,Matilda,days work ,1
+1584,Johnson,Gracie,null,null
+1585,Harris,Lephelia,nurse ,1
+1585,Harris,Lephelia,sempstress ,1
+1586,Miller,Keziah,not able ,1
+1587,Beasten,John,washer ,1
+1588,Biddle,Martha,washer when able ,1
+1589,Wilson,Charles,null,null
+1590,Williams,Mary,cook ,1
+1591,Jeffers,Perry,washer when able ,1
+1592,Smith,Stephen,dom duties ,3
+1593,Parker,James,washer ,2
+1593,Parker,James,dressmaker ,1
+1594,Allen,James,washer ,1
+1595,Murphy,Amaretta,washer ,1
+1596,Duffy,Henry,washer ,1
+1597,Mathews,John,days work when can get it ,1
+1598,Caldwell,Daniel,null,null
+1599,Sheppard,Shay,dom duties ,1
+1600,Harris,Mitchell,dressmaker ,1
+1601,Sullivan,Abraham,washer ,1
+1602,Seth,William,milliner ,1
+1603,Trusty,Patience,shop keeper ,2
+1603,Trusty,Patience,dressmaker ,2
+1604,Daily,Louisa,dressmaker ,1
+1605,Times,Samuel,dom duties ,1
+1606,Johnson,William,days work ,1
+1607,Mason,Thos,days work ,1
+1608,Richardson,William,washer ,1
+1609,Freeman,Margaret,days work ,1
+1610,Lewis,Taressa,dressmaker ,1
+1611,Cornish,James C,hair dressmaker ,1
+1612,Henderson,Mary Ann,cook ,1
+1612,Henderson,Mary Ann,dealer dom duties ,1
+1613,Harris,Delphine,null,null
+1614,Allen,Hannah,days work when can get it ,1
+1615,Cunningham,Mary,null,null
+1616,Burnley,William A,dressm fortune teller ,1
+1616,Burnley,William A,dom duties ,1
+1617,Dorsey,Hammond,null,null
+1618,Fisher,Josiah,null,null
+1619,Vann,Jacob,washer ,1
+1620,Tilghman,Reziah,cook ,1
+1621,Cole,Charles,days work ,1
+1622,Allen,James,null,null
+1623,Chase,Hale,null,null
+1624,Taylor,Cornelia,cuts carpet rags ,1
+1625,Black,Jesse,washer ,1
+1626,Black,Cyrus,cook ,1
+1627,Davis,Alexander,days work ,1
+1628,Tile,John,dom duties ,1
+1629,Barrett,James,days work ,2
+1630,Saddler,William,washer ,1
+1631,Brady,Henry,washer ,2
+1632,Hinesly,Risdon,whitewasher ,2
+1633,Biddle,Harriet,washer ,1
+1634,Colgate,John,dressmaker ,2
+1635,Lecourt,Joseph,quilter ,1
+1636,Lecourt,James,bonnetmaker ,1
+1636,Lecourt,James,dom duties ,1
+1637,Holloway,Edward,dom duties ,1
+1638,Charnock,Thos,null,null
+1639,Logan,Spencer,washer ,1
+1640,Brown,Perry,washer ,1
+1641,Brown,Marcus,dom duties ,1
+1642,Venning,Edward,dom duties ,1
+1643,Lewis,Lydia,days work ,1
+1643,Lewis,Lydia,sempstress ,1
+1644,Galloway,Benjamin,dom duties ,1
+1645,Bradley,Charles,shop keeper ,1
+1646,Reith,Ivin,dom duties ,1
+1647,Reed,William,washer ,1
+1647,Reed,William,not able ,1
+1648,Chase,Rachel,null,null
+1649,Lee,Mary,days work ,1
+1649,Lee,Mary,not able ,1
+1650,Champion,John,days work ,1
+1651,McRed,Ann,whitewasher ,1
+1652,Williams,Devonshire,cake baker ,1
+1653,Torrin,Rebecca,washer ,1
+1654,Pointer,Rayner,quilter ,1
+1655,Tasker,Emily,cook ,1
+1655,Tasker,Emily,washer when able ,1
+1656,Marshall,Adam,cook ,1
+1657,Brown,William,washer ,1
+1658,Williams,Rebecca,days work ,1
+1659,Jones,Martha,washer ,1
+1660,Brown,Morris,dom duties ,1
+1661,Grace,William,washer ,1
+1661,Grace,William,shop keeper ,1
+1662,Venning,John,dressmaker ,1
+1663,Black,Thomas,shirtm ,1
+1663,Black,Thomas,dressmaker ,1
+1663,Black,Thomas,washer ,1
+1664,Green,George,washer ,1
+1665,Watson,John,washer ,2
+1666,Cady,Horace,sempstress ,1
+1667,Lovedy,Charlotte,washer ,1
+1668,Hamilton,Rosana,null,null
+1669,Robbins,Sabina,null,null
+1670,Duffin,John,pastry cook ,1
+1670,Duffin,John,shirt maker ,1
+1671,Parker,James,null,null
+1672,Nichols,Wesley,washer ,1
+1673,Garrison,Mary Ann,dressmaker ,1
+1674,Stiles,Flora,dressmaker ,1
+1674,Stiles,Flora,nurse ,1
+1675,Hale,George,washer ,1
+1675,Hale,George,sempstress ,1
+1676,Hambleton,William,washer ,1
+1677,Wilson,Frederick,washer ,1
+1678,Hoy,James,washer ,1
+1679,Pierce,Julie Ann,nurse ,1
+1680,Brisler,Elizabeth,washer ,3
+1681,Boardley,Rebecca,dressmaker ,1
+1681,Boardley,Rebecca,tailoress ,2
+1681,Boardley,Rebecca,dom duties ,1
+1682,Owee,Delia,sempstress ,1
+1683,Williams,Henry,sempstress ,1
+1684,Page,Joseph,cook ,1
+1684,Page,Joseph,dressmaker ,3
+1685,Huggs,Barzillai,washer ,2
+1685,Huggs,Barzillai,dom duties ,1
+1686,Blake,Rachel,null,null
+1687,Demby,Delia,chambermaid ,2
+1688,Carrumbas,Chas,washer ,1
+1688,Carrumbas,Chas,dressmaker ,1
+1689,Tilton,Alice,washer ,2
+1690,Cornelius,Phillip,washer ,2
+1690,Cornelius,Phillip,not able ,1
+1691,Hale,Enos,washer ,1
+1692,Gilbert,Henry,washer ,1
+1693,Jeffrey,John,washer ,1
+1694,Powell,Thomas,null,null
+1695,Riley,Peter,cook ,1
+1696,Davis,George,washer ,1
+1697,Turner,Levi,washer ,1
+1698,Harris,Hannah,past work ,1
+1699,Crosby,David H,washer ,1
+1700,Draper,William,washer ,1
+1701,Fernack,John,washer ,1
+1702,Barnes,Albert,days work ,1
+1703,Shane,Peter,washer ,1
+1703,Shane,Peter,shirt ,1
+1703,Shane,Peter,dressmaker ,1
+1704,Hazel,Henry,shirt maker ,1
+1705,Highgate,James,shirt maker ,1
+1705,Highgate,James,dressmaker ,1
+1706,Cork,Hennrietta,washer ,1
+1707,Purnell,John,washer ,1
+1708,Fleming,Asher,washer ,1
+1709,Hooper,Nathan,washer ,1
+1710,Smith,Jeremiah,washer ,2
+1710,Smith,Jeremiah,dressmaker ,1
+1711,French,John,dressmaker ,1
+1712,Cooper,George,washer ,1
+1712,Cooper,George,dom duties ,1
+1713,Parke,Jane,dressmaker ,1
+1713,Parke,Jane,dom duties ,1
+1714,Burns,William,sempstress ,1
+1715,Reed,Joseph,dressmaker ,1
+1715,Reed,Joseph,dom duties ,1
+1716,Walker,Jane,service ,1
+1717,Tolbert,Henry,washer ,1
+1718,Rhodes,Samuel,washer ,1
+1719,Draper,Soloman,washer when can get it ,1
+1720,Smith,Eliza,washer ,1
+1721,Burton,Peter,washer ,1
+1722,Lecourt,Pracilla,null,null
+1723,Venning,Luke,dressmaker ,1
+1723,Venning,Luke,tailoress ,1
+1724,Williams,Ann,days work ,1
+1725,West,Tobias,washer ,1
+1725,West,Tobias,not able ,1
+1726,Burk,John,days work ,1
+1727,Allen,Ann,days work ,1
+1728,Marks,Mary,days work ,1
+1729,White,Parker,dressmaker ,1
+1730,Fletcher,Cornelia,sempstresses ,2
+1731,Mosley,Chas,washer ,1
+1732,Brogden,William,washer ,1
+1733,Smith,Airey Ann,null,null
+1734,Cole,Joseph P,washer ,1
+1735,Orkey,Simon Van,dressmaker ,1
+1735,Orkey,Simon Van,dom duties ,1
+1736,Brown,John P,dressmaker ,1
+1736,Brown,John P,cake baker ,1
+1737,Hamilton,Maria,washer ,1
+1738,Jordan,James,dressmaker ,1
+1739,Lockwood,Henrietta,nurse ,1
+1740,Jackson,Ann,null,null
+1741,Brown,John,washer ,2
+1742,Pole,Sidney,sempstress ,1
+1742,Pole,Sidney,days work ,1
+1743,Goines,George W.,dressmaker ,2
+1743,Goines,George W.,dom duties ,1
+1744,Adams,Samuel,days work ,1
+1745,Booz,James,days work when able ,1
+1746,Ricker,Alice,washer ,2
+1747,Evans,John,null,null
+1748,Henry,Sarah,null,null
+1749,Brown,Sarah,null,null
+1750,Bressie,Chas,days work ,1
+1751,Bradick,John,washer ,2
+1752,Wolfe,?,null,null
+1753,Hill,Winston,washer ,1
+1754,Colden,Anthony,washer ,2
+1755,Colden,Luke,days work ,1
+1756,White,Hiram,assists husband ,1
+1757,Stevenson,William,washer ,1
+1758,Fountain,James,washer ,1
+1759,Davis,Elijah J,dressmaker ,1
+1760,Allen,Francis L,washer ,1
+1761,Laws,William,days work ,1
+1762,Palmer,Palmer,days work ,1
+1763,Simpson,Samuel,dom duties ,1
+1764,Collins,Elias,days work ,1
+1765,Gardner,Jacob,washer ,1
+1765,Gardner,Jacob,sempstress ,1
+1766,Henry,Charity,service ,1
+1767,Cropper,Edwin,days work ,1
+1768,Tillson,Mary,service ,1
+1769,Urick,John,null,null
+1770,Scutollins(?),George W.,null,null
+1771,Gibbs,Joseph,washer ,2
+1772,Gilbert,Richard,days work ,1
+1773,Jones,Elizabeth,not able ,1
+1774,Budge,Samuel,sempstress ,1
+1775,Warner,David J,null,null
+1776,Holven,Samuel,washer ,2
+1777,Jackson,David,washer ,1
+1778,Nance,Thomas,dressmaker ,1
+1779,Evans,John,dressmaker ,1
+1780,Brown,Samuel,dressmaker ,1
+1781,Howard,William,days work ,1
+1782,Moore,William,shop keeper ,1
+1783,Parker,Elizabeth,washer ,2
+1784,Clement,James,shop keeper ,1
+1785,Haines,Isaac,null,null
+1786,Harmon,Mary,null,null
+1787,George,Robert W,assists husband ,1
+1788,Marshall,Lyduey,washer ,1
+1789,Chambers,Lewis C,washer ,2
+1790,Rochester,Joseph,washer ,1
+1791,Mintess,Rebecca,shirt ,1
+1791,Mintess,Rebecca,dressmaker ,1
+1792,Nelson,Ann,washer ,1
+1793,Hale,Chas,not able ,1
+1794,Brown,Judah,not able ,1
+1795,Beard,William,null,null
+1796,Hargres(?),Benjamin,shop keeper ,1
+1797,Steward,Daniel,dom duties ,1
+1798,Thompson,Hannibal,washer ,2
+1799,Jefferson,Mary,washer ,1
+1799,Jefferson,Mary,days work ,1
+1800,Francis,Maria,washer ,1
+1801,Bogle,Amelia,school teacher ,1
+1802,Groves,Rebecca,days work ,1
+1803,Henderson,John,dom duties ,2
+1804,Ireland,John,cook ,1
+1805,Aler,Eliza,washer ,1
+1806,Bryman,Daniel,washer ,1
+1807,Bacon,James,days work ,1
+1808,Gardner,Abraham,days work ,1
+1809,Ayers,Josiah,washer ,1
+1810,Kennedy,Catharine,days work ,1
+1811,Robinson,Rachel,null,null
+1812,White,Ann,washer ,1
+1812,White,Ann,dressmaker ,1
+1813,Johnson,Robert,washer ,1
+1814,Vinny,Louisa,days work ,1
+1815,Garrnet,John,null,null
+1816,Thomas,Benjamin,pastry cook ,1
+1817,Bull,Francis T,washer ,1
+1818,Sambo,William,null,null
+1819,Hughes,Ann,washer ,1
+1820,Guyer,Amos,washer ,1
+1821,Parker,Mary,whitewasher ,1
+1822,Jackson,Sarah,days work ,1
+1823,Festas,George,washer ,1
+1823,Festas,George,not able ,1
+1824,Williams,?,null,null
+1825,Clark,Hester,null,null
+1826,Spencer,Sophia,days work ,1
+1827,Bubbler,Henry,days work ,1
+1828,Green,Rhoda,washer ,1
+1829,Parker,Elizabeth,washer ,2
+1829,Parker,Elizabeth,not able ,1
+1830,Waters,Nancy,cook ,1
+1831,Burton,Julia,dressmaker ,1
+1832,Matlack,James,washer ,1
+1833,Brown,Matilda,days work ,1
+1834,Mercer,Maria,washer ,1
+1835,Harris,Lucinda,washer ,1
+1836,Duffy,Issac,days work ,1
+1837,Hinson,Henrietta,cuts carpet rags ,1
+1838,Noke,Cornelia,null,null
+1839,Brinkle,Richard,washer ,1
+1839,Brinkle,Richard,assists at home ,1
+1839,Brinkle,Richard,waiter ,1
+1840,Thompson,Enos,null,null
+1841,Farris,Eba,cuts carpet rags ,1
+1842,Collins,Patrick,days work ,1
+1843,Lambert,Ann,washer when able ,1
+1844,Gray,Lucy,nurse ,1
+1845,Thompson,Jonathan,days work ,1
+1846,Massey,James,washer ,1
+1847,Bangs,Charles,dom duties ,1
+1848,Bedford,Phylllis,dressmaker ,1
+1848,Bedford,Phylllis,tailoress ,1
+1849,Francis,Joseph,days work ,1
+1850,Griffiths,Phillip,null,null
+1851,Bird,Elizabeth,days work ,1
+1852,Garrett,George,washer ,2
+1853,Williams,Ann,washer ,1
+1854,Stevenson,Jensey Ann,null,null
+1855,Gardner,Samuel,dressmaker ,1
+1855,Gardner,Samuel,days work ,1
+1856,Boon,Horace,washer ,1
+1857,Ellsby,Mary,cook ,1
+1858,Maxfield,Alexander,washer ,1
+1859,Powell,John,washer ,1
+1859,Powell,John,sempstress ,1
+1860,Wood,Judah,not able ,1
+1860,Wood,Judah,days work ,2
+1861,Stevens,Harriet,null,null
+1862,Adams,David,null,null
+1863,Harris,Edward,dressmaker ,1
+1864,Johnson,Amelia,null,null
+1865,Knight,James,sempstress ,1
+1866,Bacon,Dennis,washer ,1
+1867,Jenkins,Sarah,washer ,1
+1868,Stratton,Priscella,washer ,2
+1869,Heyliger,Julia,days work ,1
+1870,Hill,Nathan,days work ,1
+1871,Gordon,Charles,days work ,1
+1871,Gordon,Charles,dressmaker ,1
+1872,Johnson,Susan,washer ,1
+1873,Lloyd,Deborah,washer ,2
+1874,Luff,Ann,null,null
+1875,Green,Benjamin,days work when able ,1
+1876,Coombs,Pricilla,null,null
+1877,Taylor,John,washer ,1
+1878,Wardrub,John,dressmaker ,2
+1879,Jackson,Randolph,washer ,1
+1880,Bell,John,dom duties ,1
+1880,Bell,John,not able ,1
+1881,Gibbs,Maria,null,null
+1882,Reynold,Mezzy,service ,1
+1883,Tobia,Davia,washer ,1
+1884,Hull,George,days work ,1
+1885,Webb,Peter,washer ,1
+1886,Boardly,Mary,null,null
+1887,Robinson,John,null,null
+1888,Irons,Lewis,washer ,1
+1889,Howard,Peter,washer ,1
+1890,Brown,Richard,null,null
+1891,Jones,Josiah,dom duties ,1
+1892,Turner,Cecilia,days work ,2
+1893,Williams,Pricilla,at service ,1
+1894,Tribu,William,days work ,1
+1895,Bayman,Caleb,dom duties ,1
+1896,Thompson,George,null,null
+1897,Gray,James,sempstress ,1
+1898,Brown,William,null,null
+1899,Tilton,Matilda,washer ,1
+1900,Tolson,Mary,service ,2
+1901,Harding,William,washer ,1
+1902,Powell,Susan,washer ,1
+1903,Cropper,Sarah,days work ,1
+1904,Blake,William,washer ,1
+1904,Blake,William,cook ,1
+1905,Norman,John,days work ,1
+1906,Brister,Hannah,days work ,1
+1907,Johnson,Henrietta,tailoress ,1
+1907,Johnson,Henrietta,not able ,1
+1908,Williams,Ann,null,null
+1909,Tennant,?,dressmaker ,1
+1909,Tennant,?,dom duties ,1
+1910,Stevens,William,washer ,1
+1911,Sears,Rebecca,null,null
+1912,Highgate,William,dom duties ,1
+1913,Dennis,Chas,null,null
+1914,Place,Whylan,null,null
+1915,Pruitt,Walter,washer ,1
+1916,Grigg,Maria,dressmaker when able ,1
+1917,Wise,Peter,washer ,1
+1918,Dennis,Margaret,washer ,1
+1919,Kimberry,Siscomb,washer ,1
+1920,Robert,Aaron,washer ,1
+1921,Wills,Sarah,washer ,1
+1922,Green,Samuel,washer ,1
+1923,Emmons,Maria,days work ,1
+1924,Roberts,?,washer ,1
+1925,Brown,Robert P,chambermaid ,1
+1926,Smith,Williams,washer ,1
+1926,Smith,Williams,not able ,1
+1927,Lee,Osborne,washer ,1
+1928,Dennis,Nice,washer ,2
+1929,Nutz,John,at service ,1
+1930,Beckett,Edward,null,null
+1931,Boldin,Spencer,washer ,1
+1932,Morris,Hannah,sempstress ,1
+1933,Blace,Mary Ann,washer ,1
+1934,Bundy,Ephraim,washer ,1
+1935,Johnson,Cecilia,days work ,1
+1936,Dorsey,Thomas,sempstress and nurse ,1
+1937,Brister,Susan,days work ,3
+1938,Ponser,Eliza,null,null
+1939,Cliff,Ann,null,null
+1940,Carter,Daniel,washer ,1
+1941,Vandyke,Catharine,service ,1
+1942,Hutchinson,John,washer ,1
+1942,Hutchinson,John,dressmaker ,1
+1943,Hollis,James,days work ,1
+1944,Cooper,Aaron,washer ,1
+1945,Clinton,Margery,null,null
+1946,Cole,Elizabeth,days work ,1
+1946,Cole,Elizabeth,w washer ,1
+1947,Baptiste,Flora,null,null
+1948,Campbell,Catharine,tailoress ,1
+1949,Thomas,Julia Ann,days work ,1
+1949,Thomas,Julia Ann,washer ,1
+1950,Green,William,wood sawyer ,1
+1951,Ford,Ann Maria,sempstress ,1
+1952,Downing,Levi,washer ,1
+1953,Phillips,Jacob,days work ,1
+1954,Colesberry,Clarissa,days work ,1
+1955,Ferra,Mary,cuts carpet rags ,1
+1956,Frisby,Jeremiah,washer ,2
+1957,Haines,Rachel,days work ,1
+1958,Press,George,shop keeper ,1
+1959,Smith,Susa,washer ,1
+1960,Carr,Patience,days work ,1
+1960,Carr,Patience,dressmaker ,1
+1961,Carter,Tamar,washer ,1
+1962,Moore,Francis,dom duties ,1
+1963,Jones,Sarah,null,null
+1964,Greenwich,Sarah,null,null
+1965,Williams,Issac,washer ,1
+1965,Williams,Issac,not able ,1
+1966,Peterson,William,dressmaker ,1
+1967,Gallentine,Alfred,days work ,1
+1968,Halltid,Elizabeth,null,null
+1969,Emery,William,washer ,1
+1969,Emery,William,shirtm ,1
+1969,Emery,William,dressmaker ,1
+1970,Carney,Ann Eliza,school teacher ,1
+1970,Carney,Ann Eliza,washer ,1
+1971,Rider,Ann,washer ,1
+1972,Diamone,Francis,washer ,1
+1973,Hutchins,David,washer ,1
+1974,Peters,Amber,null,null
+1975,Clark,John,washer ,2
+1976,Baptiste,Eugene,washer ,1
+1976,Baptiste,Eugene,cook ,1
+1977,Johnson,Edward,null,null
+1978,Moore,Green,shop keeper ,1
+1979,Brown,Robert,dom duties ,1
+1979,Brown,Robert,dressmaker ,1
+1980,Damugh,Tilghman,null,null
+1981,Collins,Robert,washer ,2
+1982,Nixon,Jacob,null,null
+1983,Wood,George,washer ,1
+1984,Green,Dennis,dom duties ,1
+1985,Roberts,Elizabeth,washer ,1
+1985,Roberts,Elizabeth,dressmaker ,1
+1986,Millers,Edward,washer ,1
+1987,Greenwich,Sarah,null,null
+1988,Hopwell,George,dom duties ,1
+1989,Sullivan,Garrison,dom duties ,1
+1990,Van Brackle,Samuel,bar in theatre ,1
+1990,Van Brackle,Samuel,domestic duties ,1
+1991,Williams,Isaac,washer ,1
+1991,Williams,Isaac,not able ,1
+1992,Peterson,William,dressmaker ,1
+1993,Hallbird(?),Elizabeth,dressmaker ,2
+1994,Emery,William,washer ,1
+1994,Emery,William,shirtm ,1
+1994,Emery,William,dressmaker ,1
+1995,Carey,Ann Eliza,school teacher ,1
+1995,Carey,Ann Eliza,washer ,1
+1996,Diamond,Francis,washer ,1
+1997,Hutchins,Daniel,washer ,1
+1998,Peters,Amber,washer ,1
+1999,Glasgow,Agustus,days work ,1
+1999,Glasgow,Agustus,not able ,1
+2000,Baptists,Eugene,washer ,1
+2000,Baptists,Eugene,cook ,1
+2001,Johnson,Edward,null,null
+2002,Moore,Green,shop keeper ,1
+2003,Miller,Deborah,null,null
+2004,Brown,Robert,dom duties ,1
+2004,Brown,Robert,dressmaker ,1
+2005,Danaugh,Tilghman,null,null
+2006,Murphy,Sarah,days work ,1
+2006,Murphy,Sarah,washer ,1
+2007,Collins,Robert,washer ,2
+2008,Jones,Alice,washer ,1
+2009,Nixon,Jacob,null,null
+2010,Wood,George,washer ,1
+2011,Green,Dennis,dom duties ,1
+2012,Roberts,Elizabeth,washer ,1
+2012,Roberts,Elizabeth,dressmaker ,1
+2013,Miller,Edward,washer ,1
+2014,Murray,Samuel,days work ,1
+2015,Johnson,George,dom duties ,2
+2016,Brooks,Daffney,null,null
+2017,Wiltbank,Elrey,not able ,1
+2018,Moore,Hannah,days work ,2
+2019,Freeman,Gouldsberry,days work ,1
+2020,Holgate,John,washer ,1
+2021,Trout,Lydia,washer ,1
+2021,Trout,Lydia,dressmaker ,1
+2022,King,Joseph,cook ,1
+2023,Peyton,Julius,washer ,2
+2023,Peyton,Julius,dom duties ,1
+2024,Newman,James,washer ,2
+2025,Miller,Clayton,washer ,1
+2026,Lee,Emily,null,null
+2027,Johnson,William,days work ,1
+2028,Clerker,Lavinia,null,null
+2029,Bell,Peter,washer ,1
+2030,Jones,Henry,dom duties ,1
+2031,Armstrong,Elizabeth,dressmaker ,1
+2032,Williams,Richard,washer ,1
+2033,Wooden,George,pastry cook ,1
+2034,Warner,Kensey,dom duties ,1
+2035,Simmens,Anna,days work ,1
+2036,Trusty,Jacob,nurse ,1
+2036,Trusty,Jacob,days work ,1
+2036,Trusty,Jacob,dressmaker ,1
+2037,Pusey,Alexander,dom duties ,1
+2038,Balaam,Lavinia,huckster,1
+2039,Bowdy,Charles,tailoress ,1
+2040,Phelps,Mary,washer ,1
+2041,Gibson,Rachel,washer ,1
+2042,Harmon,Timothy,washer ,1
+2043,Jackson,Daniel,dressmaker ,1
+2044,Kelly,Abby,null,null
+2045,Coones,Harriet,cook ,1
+2045,Coones,Harriet,dressmaker ,1
+2046,Bishop,Abner,washer ,1
+2047,Amos,Ann Marie,null,null
+2048,Lewis,Charles,washer ,1
+2049,Robinson,Jerimiah,days work ,1
+2050,Cole,George P,washer & whitewasher,1
+2050,Cole,George P,dressmaker ,1
+2051,Franklin,James,dom duties ,1
+2052,Skinner,?,null,null
+2053,Chambers,James,days work ,2
+2054,Peyton,Thomas,days work ,2
+2055,Burns,Clarissa,washer ,2
+2056,Embers,Mary,washer ,1
+2057,Hazzard,Isaac,dom duties ,2
+2058,Jackson,Peter A,assists husband ,1
+2059,Furman,Jonathan,washer ,1
+2060,Owens,Jonas,washer ,1
+2061,Turner,Edward,null,null
+2062,Freeman,Charles M,washer ,1
+2063,Anderson,Christopher,washer ,1
+2064,Berny,Rex,washer ,1
+2065,Shipley,Lephis,washer ,1
+2066,Potter,Rachel,days work ,1
+2067,Hutchins,Rachel,days work ,1
+2068,Biddle,Rhoda,null,null
+2069,Hale,Alice,washer ,1
+2070,Rodine,William,dom work ,1
+2071,Day,Harriet,null,null
+2072,Chambers,Diana,days work ,1
+2073,Smallwood,Joseph,tailoresses shirt ,2
+2073,Smallwood,Joseph,dressmaker ,1
+2074,Jones,Charles,dom duties ,1
+2075,Tilghman,Peter,dom duties ,1
+2075,Tilghman,Peter,dressmaker ,1
+2076,Seaman,Charles,null,null
+2077,Johnson,Susan,washer ,1
+2077,Johnson,Susan,not able ,1
+2078,Purnell,Phillip,washer ,1
+2079,Jones,Soloman,days work ,1
+2080,Minton,Robert,dom duties ,1
+2081,Hollis,Jonathan,washer ,2
+2082,Viney,Patience,washer ,1
+2083,Stevens,John,washer ,1
+2084,Reese,Jane,w washer ,1
+2085,Lake,Violet,days work when able ,1
+2086,Kelly,Elizabeth,days work when able ,1
+2087,Brown,Eliza,days work ,2
+2088,Madden,Nathan,days work ,1
+2089,Johnson,Rachel,w washer ,1
+2090,Stansbury,Eliza,days work ,1
+2091,Winten,William W,washer ,1
+2092,Williams,Draper,washer ,1
+2093,Bassell,William,washer ,1
+2094,Freeman,Hiram,washer ,1
+2095,Wilson,Benjamin,null,null
+2096,Jones,William H,washer ,1
+2096,Jones,William H,tailoress ,1
+2097,Robinson,Henry,washer ,1
+2098,Benton,Sarah,null,null
+2099,Taylor,Jemina,null,null
+2100,Johnson,William,days work ,1
+2100,Johnson,William,sempstress ,1
+2101,Bennett,Edward,days work ,1
+2101,Bennett,Edward,tailoress ,1
+2101,Bennett,Edward,dressmaker ,1
+2102,Rogers,John,washer ,1
+2103,Murphy,Susan,null,null
+2104,Bibery,Thomas,washer ,1
+2105,White,Charles,dom duties ,1
+2105,White,Charles,washer ,2
+2106,Lewis,Rachel,not able ,1
+2107,Chambers,Isaac,null,null
+2108,Molony,Berry,washer ,1
+2109,Marshall,Soloman,days work ,1
+2110,Hall,Ann,null,null
+2111,Porter,Hannah,shirt ,1
+2111,Porter,Hannah,dressmaker ,1
+2112,Ballard,Hagar,dom duties ,1
+2113,Werthington,Priscilla,shirt maker ,1
+2114,Mintess,Lavinia,washer ,1
+2115,Taylor,Joana,days work ,1
+2116,Hegamin,John,dressmaker ,1
+2116,Hegamin,John,not able ,1
+2117,Purnell,Josiah,domestic duties ,1
+2118,Qwen,George,washer ,1
+2119,Bean,Nathan,washer ,1
+2120,Driver,Adam,washer ,1
+2121,Moore,Elizabeth,dressmaker ,1
+2122,Deal,Daniel,days work ,1
+2123,Jobs,John,null,null
+2124,Ryser,Elizabeth,washer ,1
+2124,Ryser,Elizabeth,dressmaker ,1
+2125,Woodlin,Lewis,washer when able ,1
+2126,Green,Thomas,dressmaker ,1
+2127,Lewis,Clarisa Ann,washer ,1
+2128,Freeman,George,washer ,1
+2129,Smith,James,washer ,1
+2130,Costello,Nancy,null,null
+2131,Stout,Rosanna,cuts carpet rags ,1
+2132,Ingram,Alfred,days work ,1
+2133,Ingram,Mary,layer out of dead ,1
+2134,Kincaid,Mary,days work ,1
+2135,Smith,Gertrude,washer ,2
+2136,Miller,Thomas,washer ,1
+2137,Cox,Clement,washer ,1
+2138,Jones,Charles,washer ,1
+2139,Medad,George,washer ,1
+2140,Young,Theodore,null,null
+2141,Short,Spencer,washer ,1
+2142,Hanson,Mary,null,null
+2143,Robinson,Rachel,null,null
+2144,Shire,Joseph,washer ,1
+2144,Shire,Joseph,days work ,1
+2144,Shire,Joseph,not able ,1
+2145,Seawall,William,washer ,1
+2146,Everett,Samuel,washer ,1
+2147,Dutriell,Mary,washer ,1
+2148,Harding,Pricilla,null,null
+2149,Williams,Ephraim,dressmaker ,1
+2150,Ramsey,John,washer ,1
+2151,Buck,Julia,washer ,2
+2152,Kelly,Sewall,null,null
+2153,Colly,Daniel,shirt maker ,1
+2153,Colly,Daniel,washer ,1
+2154,Barrett,Peter,null,null
+2155,Lewis,David,washer ,1
+2156,Elias,Charles,washer ,1
+2157,Davis,John,not able ,1
+2158,Steel,Loudon,null,null
+2159,French,Christiana,null,null
+2160,Young,Mary,days work ,2
+2161,Stratton,Ann,null,null
+2162,Kincaid,Samuel,washer ,1
+2163,Semour,Margaret,washer ,1
+2164,Prosser,Elizabeth,null,null
+2165,Sammons,William,days work ,2
+2166,Shanklaw,William,null,null
+2167,Blake,Ruth,washer ,1
+2168,Gray,James,washer ,1
+2169,Black,Prince,washer when able ,1
+2170,Hale,William,washer ,1
+2171,Griffin,Matthew,days work ,1
+2172,Burton,John,washer ,1
+2172,Burton,John,not able ,1
+2173,Coursey,Hortense,null,null
+2174,Wills,Jacob,washer ,1
+2175,Harris,Phyllis,not able ,1
+2176,Powell,Henry,washer ,1
+2177,Fullman,Sarah,days work ,1
+2178,Fitzhugh,Agnes,washer ,1
+2179,Jones,Stephen,washer ,1
+2180,Johnson,Peter A,washer ,1
+2181,Depee,Margaret,cook ,1
+2182,Wetherington,Joseph,washer ,1
+2183,Chambers,William,null,null
+2184,Mathison,Rosana,null,null
+2185,Brown,Henry,quilter ,1
+2186,Howard,Amelia,traveling preacher ,1
+2187,Chambers,Taressa,washer ,1
+2188,Reed,Margaret,days work ,1
+2189,West,Mahala,washer ,1
+2190,Beckett,Isaac,washer ,1
+2190,Beckett,Isaac,days work ,1
+2191,Green,Harriet,shirt maker ,1
+2192,Gettes,George,washer ,2
+2193,Bishop,Rosana,dressmaker ,1
+2193,Bishop,Rosana,days work ,1
+2194,Gibson,Nice,washer ,2
+2195,Willows,Moses,assist father ,2
+2196,Johnson,William,school teacher ,1
+2197,Morris,Phebe,days work ,1
+2197,Morris,Phebe,shirt maker ,1
+2198,Luff,London,domestic duties ,1
+2199,Ray,Jacob,days work ,1
+2200,Custis,Edith,washer when able ,1
+2201,Johnson,Thomas,days work ,1
+2202,Matthews,Nathaniel,null,null
+2203,Thorn,James H,dom duties ,1
+2204,Oliver,Charles,dom duties ,1
+2205,Moore,Jacob,dressmaker ,1
+2206,Coots,Reuben,dom duties ,1
+2207,Hill,Nancy,washer ,2
+2208,Bowman,Mary,knitter ,1
+2209,Mathews,Susan,dressmaker ,1
+2210,Rogers,John,null,null
+2211,Davis,Elias,null,null
+2212,Adams,Henry,dom duties ,1
+2213,Waters,David,dom duties ,1
+2214,Fisher,Eliza,null,null
+2215,Gibbs,Maria,washer ,2
+2216,Nelson,William,null,null
+2217,Parks,Edward,dom duties ,1
+2218,Jones,John,dom duties ,2
+2218,Jones,John,washer ,1
+2219,Smith,Ann,cook ,1
+2220,Kendall,Isaac,washer ,1
+2221,Johnson,Clara,washer ,1
+2221,Johnson,Clara,dressmaker ,1
+2222,Caldwell,Thos,days work ,1
+2223,Sammons,Ashel,washer ,2
+2224,Purnell,Ellen,days work ,1
+2225,Boyer,Mary,null,null
+2226,Levsck,Chas H,dom duties ,1
+2227,Seymour,Francis,washer ,1
+2228,Smith,Samuel,washer ,1
+2229,Thomas,Harriet,null,null
+2230,Burton,Daniel,dom duties ,1
+2231,George,Julia,washer ,1
+2232,Mitchell,Minny,washer ,1
+2233,Brown,Zebedee,upholster ,1
+2233,Brown,Zebedee,dressmaker ,1
+2234,Barkley,Omoretta,hair dresser ,1
+2235,Ballar,Joseph,washer ,1
+2236,Murphy,Alfred,washer ,2
+2237,Myers,Hickman,null,null
+2238,Orton,Morris,washer ,1
+2239,Cooness,Gilbert,washer ,1
+2240,Johnson,Page Ann,washer ,3
+2241,Brown,Jane,washer ,1
+2242,Butler,James,washer when able ,1
+2243,Sammons,Harriet,washer ,1
+2244,Becham,Hester,days work ,1
+2245,Hart,Joseph,washer ,1
+2245,Hart,Joseph,not able ,1
+2246,Evans,William,dom duties ,1
+2247,Welsh,Sidney,days work ,1
+2248,Jacobs,Martha,days work ,1
+2249,White,Candance,washer ,1
+2250,Stevens,William,washer ,1
+2251,Minton,Henry,dom duties ,1
+2252,Glasgow,Jesse E,dom duties ,1
+2253,Beck,Asbury,null,null
+2254,Morent,?,days work ,1
+2255,Simpson,Reuben,dom duties ,1
+2256,McKee,Alexander,washer ,1
+2257,Harris,James,dressmaker ,1
+2258,Bendick,Levi,null,null
+2259,Bendick,Levi,washer ,1
+2260,Brister,Elizabeth,days work ,1
+2261,Duff,Christopher,washer ,1
+2262,Freeman,William G,dressmaker ,1
+2263,Bayan,Maria,null,null
+2264,Thompson,Harriet,null,null
+2265,Hill,Mary,school teacher ,1
+2265,Hill,Mary,dressmaker ,1
+2266,Green,Joseph,dom duties ,1
+2266,Green,Joseph,not able ,1
+2267,Fells,James,dom duties ,1
+2268,Dickenson,William H,dom duties ,1
+2269,Scott,David,dom duties ,1
+2270,Fisher,Jonathan,washer ,1
+2271,Tribu,Jane,various ,1
+2272,Miller,Jacob,washer ,1
+2273,Williams,Susan,washer when able ,1
+2274,Collins,Saint,dom duties ,1
+2275,Gibbs,Richard,dressmaker ,1
+2276,Trupe,Peter,days work ,1
+2277,Gordan,James,days work ,1
+2278,Ware,Joel,dom duties ,1
+2279,Carpenter,Caleb,null,null
+2280,Thomas,David,washer ,1
+2281,Hooper,John,washer ,1
+2282,Tennington,Jacob,dom duties ,1
+2283,Burton,James,washer ,1
+2284,Gibbons,Margaret,dressmaker ,1
+2285,Craig,Rebecca,washer ,1
+2286,Chambers,Diana,washer ,1
+2287,Hayes,Caleb,washer ,1
+2288,Fisher,Bridget,days work ,1
+2288,Fisher,Bridget,not able ,1
+2289,Smith,Mary,washer ,1
+2290,Benson,John Hl,null,null
+2291,Butter,Sarah,null,null
+2292,Dickinson,Titus,null,null
+2293,Browning,Maria,days work ,1
+2294,Thompson,William,washer ,1
+2295,Hill,Abraham,washer ,1
+2296,Frisby,Richard,null,null
+2297,Mathews,Ann,washer ,1
+2298,Biggs,Robert,dress ,1
+2298,Biggs,Robert,shirt maker ,1
+2299,Evans,Samuel,dressmaker ,1
+2299,Evans,Samuel,tailoress ,1
+2300,Jordan,Alexander,dom duties ,1
+2301,Dickson,William,shirtm ,1
+2301,Dickson,William,days work ,1
+2301,Dickson,William,not able ,1
+2302,Seymour,John,dom duties ,1
+2303,Bell,Hezikiah,days work ,1
+2304,Gaines,John,washer ,1
+2305,Nixon,Jane,washer ,2
+2305,Nixon,Jane,not able ,1
+2306,Enos,Hannah,null,null
+2307,Augustus,Samuel,washer ,1
+2308,Price,?,days work ,1
+2309,Carson,Hannah,dressmaker ,1
+2310,Martin,Mary,null,null
+2311,Campbell,Mary,null,null
+2312,Beck,Mary,null,null
+2313,Brown,Eli,null,null
+2314,Harvey,Peter,washer ,1
+2315,Bladen,Ann Eliza,null,null
+2316,Binder,Jerimiah,dom duties ,1
+2317,Gilbert,Charles,shop keeper ,1
+2318,Gilbert,Thomas,days work ,1
+2319,Golding,Ann,days work ,1
+2319,Golding,Ann,not able ,1
+2320,Gladding,Parker,washer ,2
+2321,Purnell,Milby,days work ,1
+2322,Gibson,William E,washer ,1
+2323,Craig,Hester,washer ,1
+2324,Eddy,Josiah,washer ,1
+2324,Eddy,Josiah,not able ,1
+2325,Walton,Dennis,washer ,1
+2326,Dawson,James,washer ,1
+2327,Howard,William,washer ,1
+2328,Bruckle,Samuel Van,null,null
+2329,Cove,Emaline,washer ,1
+2330,Miller,Stephen,washer ,1
+2330,Miller,Stephen,dressmaker ,1
+2330,Miller,Stephen,cook ,1
+2331,Robinson,James,washer ,1
+2332,Mann,Martin,washer ,1
+2332,Mann,Martin,days work ,1
+2333,Mead,Lewis,dom duties ,1
+2333,Mead,Lewis,shirt maker ,1
+2334,Todd,Isaac,washer ,1
+2335,Willington,Emanual,washer ,1
+2336,Frisby,Ray,washer ,1
+2337,Hines,John,washer ,1
+2338,Beck,Clementine,washer ,1
+2339,Cutis,George,dom duties ,1
+2340,Valentine,Phillis,nurse ,1
+2340,Valentine,Phillis,dressmaker ,1
+2341,Bass,Samuel,dom duties ,1
+2342,Little,Catharine,days work ,2
+2343,Purnell,Charles,washer ,1
+2344,Handy,Lilly,huckster,1
+2345,Purnell,Esau,days work ,1
+2346,Woods,Peter,washer ,1
+2347,Oliver,Richard,washer ,1
+2348,Evans,David,huckster,1
+2349,Forten,Southern,huckster washer ,1
+2350,Car,Littleton,washer ,1
+2351,Wharton,Mary,cook ,1
+2352,Warren,Mary,whitewasher ,1
+2352,Warren,Mary,dom duties ,1
+2353,Stokley,Levi,dressmaker ,1
+2354,Brown,James,washer ,1
+2355,Okie,Robert,washer ,1
+2356,Penn,Charles,null,null
+2357,Hogwood,John,washer ,1
+2358,Washington,George,washer ,1
+2359,Brown,John,washer ,1
+2360,Foulke,Ann,washer ,2
+2361,Derman,George,days work ,1
+2362,Hicks,Susan,washer ,1
+2363,Peak,Amelia,null,null
+2364,Reason,Isabella,washer ,1
+2364,Reason,Isabella,sempstress ,1
+2365,Everett,James M,washer ,1
+2366,Custis,Lewis,washer when able ,1
+2367,Brown,Hester,washer ,2
+2368,Bailey,Abner,days work ,1
+2369,Brown,George,washer ,1
+2369,Brown,George,past work ,1
+2370,Jones,Rebecca,null,null
+2371,Mill,William,null,null
+2372,Hopkins,Amelia,washer ,1
+2373,Rex,Mingo,washer ,1
+2374,Fisher,Thomas,dom duties ,1
+2375,Jones,Jane,null,null
+2376,Eroin,Letitia,days work ,1
+2376,Eroin,Letitia,dressmaker ,1
+2377,Williams,Thomas,washer ,1
+2378,Lewis,Amos,washer ,1
+2379,Johnson,Edward,washer ,1
+2380,Fullman,Anna,null,null
+2381,Juley,David,washer ,1
+2382,Sopeman,Jonathan,nurse ,1
+2382,Sopeman,Jonathan,washer ,1
+2382,Sopeman,Jonathan,shirt maker ,1
+2383,Huetchines,Elijah,null,null
+2384,Hall,Ebenezer,washer ,1
+2385,Still,William,dressmaker ,1
+2386,Merrion,Francis,washer ,1
+2387,Wilson,Joseph,washer ,2
+2388,Sloan,Paul W,dressmaker ,1
+2389,Cole,Maria,washer ,2
+2389,Cole,Maria,days work ,1
+2390,Weeks,Rhoda,null,null
+2391,Frisby,Ann,washer ,1
+2392,Stokley,Chas,washer ,1
+2393,Brown,John T,washer ,1
+2394,Queen,Edward,washer ,1
+2394,Queen,Edward,whitewasher ,1
+2395,Wilson,James M,dom duties ,1
+2396,Birch,John,dom duties ,1
+2396,Birch,John,cook ,1
+2397,Wallup,Levi,days work ,1
+2398,Kennedy,Robert,whitewasher ,1
+2398,Kennedy,Robert,dressmaker ,1
+2399,Allen,William,dom duties ,1
+2400,Richarson,Robert,washer when able ,1
+2401,Aexander,Isaac,washer when able ,1
+2402,Pence,William,washer ,2
+2403,George,Alexander,dom duties ,1
+2404,Barnard,Sam,days work ,1
+2405,Records,Rachel,days work ,2
+2406,Dorsey,Agustus,washer ,1
+2407,Clay,James,tailoress ,1
+2407,Clay,James,dom duties ,1
+2408,Johnson,Abraham,washer ,1
+2409,Jacoby,Mary,null,null
+2410,Yancy,Ellen,null,null
+2411,Pitts,Mark,washer ,1
+2412,Williams,Henry,washer ,1
+2412,Williams,Henry,sempstress ,1
+2413,Hodges,Francis,washer ,1
+2414,Francis,Teagle,washer ,2
+2415,James,Levi,washer ,1
+2416,Atlee,Adam,days work ,1
+2417,Smith,Elizabeth,days work ,1
+2418,Bailey,Peter,null,null
+2419,Thompson,Morris,days work ,1
+2420,Weeks,Laverne,shirt ,2
+2420,Weeks,Laverne,dressmaker ,1
+2421,Davis,John,days work ,1
+2421,Davis,John,washer ,1
+2421,Davis,John,sempstress ,1
+2422,Brown,James,washer ,1
+2422,Brown,James,sempstress ,1
+2423,Holland,Charles,washer ,1
+2424,White,Isaac,washer ,1
+2425,Valentine,Harrison,dressmaker ,1
+2425,Valentine,Harrison,sempstress ,1
+2426,Wilson,Isaac,shirt ,1
+2426,Wilson,Isaac,dressmaker ,1
+2427,Goines,William,dom duties ,2
+2428,Swains,Robert,dom duties ,1
+2429,Rickert,Phillip,washer ,1
+2430,Lawrence,Isaac,days work ,1
+2431,Butler,William,dom duties ,1
+2432,Giles,Lewis,washer ,1
+2433,Tribu,James,cook ,1
+2433,Tribu,James,days work ,1
+2434,Murray,Isaac,dressmaker ,1
+2435,Cooper,Susan,washer ,1
+2436,Carney,Rachel,washer ,1
+2437,Warfield,Diana,washer ,2
+2438,Holling,Daniel,dom duties ,1
+2439,Carey,Robert,washer ,1
+2440,Gilbert,Benjamin,dom duties ,1
+2441,Brent,Nelson,days work ,1
+2442,Davis,Charles,days work ,1
+2443,Jackon,Daniel,days work ,1
+2444,White,Robert,washer ,1
+2445,Brown,Charles,washer ,1
+2446,Hall,Charles,dom duties ,1
+2446,Hall,Charles,teacher ,1
+2447,Stevens,Louisa,washer ,1
+2448,Miller,Benjamin,shirt maker ,1
+2449,Farmer,Phillip,washer ,2
+2450,Marshall,John,days work ,1
+2451,Carter,Rebecca,days work ,1
+2452,Harris,James,washer ,1
+2453,Collins,Rachel,null,null
+2454,Trusty,Washinton,dom duties ,1
+2454,Trusty,Washinton,not able ,1
+2455,Bowman,Giah,washer ,1
+2456,Lockman,Samuel,dom duties ,1
+2457,Williams,John,tailoress ,1
+2457,Williams,John,dom duties ,1
+2458,Davis,Jacob,dom duties ,1
+2459,Weeks,Nathaniel,washer ,1
+2460,Johnson,Walter,washer ,1
+2460,Johnson,Walter,past work ,1
+2461,Beckett,Isaac,washer ,1
+2462,Pitts,Jemima,cuts carpet rags ,1
+2463,Wiley,Andrew,washer ,1
+2464,West,Ellen,washer ,1
+2465,Gaubert,Julius,washer ,1
+2466,Anthony,?,cook ,1
+2467,Brown,James A,washer ,2
+2468,Beckett,Hester,washer ,1
+2469,Bendick,Sarah,washer ,1
+2469,Bendick,Sarah,past work ,1
+2470,Thomas,James,washer ,1
+2471,Morris,Benjamin,washer ,1
+2472,Allison,Mary,cook when able ,1
+2473,Morris,Stephen,dom duties ,1
+2474,Brown,William,washer ,1
+2475,Sinclair,Maria,washer ,1
+2476,Williams,Phoebe Ann,days work ,1
+2477,Osborne,Anthony,washer ,1
+2478,Poole,Catharine,washer ,1
+2478,Poole,Catharine,dom duties ,1
+2479,Jones,John,null,null
+2480,Dull,Montgomery,dom duties ,1
+2481,Gleeves,Henry,null,null
+2482,Williams,Samuel,washer ,1
+2483,Stevenson,William,dom duties ,1
+2484,Johnson,William,days work ,1
+2485,Bibery,Sam,carpet rags ,2
+2486,Thomas,Hester,washer ,1
+2487,Scott,Violet,washer ,1
+2488,Brooks,John,dressmaker ,1
+2489,Farmer,James,days work ,1
+2490,Matthews,John,null,null
+2491,Ware,William,days work ,1
+2492,Moore,Henry,washer ,1
+2493,Wester,Isaac,null,null
+2494,Lewis,Joseph,dom duties ,1
+2495,Morris,Harriet,shirt maker ,1
+2496,Gesper,Lewis,confectioner dom duties ,1
+2497,Wilson,Elijah,dom duties ,1
+2498,Douglas,William,confectioner ,1
+2498,Douglas,William,shirt m ,1
+2498,Douglas,William,dress m ,2
+2499,Bowers,Henrietta,dom duties ,3
+2499,Bowers,Henrietta,dressmaker ,1
+2499,Bowers,Henrietta,not able ,1
+2500,Ballard,Hagar,null,null
+2501,Adams,Alexander,washer ,1
+2502,Agustus,Maria,washer ,1
+2502,Agustus,Maria,ironing ,1
+2503,Allmon,Mickes,keeps shop ,1
+2504,Amos,George H,washer ,1
+2504,Amos,George H,ironing ,1
+2505,Anderson,Adaline,washer ,1
+2506,Anderson,Dianah,null,null
+2507,Anderson,Isaac,house cleaning ,1
+2508,Anderson,William,washer ,1
+2509,Anderson,William,unemployed ,1
+2510,Armstrong,William,washer ,1
+2510,Armstrong,William,ironing ,1
+2511,Avtson,Richard,washer ,1
+2511,Avtson,Richard,ironing ,1
+2512,Beck,John,null,null
+2513,Bell,Aaron,washer ,1
+2514,Bell,Alexander,dressmaker ,1
+2515,Bennett,Charles,washer ,1
+2515,Bennett,Charles,ironing ,1
+2516,Bennett,David,null,null
+2517,Bennett,James,washer ,1
+2517,Bennett,James,ironing ,1
+2518,Benson,John,washer ,1
+2519,Bird,James,null,null
+2520,Blakton,Anthony,null,null
+2521,Bosley,Frederic,unemployed ,1
+2522,Bowen,Eliza,washer ,1
+2522,Bowen,Eliza,ironing ,1
+2523,Bowman,Garnet,null,null
+2524,Bowsen,David,null,null
+2525,Bowsen,Jeremiah,null,null
+2526,Boyer,Abraham,washer ,1
+2527,Bramill,Daniel B,keeps house ,1
+2528,Brinkley,Ezekiel,null,null
+2529,Briston,Isaac,washer ,1
+2529,Briston,Isaac,ironing ,1
+2530,Brough,Letty,washer ,1
+2531,Brown,Jerimiah,whitewashing ,1
+2532,Brown,Abigail,washer ,1
+2533,Brown,Ann,null,null
+2534,Brown,Ann,null,null
+2535,Brown,Isaac,mantua maker ,1
+2536,Brown,John,washer ,1
+2537,Bryant,Jacob,general work ,1
+2538,Bull,Dianah,whitewashing ,1
+2539,Burrow,William,house cleaning ,1
+2540,Burtin,James,wife sick ,1
+2541,Bustill,David,stand in market ,1
+2542,Bustill,James,attend shop provisions ,1
+2543,Cannon,Reese,washer ,1
+2544,Carey,William,washer ,1
+2545,Carle,David,unemployed ,1
+2546,Carney,Edward,sewing ,1
+2547,Carter,Isaac,washer ,1
+2548,Carter,James,house cleaning ,1
+2549,Carter,Perry,whitewashing ,1
+2550,Celson,George,whitewashing ,1
+2551,Chandilen,John,unemployed ,1
+2552,Cipple,Anna,whitewashing ,1
+2553,Cline,Claressa,washer ,1
+2553,Cline,Claressa,sewing ,1
+2554,Cline,David,washer ,1
+2555,Collins,Sarah,null,null
+2556,Comming,Letitia,cook ,1
+2557,Conner,Thomas,washer ,1
+2558,Cooper,Isaac,null,null
+2559,Cooper,Sarah,washer ,1
+2559,Cooper,Sarah,ironing ,1
+2559,Cooper,Sarah,sewing ,1
+2560,Cornilus,Richard,assorter of rags ,1
+2561,Cornish,Scipio,whitewashing ,1
+2562,Crawford,Richard,general work ,1
+2563,Croppen,Isaac,washer ,1
+2564,Dans,Hannah,house cleaner ,1
+2565,Davis,Charles,washer ,1
+2565,Davis,Charles,ironing ,1
+2566,Davis,Eli,null,null
+2567,Davis,Fransis,null,null
+2568,Davis,George,null,null
+2569,Davis,Isaac,dressmaker ,1
+2570,Davis,Moses,null,null
+2571,Davis,Robert,washing regularly ,1
+2572,Day,William,whitewashing ,1
+2573,Deal,Samuel,null,null
+2574,Dedorty,Frances A,cook ,2
+2575,Deleoice,Eliza,washer ,1
+2576,Dembry,Ass,young child husband left ,1
+2577,Demby,Samuel,null,null
+2578,Demly,William,wash ,1
+2579,Denney,Joseph,washing and ironing ,1
+2580,Diton,John,whitewashing ,1
+2581,Dorsey,John W,washer ,1
+2582,Downey,Jane,null,null
+2583,Drommonds,Frances,house cleans ,1
+2584,Dunn,Cornelius,house cleaning ,1
+2585,Dunn,Thomas,washer & whitewashing,1
+2586,Dunson,George,wife wants work ,1
+2587,Durham,NL,shirt maker ,1
+2588,Edger,John,washer ,1
+2589,Emmory,Thomas,null,null
+2590,Emory,Gustavus,washer ,1
+2591,Fauset,Susan,house cleaning ,1
+2592,Ferman,Uriah,sells in market ,1
+2593,Finney,Samuel,washer ,1
+2594,Fisher,Benjamin,house cleans ,1
+2595,Fisher,Deborah,whitewashing ,1
+2596,Fisher,George,null,null
+2597,Fisher,Noah,washer ,1
+2598,Forman,Francis,dressmaker ,1
+2599,Franklin,Edward,null,null
+2600,Freeman,Amos,washer ,1
+2601,Freeman,Eliza,washer ,1
+2602,Garrison,Gardiner,house cleaning ,1
+2603,Giles,Jane,washer ,1
+2603,Giles,Jane,ironing ,1
+2604,Gilison,John,homooy sells ,1
+2605,Ginn,James,washer ,1
+2606,Golden,BW,null,null
+2607,Goodman,Perry,washer ,1
+2607,Goodman,Perry,ironing ,1
+2608,Goosbury,James,same ,1
+2609,Gordon,William,null,null
+2610,Gould,Samuel,washer ,1
+2610,Gould,Samuel,ironing ,1
+2611,Green,James,null,null
+2612,Green,Nelson,washer ,1
+2613,Griffith,Aaron,washer ,1
+2613,Griffith,Aaron,ironing ,1
+2614,Griffith,James,washer ,1
+2614,Griffith,James,sewing ,1
+2615,Griffith,James,null,null
+2616,Gross,Lloyd,washer ,1
+2617,Grummill,James McG,ornamental hair dresser ,1
+2618,Hackett,Phillip,mantua maker ,1
+2619,Hall,Issa,wash ,1
+2620,Hall,James,unemployed ,1
+2621,Hall,John,dressmaker ,1
+2622,Hall,Thomas L,washer ,1
+2623,Hammond,John,washer ,1
+2623,Hammond,John,ironing ,1
+2624,Harmon,Elizabeth,washer ,1
+2625,Harmon,William,washer ,1
+2625,Harmon,William,ironing ,1
+2626,Harris,Robert,washer ,1
+2627,Haskins,William H,washer ,1
+2628,Haslett,Jacob,washer ,1
+2628,Haslett,Jacob,ironing ,1
+2629,Hawkins,Elizabeth,service ,1
+2630,Hawkins,James,washer ,1
+2631,Hays,James,general work ,1
+2632,Henry,Elizabeth,sewing ,1
+2633,Henry,Henry,washer ,1
+2634,Henry,Nancy,null,null
+2635,Henson,Ruth,house cleaning ,1
+2636,Hicks,Hannah,washer ,1
+2636,Hicks,Hannah,ironing ,1
+2637,Higgins,Samuel,null,null
+2638,Holland,John,null,null
+2639,Hollowell,James,mantua maker ,1
+2640,Hopper,Cecillia,mantua maker ,1
+2641,Howard,Robert,washer ,1
+2641,Howard,Robert,ironing ,1
+2642,Howard,Thomas,keeps the house ,1
+2643,Howard,Thomas,keeps the house ,1
+2644,Hyatt,James,house cleaning ,1
+2645,Hytt,Amelia,house cleaning ,1
+2646,Ingrem,Ann,null,null
+2647,Jackson,Benjamin,whitewashing ,1
+2648,Jackson,Wilford,null,null
+2649,Jacobs,Elijah,washer ,1
+2650,James,Edward,washer ,1
+2651,James,Garrison,washer ,1
+2651,James,Garrison,ironing ,1
+2652,James,Jemima,null,null
+2653,James,Nancy,null,null
+2654,James,Sarah A,null,null
+2655,Jeffers,William,null,null
+2656,Jinkins,Jacob,general work ,1
+2657,Johnson,Abraham,wash ,1
+2658,Johnson,Edward,null,null
+2659,Johnson,Edward,null,null
+2660,Johnson,Elizabeth,washer ,1
+2661,Johnson,James,unemployed ,1
+2662,Johnson,John,washer ,1
+2663,Johnson,John,null,null
+2664,Johnson,Lewis,washer ,1
+2664,Johnson,Lewis,sewing ,1
+2665,Johnson,Reuben,seamstress ,1
+2666,Johnson,Richard,washer ,1
+2666,Johnson,Richard,ironing ,1
+2667,Johnson,Samuel,deals in vegtables ,1
+2668,Johnson,William,washer ,1
+2669,Johnson,William,washer ,1
+2670,Johnson,William,null,null
+2671,Jones,Elizabeth,null,null
+2672,Jones,Enoch,house cleaning ,1
+2673,Jones,Gabriel,seamstress ,1
+2674,Jones,George,washer ,1
+2675,Jones,Hannah A,mantua maker ,1
+2676,Jones,Thomas,null,null
+2677,Jones,William B,null,null
+2678,Julius,George,washer ,1
+2679,Julius,John,washer ,1
+2680,Kenton,Dominic,house cleaning ,1
+2681,King,Harriet,washer ,1
+2682,Kufl,James,washer ,1
+2683,Lane,Henry,null,null
+2684,Latigee,John,whitewashing ,1
+2685,Laws,George,washer ,1
+2685,Laws,George,ironing ,1
+2686,Laws,John,washer ,1
+2687,Lawston,William,null,null
+2688,Leary,David,washer ,1
+2689,Lee,Francis,washer ,1
+2690,Levinton,Catharine,sewing ,1
+2691,Lewton,John,mantua maker ,1
+2692,Limes,James,washer ,1
+2693,Listen,John,null,null
+2694,London,Isaac,null,null
+2695,Manluff,Alexander,null,null
+2696,Manluff,John,washer ,1
+2697,Manual,Thomas,washer ,1
+2698,Marsh,Lydia,washer ,1
+2699,McCormmic,Maria,washer ,1
+2699,McCormmic,Maria,ironing ,1
+2700,Mead,Charles,house cleaning ,1
+2701,Mearu,Urias,house cleaning ,1
+2702,Milburn,Mathilda,house cleaning ,1
+2703,Millen,Isaac,null,null
+2704,Millen,William,null,null
+2705,Miller,James,null,null
+2706,Mitchel,William,washer ,1
+2707,Moore,Benjamin,cooking ,1
+2708,Moore,Elizabeth,washer ,1
+2708,Moore,Elizabeth,sewing ,1
+2709,Moore,James,unemployed ,1
+2710,Moore,James,general work ,1
+2711,Moore,Lidia A,unemployed ,1
+2712,Moore,Mathias,null,null
+2713,Morgan,Grace,washing and boarders ,1
+2714,Morris,Elizabeth,house cleaning ,1
+2715,Murrell,David,washer ,1
+2716,Myers,Daniel,washer ,1
+2717,Myers,Lodwick,washer ,1
+2718,Newsome,Nathan,null,null
+2719,Nixon,Briston,null,null
+2720,Parker,Henry,cook ,1
+2721,Parker,James,cook ,1
+2722,Parker,Jeremiah,washer ,1
+2723,Parker,John,house cleaning ,1
+2724,Parker,Mary,house cleaning ,1
+2725,Parker,Sarah,null,null
+2726,Patterson,William,seamstress ,1
+2727,Pennington,Mary,washing and ironing ,1
+2728,Peterson,George,general work ,1
+2729,Phillips,James,unemployed ,1
+2730,Phillips,Jarole,keeps the house ,1
+2731,Pierce,Jacob,null,null
+2732,Pierson,William,washer ,1
+2732,Pierson,William,ironing ,1
+2733,Pinkton,Adam,washer ,1
+2734,Polk,James,house cleaning ,1
+2735,Porter,Patience,washer ,1
+2736,Potter,Charles,washer ,1
+2736,Potter,Charles,ironing ,1
+2737,Powell,John,washer ,1
+2737,Powell,John,ironing ,1
+2738,Price,Phillip,null,null
+2739,Purnell,Israel,wash ,1
+2740,Purnell,James,washer ,1
+2741,Purnell,Jenkens,washer ,1
+2742,Purnell,Minty,null,null
+2743,Queen,Joseph,washer ,1
+2744,Rafs,Minas,null,null
+2745,Randolph,William,keeps small shop ,1
+2746,Rennand,James,null,null
+2747,Rice,Charles,wants work ,1
+2748,Richards,Hannah,washer ,1
+2749,Richmond,James,washer ,1
+2750,Riggs,Isaac,null,null
+2751,Riggs,Nancy,washer ,1
+2751,Riggs,Nancy,ironing ,1
+2752,Ringo,Sarah,null,null
+2753,Ritter,Joseph,washer ,1
+2754,Roach,Henry,washer ,1
+2754,Roach,Henry,ironing ,1
+2755,Roach,Purnell,washing whitewashing ,1
+2756,Roads,Alexander,null,null
+2757,Roads,Thomas,unemployed ,1
+2758,Roberson,Charles,general work ,1
+2759,Robinson,George,house cleaning ,1
+2760,Robinson,Wesley,washer ,1
+2761,Robinson,Wignette,washer ,1
+2762,Rodney,Simon,washer ,1
+2763,Saddler,Anthony,washer ,1
+2763,Saddler,Anthony,ironing ,1
+2764,Saunders,James B,null,null
+2765,Saunders,Solomon,washer ,1
+2765,Saunders,Solomon,ironing ,1
+2766,Scott,James,null,null
+2767,Scuchins,Willis,unemployed ,1
+2768,Shelly,Henry,washing and ironing ,1
+2769,Shields,Henry,cook ,1
+2770,Short,D M,washer ,1
+2770,Short,D M,ironing ,1
+2771,Shorter,Ann,washer ,1
+2771,Shorter,Ann,ironing ,1
+2772,Simmons,Charlotte,washer ,1
+2772,Simmons,Charlotte,nurse children ,1
+2773,Simmons,John,washer ,1
+2774,Smith,David,washer ,1
+2774,Smith,David,ironing ,1
+2775,Smith,Elizabeth,boarder ,1
+2775,Smith,Elizabeth,washer ,1
+2776,Smith,Henry,washer ,1
+2777,Smith,Joseph,washer ,1
+2778,Smith,Joseph,washer ,1
+2778,Smith,Joseph,ironing ,1
+2779,Solomon,John,null,null
+2780,Spencer,Rachel,washer ,1
+2780,Spencer,Rachel,ironing ,1
+2781,Stansburary,William,washer ,1
+2782,Steele,Henry,shirt maker ,1
+2783,Stewart,Benjamin,washer ,1
+2784,Stewart,Eliza,washer ,1
+2785,Tate,Rachel,washer ,1
+2785,Tate,Rachel,ironing ,1
+2786,Tate,Solomon,whitewashing ,1
+2787,Thomas,Ann,washer ,1
+2788,Thomas,Henry,general work ,1
+2789,Thomas,James,washer ,1
+2790,Thomas,John,null,null
+2791,Thomas,John,washer ,1
+2792,Thomas,John,null,null
+2793,Thomas,John,house cleaning ,1
+2794,Thomas,Mary,sells pepper pot ,1
+2795,Thomas,Melinda,washer ,1
+2795,Thomas,Melinda,ironing ,1
+2796,Thomas,Rebecca,makes carpet rag balls ,1
+2797,Thomas,Richard,null,null
+2798,Thomas,William,wants work ,1
+2799,Thompson,Alexander,washer ,1
+2800,Thompson,Charles,washer ,1
+2801,Thompson,Edward,washer ,1
+2802,Thorn,Jacob,cooking pen ,1
+2803,Tighlman,Grace,washer ,1
+2803,Tighlman,Grace,ironing ,1
+2804,Tolley,Marth,washer ,1
+2804,Tolley,Marth,ironing ,1
+2805,Townsend,James,general work ,1
+2806,Trusty,Jacob,keeps big house ,1
+2807,Tuless,George,house cleaning ,1
+2808,Tunion,Thomas,null,null
+2809,Tunnell,Maria,cook ,1
+2810,Tunnell,Peter,washer ,1
+2810,Tunnell,Peter,ironing ,1
+2811,Turner,Curtus,sewing ,1
+2812,Turner,Henry,null,null
+2813,Turner,James,null,null
+2814,Turner,Reuben,washer ,1
+2814,Turner,Reuben,ironing ,1
+2815,Turner,Robert,washer ,1
+2816,Turner,Simon,null,null
+2817,Turner,William C,house cleaning ,1
+2818,Underwood,Henry,null,null
+2819,Varess,Thomas,washer ,1
+2820,Vever,Henrietta,washer ,1
+2821,Walker,Amelia,house cleaning ,1
+2822,Walker,Hannah,null,null
+2823,Walls,John,house cleaning ,1
+2824,Warfield,Charles,washer ,1
+2824,Warfield,Charles,ironing ,1
+2825,Warmen,Edward,keeps the house ,1
+2826,Warren,Nathan,unemployed ,1
+2827,Warrison,William,keeps the house ,1
+2828,Waters,Rachel,washer ,1
+2828,Waters,Rachel,house cleaning ,1
+2829,Watson,Sarah,washer ,1
+2829,Watson,Sarah,ironing ,1
+2830,Wear,Isaiah C,null,null
+2831,West,Dennis L,house work at home ,1
+2832,West,Sarah,washer ,1
+2833,White,Jacob C,dressmaker ,1
+2834,White,John,unemployed ,1
+2835,White,John,null,null
+2836,White,Rachel,house cleaning ,1
+2837,White,Reuben,null,null
+2838,Whittaker,Israel,unemployed ,1
+2839,Willet,Adam,washer ,1
+2840,Williams,Ann,washing and ironing ,1
+2841,Williams,Charles,null,null
+2842,Williams,Isaac,washer ,1
+2843,Williams,Jacob,washer ,1
+2843,Williams,Jacob,ironing ,1
+2844,Williams,James,washer ,1
+2845,Williams,M,washer ,1
+2846,Williams,Philip,house cleaning ,1
+2847,Williams,Sarah W,house cleaning ,1
+2848,Williams,Silas,null,null
+2849,Williams,Thomas,house cleans ,1
+2850,Wilmore,Catharine,whitewashing ,1
+2851,Wilmore,William,general work ,1
+2852,Wilson,Robert,house cleans ,1
+2853,Young,Edward,unemployed ,1
+2854,Young,Moses,house cleaning ,1
+2855,Young,Richard,washer ,1
+2856,Young,Richard,null,null
+2857,Young,Richard,washer ,1
+2858,Accooe,Edward,washer ,1
+2858,Accooe,Edward,ironing ,1
+2859,Adams,John,null,null
+2860,Adams,N,washer ,1
+2860,Adams,N,ironing ,1
+2861,Adams,William,washer ,1
+2861,Adams,William,ironing ,1
+2862,Agustus,Rachel,days work ,1
+2862,Agustus,Rachel,cooking ,1
+2863,Alexander,Benjamin,null,null
+2864,Alexander,Rachel,washing plain sewing ,2
+2865,Alexander,Thomas,washer ,1
+2865,Alexander,Thomas,ironing ,1
+2866,Allen,Elizabeth,washer ,1
+2866,Allen,Elizabeth,ironing ,1
+2867,Allen,Israel,null,null
+2868,Allen,Samuel,washer ,1
+2868,Allen,Samuel,ironing ,1
+2869,Allen,Samuel,washer ,1
+2870,Alman,Thomas,house work ,1
+2871,Ames,W,house work ,1
+2872,Anders,Jacob,ladies apparel ,1
+2873,Anders,William,washer ,1
+2873,Anders,William,ironing ,1
+2874,Anderson,Cecillia,washer ,1
+2874,Anderson,Cecillia,whitewashing ,1
+2875,Anderson,Eilzabeth,washer ,1
+2875,Anderson,Eilzabeth,ironing ,1
+2876,Anderson,James,washer ,2
+2876,Anderson,James,days work ,1
+2877,Anderson,John,washer ,1
+2877,Anderson,John,ironing ,1
+2878,Anderson,Phillip P,null,null
+2879,Antony,Charles,washer ,1
+2879,Antony,Charles,ironing ,1
+2880,Antony,John,cuts rags ,1
+2881,Antony,Richard,null,null
+2882,Aramstrong,Littleton,house work ,1
+2883,Archer,Jeremiah,washer ,1
+2883,Archer,Jeremiah,ironing ,1
+2884,Armstrong,James,null,null
+2885,Armstrong,William,null,null
+2886,Ashton,Jeppo,tailoress ,1
+2887,Ashton,John,weakly ,1
+2888,Ayrs,Ellen,washer ,1
+2888,Ayrs,Ellen,ironing ,1
+2889,Bacon,William,washer ,1
+2889,Bacon,William,days work ,1
+2890,Bagwell,Richard,dressmaker ,1
+2891,Bailey,Henry,cook ,1
+2892,Bailey,John H,washer ,1
+2892,Bailey,John H,ironing ,1
+2893,Baker,Margaret,washer ,1
+2893,Baker,Margaret,ironing ,1
+2894,Ballard,Hannah,days work ,1
+2895,Banks,Alexander,null,null
+2896,Banks,Henry,washer ,1
+2896,Banks,Henry,ironing ,1
+2897,Banks,John J,house work ,1
+2898,Banks,Nathaniel,cuts rags ,1
+2899,Banks,William,washer ,1
+2899,Banks,William,ironing ,1
+2900,Barker,Peter,null,null
+2901,Barrot,Jacob,washer ,1
+2902,Bartlow,John,cuts rags ,2
+2903,Barto,Mary,house cleaner ,1
+2904,Barton,James H,days work ,1
+2905,Bassett,Shedrick,shop ,1
+2906,Bassitt,Benjamin,washer ,1
+2906,Bassitt,Benjamin,ironing ,1
+2907,Batis,Josaph'l (?),days work ,1
+2908,Baul,William,washer ,1
+2909,Beach,Hester,cook ,1
+2910,Bead,Fransis,washer ,1
+2910,Bead,Fransis,ironing ,1
+2911,Beck,Caroline,cook ,1
+2912,Beckett,Warner,house work ,1
+2913,Bedford,Thomas,hominy dealer ,1
+2914,Bell,Ceasar,washer ,1
+2914,Bell,Ceasar,ironing ,1
+2915,Bell,Peter,washer ,1
+2915,Bell,Peter,ironing ,1
+2916,Benjiman,Emily,washing days work ,1
+2917,Benn,Sarah,carpet rags ball to sell ,1
+2918,Benson,Maria,nurse cook ,1
+2918,Benson,Maria,at home ,1
+2919,Benson,Sarah,washer ,1
+2920,Benton,John,null,null
+2921,Berry,James H W,sewing is weakly ,1
+2922,Berry,Richard,washing days work ,1
+2923,Berry,Risdon,cuts rags weakly ,1
+2924,Bias,Aexander,washer ,1
+2924,Bias,Aexander,ironing ,1
+2925,Bibbins,Hezikiah,washer ,1
+2925,Bibbins,Hezikiah,ironing ,1
+2926,Bibbins,Mrs,cooks ,1
+2927,Bibbins,Samuel,washer ,1
+2927,Bibbins,Samuel,ironing ,1
+2928,Biddle,Sarah,cuts rags ,1
+2929,Bishop,Jacob,house work ,1
+2930,Bissip,James,washing etc ,1
+2931,Blackston,George W.,dressmaker ,1
+2932,Blake,Caroline,rag & bone,1
+2933,Blake,George,sick ,1
+2934,Blake,Hannah,washer ,2
+2934,Blake,Hannah,cooking etc ,1
+2935,Blake,Henry G,shand clothes ,1
+2935,Blake,Henry G,furniture shop ,1
+2936,Blake,Moses,washing days work ,1
+2937,Blaze,John P,null,null
+2938,Bloke,Samuel,house maid ,1
+2939,Blue,Abraham,washer ,1
+2939,Blue,Abraham,ironing ,1
+2940,Boardley,William,washer ,1
+2940,Boardley,William,ironing ,1
+2941,Boardly,Stephen,null,null
+2942,Bolden,Benjamin,cooking ,1
+2943,Boley,Joseph,washer ,1
+2943,Boley,Joseph,ironing ,1
+2944,Boliver,George W.,house work ,1
+2945,Bonds,Jacob,days work ,1
+2946,Bonning,Charles,washer ,1
+2946,Bonning,Charles,ironing ,1
+2947,Booker,Cornelius,washer ,1
+2947,Booker,Cornelius,ironing ,1
+2948,Booker,Lewis,seamstress ,1
+2949,Boon,Daniel,null,null
+2950,Boon,James,washer ,1
+2951,Booth,James H,at home ,1
+2952,Bowen,Samuel,rag & bone,1
+2953,Bowen,William,rag & bone,1
+2954,Bownan,John,house work ,1
+2955,Bowsen,Thomas,washer ,1
+2955,Bowsen,Thomas,ironing ,1
+2956,Bowser,Stephen,washer ,1
+2956,Bowser,Stephen,ironing ,1
+2957,Boyd,Walter,rag & bone,1
+2958,Boyer,Henry,washer ,1
+2958,Boyer,Henry,general work ,1
+2959,Boyer,Henry,at home is weakly ,1
+2960,Bracy,Thomas,washer ,1
+2960,Bracy,Thomas,ironing ,1
+2961,Braddock,John,washer ,1
+2961,Braddock,John,ironing ,1
+2962,Brandon,Howard,cooking ,1
+2963,Bridge,London,washer ,1
+2963,Bridge,London,ironing ,1
+2964,Bright,John Wesley,washer ,1
+2964,Bright,John Wesley,ironing ,1
+2965,Brinkley,George W.,house work ,1
+2966,Brinkly,Richard,washer ,1
+2966,Brinkly,Richard,cleaning ,1
+2967,Britton,Hall,astrologer ,1
+2968,Brooks,George,washer ,1
+2969,Brooks,Henry,washer ,1
+2969,Brooks,Henry,ironing ,1
+2970,Brooks,John,days work ,1
+2971,Brown,Abraham,house keeper ,1
+2972,Brown,Benjamin,washer ,1
+2973,Brown,Cathrine,washer ,1
+2973,Brown,Cathrine,ironing ,1
+2974,Brown,David,washer ,1
+2974,Brown,David,ironing ,1
+2975,Brown,George,door mat maker ,1
+2976,Brown,Henry,null,null
+2977,Brown,Henry,washer ,1
+2977,Brown,Henry,ironing ,1
+2978,Brown,Henry,washer ,1
+2978,Brown,Henry,ironing ,1
+2979,Brown,James,washer ,1
+2979,Brown,James,ironing ,1
+2980,Brown,James,null,null
+2981,Brown,Jane,seamstress ,1
+2982,Brown,John,null,null
+2983,Brown,John,washer ,1
+2983,Brown,John,ironing ,1
+2984,Brown,John A,washer ,1
+2984,Brown,John A,ironing ,1
+2985,Brown,Marcus,work in house ,1
+2986,Brown,Minos J,washer ,1
+2986,Brown,Minos J,sewing ,1
+2987,Brown,Morris,house work ,1
+2988,Brown,Peter,at home wants work ,1
+2989,Brown,Rebecca,washer ,1
+2989,Brown,Rebecca,ironing ,1
+2990,Brown,Richard,washer ,1
+2990,Brown,Richard,ironing ,1
+2991,Brown,Richard A,washer ,1
+2991,Brown,Richard A,ironing ,1
+2992,Brown,Robert,washer ,1
+2992,Brown,Robert,ironing ,1
+2993,Brown,Robert,washer ,1
+2993,Brown,Robert,ironing ,1
+2994,Brown,Robert,washer ,1
+2994,Brown,Robert,ironing ,1
+2995,Brown,Thomas,washer ,1
+2995,Brown,Thomas,ironing ,1
+2996,Brown,Timothy,cuts rags ,1
+2997,Brown,William,null,null
+2998,Brown,William,at home weakly ,1
+2999,Bruce,William,millinery store ,1
+3000,Bryan,Fransis M,mantua maker ,1
+3001,Bryant,Sandy,sewing ,1
+3002,Buck,Charles,washer ,1
+3002,Buck,Charles,ironing ,1
+3003,Buck,Joseph,makes carpet rags ,1
+3004,Buck,Maria,cook ,1
+3005,Buhlin,Asbury,house keeper ,1
+3006,Bumford,Thomas,rag & bone,1
+3007,Bundick,William,cooks ,2
+3008,Bundy,Silas,washer ,1
+3009,Burke,Enoch A,washer ,1
+3009,Burke,Enoch A,ironing ,1
+3010,Burke,Ruth A,plain sewing ,1
+3011,Burleigh,Hannah,washer ,1
+3011,Burleigh,Hannah,ironing ,1
+3012,Burnell,Lambert,washer ,1
+3012,Burnell,Lambert,ironing ,1
+3013,Burst,Thomas,null,null
+3014,Burton,Daffney,washer ,1
+3014,Burton,Daffney,days work ,1
+3015,Burton,George,cook ,1
+3016,Burton,James,at home ,1
+3017,Burton,James,takes children to board ,1
+3018,Burton,London,washer ,1
+3018,Burton,London,ironing ,1
+3019,Burton,Rachel,washer ,1
+3020,Burvies(?),Maria,keeps assignation house ,1
+3021,Butler,Curtis,null,null
+3022,Butler,Margaret,washer ,1
+3022,Butler,Margaret,ironing ,1
+3023,Butler,Patrick,washer ,1
+3024,Byard,Elizabeth,cook ,1
+3025,Byard,William,house work ,1
+3026,Cain,Charles,washing days work ,1
+3027,Call,Mary A,washer ,1
+3027,Call,Mary A,ironing ,1
+3028,Calwell,George,washer ,1
+3028,Calwell,George,ironing ,1
+3029,Campbell,Hester,cook ,1
+3030,Campbell,Israel,null,null
+3031,Campbell,Randolph U,washer ,1
+3031,Campbell,Randolph U,ironing ,1
+3032,Cannidy,Daniel,washer ,1
+3032,Cannidy,Daniel,ironing ,1
+3033,Cardy,John,plain sewing ,1
+3034,Carey,Ephraim,washer ,1
+3034,Carey,Ephraim,ironing one cooking,1
+3035,Carey,Thomas,washer ,1
+3036,Carman,Geoge,cuts carpet rags ,1
+3037,Carney,Eliza,washer ,1
+3037,Carney,Eliza,ironing ,1
+3038,Carney,Lebric,null,null
+3039,Carney,Thomas,unemployed house work at home ,1
+3040,Carpentar,William,days work sewing ,1
+3041,Carpenter,Jacob,washer ,1
+3041,Carpenter,Jacob,ironing ,1
+3042,Carroll,James,days work ,1
+3043,Carter,Dennis D,seamstress ,1
+3044,Carter,Jacob,cook ,1
+3045,Carter,John,washer ,1
+3045,Carter,John,cook ,1
+3046,Carter,Noah,washer ,1
+3046,Carter,Noah,ironing ,1
+3047,Carter,Samuel,null,null
+3048,Cato,Cecillia,washer ,1
+3048,Cato,Cecillia,ironing ,1
+3049,Cavalier,Charles,house work ,1
+3050,Cawlrell,Joseph,washer ,1
+3050,Cawlrell,Joseph,ironing ,1
+3051,Chambers,Perry,null,null
+3052,Chambers,Rachel,washer ,1
+3052,Chambers,Rachel,ironing ,1
+3053,Chambers,William,washer ,1
+3053,Chambers,William,ironing ,1
+3054,Charles,Rebecca,washer ,1
+3055,Chase,Abraham,rag & bone,1
+3056,Chase,Amelia,washer ,1
+3056,Chase,Amelia,ironing ,1
+3057,Chase,Gasway,washer ,1
+3057,Chase,Gasway,ironing ,1
+3058,Chase,James,washer ,1
+3058,Chase,James,ironing ,1
+3059,Chase,John,washer ,1
+3059,Chase,John,ironing ,1
+3060,Chase,Samuel,washer ,1
+3060,Chase,Samuel,ironing ,1
+3061,Chew,John A,null,null
+3062,Chew,Moses,washer ,1
+3062,Chew,Moses,ironing ,1
+3063,Christipher,Lindy,washer ,1
+3063,Christipher,Lindy,ironing ,1
+3064,Christopher,Levinia,house cleaning ,1
+3065,Claicton,Nathaniel,null,null
+3066,Claixton,Hannah,pastry cook ,1
+3067,Clark,David,seamstress ,1
+3068,Clark,Dianah,washer ,1
+3068,Clark,Dianah,ironing ,1
+3069,Clark,Eliza,washer ,1
+3069,Clark,Eliza,ironing ,1
+3070,Clark,George,midwife sewing ,1
+3071,Clark,James,works at home ,1
+3072,Clark,Maria,washing etc ,1
+3073,Clark,Meillisa,washer ,1
+3073,Clark,Meillisa,house cleaning ,1
+3074,Clark,Myrs,washer ,1
+3074,Clark,Myrs,ironing ,1
+3075,Clark,Thomas,washer ,1
+3075,Clark,Thomas,ironing ,1
+3076,Cline,John,rag & bone,1
+3077,Coal,Joseph,days work ,1
+3078,Coin,Emmanuel,house work ,1
+3079,Cokeaney,Israel,days work ,1
+3080,Cole,Aaron,washer ,1
+3080,Cole,Aaron,ironing ,1
+3081,Cole,David,washer ,1
+3081,Cole,David,ironing ,1
+3082,Cole,Jonathan,unemployed house work at home ,1
+3083,Combs,Isaac,washer ,1
+3083,Combs,Isaac,ironing ,1
+3084,Combs,William,washer ,1
+3085,Combs,William,days work ,1
+3086,Condy,James,cooking ,1
+3087,Congo,Aaron,washer ,1
+3087,Congo,Aaron,days work ,1
+3088,Congo,John,washer ,1
+3089,Connell,John,washer ,1
+3089,Connell,John,ironing ,1
+3090,Conner,Isaac,days work ,1
+3091,Cook,Ann,washer ,1
+3091,Cook,Ann,days work ,1
+3092,Cook,Sarah,washer ,1
+3092,Cook,Sarah,ironing ,1
+3093,Cooper,Cato,rag & bone,1
+3094,Cooper,Henry,washer ,1
+3094,Cooper,Henry,ironing ,1
+3095,Cooper,Isaac,washer ,1
+3096,Cooper,James,cuts rags ,1
+3097,Copeland,Ashley,weakly ,1
+3098,Copes,John,washer ,1
+3098,Copes,John,ironing ,1
+3099,Coplin,Sampson,weakly ,1
+3100,Cornish,Amy,washer ,1
+3100,Cornish,Amy,ironing ,1
+3101,Cornish,David,washer ,1
+3101,Cornish,David,ironing ,1
+3102,Cornish,James,washer ,1
+3102,Cornish,James,ironing ,1
+3103,Cornish,Mary A,house cleaning ,1
+3104,Corsey,Emory,washer ,1
+3105,Corsey,Moses,days work ,1
+3106,Coward,Perry,baker ,1
+3107,Cox,Cathrine,days work ,1
+3108,Cox,Rachel,washer ,1
+3108,Cox,Rachel,ironing ,1
+3109,Craig,Robert,washer ,1
+3109,Craig,Robert,ironing ,1
+3110,Crippen,Abraham,washer ,2
+3110,Crippen,Abraham,sewing ,1
+3111,Crippen,Esau,at home ,1
+3112,Crippen,Paul,rag & bone,1
+3113,Crippin,Abraham,washer ,1
+3113,Crippin,Abraham,ironing ,1
+3114,Cropper,George,at home ,1
+3115,Cropper,Henry,keeps bake shop ,1
+3116,Cropper,Issac,washer ,1
+3116,Cropper,Issac,ironing ,1
+3117,Crummill,John,house work ,1
+3118,Cumming,Benjamin,washer ,1
+3119,Cummings,Louisa,null,null
+3120,Curtis,John,rag & bone,1
+3120,Curtis,John,washer ,1
+3121,Curtis,Samuel L,house cleaner ,1
+3122,Custus,Mary,coroners assistant ,1
+3123,Dale,Murrey,unemployed ,1
+3124,Davis,Ann,washer ,1
+3124,Davis,Ann,sewing ,1
+3125,Davis,Daniel,washing etc ,1
+3126,Davis,Deborah,cooking ,1
+3127,Davis,Eliza,cook ,1
+3128,Davis,Frederick,washer ,1
+3128,Davis,Frederick,ironing ,1
+3129,Davis,Leven,washer ,1
+3129,Davis,Leven,ironing ,1
+3130,Davis,Peter,unemployed ,3
+3131,Davis,Sydney,cooking ,1
+3132,Davis,William,washer ,1
+3132,Davis,William,days work ,1
+3133,Davis,William,rag & bone,1
+3134,Deal,Benjamin,washer ,1
+3134,Deal,Benjamin,ironing ,1
+3135,Deal,Isaac,washer ,1
+3136,Deborty,John,washer ,1
+3136,Deborty,John,ironing ,1
+3137,Demby,Hester,washer ,2
+3138,Demby,Viletta,wants work washing ,1
+3139,Denis,Littleton,washer ,1
+3140,Denis,Martha,cook ,1
+3141,Dennis,Abel,rag picker ,1
+3142,Dennis,George,washer ,1
+3143,Dennis,James,washer ,1
+3143,Dennis,James,ironing ,1
+3144,Denton,Fransis,washer ,1
+3144,Denton,Fransis,ironing ,1
+3145,Depee,Nathaniel W,shirt maker ,1
+3146,Derrixson,Daniel,null,null
+3147,Despineau,Q,cuts rags ,1
+3148,Dickerson,Edward,washer ,1
+3148,Dickerson,Edward,ironing ,1
+3149,Dicks,Noah,washer ,1
+3150,Diggs,Ephraim,null,null
+3151,Diggs,George,seamstress ,1
+3152,Dill,Emory,null,null
+3153,Dill,James,null,null
+3154,Dill,Robert,washer ,1
+3154,Dill,Robert,ironing ,1
+3155,Dillen,Edward,washer ,1
+3155,Dillen,Edward,ironing ,1
+3156,Dixon,Abraham,cook ,1
+3157,Dixon,Amilia,washer ,1
+3157,Dixon,Amilia,ironing ,1
+3158,Dixson,Charles,null,null
+3159,Dixson,Rody,lives in oyster cellar ,1
+3160,Dorsey,Eliza,washer ,1
+3160,Dorsey,Eliza,ironing ,1
+3161,Dorsey,William,days work ,1
+3162,Dotson,David,washer ,1
+3163,Dove,Alexander,weakly ,1
+3164,Dover,James,mantua maker ,1
+3165,Downing,Wilson,washing etc ,1
+3166,Downs,Anne,washer ,1
+3166,Downs,Anne,ironing ,1
+3167,Downs,Mary,washer ,1
+3168,Duffy,Peter,washer ,1
+3168,Duffy,Peter,ironing ,1
+3169,Duncan,Hester,washing ironing ,1
+3170,Dunlap,James,rag & bone,1
+3171,Dunmore,John,washer ,1
+3171,Dunmore,John,ironing ,1
+3172,Dunn,Oliver,washer ,1
+3172,Dunn,Oliver,ironing ,1
+3173,Duran,Timothy,shop ,1
+3174,Durham,Elijah,washer ,1
+3174,Durham,Elijah,ironing ,1
+3175,Durham,Elijah,house work ,1
+3176,Durham,James,washer ,1
+3176,Durham,James,ironing ,1
+3177,Durham,Jeremiah,house work ,1
+3178,Durham,John,plain sewing ,1
+3179,Durham,Samuel,washer ,1
+3179,Durham,Samuel,ironing ,1
+3180,Dutton,Absolom,washer ,1
+3180,Dutton,Absolom,ironing ,1
+3181,Dutton,Benjamin,null,null
+3182,Ealey,Elizabeth,washer ,1
+3182,Ealey,Elizabeth,ironing ,1
+3183,Edisson,Garret,washer ,1
+3184,Edward,William,washer ,1
+3184,Edward,William,ironing ,1
+3185,Ellender,George,house work ,1
+3186,Elliot,Sarah,washer ,1
+3187,Elliott,Frances,dressmaker ,1
+3188,Elliott,Joseph,house work ,1
+3189,Ellis,Thomas,rag & bone,1
+3190,Elsberg,Charles,washer ,1
+3190,Elsberg,Charles,ironing ,1
+3191,Emmory,William,days work ,1
+3192,Euman,Catharine,plain sewing ,1
+3193,Evans,Albert N,washer ,1
+3194,Evans,Soloman,washer ,1
+3194,Evans,Soloman,ironing ,1
+3195,Everman,William,washer ,1
+3195,Everman,William,ironing ,1
+3196,Fields,Abraham,washer ,1
+3196,Fields,Abraham,ironing ,1
+3197,Fields,Henry,carpet rags balls ,1
+3198,Fields,Robert,cook ,1
+3199,Fields,William,washer ,1
+3200,Finney,William,rag picker ,1
+3201,Finsure,John,washer ,1
+3201,Finsure,John,ironing ,1
+3202,Fisher,Caleb,cooking ,1
+3203,Fisher,George W.,house work ,1
+3204,Fitzgiles,Charles,washer ,1
+3204,Fitzgiles,Charles,ironing ,1
+3205,Fletcher,Anthony,washer ,1
+3205,Fletcher,Anthony,ironing ,1
+3206,Folks,Susen,cuts rags days work ,1
+3207,Foreson,Lewis,washer ,1
+3208,Fositt,Aaron,washer ,1
+3208,Fositt,Aaron,ironing ,1
+3209,Foster,John,washer ,1
+3209,Foster,John,ironing ,1
+3210,Foster,Rebecca,rag & bone,1
+3211,Fox,Ann,washer ,1
+3211,Fox,Ann,ironing ,1
+3212,Fox,Daniel,washer ,1
+3212,Fox,Daniel,ironing ,1
+3213,Frame,David,washer ,1
+3213,Frame,David,sewing etc ,1
+3214,Frank,Peter,washer ,1
+3214,Frank,Peter,ironing ,1
+3215,Fransis,Charles,washer ,1
+3215,Fransis,Charles,ironing ,1
+3216,Fransis,James,general work ,1
+3217,Frazer,John,washer ,1
+3217,Frazer,John,ironing ,1
+3218,Free,Sarah,seamstress ,1
+3219,Freeman,Caroline,washer ,1
+3219,Freeman,Caroline,ironing ,1
+3220,Freeman,Emma,in rag store ,1
+3221,Freeman,John,washer ,1
+3221,Freeman,John,ironing ,1
+3222,Freeman,William,washer ,1
+3223,Frisby,Ariminta,washer ,1
+3223,Frisby,Ariminta,ironing ,1
+3224,Frisby,George,washer ,1
+3224,Frisby,George,ironing ,1
+3225,Frisby,Thomas,washer ,1
+3225,Frisby,Thomas,ironing ,1
+3226,Fulman,James,washer ,1
+3226,Fulman,James,ironing ,1
+3227,Furnanders,Nancy,days work ,1
+3228,Gales,James,house work ,1
+3229,Gales,Joseph,washer ,1
+3229,Gales,Joseph,ironing ,1
+3230,Gales,William A,washer ,1
+3231,Ganzy,Sarah A,washer ,1
+3231,Ganzy,Sarah A,ironing ,1
+3232,Gardener,Charles,sewing ,1
+3233,Garrison,John,cook ,1
+3234,Gaskill,Samuel,washer ,1
+3234,Gaskill,Samuel,ironing ,1
+3235,George,Mary,house cleaning ,1
+3236,Gerdon,Emeline,washer & whitewashing,1
+3237,Gibbs,James,cook ,1
+3238,Gibbs,John,null,null
+3239,Gibson,Aaron,rag & bone,1
+3240,Gibson,Henry,rag & bone,1
+3241,Gilbert,Henry,mantua maker ,1
+3242,Gilbert,John,makes mats ,1
+3243,Gilbert,William,washer ,1
+3243,Gilbert,William,ironing ,1
+3244,Gilden,Elizabeth,washer ,1
+3244,Gilden,Elizabeth,ironing ,1
+3245,Gillim,Risley,washer ,1
+3245,Gillim,Risley,ironing ,1
+3246,Gillum,William,washer ,1
+3247,Ginn,Jane,washer ,2
+3248,Givins,John,house work ,1
+3249,Glascow,Julia A,days work been sick ,3
+3250,Glascow,Mary,rag & bone,2
+3251,Golder,Robert,null,null
+3252,Gooden,John,washer ,1
+3253,Gordan,Henry,house work ,1
+3254,Gordon,Charles,null,null
+3255,Gould,Samuel,cuts rags ,2
+3256,Govan,William,washer ,1
+3256,Govan,William,ironing ,1
+3257,Grant,James,cook ,1
+3258,Grant,William,washer ,1
+3258,Grant,William,ironing ,1
+3259,Grason,William,house work at home ,1
+3260,Graves,Henry,days work,1
+3260,Graves,Henry,washing,2
+3260,Graves,Henry,out ,1
+3261,Graves,Phillip,cuts rags ,1
+3262,Gray,Francis,unemployed house work at home ,1
+3263,Gray,Samuel,cook ,1
+3264,Gray,Susan,washer ,1
+3264,Gray,Susan,ironing ,1
+3265,Green,Elizabeth,pepper pot dealer ,1
+3266,Green,Enoch,days work ,1
+3267,Green,George,cook ,1
+3268,Green,Hillery,house work ,1
+3269,Green,Jacob,null,null
+3270,Green,James,washer ,1
+3271,Green,James,at home wants work ,1
+3272,Green,Jesse,washer ,1
+3272,Green,Jesse,ironing ,1
+3273,Green,John A,house cleaner ,1
+3274,Green,Lot,washer ,1
+3274,Green,Lot,ironing ,1
+3275,Green,Patrick,cuts rags ,2
+3276,Green,Rachel,null,null
+3277,Green,Solomon,washer ,1
+3278,Green,William,wants work washing ,1
+3279,Greenwood,Sarah,days work ,1
+3280,Greves,George,days work ,1
+3281,Grien,Peter,washer ,1
+3281,Grien,Peter,ironing ,1
+3282,Grieves,Rosanna,unemployed ,1
+3283,Griffith,Jacob,washer ,1
+3283,Griffith,Jacob,ironing ,1
+3284,Groff,Ann,washer ,1
+3284,Groff,Ann,ironing ,1
+3285,Grohege (?),Dulique,seamstress ,1
+3286,Gross,James,house work ,1
+3287,Gross,John,cuts carpet rags ,1
+3288,Groves,John,days work ,1
+3289,Guilueberry,John B,seamstress ,1
+3290,Guinn,Peter,washer ,1
+3290,Guinn,Peter,ironing ,1
+3291,Gustus,Mrs (?),days work ,1
+3292,Guy,Samuel,washer ,1
+3292,Guy,Samuel,ironing ,1
+3293,Hackett,Mary,washer ,1
+3293,Hackett,Mary,ironing ,1
+3294,Hailstock,Charles,plain sewing ,1
+3294,Hailstock,Charles,washer ,1
+3294,Hailstock,Charles,ironing ,1
+3295,Halker,William,washer ,1
+3295,Halker,William,ironing ,1
+3296,Hall,Frances,washer ,1
+3297,Hamilton,Henry,house work ,1
+3298,Handy,James,washing etc ,1
+3299,Handy,Robert,washer ,1
+3299,Handy,Robert,ironing ,1
+3300,Handy,Summerset,washer ,1
+3300,Handy,Summerset,ironing ,1
+3301,Hanes,James,seamstress ,1
+3302,Hankins,William,washer ,1
+3302,Hankins,William,ironing ,1
+3303,Hansy,Ephraim,dressmaker ,1
+3304,Harden,Stephen,washer ,1
+3304,Harden,Stephen,general house work ,1
+3305,Hardy,Jacob,washer ,1
+3305,Hardy,Jacob,ironing ,1
+3306,Hardy,Susanna,washer ,1
+3306,Hardy,Susanna,ironing ,1
+3307,Harman,John,null,null
+3308,Harmon,Amelia,washer ,1
+3308,Harmon,Amelia,ironing ,1
+3309,Harmon,Catharine,washer ,1
+3309,Harmon,Catharine,ironing ,1
+3310,Harmon,Nancy,washer ,1
+3310,Harmon,Nancy,ironing ,1
+3311,Harmon,Painter,washer ,1
+3311,Harmon,Painter,ironing ,1
+3312,Harmon,William,washer ,1
+3312,Harmon,William,dress making one a cook ,1
+3313,Harrard,Isaac,house work ,1
+3314,Harris,Eliza,house cleaner ,1
+3315,Harris,Elizabeth,washer ,1
+3315,Harris,Elizabeth,ironing ,1
+3316,Harris,George,washer ,1
+3316,Harris,George,ironing ,1
+3317,Harris,Henry,washer ,1
+3318,Harris,John,washer ,1
+3318,Harris,John,ironing ,1
+3319,Harris,Thomas H,washer ,1
+3320,Harvey,Hester,house work ,1
+3321,Hatten,Dennis,washer ,1
+3322,Hawkins,Alexander,null,null
+3323,Hazard,William B,keeps shop ,1
+3324,Hazzard,Isaiah,days work ,1
+3325,Hegamin,Charles,washer ,1
+3325,Hegamin,Charles,ironing ,1
+3326,Hegamin,John,washer ,1
+3326,Hegamin,John,ironing ,1
+3327,Helford,Alfred,washer ,1
+3327,Helford,Alfred,days work ,1
+3328,Henderson,Ezekiel,washer ,1
+3328,Henderson,Ezekiel,ironing ,1
+3329,Henderson,James,null,null
+3330,Henderson,Mariah,washing etc ,1
+3331,Henry,Fransis,washer ,1
+3331,Henry,Fransis,ironing ,1
+3332,Henry,John,cook ,1
+3333,Henry,Mahlon,washer ,1
+3333,Henry,Mahlon,house work ,1
+3334,Hensley,Clara C,washer ,1
+3334,Hensley,Clara C,ironing ,1
+3335,Hensley,Spencer,washer ,1
+3335,Hensley,Spencer,ironing ,1
+3336,Henson,Charles,rag & bone,1
+3337,Henson,Chloe,washer ,1
+3337,Henson,Chloe,ironing ,1
+3338,Henson,Sarah,washing at hotel ,2
+3339,Hewitt,Benedict,null,null
+3340,Hicks,Mary,washer ,1
+3340,Hicks,Mary,ironing ,1
+3341,Hill,Champion,washer ,1
+3341,Hill,Champion,ironing ,1
+3342,Hill,Clayton,rags etc ,1
+3343,Hill,Lewis,washer ,1
+3344,Hill,Margaret,washer ,1
+3345,Hill,Robert,days work etc ,1
+3346,Hill,Thompson,at home ,1
+3346,Hill,Thompson,cooking ,1
+3347,Hill,Wilkerson,washer ,1
+3347,Hill,Wilkerson,ironing ,1
+3348,Hilton,George W.,house keeper ,1
+3349,Hines,Isaiah,washer ,1
+3349,Hines,Isaiah,ironing ,1
+3350,Hite,Ralph C,house cleaning ,1
+3351,Hite,William,washer ,1
+3351,Hite,William,ironing ,1
+3352,Hockerty,John,washer ,1
+3352,Hockerty,John,ironing ,1
+3353,Hodges,Wilson,plain sewing ,1
+3354,Hogan,Barcus,null,null
+3355,Hogan,Margaret,washer ,1
+3355,Hogan,Margaret,ironing ,1
+3356,Holland,Daniel,days work ,1
+3357,Holland,William,washer ,1
+3357,Holland,William,ironing ,1
+3358,Holmes,Eli,washer ,1
+3358,Holmes,Eli,ironing ,1
+3359,Hook,Peter,null,null
+3360,Hooper,Joseph,washer ,1
+3360,Hooper,Joseph,ironing ,1
+3361,Hopkins,Isaac,rag & bone,2
+3362,Hordy,George,rag & bone,1
+3362,Hordy,George,days work ,1
+3363,Horney,Charles,house work ,1
+3364,Horsey,George,women do own work ,1
+3365,Houston,Charles,rag & bone picker ,1
+3366,Houston,George,null,null
+3367,Hubert,Richard,house cleaning ,1
+3368,Hubitt,Garrison,washer ,1
+3369,Huggs,James,at home ,1
+3370,Huggs,Josiah,shop keeper ,1
+3371,Hughes,Mary,washer ,1
+3372,Hughes,Susen,washer ,1
+3372,Hughes,Susen,ironing ,1
+3373,Hutson,David,days work ,1
+3373,Hutson,David,dressmaker ,1
+3374,Irons,James,works at home ,1
+3375,Irons,Sarah,rag picker ,1
+3376,Jack,Nancy,days work ,1
+3377,Jackson,Benjamin F,at home ,1
+3378,Jackson,Elizabeth,this woman plays the fiddle etc ,1
+3379,Jackson,Harrison,washing etc ,1
+3380,Jackson,Henry,washer ,1
+3380,Jackson,Henry,ironing ,1
+3381,Jackson,Isaiah,null,null
+3382,Jackson,John,rag & bone,1
+3383,Jackson,Joseph,washing etc ,1
+3384,Jackson,Louisa,works in oyster cellar ,1
+3385,Jackson,Mahlon,washer ,1
+3385,Jackson,Mahlon,ironing ,1
+3386,Jackson,Mary,house of assignation ,1
+3387,Jackson,Nicolas,cuts ,1
+3387,Jackson,Nicolas,sells carpet rags ,1
+3388,Jackson,Waller,dressmaker ,1
+3389,Jackson,William,plain sewing ,1
+3390,James,Margaret,washer ,1
+3390,James,Margaret,days work ,1
+3391,James,Peter,washer ,1
+3392,James,Sarah,washer & whitewashing,1
+3393,James,Wesley,washer ,1
+3393,James,Wesley,ironing ,1
+3394,Jeffers,James,washer ,1
+3394,Jeffers,James,ironing ,1
+3395,Jenkins,Richard W,washer ,1
+3396,Jinkins,David,washer ,1
+3397,Johns,David,house work ,1
+3398,Johns,William,washer ,1
+3398,Johns,William,ironing ,1
+3399,Johnson,Anne,washer ,1
+3399,Johnson,Anne,ironing ,1
+3400,Johnson,Benjamin,oyster dealer ,1
+3401,Johnson,Benjamin,washer ,1
+3401,Johnson,Benjamin,ironing ,1
+3402,Johnson,Benjamin,washer ,1
+3402,Johnson,Benjamin,ironing ,1
+3403,Johnson,David,sorts rags,1
+3404,Johnson,Dianah,mantua maker ,1
+3405,Johnson,Edward,washer ,1
+3405,Johnson,Edward,ironing ,1
+3406,Johnson,Elizabeth,washer ,1
+3406,Johnson,Elizabeth,ironing ,1
+3407,Johnson,George H,washer ,1
+3407,Johnson,George H,ironing ,1
+3408,Johnson,Henry,whitewasher ,1
+3409,Johnson,Henry,days work ,1
+3410,Johnson,Henry P,house work ,1
+3411,Johnson,Hetty,seamstress ,1
+3412,Johnson,James,washer ,1
+3412,Johnson,James,general work ,1
+3413,Johnson,John,washer ,1
+3413,Johnson,John,general work ,1
+3414,Johnson,John,work per day ,3
+3415,Johnson,John,cook unemployed ,1
+3416,Johnson,John K,cuts rags ,2
+3417,Johnson,John W,washer ,1
+3417,Johnson,John W,days work ,1
+3418,Johnson,Joseph,null,null
+3419,Johnson,Joseph,washer ,1
+3419,Johnson,Joseph,ironing ,1
+3420,Johnson,Joshua,washer ,1
+3420,Johnson,Joshua,ironing ,1
+3421,Johnson,Lewis,rag picker ,1
+3421,Johnson,Lewis,days work ,1
+3422,Johnson,Louisa,washer ,1
+3422,Johnson,Louisa,ironing ,1
+3423,Johnson,Lymns,cooking etc ,1
+3424,Johnson,Major,house work ,1
+3425,Johnson,Peter L,house keeper ,1
+3426,Johnson,Quinton,null,null
+3427,Johnson,Rachel,washing sewing ,1
+3427,Johnson,Rachel,cook ,1
+3428,Johnson,Samuel,drives sweep ,1
+3429,Johnson,Thomas,washer ,1
+3429,Johnson,Thomas,ironing ,1
+3430,Johnson,William,washer ,1
+3430,Johnson,William,ironing ,1
+3431,Johnson,William Henry,sewing ,1
+3432,Jones,Abel,washer ,1
+3432,Jones,Abel,ironing ,1
+3433,Jones,Alfred,makes mats ,1
+3434,Jones,Anne,washer ,1
+3434,Jones,Anne,days work ,1
+3435,Jones,Charles,washer ,1
+3435,Jones,Charles,ironing ,1
+3436,Jones,Daniel,rag & bone,2
+3437,Jones,David,washer ,1
+3437,Jones,David,ironing ,1
+3438,Jones,Edward,washer ,1
+3438,Jones,Edward,days work ,1
+3439,Jones,George,cook ,1
+3440,Jones,George,washer ,1
+3441,Jones,Isaac,washer ,1
+3441,Jones,Isaac,ironing ,1
+3442,Jones,Jacob,days work ,1
+3443,Jones,Jehu,mantua maker ,1
+3444,Jones,Norton,cook ,1
+3445,Jones,Sarah Louisa,cook ,1
+3446,Jones,Thomas,house cleaning ,1
+3447,Jones,Thomas,days work ,1
+3448,Jones,Wilkerson,mantua maker ,1
+3449,Jones,William,rag cut ,1
+3449,Jones,William,picker ,1
+3450,Joseph,Mrs,cook ,1
+3451,Kelley,William,house work ,1
+3452,Kilson,William,washer ,1
+3452,Kilson,William,ironing ,1
+3453,King,Ceasar,days work ,1
+3454,Knight,Mary,washer ,1
+3454,Knight,Mary,ironing ,1
+3455,Knowls,Peter,rag & bone,1
+3456,Lamberson,James,washing days work ,2
+3457,Lampson,Jacob,washer ,1
+3457,Lampson,Jacob,ironing ,1
+3458,Lancaster,Elizabeth,washing etc ,1
+3459,Lander,James,house work ,1
+3460,Lane,James,washer ,1
+3460,Lane,James,ironing ,1
+3461,Lane,Louisa,cuts rags ,1
+3462,Lango,Isaiah,house cleaning ,1
+3463,Latham,Joshua,washer ,1
+3463,Latham,Joshua,ironing ,1
+3464,Laton,Enoch,null,null
+3465,Lawrence,Ann,unemployed ,1
+3466,Lawrence,David,null,null
+3467,Lawrerance,Jane,washer ,1
+3467,Lawrerance,Jane,ironing ,1
+3468,Laws,Ann,washer ,1
+3468,Laws,Ann,ironing ,1
+3469,Laws,Elijah,washer ,1
+3470,Laws,Henry,rag & bone,1
+3471,Laws,Prince G,washer ,1
+3471,Laws,Prince G,ironing ,1
+3472,Laws,Stephen,cake shop keeper ,1
+3473,Lawson,James,picks & cuts rags,1
+3474,Layton,George,washer & whitewashing,1
+3475,Leaden,Phillip,washer ,1
+3476,Lee,Jarana,null,null
+3477,Lee,John,days work cooking etc ,1
+3478,Lee,Robert,house cleaning ,1
+3478,Lee,Robert,washer ,1
+3479,Lee,William,washer ,1
+3479,Lee,William,ironing ,1
+3480,Leman,Thomas,house work ,1
+3481,Levington,John,washer ,1
+3481,Levington,John,ironing ,1
+3482,Lewis,Cathrine,days work ,1
+3483,Lewis,Daniel,cook ,1
+3484,Lewis,Frances,washer ,1
+3484,Lewis,Frances,days work ,1
+3485,Lewis,Fransis,washer ,1
+3486,Lewis,George,days work etc ,1
+3487,Lewis,George C,washer ,1
+3488,Lewis,Gilbert,washing days work ,1
+3489,Lewis,James,cook ,1
+3490,Lewis,Margaret,unemployed ,1
+3491,Lewis,Mary,null,null
+3492,Lewis,Mr,cook ,1
+3493,Lewis,Nelson,ornamental basket maker ,1
+3494,Linns,John,washer ,1
+3494,Linns,John,ironing ,1
+3495,Litle,Mary,cook ,1
+3496,Littleton,Carr,keeps cake shop ,1
+3497,Littleton,Hurbert,null,null
+3498,Liveley,Cathrine,washer ,1
+3498,Liveley,Cathrine,ironing ,1
+3499,Lloyd,Bartley,afflicted rheumatism ,1
+3500,Lloyd,Hannah,washer ,1
+3501,Lloyd,William,washer ,1
+3501,Lloyd,William,ironing ,1
+3502,Lober,Johnathan,washer ,1
+3503,Loccum,Stephen,washer ,1
+3503,Loccum,Stephen,ironing ,1
+3504,Lockwood,Purnell,washer ,1
+3504,Lockwood,Purnell,ironing ,1
+3505,Lodine,John,days work ,3
+3506,Long,Evilinda,washer ,1
+3506,Long,Evilinda,ironing ,1
+3507,Lopeman,Ellen,washer ,1
+3508,Lopeman,Levin,keeps victualing cellar ,1
+3509,Lordon,Julia,washer ,1
+3509,Lordon,Julia,ironing ,1
+3510,Loteman,Joseph,washer ,1
+3510,Loteman,Joseph,ironing ,1
+3511,Loton,Ann,raise hogs ,1
+3512,Lowrey,Ann,washer ,1
+3512,Lowrey,Ann,ironing ,1
+3513,Ludlow,Daniel,washer ,1
+3513,Ludlow,Daniel,ironing ,1
+3514,Ludlow,Primes,at house of industry ,2
+3515,Ludnam,Francis,unemployed ,1
+3516,Lukins,George,washer ,1
+3516,Lukins,George,ironing ,1
+3517,Lyons,James,washer ,1
+3517,Lyons,James,ironing ,1
+3518,Maclin,Caleb,null,null
+3519,Macline,Moses,washer ,1
+3519,Macline,Moses,ironing ,1
+3520,Mandleff,John D,seamstress ,1
+3521,Mandoren,Emannuel,null,null
+3522,Manlof,Jacob,house work at home ,1
+3523,Mann,Thomas,weakly ,1
+3524,Marle,John,washer ,1
+3524,Marle,John,ironing ,1
+3525,Marley,Isaac,washer ,1
+3525,Marley,Isaac,ironing ,1
+3526,Marshall,Joseph,washer ,1
+3526,Marshall,Joseph,ironing ,1
+3527,Martin,Amy,house cleaner ,1
+3528,Martin,Joseph,washer ,1
+3528,Martin,Joseph,ironing ,1
+3529,Martin,Letitia,plain sewing ,1
+3530,Martin,Thomas,days work ,1
+3531,Smith,Mary Ann,washer ,1
+3531,Smith,Mary Ann,house work ,1
+3532,Mason,George,sewing ,1
+3533,Mason,John,washer ,1
+3534,Mason,John,washer ,1
+3534,Mason,John,ironing ,1
+3535,Mason,Rebecca,washer ,1
+3535,Mason,Rebecca,ironing ,1
+3536,Massey,William,washer ,1
+3536,Massey,William,ironing ,1
+3537,Maston,James,washer ,1
+3537,Maston,James,ironing ,1
+3538,Mathews,Issac,washer ,1
+3538,Mathews,Issac,ironing ,1
+3539,Mathews,James H,washer ,1
+3539,Mathews,James H,ironing ,1
+3540,Mathews,Mary A,cooking both at home now ,2
+3540,Mathews,Mary A,sick ,1
+3541,Mathias,James,washer ,1
+3541,Mathias,James,ironing ,1
+3542,Maul,James,washer ,1
+3542,Maul,James,ironing ,1
+3543,Maxwell,Stephen,unemployed ,1
+3544,McClain,Hannah,washer ,1
+3544,McClain,Hannah,ironing ,1
+3545,McCoy,Rachel,days work etc ,2
+3546,McDonnell,Daniel,house work ,1
+3547,McKee,John,house work ,1
+3548,McKinsy,Henry,house work ,1
+3549,McKnitt,Deborah,washer ,1
+3549,McKnitt,Deborah,ironing ,1
+3550,McKnitt,Elsberry,washer ,1
+3550,McKnitt,Elsberry,ironing ,1
+3551,McKnitt,James,washer ,1
+3551,McKnitt,James,ironing ,1
+3552,McKnitt,Mary,house cleaning washing ,1
+3553,Meads,Claressa,cuts rags ,2
+3554,Meads,Lucy,washer ,1
+3554,Meads,Lucy,ironing ,1
+3555,Mendoza,Louisa,days work ,1
+3556,Midcap,John,washer ,1
+3556,Midcap,John,cooking ,1
+3557,Middleton,Fransis,washer ,1
+3557,Middleton,Fransis,ironing ,1
+3558,Milburn,George,washer ,1
+3558,Milburn,George,ironing ,1
+3559,Miller,Alex,washer ,1
+3560,Miller,Cyrus,house work ,1
+3561,Miller,Eliza,cuts rags ,1
+3562,Miller,John,washer ,1
+3562,Miller,John,ironing ,1
+3563,Miller,John,null,null
+3564,Miller,Levinia,cook ,1
+3565,Miller,Mary,washer ,1
+3565,Miller,Mary,ironing ,1
+3566,Miller,Myers,washer ,1
+3566,Miller,Myers,ironing ,1
+3567,Miller,William,rag picker ,1
+3568,Minton,Moses,washer ,1
+3569,Mitchall,Robert,washer ,1
+3569,Mitchall,Robert,ironing regularly ,1
+3570,Mitchall,Spencer,washer ,1
+3570,Mitchall,Spencer,ironing ,1
+3571,Mitchell,Perry,null,null
+3572,Molliston,Joshua,washer ,1
+3573,Molliston,William,seamstress ,1
+3574,Moore,Charles,rag & bone,1
+3574,Moore,Charles,at house of industry ,2
+3575,Moore,Charles,rag & bone,1
+3576,Moore,John,works at home ,1
+3577,Moore,John J,house work ,1
+3578,Moore,Mary,house cleaning ,1
+3579,Moore,Miles H,washer ,1
+3579,Moore,Miles H,ironing ,1
+3580,Moore,William,days work ,1
+3580,Moore,William,washer ,1
+3581,Moran,William Allen,house work ,1
+3582,Morgan,Cecillia,makes door mats ,1
+3583,Morgan,Daniel,house work ,1
+3584,Morris,Edward,seamstress ,1
+3585,Morris,Isaac,washer ,1
+3585,Morris,Isaac,ironing ,1
+3586,Morris,John,mantua maker ,1
+3587,Morris,Philip,washer ,1
+3588,Morris,Robert,washer ,1
+3588,Morris,Robert,ironing ,1
+3589,Morris,William R,dressmaker ,1
+3590,Morton,Abraham,house work ,1
+3591,Morton,Jacob,washer ,1
+3591,Morton,Jacob,ironing ,1
+3592,Moses,Ezekiel,washer ,1
+3592,Moses,Ezekiel,ironing ,1
+3593,Moses,John,whitewashing etc ,1
+3594,Mott,Joseph,null,null
+3595,Mundrane,Peter,null,null
+3596,Munson,Joseph,null,null
+3597,Murrey,Basil,days work ,1
+3598,Murrey,David,w ,1
+3599,Murrey,George,lives out ,1
+3600,Murry,Abraham,washer ,1
+3600,Murry,Abraham,general house work ,1
+3601,Nelson,Philip,sewing ,1
+3602,Nelson,William,washer ,1
+3602,Nelson,William,ironing ,1
+3603,Nice,Thomas,washer ,1
+3604,Nickens,Jethro,house work ,1
+3605,Nicklass,Richard,rag & bone,1
+3606,Nicolas,Samuel,seamstress ,1
+3607,Nicolas,Samuel,house work ,1
+3608,Nixson,John,washer ,1
+3608,Nixson,John,ironing ,1
+3609,Nolen,Henry,candy maker ,1
+3610,Nuby,Alfred,washing etc ,1
+3611,Numbers,Phoebe,washer ,1
+3611,Numbers,Phoebe,ironing ,1
+3612,Oakey,Albin,unemployed ,1
+3613,Obey,Gilbert,cook ,1
+3614,Oliver,James,unemployed ,1
+3615,Owns,Edward,washer ,1
+3615,Owns,Edward,ironing ,1
+3616,Pagans,Henry,days work ,1
+3616,Pagans,Henry,cuts rags ,1
+3617,Page,William,washer ,1
+3618,Park,John,house work ,1
+3619,Parken,Charles,null,null
+3620,Parker,Adam,washer ,1
+3620,Parker,Adam,ironing ,1
+3621,Parker,George,washer ,1
+3621,Parker,George,ironing ,1
+3622,Parker,Joseph,null,null
+3623,Parker,Robert,rag & bone,2
+3624,Parker,Stephen,washer ,1
+3624,Parker,Stephen,ironing ,1
+3625,Parker,William,cook ,1
+3626,Parkerson,Mary,seamstress ,1
+3627,Parlow,Daniel,washer ,1
+3627,Parlow,Daniel,ironing ,1
+3628,Parmes,Shephard,washer ,1
+3628,Parmes,Shephard,ironing ,1
+3629,Pasaby,Ebenezer,house work at home ,1
+3630,Pasaby,Hester,cuts rags ,1
+3631,Patterson,James,washer ,1
+3631,Patterson,James,ironing ,1
+3632,Patterson,John,cuts rags ,1
+3633,Patterson,Joseph,washer & whitewashing,1
+3634,Paul,Francis,washer ,1
+3635,Pennington,Cato,day work rag & bone picker,1
+3636,Pennington,David,rag picker ,1
+3637,Perkins,Samuel,washer ,1
+3637,Perkins,Samuel,ironing ,1
+3638,Perry,Elizabeth,sells pepper pot ,1
+3639,Perry,John,cooking ,1
+3640,Perry,Thomas,washer ,1
+3640,Perry,Thomas,ironing ,1
+3641,Peters,George,washer ,1
+3642,Peterson,George,house work ,1
+3643,Peterson,Nicey,cuts rags ,1
+3644,Pew,Henry,washer ,1
+3644,Pew,Henry,ironing ,1
+3645,Pierce,Aquilac,house work ,1
+3646,Pitt,Harriet,days work ,1
+3647,Place,William,washer ,1
+3647,Place,William,ironing ,1
+3648,Plain,Elizabeth,washer ,1
+3648,Plain,Elizabeth,ironing ,1
+3649,Pointer,Nathan,null,null
+3650,Pointer,William,washer ,1
+3650,Pointer,William,ironing ,1
+3651,Polston,Edward,cook ,1
+3651,Polston,Edward,makes door mats ,1
+3652,Potter,Aaron,house work ,1
+3653,Potts,Charity,washer ,1
+3653,Potts,Charity,sewing etc ,1
+3654,Potts,Frank,house keeper ,1
+3655,Potts,George W.,washer ,1
+3655,Potts,George W.,ironing ,1
+3656,Potts,William Henry,washer ,1
+3656,Potts,William Henry,ironing ,1
+3657,Powell,James,washing etc ,1
+3658,Pratt,Henry,washer ,1
+3659,Preston,Orie,washer ,1
+3659,Preston,Orie,ironing ,1
+3660,Priar,John,days work ,1
+3661,Price,George,washer ,1
+3661,Price,George,ironing ,1
+3662,Price,Jacob,washer ,1
+3662,Price,Jacob,general house work ,1
+3663,Price,James,washing days work ,1
+3664,Price,Maria,null,null
+3665,Price,Mozin,washer ,1
+3665,Price,Mozin,ironing ,1
+3666,Price,Nathan,washer ,1
+3666,Price,Nathan,ironing ,1
+3667,Primrose,Samuel,whitewashing ,1
+3668,Proctor,Henry,washer ,1
+3668,Proctor,Henry,ironing ,1
+3669,Proctor,Mary,rag & bone,1
+3670,Purnell,Ann,washer ,1
+3671,Purnell,Daniel,washer ,1
+3672,Purnell,Edward,washer ,1
+3672,Purnell,Edward,house cleaning ,1
+3673,Purnell,Stephen,washer ,1
+3673,Purnell,Stephen,ironing ,1
+3674,Purnell,Stephen,washer ,1
+3674,Purnell,Stephen,ironing ,1
+3675,Purvis,William,washer ,1
+3676,Pusy,Jane,nurse children ,1
+3677,Puttyman,Enoch,washer ,1
+3677,Puttyman,Enoch,ironing ,1
+3678,Puttyman,Louisa,nurse children ,1
+3679,Puttyman,William,washer ,1
+3679,Puttyman,William,ironing ,1
+3680,Quinn,Stephen,washer ,1
+3680,Quinn,Stephen,ironing ,1
+3681,Quire,Peter,washer ,1
+3681,Quire,Peter,ironing ,1
+3682,Reed,Isaac,washer ,1
+3682,Reed,Isaac,ironing ,1
+3683,Reed,Jacob,washer ,1
+3683,Reed,Jacob,ironing ,1
+3684,Reed,John,seamstress ,1
+3685,Reed,John,washer ,2
+3685,Reed,John,sewing ,1
+3686,Reed,Presilla,washer ,1
+3687,Rennells,Elizabeth,days work ,1
+3688,Rial,James W,house work ,1
+3689,Ricco,Jane,null,null
+3690,Rice,George,boarder ,1
+3691,Rice,John,house work ,1
+3692,Rich,Julia A,washer ,1
+3692,Rich,Julia A,ironing ,1
+3693,Richards,Martha,school teacher ,1
+3694,Richards,Sarah,null,null
+3695,Richardson,George,washer ,1
+3696,Richardson,James,weakly ,1
+3697,Richardson,Joseph,washer ,1
+3697,Richardson,Joseph,ironing ,1
+3698,Richardson,Margaret,washer ,1
+3698,Richardson,Margaret,house cleaning ,1
+3699,Richardson,Samuel,at home ,1
+3700,Richardson,Thomas,washer ,1
+3700,Richardson,Thomas,ironing ,1
+3701,Richerson,Benjamin,weakly ,1
+3702,Riley,Alfred,null,null
+3703,Riley,Ann,washer ,1
+3703,Riley,Ann,ironing cook ,1
+3704,Riley,Ann Maria,dressmaker ,1
+3705,Riley,John,null,null
+3706,Riner,Isaac,washer ,1
+3706,Riner,Isaac,general work ,1
+3707,Rippley,John,sewing ,1
+3708,Rivers,John,washer ,1
+3708,Rivers,John,ironing ,1
+3709,Roads,Ellen,washer ,2
+3710,Roads,Sarah,playing ,3
+3711,Roberson,Daniel,cook ,1
+3712,Roberson,George,washer ,1
+3712,Roberson,George,ironing ,1
+3713,Roberson,James,cook ,1
+3714,Roberson,James,makes door mats ,1
+3715,Roberson,Jane,cook ,1
+3716,Roberson,Major,days work ,1
+3717,Roberson,Nehemiah,null,null
+3718,Roberson,Parish,washer ,1
+3718,Roberson,Parish,ironing ,1
+3719,Roberson,Richard,washer ,1
+3719,Roberson,Richard,ironing ,1
+3720,Roberson,Rosanna,mantua maker ,1
+3721,Roberson,Solomon,unemployed sick ,1
+3722,Roberson,William,washer ,1
+3722,Roberson,William,ironing ,1
+3723,Roberts,Daniel,washer ,1
+3723,Roberts,Daniel,ironing ,1
+3724,Roberts,Edward,carpet rags ,1
+3725,Roberts,James,washer ,1
+3725,Roberts,James,ironing ,1
+3726,Roberts,N L,seamstress ,1
+3727,Robinson,Nancy,washer ,2
+3728,Rodgers,Ann L,house cleaning washing ,1
+3729,Rodine,Mary A,washing etc ,1
+3730,Rodney,Sarah,washer ,1
+3730,Rodney,Sarah,ironing ,1
+3731,Rodrick,Lewis,whitewashing ,1
+3732,Rogers,Phoebe A,washer ,1
+3732,Rogers,Phoebe A,ironing ,1
+3733,Rooker,Sarah,days work ,1
+3734,Ruben,John,washing days work ,1
+3735,Runnels,William,washer ,1
+3735,Runnels,William,ironing ,1
+3736,Russell,Phebe,days work ,1
+3736,Russell,Phebe,washer ,1
+3737,Russell,Richard,washing regularly ,1
+3738,Saddler,Henry,washer ,1
+3738,Saddler,Henry,ironing ,1
+3739,Sadller,Daniel,carpet rags ,1
+3740,Salter,Washington,washer ,1
+3740,Salter,Washington,ironing ,1
+3741,Sammons,Elizabeth,washer ,1
+3741,Sammons,Elizabeth,ironing ,1
+3742,Sammons,Henry,washer ,1
+3742,Sammons,Henry,ironing ,1
+3743,Sammons,Nathaniel,house clean cook ,1
+3744,Sanders,Eliza,days work etc ,1
+3745,Sanders,Enoch,carpet rags ,1
+3746,Sango,John,cook ,1
+3747,Scotland,Sam,house work ,1
+3748,Scotland,Samuel,washer ,1
+3748,Scotland,Samuel,ironing ,1
+3749,Scott,Abraham,washer ,1
+3749,Scott,Abraham,ironing ,1
+3750,Scott,Emanuel,makes door mats ,1
+3751,Scott,John,washer ,1
+3751,Scott,John,ironing ,1
+3752,Scott,Joshua,washer ,1
+3752,Scott,Joshua,ironing ,1
+3753,Scott,Mary,washer ,1
+3753,Scott,Mary,days work ,1
+3754,Scott,Solomon,house work ,1
+3755,Scott,Walter,washer ,1
+3755,Scott,Walter,ironing ,1
+3756,Scott,William,washer ,1
+3756,Scott,William,ironing ,1
+3757,Scott,William,washer ,1
+3757,Scott,William,ironing ,1
+3758,Seeley,Harmon,washer ,1
+3758,Seeley,Harmon,ironing ,1
+3759,Sephes(?),Levin,washer ,1
+3759,Sephes(?),Levin,general house work ,1
+3760,Shadd,Hans,mantua maker ,1
+3760,Shadd,Hans,milliner ,1
+3761,Shafer,James,washer ,1
+3761,Shafer,James,days work ,1
+3762,Sharp,Sarah,washer ,1
+3762,Sharp,Sarah,ironing ,1
+3763,Sheffer,John,washer ,1
+3763,Sheffer,John,ironing ,1
+3764,Shennett,Peter,washer ,1
+3765,Shephard,Charles,cooking ,1
+3766,Shephard,Joshua,days work ,1
+3767,Shields,James,whitewashing day work ,1
+3768,Shockley,Cathrine,cook ,1
+3769,Shreves,Samuel,washer ,1
+3769,Shreves,Samuel,ironing ,1
+3770,Shreves,William,washer ,1
+3770,Shreves,William,ironing ,1
+3771,Simpson,John,washer ,1
+3772,Singer,Theodore,washer ,1
+3773,Singles,Thomas,house work ,1
+3774,Sipple,Stephen,washer ,1
+3774,Sipple,Stephen,ironing ,1
+3775,Sipple,Thomas,washer ,1
+3775,Sipple,Thomas,ironing ,1
+3776,Smiles,Polodore,washer ,1
+3776,Smiles,Polodore,ironing ,1
+3777,Smith,Ann,days work ,1
+3778,Smith,Edward,null,null
+3779,Smith,Hester,washer ,1
+3779,Smith,Hester,ironing ,1
+3780,Smith,James W,washer ,1
+3780,Smith,James W,ironing ,1
+3781,Smith,John,days work ,1
+3782,Smith,John B,seamstress ,1
+3783,Smith,Mary T,washer ,1
+3783,Smith,Mary T,ironing ,1
+3784,Smith,Ovid,rag & bone,1
+3785,Smith,William,washer ,1
+3786,Smith,William,weakly ,1
+3787,Smothers,Amos,teaches the guitar ,1
+3788,Sommond,Benjamin,washer ,1
+3788,Sommond,Benjamin,ironing ,1
+3789,Sparrow,Adam,washer ,1
+3790,Spencer,Peter,days work ,1
+3791,Spencer,William,rag & bone,1
+3792,Sprow,David,washer ,1
+3792,Sprow,David,ironing ,1
+3793,Spvies,Ann,washer ,1
+3793,Spvies,Ann,ironing ,1
+3794,Sroders,Richard,house work ,1
+3795,Stafford,Louisa,days work ,1
+3796,Stanley,William,null,null
+3797,States,Owen,washer ,1
+3797,States,Owen,sewing ,1
+3798,Stevenson,John,rag & bone,1
+3799,Steward,Alexander,null,null
+3800,Steward,John,washer ,1
+3800,Steward,John,ironing ,1
+3801,Steward,Samuel,shop keeper ,1
+3802,Steward,Stephen,rag & bone,2
+3803,Stewart,Henry,null,null
+3804,Stokes,Emanuel,washer ,1
+3804,Stokes,Emanuel,ironing ,1
+3805,Stokley,Agnes,cook ,1
+3806,Stokley,Briston,rag & bone,1
+3807,Stout,Susen,washer ,1
+3807,Stout,Susen,ironing ,1
+3808,Street,Anderson,washer ,1
+3808,Street,Anderson,ironing ,1
+3809,Sulby,William,washer ,1
+3809,Sulby,William,ironing ,1
+3810,Sully,Charlotte,sells sugar cakes ,1
+3810,Sully,Charlotte,days work,1
+3810,Sully,Charlotte,out ,1
+3811,Summers,George,unemployed ,1
+3812,Sutton,Harriet,plain sewing ,1
+3813,Swan,William,shop keeper ,1
+3814,Swanson,Rebecca,washer ,1
+3814,Swanson,Rebecca,ironing ,1
+3815,Swift,Alexander,washer ,1
+3815,Swift,Alexander,ironing ,1
+3816,Talbert,James,washer ,1
+3816,Talbert,James,ironing ,1
+3817,Taylor,Benjamin,seamstress ,1
+3818,Taylor,Edward,house work ,1
+3819,Taylor,Margaret,washer ,1
+3819,Taylor,Margaret,ironing ,1
+3820,Taylor,William H,sewing ,1
+3821,Teagle,John,days work ,1
+3822,Tekel,Littleton,washer ,1
+3822,Tekel,Littleton,ironing ,1
+3823,Templeton,Benjamin,null,null
+3824,Thomas,Elias,house work ,1
+3825,Thomas,Eliza,sells sugar candies ,1
+3826,Thomas,Henry,washer ,1
+3826,Thomas,Henry,ironing ,1
+3827,Thomas,Hester,washer ,1
+3827,Thomas,Hester,ironing ,1
+3828,Thomas,Hester,picks coal ,1
+3828,Thomas,Hester,rags ,1
+3829,Thomas,Jacob,washing etc ,1
+3830,Thomas,James,washer ,1
+3830,Thomas,James,ironing ,1
+3831,Thomas,John,plain sewing ,1
+3832,Thomas,John,washer ,1
+3833,Thomas,John,days work ,1
+3834,Thomas,Levinia,washer ,1
+3835,Thomas,Mary,washer ,1
+3835,Thomas,Mary,ironing ,1
+3836,Thomas,Phillip,washer ,1
+3836,Thomas,Phillip,ironing ,1
+3837,Thomas,Sarah,washer ,1
+3837,Thomas,Sarah,ironing ,1
+3838,Thomas,Susen,days work ,1
+3839,Thomas,William,washer ,1
+3839,Thomas,William,ironing ,1
+3840,Thomas,William,house work at home ,1
+3841,Thompson,Andrew,rag & bone,1
+3842,Thompson,Charles,washer ,1
+3843,Thompson,Edward,washer ,1
+3843,Thompson,Edward,ironing ,1
+3844,Thompson,Isaiah,washer ,1
+3844,Thompson,Isaiah,ironing ,1
+3845,Thompson,Maria,washer ,1
+3845,Thompson,Maria,ironing ,1
+3846,Thompson,Martha,assignation house ,1
+3847,Thompson,Mary,washer ,1
+3847,Thompson,Mary,ironing ,1
+3848,Thompson,Mary A,sorts rags,1
+3849,Thompson,Nathan,cuts rags ,1
+3850,Thompson,Philip,washer ,1
+3850,Thompson,Philip,ironing ,1
+3851,Thompson,Rolley,seamstress ,1
+3852,Thompson,Samuel,washer ,1
+3852,Thompson,Samuel,ironing ,1
+3853,Thompson,Sarah,days work ,1
+3854,Thompson,Solomon,washing one out ,2
+3855,Thompson,William,house work ,1
+3856,Tighlman,Mary,days work ,1
+3857,Till,Henry,washer ,1
+3857,Till,Henry,ironing ,1
+3858,Till,Joseph,washer ,1
+3858,Till,Joseph,ironing ,1
+3859,Tillerson,George,works at hotel ,1
+3860,Tilman,Perry,washer ,1
+3860,Tilman,Perry,ironing ,1
+3861,Tilman,William,washer ,1
+3861,Tilman,William,ironing ,1
+3862,Tingle,Solomon,unemployed ,1
+3863,Tintell,Levin,washer ,1
+3863,Tintell,Levin,ironing ,1
+3864,Titus,,null,null
+3865,Todd,Jane,cuts rags days work ,1
+3866,Tolson,John,days work ,1
+3867,Tomkins,Richard T,seamstress ,1
+3868,Towsands,William A,washer ,1
+3868,Towsands,William A,ironing ,1
+3869,Tribule,James,cook ,1
+3870,Tribute,Eliza,sewing ,1
+3870,Tribute,Eliza,cook ,1
+3871,Trotter,Thomas,washer ,1
+3871,Trotter,Thomas,ironing ,1
+3872,Truepenny,Elizabeth,works in oyster cellar ,1
+3873,Trusty,Peter,washer ,1
+3873,Trusty,Peter,ironing ,1
+3874,Tunnell,Abner,washer ,1
+3874,Tunnell,Abner,ironing ,1
+3875,Tunnell,Esau,washer ,1
+3875,Tunnell,Esau,ironing ,1
+3876,Turner,Jacob,whitewasher ,1
+3877,Turner,Jesse,house work ,1
+3878,Turner,John,washer ,1
+3878,Turner,John,ironing ,1
+3879,Turner,Stephen,washer ,1
+3879,Turner,Stephen,ironing ,1
+3880,Tyson,Jacob,washer ,1
+3881,Urvin,Charlotte,cooking ,1
+3882,Valentine,Tilman,washer ,1
+3882,Valentine,Tilman,ironing ,1
+3883,Valentine,William,washer ,1
+3883,Valentine,William,ironing ,1
+3884,Van Brokle,Samuel,washer ,1
+3884,Van Brokle,Samuel,ironing ,1
+3885,Van,Elias,washer ,1
+3885,Van,Elias,ironing ,1
+3886,Vanarkey,Johnson,dressmaker ,1
+3887,Vanbribeck,Abraham,washer ,1
+3887,Vanbribeck,Abraham,ironing ,1
+3888,Vandibeck,Aaron,cook ,1
+3889,Venerables,Alexander,washer ,2
+3889,Venerables,Alexander,sewing ,1
+3890,Walford,George,sewing ,1
+3891,Wall,Elizabeth,washing days work ,1
+3892,Walsey,Lydia,cook ,1
+3893,Warfield,Reason,lives out when well home all winter ill ,1
+3894,Warner,Eli,washing & c ,1
+3895,Warner,Rachel,cook been home ,1
+3896,Warren,John,null,null
+3897,Washington,John,days work ,1
+3898,Washington,Richard,washer ,1
+3898,Washington,Richard,ironing ,1
+3899,Washington,Samuel,washer ,1
+3899,Washington,Samuel,ironing ,1
+3900,Waterford,Eli,washer ,1
+3901,Waterford,Eli,washer ,1
+3901,Waterford,Eli,ironing ,1
+3902,Waterford,Joseph,boarding house ,1
+3903,Waterford,Robert,days work ,1
+3904,Waters,Benjamin,cuts carpet rags ,1
+3905,Waters,Ellen,old woman house work ,1
+3906,Waters,Frances,washer ,1
+3906,Waters,Frances,ironing ,1
+3907,Watson,Cato,washer ,1
+3908,Watson,Lear,days work ,1
+3909,Watts,Benjamin,washer ,1
+3910,Watts,Daniel,washer ,1
+3911,Watts,Ephraim,washer ,1
+3912,Weakley,James,washer ,1
+3912,Weakley,James,ironing ,1
+3913,Wearey,Prissilla,days work ,1
+3913,Wearey,Prissilla,out ,1
+3914,Weasey,Sarah,washer ,1
+3914,Weasey,Sarah,ironing ,1
+3915,Weasle,Thomas,null,null
+3916,Webb,Rebecca,small shop ,1
+3917,Webster,Amelia,washing etc ,1
+3918,Webster,George,house work ,1
+3919,Wellington,William,seamstress ,1
+3920,Wells,John,washer ,1
+3920,Wells,John,ironing ,1
+3921,Wesley,John,washer ,1
+3921,Wesley,John,ironing ,1
+3922,West,Author,washer ,1
+3923,West,George,washer ,1
+3924,West,James,weakly ,1
+3925,West,Robert,house cleaning ,1
+3925,West,Robert,washer ,1
+3926,Westwood,Keeling,cake baker ,1
+3927,Wharton,Mary,days work ,1
+3927,Wharton,Mary,house cleaner ,1
+3928,White,Benjamin,washing days work ,1
+3929,White,Berry,washer ,1
+3930,White,Causamore,days work ,1
+3931,White,Daniel,washer ,1
+3931,White,Daniel,general house work ,1
+3932,White,G,null,null
+3933,White,Gasper,washer ,1
+3933,White,Gasper,ironing ,1
+3934,White,Isaac,washer ,1
+3934,White,Isaac,days work ,1
+3935,White,Sarah,washing ironing ,1
+3936,White,Sarah,washing days work ,2
+3937,White,William,washer ,1
+3937,White,William,ironing ,1
+3938,White,William H,washer ,1
+3938,White,William H,ironing ,1
+3939,Whitley,Graham,cuts rags ,1
+3940,Whorton,Robert,days work ,1
+3940,Whorton,Robert,washer ,1
+3941,Wiggin,Nathaniel,seamstress ,1
+3942,Wilkins,James,washer ,1
+3942,Wilkins,James,ironing ,1
+3942,Wilkins,James,cook ,1
+3943,Wilkins,Samuel,washer ,1
+3943,Wilkins,Samuel,ironing ,1
+3944,William,Charles,washer ,1
+3944,William,Charles,ironing ,1
+3945,William,Mary A,washer ,1
+3945,William,Mary A,ironing ,1
+3946,William,Mary A,washer ,1
+3946,William,Mary A,ironing ,1
+3947,Williams,Abraham,rag & bone,1
+3948,Williams,Ann,cook ,1
+3949,Williams,Antony,washer ,1
+3949,Williams,Antony,ironing ,1
+3950,Williams,Caroline,pastry cook ,1
+3951,Williams,Edward,washer ,1
+3951,Williams,Edward,ironing ,1
+3952,Williams,Edward,wants work ,1
+3953,Williams,Elizabeth,days work ,1
+3954,Williams,George,washer ,1
+3954,Williams,George,general house work ,1
+3955,Williams,George,washer ,1
+3955,Williams,George,ironing ,1
+3956,Williams,Gilbert,null,null
+3957,Williams,Henry,washer ,1
+3957,Williams,Henry,ironing ,1
+3958,Williams,James,cook ,1
+3959,Williams,James,washer ,1
+3959,Williams,James,ironing ,1
+3960,Williams,John,house work ,1
+3961,Williams,John,days work ,1
+3962,Williams,John,days work ,1
+3962,Williams,John,rags ,1
+3963,Williams,Mary,cook ,1
+3964,Williams,Moses,washer ,1
+3964,Williams,Moses,ironing ,1
+3965,Williams,Paul,washing & c ,1
+3966,Williams,Rachel,washer ,1
+3967,Williams,Samuel,cook ,1
+3968,Williams,Samuel,boarder ,1
+3969,Williams,Sarah,cooks ,3
+3970,Williams,Sarah,plain sewing ,1
+3971,Williams,Susen,makes mats ,1
+3972,Williams,William P,house work ,1
+3973,Willis,Nazrey,house work ,1
+3974,Wilmore,Charles,sewing not regularly ,1
+3975,Wilson,Benjamin,washer ,1
+3975,Wilson,Benjamin,ironing ,1
+3976,Wilson,Edmond,washer ,1
+3976,Wilson,Edmond,ironing ,1
+3977,Wilson,Eli,rag & bone,1
+3978,Wilson,George,at home ,1
+3979,Wilson,Harriet,washer ,1
+3980,Wilson,Henry,washer ,1
+3980,Wilson,Henry,ironing ,1
+3981,Wilson,Henry,own work ,1
+3982,Wilson,Hester,cuts rags ,2
+3983,Wilson,Hyram,days work ,1
+3984,Wilson,James,at home ,1
+3985,Wilson,John,washer ,1
+3985,Wilson,John,work for day ,1
+3986,Wilson,Julia A,washer ,1
+3986,Wilson,Julia A,ironing ,1
+3987,Wilson,Maria,washer ,1
+3987,Wilson,Maria,ironing ,1
+3988,Wilson,Mary,washer ,1
+3988,Wilson,Mary,ironing ,1
+3989,Wilson,Samuel,washer ,1
+3989,Wilson,Samuel,ironing ,1
+3990,Wilson,Thomas,washer ,1
+3990,Wilson,Thomas,ironing ,1
+3991,Wilson,William,washer ,1
+3991,Wilson,William,ironing ,1
+3992,Wines,Samuel,house keeper ,1
+3993,Winslow,Joseph,washing & c ,1
+3994,Winston,Amelia,days work ,1
+3995,Winston,John,washer ,1
+3995,Winston,John,ironing ,1
+3996,Wishes,James,sewing ,1
+3997,Wolfe,Caesar,washing & c ,2
+3998,Wood,Thomas,days work ,1
+3999,Wood,William,cuts rags ,2
+4000,Woodaker,John,washer ,1
+4000,Woodaker,John,ironing ,1
+4001,Woodson,Frederic Jr,washer ,1
+4001,Woodson,Frederic Jr,ironing ,1
+4002,Woodward,John,washing days work ,1
+4003,Wright,Elizabeth,washer ,1
+4003,Wright,Elizabeth,ironing ,1
+4004,Wright,James,cuts rags days work ,1
+4005,Wright,William,washer ,1
+4005,Wright,William,ironing ,1
+4006,Young,Charles,null,null
+4007,Young,Hester,carpet rags ,1
+4008,Young,Richard,washer ,1
+4009,Young,William,washer ,1
+4009,Young,William,ironing ,1
+4010,Adams,John,washer ,1
+4011,Agustus,David,washer ,1
+4011,Agustus,David,days work ,1
+4012,Alison,John,wash ,1
+4013,Allen,Ann,wash ,1
+4014,Allman,Mukes,keeps shop ,1
+4015,Amos,Nathan,wash ,1
+4015,Amos,Nathan,days work ,1
+4016,Anderson,Ann,washer ,1
+4016,Anderson,Ann,days work ,1
+4017,Anderson,William,wants work ,1
+4018,Anderson,William,days work ,1
+4019,Armstrong,Eliza,washer ,1
+4020,Batteace,Charles,null,null
+4021,Beattey,Robert,washer ,1
+4021,Beattey,Robert,ironing ,1
+4022,Bell,Solomon,keeps the house ,1
+4023,Black,Ann,days work ,1
+4024,Black,David,washer ,1
+4025,Black,Gideon,washer ,1
+4026,Black,Mathia,washer ,1
+4027,Blake,Henry,wash ,1
+4028,Boggs,Frances,washing days work ,1
+4029,Borough,Letty,washer ,1
+4030,Bostic,Charles,null,null
+4031,Boyd,William,wash ,1
+4032,Bradford,Henry,null,null
+4033,Braumill,Daniel B,keeps house ,1
+4034,Brooks,Robert,wash ,1
+4035,Brown,Abigail,washer ,1
+4036,Brown,Andrew,wash ,1
+4037,Brown,Elen,washer ,1
+4038,Brown,John,wash ,1
+4039,Brown,Juliana,wash ,1
+4040,Brown,Mary A,washer ,1
+4041,Brown,Stephen,washer ,1
+4042,Brown,Susan,wash ,1
+4043,Bullett,William,washer ,1
+4044,Bundic,Joshua,wash ,1
+4045,Bundice,Rosanna,mantua maker ,1
+4045,Bundice,Rosanna,washer ,1
+4046,Burton,John,keeps house ,1
+4047,Cane,John,wants washing ,1
+4048,Cannon,Reese,washer ,1
+4049,Carpenter,Peter,days work ,1
+4050,Carter,Amelia,wash ,1
+4050,Carter,Amelia,cooking ,1
+4051,Carter,J Lewis,days work ,1
+4052,Chalbert,Luis,wash ,1
+4053,Chase,Mary,washer ,2
+4053,Chase,Mary,days work ,1
+4054,Cline,David,washer ,1
+4055,Coachman,Edward,null,null
+4056,Cole,James,null,null
+4057,Cole,William,wash ,1
+4058,Cooper,George,wash cooking & c ,1
+4059,Copeland,Silva,out to work ,1
+4060,Cornish,Maria,wash & c ,1
+4061,Coward,Charles,wash ,1
+4062,Craig,Margaret,days work ,1
+4063,Croper,Jeremiah,sewing ,1
+4064,Cropper,William,keeps the house ,1
+4065,Cross,Mary,sewing ,1
+4066,Cuff,John,null,null
+4067,Davis,Eli,washer ,1
+4068,Davis,Emanuel,washer ,1
+4068,Davis,Emanuel,cooking ,1
+4069,Davis,Maria,washing & c ,1
+4070,Deats,Benjamin,weakly ,1
+4071,Deleoice,Eliza,washer ,1
+4072,Demby,Ann,young child husband left ,1
+4073,Demby,Richard,wash ,1
+4074,Demby,Wiliiam,wash ,1
+4075,Derry,George,null,null
+4076,Disberry,David,keeps house ,1
+4077,Donenger,James,out by days work ,1
+4078,Dorsey,John W,sewing ,1
+4078,Dorsey,John W,wash ,1
+4079,Downey,Jane,null,null
+4080,Draper,Ann,out to washing ,1
+4081,Draper,Charles,wash ,1
+4082,Draper,Charles Jr,washing wanted ,1
+4083,Draper,Milly,washer ,1
+4084,Duffy,John,wants washing ,1
+4085,Duglass,An,washer ,1
+4086,Dumpson,Martha,null,null
+4087,Dunson,George,wife wants work ,1
+4088,Dutton,Susan,washer ,1
+4089,Elsey,Abraham,washing and days work ,1
+4090,Evans,James,woman lame ,1
+4091,Farrel,Elias,null,null
+4092,Fausit,Francis,wash ,1
+4093,Fetterman,Jacob,plain sewing ,1
+4094,Fisher,George,mantua maker ,1
+4095,Flamer,William H,keeps house ,1
+4096,Fransis,John,washer ,1
+4096,Fransis,John,ironing ,1
+4097,Fransis,Mary,washing & c ,1
+4098,Gant,Elizabeth,washer ,1
+4099,Gardner,John,wash ,1
+4100,Gasaway,Margaret,washer ,1
+4101,Gibbs,Elijiah,weakly ,1
+4102,Goosbury,James,lame ,1
+4103,Goosby,Francis,out at washing ,1
+4104,Goud,Joseph,null,null
+4105,Gray,Henderson,sewing washing etc ,1
+4106,Hall,Fredrick T,keeps the house ,1
+4107,Hall,Isaa,wash ,1
+4108,Harmer,Edward,keeps the house ,1
+4109,Harris,Hannah,washer ,1
+4110,Harrison,William,keeps the house ,1
+4111,Hawkins,Elizabeth,service ,1
+4112,Hazel,Michel,sorting rags ,1
+4113,Hendrickson,Francis,keeps the house ,1
+4114,Henry,Elizabeth,sewing ,1
+4115,Henry,Hanrietta,washer ,1
+4116,Henry,John,farm work ,1
+4117,Hicks,Isaac,wash ,1
+4118,Hill,Agnes,washing days work ,1
+4119,Holly,Aaron,washer ,1
+4120,Homes,Dianna,null,null
+4121,Hopkins,Henry,wash ,1
+4122,Howard,Thomas,keeps the house ,1
+4123,Howell,Isaac,null,null
+4124,Hutchinson,David,takes care of mother ,1
+4125,Ingrem,Ann,one at serivce ,1
+4126,J(?)uel,Jacob,wants washing ,1
+4127,Jackson,William,plain sewing ,1
+4128,Jacobs,James,wash ,1
+4129,James,Edward,washer ,1
+4130,James,Jemima (?),washer ,1
+4131,James,Lucy,washer ,1
+4132,James,Richard,null,null
+4133,James Richard,,null,null
+4134,James,Thomas,wants sewing ,1
+4135,Johnson,Abraham,wash ,1
+4136,Johnson,Henry,washer ,1
+4137,Johnson,Isaac,wash ,1
+4138,Johnson,Joseph,wash ,1
+4139,Johnson,Mary Ann,null,null
+4140,Johnson,Michel,whitewashing ,1
+4141,Johnson,Samuel,snuff milling ,1
+4142,Johnson,Susan,washer ,1
+4143,Johnson,William,days work ,1
+4144,Jones,Harriet,keeps the house ,1
+4145,Jones,Robert H,house work ,1
+4146,Jones,Sarah,old female ,1
+4147,Jones,Thomas,null,null
+4148,Kelley,Adaline,washer ,1
+4148,Kelley,Adaline,days work ,1
+4149,Kelly,Alriah,null,null
+4150,King,James,washer ,1
+4150,King,James,days work ,1
+4151,Knight,David,null,null
+4152,Kupl,James,wash ,1
+4153,Lalbs (?),Jeremiah,wash ,1
+4154,Laurence,Adam,wash ,1
+4155,Laws,James,washing & c ,1
+4156,Lee,Fenton,weakly ,1
+4157,Lee,Francis,washer ,1
+4158,Lewis,John,wash ,1
+4159,Lexton,Jane,wash ,1
+4160,Lodor,Harriet,wash ,1
+4161,Logan,Nehemiah,days work ,1
+4162,Loh,James,washing & c ,1
+4163,Ludnum,Charles,days work ,1
+4164,Luff,Peter,washer ,1
+4165,Lum,Isaa,wants washing ,1
+4166,Malony,Solomon,null,null
+4167,Maman,Joseph T,wants washing ,1
+4168,Manluff,Julian,null,null
+4169,Martin,Henry,null,null
+4170,Martin,Lewis B,plain sewing ,1
+4171,Maxwell,John,null,null
+4172,McCoy,Benjamin,wash ,1
+4173,McGruder,Nicholas,keeps cake shop ,1
+4174,Meloney,Nancy,washer ,1
+4174,Meloney,Nancy,ironing ,1
+4175,Miler,Robert,null,null
+4176,Miller,Charles,wash ,1
+4177,Miller,David,null,null
+4178,Miller,James,plain sewing ,1
+4179,Miller,Johnathan,null,null
+4180,Miller,Joseph,wash ,1
+4181,Miller,Perry,washer ,1
+4182,Miller,Ralph,keeps the house ,1
+4183,Miller,Reuben,wash ,1
+4184,Milton,Andrew,wash ,1
+4185,Minor,Anthony,wash ,1
+4186,Moore,Eliza,wash ,1
+4187,Moses,S Ann,null,null
+4188,Murphy,Jerimiah,washing wanted ,1
+4189,Murrell,David,washer ,1
+4190,Murry,Daniel,wash ,1
+4191,Murry,Jacob,keeps the house ,1
+4192,Murry,Jeremiah,keeps the house ,1
+4193,Myrs,Charles,washer ,1
+4193,Myrs,Charles,cooking ,1
+4194,Nash,Charles,null,null
+4195,Neads,Aaron,washer ,1
+4195,Neads,Aaron,days work ,1
+4196,Neads,James,null,null
+4197,Offet,John,dressmaker ,1
+4197,Offet,John,milliner ,1
+4198,Orum,Luiza,washer ,1
+4199,Paggins,William,weakly ,1
+4200,Parker,Charles,keeps the house ,1
+4201,Parker,Simon W,wash ,1
+4202,Patterson,Samuel,washer ,1
+4203,Peer,Anthony,sewing wanted ,1
+4204,Peer,Elllis J,keeps the house ,1
+4205,Penn,Julia,washer ,1
+4206,Peters,James H,keeps the house ,1
+4207,Phillips,Jacob,keeps the house ,1
+4208,Price,Phillip,null,null
+4209,Price,Rennolds,washer ,1
+4210,Price,Stephen,wash ,1
+4210,Price,Stephen,days work ,1
+4211,Price,Stephen,wash ,1
+4211,Price,Stephen,days work ,1
+4212,Purnell,Jenkens,washer ,1
+4213,Purnell,Minty,works at confectionary ,1
+4214,Purnell,Israel,wash ,1
+4215,Rerrais (?),David,washing & c ,1
+4216,Rice,Charles,wants work ,1
+4217,Rice,William,house work ,1
+4218,Richards,Hannah,washer ,1
+4219,Richardson,W,washing & c ,1
+4220,Ritter,Joseph,washer ,1
+4221,Robinson,George,keeps the house ,1
+4222,Robson,Lydia,washer ,1
+4223,Rodgers,John,washer ,1
+4224,Rodney,David,washer ,1
+4224,Rodney,David,sewing ,1
+4225,Roland,George,null,null
+4226,Ross,Richard,keeps the house ,1
+4227,Ross,William,wash ,1
+4228,Saulsbury,John,washer ,1
+4229,Scott,Giles,washer ,1
+4230,Scott,Henry,wash ,1
+4231,Selsby,Nathan,washing days work ,1
+4232,Shephard,Martha,washing days work ,1
+4233,Shuthens,Lucy,washer ,1
+4234,Simpson,Emery,washer ,1
+4235,Smith,Henry,washer ,1
+4236,Smith,Henry,keeps the house ,1
+4237,Smith,Mrs,days work ,1
+4238,Smullin,Lewis,wash ,1
+4239,Stansbury,William,washer ,1
+4240,Steward,William,plain sewing ,1
+4241,Still,Abraham,wash ,1
+4242,Still,Tobias,females want washing ,1
+4243,Thomas,George,wash ,1
+4244,Thomas,Rachel,wash ,1
+4245,Thomas,William,wants work ,1
+4246,Thompson,Robert,washer ,1
+4247,Tilison,Joseph,wash ,1
+4248,Tillman,Rebecca,sells pepper pot ,1
+4249,Trusty,Jacob,keeps big house ,1
+4250,Tunnee,James,wash ,1
+4251,Tyson,Rosanna,sewing ,1
+4251,Tyson,Rosanna,washer ,1
+4252,Unctim,Francis,washer ,1
+4253,Valentine,James,wash ,1
+4254,Varess,Thomas,washer ,1
+4255,Vever,Henrietta,washer ,1
+4256,Vullen,Christopher,null,null
+4257,Walker,John,out to work ,1
+4258,Ward,Ida,washer ,1
+4259,Washington,William,washer ,1
+4260,Wesley,Peter,null,null
+4261,Whetington,Elmer,wash ,1
+4262,White,John,washer ,1
+4263,White,Joseph,wash ,1
+4264,Wilkerson,Major J,plain sewing ,1
+4265,Williams,Ann,weakly ,2
+4266,Williams,Catharine,place wanted at service ,1
+4267,Williams,Daniel,days work ,1
+4268,Williams,Elexander,wash ,1
+4269,Williams,Hannah,work wanted ,1
+4270,Williams,Isaac,washer ,1
+4271,Williams,Janey (?),washer ,1
+4272,Williams,John,washing and ironing ,1
+4273,Williams,Ruth,sews cart rags,1
+4274,Williams,Thomas,washer ,1
+4275,Williams,William,wash ,1
+4276,Willims,Caleb,wash ,1
+4277,Wilmore,Sarah,wash ,1
+4278,Wilson,Eliza Ann,husband slave ,1
+4279,Wilson,Martha,washer ,1
+4279,Wilson,Martha,ironing ,1
+4280,Wood,Allen,washer ,1
+4281,Wood,Amy,work wanted ,1
+4282,Wood,William,null,null
+4283,Young,Richard,washer ,1
