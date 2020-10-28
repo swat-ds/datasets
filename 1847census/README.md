@@ -17,7 +17,6 @@ The dataset contains forty-three elements of information for each of more than f
 - `sofaac-normalized` / ID, cleaned and normalized columns (does not include all transcribed columns)
 - `sofaac-*-occupations` / ID, Household, Normalized Occupation, Count
 - `sofaac-*-occupations-freq` / Normalized Occupation, Total
-- 
 
 Data cleaned and normalized with the help of Alice Huang ('22), Bilal Soukouna ('22), Helen Huh ('21), and Katie Knox ('21) as part of 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)). 
 
