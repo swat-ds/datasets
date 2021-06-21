@@ -1,4 +1,4 @@
-The Rosine Association Casebooks give biographies of women assisted by the Rosine Association, "a house for the reformation, employment and instruction of women, who had led immoral lives." A typical entry discusses the woman's place of birth, her family situation, her life in brief, and her contact with the Association. Dataset and transcripts prepared by the [Friends Historical Library of Swarthmore College](https://swarthmore.edu/friends).
+The Rosine Association Casebooks give biographies of women assisted by the Rosine Association, "a house for the reformation, employment and instruction of women, who had led immoral lives," between 1848 and 1858. A typical entry discusses the woman's place of birth, her family situation, her life in brief, and her contact with the Association. Dataset and transcripts prepared by the [Friends Historical Library of Swarthmore College](https://swarthmore.edu/friends).
 
 # The Rosine Association
 
