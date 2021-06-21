@@ -3,6 +3,9 @@ Datasets prepared by [Swarthmore College Libraries](http://www.swarthmore.edu/li
 
 Unless otherwise noted, all datasets are licensed as [Creative Commons Attribution-ShareAlike (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+## Rosine Association Casebooks
+The Rosine Association Casebooks give biographies of women assisted by the Rosine Association, "a house for the reformation, employment and instruction of women, who had led immoral lives," between 1848 and 1858. A typical entry discusses the woman's place of birth, her family situation, her life in brief, and her contact with the Association. Dataset and transcripts prepared by the [Friends Historical Library of Swarthmore College](https://swarthmore.edu/friends).
+
 ## Philadelphia African American Census 1847
 This survey of Philadelphia's Black population, conducted by a committee of Quakers in 1847, contains forty-three elements of information for each of more than four thousand households. Source material from, and dataset prepared by, Friends Historical Library of Swarthmore College.
 
