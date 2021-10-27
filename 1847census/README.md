@@ -12,12 +12,17 @@ Original source: Census of Black People, 1847, [Philadelphia Yearly Meeting (Ort
 ## About the data
 The dataset contains forty-three elements of information for each of more than four thousand African American households in Philadelphia. Above and beyond the basic information of name and address, the 1847 census is incredibly rich in detail, including such datapoints as: occupation, education, literacy, rent and taxes paid, whether the person was born in slavery, amount paid for freedom, and much more.
 
+### Main datasets
+These contain all or most of the data from the manuscript ledger.
 - `sofaac-raw-export` / Filemaker database export from initial manuscript ledger transcription
-- `sofaac-transcribed` / ID, households as transcribed excluding duplicates
-- `sofaac-names` / ID, Last Name, First Name, Street Number, Street Name
+- `sofaac-transcribed` / ID, household data columns as transcribed excluding duplicate rows
 - `sofaac-normalized` / ID, cleaned and normalized columns (does not include all transcribed columns)
-- `sofaac-*-occupations` / ID, Household, Normalized Occupation, Count
-- `sofaac-*-occupations-freq` / Normalized Occupation, Total
+
+### Secondary datasets
+These contain topical subsets of the overall data.
+- `sofaac-names` / ID, Last Name, First Name, Street Number, Street Name
+- `sofaac-*-occupations` / ID, Household, Normalized Occupation, Count / Created for the [occupations visualization](https://ds-pages.swarthmore.edu/paac/occupations/)
+- `sofaac-*-occupations-freq` / Normalized Occupation, Total / Created for the [occupations visualization](https://ds-pages.swarthmore.edu/paac/occupations/)
 
 Data cleaned and normalized with the help of Alice Huang ('22), Bilal Soukouna ('22), Helen Huh ('21), and Katie Knox ('21) as part of 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)). 
 
