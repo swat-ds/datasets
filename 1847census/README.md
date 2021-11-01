@@ -24,7 +24,7 @@ These contain topical subsets of the overall data.
 - `sofaac-*-occupations` / ID, Household, Normalized Occupation, Count / Created for the [occupations visualization](https://ds-pages.swarthmore.edu/paac/occupations/)
 - `sofaac-*-occupations-freq` / Normalized Occupation, Total / Created for the [occupations visualization](https://ds-pages.swarthmore.edu/paac/occupations/)
 
-Data cleaned and normalized with the help of Alice Huang ('22), Bilal Soukouna ('22), Helen Huh ('21), and Katie Knox ('21) as part of 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)). 
+Data cleaned and normalized with the help of Alice Huang ('22), Bilal Soukouna ('22), Helen Huh ('21), and Katie Knox ('21) as part of 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)). Additional data cleaning by Yolanda Hu ('22) in 2021.
 
 ## Using the data
 This dataset is licensed as [Creative Commons Attribution-ShareAlike (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
