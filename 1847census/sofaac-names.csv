@@ -1,1004 +1,1033 @@
 ID,Last Name,First Name,Street Number,Street Name
-0000,Lennox,Basil,144,N. Water
-0001,Shepherd,Jacob,112,N. Water
-0002,Ashmead,Louisa,92,N. Water
-0003,Poole,Emaline,74,N. Water
-0004,Chain,Thomas,67,N. Front
-0005,Brown,George,4,Walnut
-0006,Robinson,Jane,456,S. Water
-0007,Smiley,David,49,South Street
-0008,Estcott,James,49,South Street
-0009,Early,John,49,South Street
-0010,Lucas,Eleanor,18,Lombard
-0011,Shepherd,Louisa,18,Lombard
-0012,View,Martha,18,Lombard
-0013,Roberts,Eliz,18,Lombard
-0014,Riley,Ebenezer,18,Lombard
-0015,Gray,Ann,18,Lombard
-0016,Richard,Thos,18,Lombard
-0017,Cornish,Eliza,18,Lombard
-0018,Johnson,William,9,Lombard
-0019,Lee,David,199,S. Front
-0020,Moore,Eliz,15,Spruce
-0021,Thompson,Mary,46,Spruce
-0022,Depee,Robert,46,Spruce
-0023,Hitchins,Eliza,46,Spruce
-0024,Smith,Gabriel,46,Spruce
-0025,Agustus,Richard,46,Spruce
-0026,Townsend,Allen,46,Spruce
-0027,Thompson,Charlotte,46,Spruce
-0028,Stokley,Weymouth,46,Spruce
-0029,Cork,John,46,Spruce
-0030,Ludlow,Levi,46,Spruce
-0031,Derrikson,Esther,46,Spruce
-0032,Evans,James,46,Spruce
-0033,Davis,Myers,28,Spruce
-0034,Allen,George,28,Spruce
-0035,Beverly,Lydia,8,Gray's Alley
-0036,Denby,Abraham,8,Gray's Alley
-0037,Rosi,Diana,8,Gray's Alley
-0038,Dillin,Sarah,8,Gray's Court
-0039,Miller,Keziah,8,Gray's Court
-0040,Madden,Abigail,8,Gray's Alley
-0041,Richards,Amia,8,Gray's Alley
-0042,Mintess,Elizabeth,3,Gray's Alley
-0043,Martin,John,3,Gray's Alley
-0044,Stewart,Rachel,3,Gray's Alley
-0045,Macklin,Eliza,3,Gray's Alley
-0046,Purnell,John,3,Gray's Alley
-0047,Golding,Eliza,3,Gray's Alley
-0048,Murray,Samuel,3,Gray's Alley
-0049,Brown,Anna,3,Gray's Alley
-0050,Withington,Comfort,3,Gray's Alley
-0051,Richardson,Ann,3,Gray's Alley
-0052,West,George,3,Gray's Alley
-0053,Wilson,Joseph,3,Gray's Alley
-0054,Lee,Eliza,3,Gray's Alley
-0055,Christian,Issac,3,Gray's Alley
-0056,Smith,Fanny,3,Gray's Alley
-0057,Whitaker,William,3,Gray's Alley
-0058,Scott,James,3,Gray's Alley
-0059,Purnell,Nancy,3,Gray's Alley
-0060,Hughes,George W.,3,Gray's Alley
-0061,Gibbs,Anna Marie,3,Gray's Alley
-0062,Dill,Catharine,,Farman's Row
-0063,Johnson,Edward,3,Farman's Row
-0064,Day,Robert,3,Farman's Row
-0065,Boston,Grace,,Farman's Row
-0066,Mason,George,4,Farman's Row
-0067,Thompson,James,27,Market Street
-0068,Walker,Emmanuel,27,Market Street
-0069,Thompson,Anna,27,Market Street
-0070,Primrose,Magaret,4,Farman's Row
-0071,Murray,James,5,Coomb's Alley
-0072,Middleton,Nancy,5,Coomb's Alley
-0073,Thomas,James,5,Coomb's Alley
-0074,Jones,Absolom,1,Cauffman's Court
-0075,Jackson,Mary,2,Cauffman's Court
-0076,Coushaw,Lydia,2,Cauffman's Court
-0077,Wilson,Jacob R,3,Cauffman's Court
-0078,Black,Ann,3,Cauffman's Court
-0079,Hamblton,George,5,Cauffman's Court
-0080,Cook,Lewis A,6,Cauffman's Court
-0081,Johnson,Emery,6,Cauffman's Court
-0082,Dean,Louisa,4,Cauffman's Court
-0083,Cauldwell,Perry,28,Coates Alley
-0084,Brown,Soloman,40,Bread
-0085,Miller,John,40,Bread
-0086,Golden,Scotland,40,Bread
-0087,Hardy,Craford,40,Bread
-0088,Hartless,William,40,Bread
-0089,Smith,Joseph,,Lash Alley
-0090,Matthews,Lucy Ann,,Lash Alley
-0091,Holcomb,Martha,,Lash Alley
-0092,Potter,Mary,,Lash Alley
-0093,Johnson,Judith,,Lash Alley
-0094,Blunden,Iona,,Lash Alley
-0095,Dolphin,Rebecca,,Biddles Alley
-0096,Anderson,George,,Biddles Alley
-0097,Barnes,Rebecca,,Biddles Alley
-0098,Prince,Abraham,,Biddles Alley
-0099,Jawnna,Henry,,Biddles Alley
-0100,Singleton,George,,Biddles Alley
-0101,Douglas,Robert,54,Arch
-0102,Cooper,William G,59,Arch
-0103,Coines,Basil,15,Exchange Place
-0104,Augustine,Mary,123,S. 3rd Street
-0105,Jones,Robert,63,Union Street
-0106,Jones,Mary,63,Union Street
-0107,Johnson,Samuel,63,Union Street
-0108,Derrickson,Peter,63,Union Street
-0109,Nichols,Jemima,63,Union Street
-0110,Noker,Allen,63,Union Street
-0111,Depee,,63,Union Street
-0112,Suphay,Emma,17,Cauffman's Court
-0113,Mitchell,Gideon,,Sash Alley
-0114,Darrah,Sarah,79,Union Street
-0115,Edwards,Daniel,70,Union Street
-0116,Trusty,Jonathan,70,Union Street
-0117,Burton,Chas,70,Union Street
-0118,Calbert,Tamzin,70,Union Street
-0119,Chavens,Jesser,,School Avenue
-0120,William,William,,School Avenue
-0121,Savage,Chas,,School Avenue
-0122,Evans,Harriett,,School Avenue
-0123,Edwards,Peter,,School Avenue
-0124,Morris,Nancy,,School Avenue
-0125,Burk,Nancy,,School Avenue
-0126,Heminway,Isa,51,Pine
-0127,Gordon,An?sSarah,53,Pine
-0128,Quand,Stephen,49,Lombard
-0129,Goldem,Samuel,29,Lombard
-0130,Mitchell,Josiah,29,Lombard
-0131,Cutchins,Miles,15,Gaskill
-0132,Well,Emanuel,15,Gaskill
-0133,Allen,Joseph W,16,Gaskill
-0134,Purnell,Amelia,16,Gaskill
-0135,Reddon,George L,16 1/2,Gaskill
-0136,Martin,Nelson,16 1/2,Gaskill
-0137,McNeal,Sarah,18,Gaskill
-0138,Prevan,Phyllis,20,Barrow
-0139,Baker,Elizabeth,20,Barrow
-0140,Roberts,Sarah,20,Barrow
-0141,Baker,Emaline,20,Barrow
-0142,Brister,James,20,Barrow
-0143,Tyler,Ann,1,Taylors Alley
-0144,Galloway,Ann,1,Taylors Alley
-0145,Davis,Jemimah,2,Taylors Alley
-0146,Burton,Hamilton,2,Taylors Alley
-0147,Hart,John L,3,Taylors Alley
-0148,Waterford,Chas,5,Taylors Alley
-0149,Brake,Ann,5,Taylors Alley
-0150,Truwall,Henry,5,Taylors Alley
-0151,Jones,Henry,6,Taylors Alley
-0152,Jacobs,David,,Smith's Court
-0153,Taylor,Isaac,,Smith's Court
-0154,Tucker,William,,Smith's Court
-0155,Campbell,Elizabeth,,Smith's Court
-0156,Campbell,Joshua,,Smith's Court
-0157,Coleman,Lewis,,Smith's Court
-0158,Montier,William,,Smith's Court
-0159,Butler,Elijah,,Smith's Court
-0160,Ingram,Mary,,Smith's Court
-0161,Parker,Nancy,,Smith's Court
-0162,Butler,?,,Smith's Court
-0163,Powell,John,,Smith's Court
-0164,Stratton,John,105,South Street
-0165,Curtis,Anthony,69,Gaskill
-0166,Brown,David,69,Gaskill
-0167,Boston,Jacob,58,Gaskill
-0168,Worthington,John,42,Gaskill
-0169,Cooper,William,80,Lombard
-0170,Floriin,Mary,80,Lombard
-0171,Evans,George,80,Lombard
-0172,Forten,Charlotte,90,Lombard
-0173,Humphries,Joseph P,166,S. 3a
-0174,Riley,William H,125,S. 4th Street
-0175,Vesey,Edward,191,S. 4th Street
-0176,Ayres,Jacob,97,Lombard
-0177,Brister,James,95,Lombard
-0178,Thomas,Abraham,95,Lombard
-0179,Robinson,Joel,11,Willings Alley
-0180,Roberts,Aaron,11,Willings Alley
-0181,Roberts,Robert,9,Sterling Alley
-0182,Cope,Thomas,10,Sterling Alley
-0183,Hall,Sarah,10,Sterling Alley
-0184,Bun,Thomas,189,N. Front
-0185,Powell,James M,2,Lombard Court
-0186,Weaver,Jane,2,Lombard Court
-0187,Johnson,Mary,2,Lombard Court
-0188,Miller,Thos,2,Lombard Court
-0189,Hughes,Jane,186,S. 4th Street
-0190,Holden,Sarah,186,S. 4th Street
-0191,Wright,Marla,184,S. 4th Street
-0192,Hogan,Rebecca,186,S. 4th Street
-0193,Kenton,Augustus,188,S. 4th Street
-0194,Height,Joseph,188,S. 4th Street
-0195,Beck,Ignatiius,86,Gaskill
-0196,Jones,William,88,Gaskill
-0197,Simmons,Eliza,88,Gaskill
-0198,Moore,Alice,88,Gaskill
-0199,Hopkins,Caroline,88,Gaskill
-0200,Hitchins,John,88,Gaskill
-0201,Perkins,Edith,,
-0202,Brown,Ann,88,Gaskill
-0203,Cooper,Benjamin,88,Gaskill
-0204,Williams,Henry F,90,Gaskill
-0205,Parker,Wingate,90,Gaskill
-0206,Lowy,George,90,Gaskill
-0207,Conican,Henry,92,Gaskill
-0208,Battise,John,92,Gaskill
-0209,Bustill,Charles C,92,Gaskill
-0210,Carney,Lydia,92,Gaskill
-0211,Hollingsworth,George,94,Gaskill
-0212,Miller,Mary,94,Gaskill
-0213,King,Cathaine,94,Gaskill
-0214,Rodney,Hannah,94,Gaskill
-0215,Creamer,Emily,94,Gaskill
-0216,Cos,Rachel,96,Gaskill
-0217,Brown,Susan,96,Gaskill
-0218,Debity,Major,96,Gaskill
-0219,Pierce,James F,96,Gaskill
-0220,Jefferies,William,98,Gaskill
-0221,Cummings,Hester,98,Gaskill
-0222,Bass,Mary,98,Gaskill
-0223,Hubbard,Nancy,98,Gaskill
-0224,Hill,Margaret,98,Gaskill
-0225,Lancaster,Hester,100,Gaskill
-0226,Crosby,Diana,100,Gaskill
-0227,Waterford,Keziah,100,Gaskill
-0228,Jackson,Rachel,100,Gaskill
-0229,Gittis,Elizabeth,102,Gaskill
-0230,Wright,Chas,102,Gaskill
-0231,Gray,Sophie,202,Gaskill
-0232,Savoy,Joseph,104,Gaskill
-0233,Young,Lewis,104,Gaskill
-0234,Allen,Thos,104,Gaskill
-0235,White,Jasl M,106,Gaskill
-0236,Libby,Abraham,97,Gaskill
-0237,Jacoles,Priscilla,97,Gaskill
-0238,Sullivan,Jane,97,Gaskill
-0239,Smith,Elizabeth,97,Gaskill
-0240,Mason,Isaac,1,Scotts Court
-0241,Williams,John,2,Scotts Court
-0242,Gater,Geroge M,3,Scotts Court
-0243,Cornish,John,4,Scotts Court
-0244,Cassey,Joseph,113,Lombard
-0245,Donald,Jane M,11,Lombard
-0246,Sullivan,Ezekiel,106,Lombard
-0247,White,George,122,Lombard
-0248,Johnson,Sarah,122,Lombard
-0249,Riley,Rachel,122,Lombard
-0250,Wills,Geroge,18,Green
-0251,Belfast,Msrsh,2,Green
-0252,Barrett,James,22,Green
-0253,Buck,Levi,22,Green
-0254,Okey,William,22,Green
-0255,Polk,Jacob,22,Green
-0256,Hitchins,Elisha,22,Green
-0257,Hale,Elias,22,Green
-0258,White,Nancy,12,Green
-0259,Nelson,Henry,12,Green
-0260,Wilmer,Harriet,12,Green
-0261,Reading,Richard,,
-0262,Foster,Ann,10,Green
-0263,Jefferies,David,10,Green
-0264,Maclow,George,10,Green
-0265,Little,Phoebe,10,Green
-0266,Jones,Edward,10,Green
-0267,Sullivan,Sophia,10,Green
-0268,Chamber,Edward,10,Green
-0269,Thompson,Ellen,10,Green
-0270,Allen,John,10,Green
-0271,Hunn,Louisa,10,Green
-0272,Bosier,Louisa,10,Green
-0273,Johnson,Maria,10,Green
-0274,Welcome,Josephine,10,Green
-0275,Johnson,Jacob,19,Green
-0276,Stewart,Mary,19,Green
-0277,Bishop,John,19,Green
-0278,Baker,James,19,Green
-0279,Townsend,James,19,Green
-0280,Armstrong,Mary,19,Green
-0281,Fisher,Nancy,19,Green
-0282,Brown,Henry,19,Green
-0283,Brown,James,23,Green
-0284,Burkitt,Rebecca,23,Green
-0285,Francis,Chas,23,Green
-0286,Reese,Chas,23,Green
-0287,Campbell,Elizabeth,23,Green
-0288,Wilson,Benjamin,9,Green
-0289,Parker,Jacob,9,Green
-0290,Moore,John L,9,Green
-0291,Davis,Jane,9,Green
-0292,Horace,Nancy,11,Green
-0293,Melevier,Christina,11,Green
-0294,George,Ann,11,Green
-0295,Humphrie,Evaline,11,Green
-0296,Laws,Jane,11,Green
-0297,Charles,Mary,11,Green
-0298,Gibbs,James,,E. Spruce & Green
-0299,Smith,Moses,,E. Spruce & Green
-0300,Lewis,Ellen,,E. Spruce & Green
-0301,Woodson,Frederick,150,Spruce
-0302,White,Mary Ann,150,Spruce
-0303,Parker,Willman,150,Spruce
-0304,Guyjet,Stephen W,1,Laurel
-0305,Martin,Josiah,,Bells Court
-0306,Williams,Issac,,Bells Court
-0307,Harris,Cyrus,,Bells Court
-0308,Dixon,Milford,11,Prune
-0309,Polk,Mary,11,Prune
-0310,Miller Sr.,James,11,Prune
-0311,Burr,John P,115,S. 5th Street
-0312,Martin,Clara,,Marshall's Court
-0313,Huggl,William,,Marshall's Court
-0314,Hugg,William,,Marshall's Court
-0315,White,Andrew,,Marshall's Court
-0316,Powell,Andrew,129,Walnut
-0317,Moore,James,129,Walnut
-0318,Lancaster,Rachel,129,Walnut
-0319,Milton,Rex,129,Walnut
-0320,Braddock,William,129,Walnut
-0321,Cramer,Fanny,129,Walnut
-0322,White,William,150,Spruce
-0323,Bailey,Suzanna,150,Spruce
-0324,Harris,Maria,150,Spruce
-0325,Times,Isom (?),150,Spruce
-0326,Allen,Richard,150,Spruce
-0327,Tilghman,Mary Ann,129,Walnut
-0328,Banks,Soloman J,33,Cherry
-0329,Collins,Cate,100,N. 4th Street
-0330,Roberts,Julia,110,4th Street
-0331,Rilley,Abner,112,N. 5th Street
-0332,Collins,George,14,Mulberry Alley
-0333,Waters,Hannah,12,Mulberry Alley
-0334,Miller,Tabitha,12,Mulberry Alley
-0335,Robinson,Selita,12,Mulberry Alley
-0336,Jackson,Robert,12,Mulberry Alley
-0337,Thompson,David,,Maryland & Mulberry Alley
-0338,Chew,John,,Maryland & Mulberry Alley
-0339,Tucker,Benjamin,,Maryland & Mulberry Alley
-0340,Watkins,Henry,,Maryland & Mulberry Alley
-0341,Lewis,Peter,,Maryland & Mulberry Alley
-0342,Black,John,,Maryland & Mulberry Alley
-0343,Milburn,Levi,,Maryland & Mulberry Alley
-0344,Johnson,Jane,,Maryland & Mulberry Alley
-0345,Kane,Charlotte,,Maryland & Mulberry Alley
-0346,Pitt,Henry,,Maryland & Mulberry Alley
-0347,Emmons,Thomas B,,Maryland & Mulberry Alley
-0348,Moon,Titus,,Maryland & Mulberry Alley
-0349,Gibson,Chas,,Maryland & Mulberry Alley
-0350,Ashmore,Julia,,Maryland & Mulberry Alley
-0351,Heminway,James,,Maryland & Mulberry Alley
-0352,Webb,?,,Maryland & Mulberry Alley
-0353,Miller,Jupiter,,Maryland & Mulberry Alley
-0354,Brown,Maria,,Maryland & Mulberry Alley
-0355,Davis,Sarah,,Maryland & Mulberry Alley
-0356,Dennis,John,,Maryland & Mulberry Alley
-0357,Hopper,Joseph,,Maryland & Mulberry Alley
-0358,Leger,Ann,,Maryland & Mulberry Alley
-0359,Ayres,Charlotte,26,Maryland
-0360,Green,Frederick,26,Maryland
-0361,Thompson,William,26,Maryland
-0362,White,Letitia,26,Maryland
-0363,Rhodes,Hester Ann,26,Maryland
-0364,Burton,Caroline,24,Maryland
-0365,Wilson,Jesse,24,Maryland
-0366,Johnson,Nathaniel,26,Maryland
-0367,Jones,Ellen,,
-0368,Coggins,Soloman,20,Maryland
-0369,Button,Caroline,20,Maryland
-0370,Swain,Mary,20,Maryland
-0371,Brown,Joseph,9,Maryland
-0372,Green,Eliza,9,Maryland
-0373,Gibbs,Harriet,9,Maryland
-0374,Loman,William,13,Maryland
-0375,Easton,Sarah,13,Maryland
-0376,Dutton,Richard,,Gaskill below 5th St.
-0377,Shippen,Hester Ann,15,Maryland
-0378,Cato,William,17,Maryland
-0379,Carris,Moses,23,Maryland
-0380,Julius,Rebecca,23,Maryland
-0381,Smith,Franklin,23,Maryland
-0382,Hughes,Cyrus,23,Maryland
-0383,Simpson,Charles,205,Race
-0384,Hall,Albert H,1,Cresson Alley
-0385,Lee,Lucy,1,Cresson Alley
-0386,Robinson,Alfred V,16,S. 5th Street
-0387,Johnson,Gerorge,89,S. 6th Street
-0388,Trades,Rebecca,89,S. 6th Street
-0389,Gordon,James R,123,S. 6th Street
-0390,Lu,William,36,Buckley
-0391,Long,Catharine,36,Buckley
-0392,Hovington,Isaac,34,Buckley
-0393,Davis,Phillip,34,Buckley
-0394,Thompson,Joseph,34,Buckley
-0395,White,Miles,32,Buckley
-0396,Shepherd,Reziah,32,Buckley
-0397,Williams,Louisa,32,Buckley
-0398,Jackson,Edward,,Hog Alley
-0399,Hale,Jacob,,Hog Alley
-0400,Kirby,Maria,,Hog Alley
-0401,Murray,James,,Hog Alley
-0402,Brown,John,,Hog Alley
-0403,Brister,Anamias,,Hog Alley
-0404,Bayman,Adam,,Hog Alley
-0405,Court,Edward,,6th St. near Bethel Ch.
-0406,Thomas,Henry,,6th St. near Bethel Ch.
-0407,Lewis,John,169,S. 6th Street
-0408,Lewis,Samuel,,N.E. 6th & Lombard
-0409,Graves,Henry,,N.E. 6th & Lombard
-0410,Smith,William,,N.E. 6th & Lombard
-0411,Bishop,Peregrin,167,N.E. 6th & Lombard
-0412,Ayres,Robert B,161,N.E. 6th & Lombard
-0413,Dill,Jane,159,N.E. 6th & Lombard
-0414,Sipple,Jane,159,N.E. 6th & Lombard
-0415,Hays,Henry,159,N.E. 6th & Lombard
-0416,Dorsey,Mary Ann,,N.E. 6th & Lombard
-0417,Bush,John,157,N.E. 6th & Lombard
-0418,Moutier,Richard,155,N.E. 6th & Lombard
-0419,Clarkson,Soloman,155,N.E. 6th & Lombard
-0420,Copeland,Alan,155,N.E. 6th & Lombard
-0421,Fisher,Elias,155,N.E. 6th & Lombard
-0422,Francis,Jacob,155,N.E. 6th & Lombard
-0423,Hawkins,William,155,N.E. 6th & Lombard
-0424,Gross,Mary,155,N.E. 6th & Lombard
-0425,Pero,Lucretia,153,N.E. 6th & Lombard
-0426,Ludley,John,153,N.E. 6th & Lombard
-0427,Hicks,William,153,N.W. 6th & Lombard
-0428,Purnell,Rhoda,1,Atkinson's Court
-0429,Boldin,Joseph,1,Atkinson's Court
-0430,Colden,John,2,Atkinson's Court
-0431,Furbit,Paul,2,Atkinson's Court
-0432,White,Hannah,3,Atkinson's Court
-0433,Johns,Jacob,3,Atkinson's Court
-0434,Richard,Hannah,4,Atkinson's Court
-0435,Bell,Wilhemina,4,Atkinson's Court
-0436,Clark,Benjamin,4,Atkinson's Court
-0437,Hicks,Henrietta,5,Atkinson's Court
-0438,Rez,Joseph,6,Atkinson's Court
-0439,Robinson,Rachel Ann,6,Atkinson's Court
-0440,Golding,Samuel,6,Atkinson's Court
-0441,Carney,Montgomery,7,Atkinson's Court
-0442,Carson,George,7,Atkinson's Court
-0443,Potter,Benjamin,7,Atkinson's Court
-0444,Comess,Rachel,8,Atkinson's Court
-0445,Marlson,Fanny,8,Atkinson's Court
-0446,Morris,Robert,8,Atkinson's Court
-0447,Brown,Constant,143,Lombard
-0448,Denby,John,143,Lombard
-0449,Young,William,137,Lombard
-0450,Rankin,James,137,Lombard
-0451,Fisher,Edward,147,Lombard
-0452,Janey,Edward,134,Lombard
-0453,Glouceter,Stephen,137,Lombard
-0454,Willshire,Elizabeth,137,Lombard
-0455,Reede,Judith,137,Lombard
-0456,Smith,Hannah,148,S. 5th Street
-0457,James,Ruben,148,S. 5th Street
-0458,Davis,James,148,S. 5th Street
-0459,Silva,Susan,148,S. 5th Street
-0460,Cuff,Ruben,148,S. 5th Street
-0461,Polk,Tamar,148,S. 5th Street
-0462,Fisher,Raymond,148,S. 5th Street
-0463,Morris,Leah,158,S. 5th Street
-0464,Price,Elizabeth,143,Lombard
-0465,Coleman,Sarah,143,Lombard
-0466,Kimberry,Samuel,91,Gaskill
-0467,Fowles,Willis,160,S. 5th Street
-0468,Banton,William,162,S. 5th Street
-0469,Washington,George,166,S. 5th Street
-0470,Harris,Ebenezer,166,S. 5th Street
-0471,Eldridge,Sarah,166,S. 5th Street
-0472,Phillips,Joseph,33,Gilles Alley
-0473,Phillips,Mary,33,Gilles Alley
-0474,Mitchell,Hannah,33,Gilles Alley
-0475,Thomas,Sarah,33,Gilles Alley
-0476,Venice,Mary,33,Gilles Alley
-0477,Johnson,Robert,31,Gilles Alley
-0478,Wood,Josiah,29,Gilles Alley
-0479,Johnson,Maria,27,Gilles Alley
-0480,Johnson,Daniel,25,Gilles Alley
-0481,Barrett,Araminta,23,Gilles Alley
-0482,Harmon,Mary,17,Gilles Alley
-0483,French,William,15,Gilles Alley
-0484,Cole,Joseph,,Gilles Alley
-0485,Watson,Joseph,3,Gilles Alley
-0486,Millburn,Anthony,,Gilles Alley
-0487,Williams,John,2,Gilles Alley
-0488,Dyer,John,,Gilles Alley
-0489,Harlan,Isaac,1,Gilles Alley
-0490,Parson,Elijah,1,Gilles Alley
-0491,Furby,Edward,4,Gilles Alley
-0492,Shankland,William,4,Gilles Alley
-0493,Bennett,Joseph,4,Gilles Alley
-0494,Barrett,Lydia,21,Gilles Alley
-0495,Bennett,Mary,21,Gilles Alley
-0496,C`ollier,John,5,Gilles Alley
-0497,Laws,Daniel,5,Gilles Alley
-0498,Boon,Margaret,12,Gilles Alley
-0499,Lewis,Harrison,12,Gilles Alley
-0500,Johnson,William,12,Gilles Alley
-0501,Fitzgerald,David Sen,12,Gilles Alley
-0502,Souden,Jacob,33 1/2,Gilles Alley
-0503,Black,Washington,22,Gilles Alley
-0504,Hopkins,Mary,22,Gilles Alley
-0505,Thompson,Francis,22,Gilles Alley
-0506,Williams,John,22,Gilles Alley
-0507,Anderson,Rebecca,22,Gilles Alley
-0508,Waters,George,22,Gilles Alley
-0509,Davis,Elijah B,26,Gilles Alley
-0510,Thomas,Willliam,,Mary's & Gilles Alley
-0511,Comfort,Summers,,Mary's & Gilles Alley
-0512,Smart,Charles,26,Gilles Alley
-0513,Hart,John,26,Gilles Alley
-0514,Law,Mathilda,,Mary's Alley
-0515,Bailey,James,4,Mary's Alley
-0516,Hicks,Robert,4,Mary's Alley
-0517,Johnson,Chas,2,Mary's Alley
-0518,Williams,Nicholas,2,Mary's Alley
-0519,Bryan,Samuel,2,Mary's Alley
-0520,Thorn,Leah,2,Mary's Alley
-0521,Smith,John,2,Mary's Alley
-0522,Johnson,Totten,7,Mary's Alley
-0523,Morris,Louisa,2,Mary's Alley
-0524,Samson,David,2,Mary's Alley
-0525,Eddy,Joshua P B,183,South Street
-0526,White,Harriet,123,South Street
-0527,Hurst,William,23,Hurst
-0528,Manuet,Phebe,23,Hurst
-0529,Johnson,Edward,21,Hurst
-0530,Stevens,Soloman,23,Hurst
-0531,Davis,Alexander,17,Hurst
-0532,Price,Lydia,17,Hurst
-0533,Tullas,Jonathan,11,Hurst
-0534,Blake,John,9,Hurst
-0535,Brown,George,9,Hurst
-0536,Simmons,McKenzie,4,Hurst
-0537,Sutton,Benjamine,4,Hurst
-0538,Williams,Violet,4,Hurst
-0539,Cleaver,Charles,4,Hurst
-0540,Harding,Garrison,6,Hurst
-0541,Minton,John,6,Hurst
-0542,Johnson,Charles,6,Hurst
-0543,Fitzgerald,David Jr,8,Hurst
-0544,Powell,Hannah,12,Hurst
-0545,Biddle,Charles,15,Hurst
-0546,Sisco,Francis,9,Hurst
-0547,Barrett,Elijah,201,South Street
-0548,Thomas,Elizabeth,201,South Street
-0549,Wharton,Mary,201,South Street
-0550,White,Ann,25,Mary's Alley
-0551,Laws,Alexander,25,Mary's Alley
-0552,Burgess,John,29,Mary's Alley
-0553,Laws,Caleb,29,Mary's Alley
-0554,Pyross,Lavinia,4,Mary's Alley
-0555,Harris,Katharine,4,Mary's Alley
-0556,Chain,Joseph,1,Jones Alley
-0557,Lancaster,Sarah,1,Jones Alley
-0558,Demer,William,2,Jones Alley
-0559,Davis,Frances Ann,2,Jones Alley
-0560,Matthews,Henry,2,Jones Alley
-0561,Armstrong,Ann,4,Jones Alley
-0562,Christopher,William,5,Jones Alley
-0563,Turnell,Confer,5,Jones Alley
-0564,West,Obediah,6,Jones Alley
-0565,Hays,Mary,6,Jones Alley
-0566,Alexander,Fanny,7,Jones Alley
-0567,Hall,John,8,Jones Alley
-0568,Minus,Betsy,9,Jones Alley
-0569,Robinson,Abel,9,Jones Alley
-0570,Green,Patrick,9,Jones Alley
-0571,Mitchell,Alfred,9,Jones Alley
-0572,Purnell,Joshua,187,S. 6th Street
-0573,Purnell,Thomas,187,S. 6th Street
-0574,Short,Rebecca,189,S. 6th Street
-0575,Riley,Alice,179 1/2,S. 6th Street
-0576,Thomas,Henry,179 1/2,S. 6th Street
-0577,Dempsey,David,179 1/2,S. 6th Street
-0578,Parker,Nathan,179 1/2,S. 6th Street
-0579,Jacoby,Ann,179 1/2,S. 6th Street
-0580,Johnson,Henry,179 1/2,S. 6th Street
-0581,Gould,Elizabeth,1201,South Street
-0582,Middleton,Morris,6 1/2,Hurst
-0583,Smothers,Frances,6 1/2,Hurst
-0584,Taylor,John,,6th St. near Bethel Ch.
-0585,Johnson,James P,179,S. 6th Street
-0586,Hazzard,Issac,179,S. 6th Street
-0587,Dorsey,Phyllis,179,S. 6th Street
-0588,Franks,Benjamin,179,S. 6th Street
-0589,Palmer,Levi,162,Lombard
-0590,Parker,Mary,162,Lombard
-0591,Hall,Joshua,162,Lombard
-0592,Goutier,John,206,S. 6th Street
-0593,Lonnon,Thos,206,S. 6th Street
-0594,Dutton,Abraham,,McClaskey's Court
-0595,Moore,Charles M,,McClaskey's Court
-0596,Wood,George,,McClaskey's Court
-0597,Skinner,Margaret,,McClaskey's Court
-0598,Moore,Penina,,McClaskey's Court
-0599,Thompson,Stephen,,McClaskey's Court
-0600,Marks,Edward,,McClaskey's Court
-0601,Moore,John,,McClaskey's Court
-0602,Strikrs,Samuel,,McClaskey's Court
-0603,Pointer,John,,McClaskey's Court
-0604,Foulks,Joshua,1,Steel's Court
-0605,,George,1,Steel's Court
-0606,Pitts,Joseph,2,Steel's Court
-0607,Pitts,Samuel,3,Steel's Court
-0608,Gibson,Henry,3,Steel's Court
-0609,Bond,Henry,4,Steel's Court
-0610,Thompson,Binah,5,Steel's Court
-0611,Banks,James,5,Steel's Court
-0612,Simmons,Peter,6,Steel's Court
-0613,Hollland,Thomas,6,Steel's Court
-0614,Rink,Ann,1,St. Mary's Street
-0615,Au?,Elisha M,1,St. Mary's Court
-0616,Dunn,John,9,St. Mary's Street
-0617,Willmore,Joseph,9,St. Mary's Street
-0618,Anderson,John,9,St. Mary's Street
-0619,Lewis,John,9,St. Mary's Street
-0620,Clift,Elizabeth,13,St. Mary's Street
-0621,Burton,Guy M,,Griffin's Ct. & St. Mary's St.
-0622,Gray,Elizabeth,24,Griffin's Court
-0623,Burton,George,2,Griffin's Court
-0624,Russell,Richard,4,Griffin's Court
-0625,Albert,Mahala,6,Griffin's Court
-0626,Johnson,Allen,6,Griffin's Court
-0627,Williams,Ellen,6,Griffin's Court
-0628,Altman,Mary Ann,7,Griffin's Court
-0629,Bell,Caleb,7,Griffin's Court
-0630,Midcap,Elizabeth,5,Griffin's Court
-0631,Peters,Rachel,3,Griffin's Court
-0632,Diu,Abner,1,Griffin's Court
-0633,Bailey,Garrison,1,Griffin's Court
-0634,Matttack,Lydia,1,Griffin's Court
-0635,Robinson,Philip,,St. Mary's & 7th St.
-0636,Hood,Joseph,,St. Mary's & 7th St.
-0637,Martin,James,,St. Mary's & 7th St.
-0638,Clymer,John,,St. Mary's & 7th St.
-0639,Nelson,John,,St. Mary's & 7th St.
-0640,Anderson,Sophia,1,Madison Court
-0641,Rodney,Ann Eliza,2,Madison Court
-0642,Clarkson,Line Somerset,2,Madison Street
-0643,Jones,Issac,3,Madison Street
-0644,Watson,Absalom,3,Madison Street
-0645,Hopkins,Edward,5,Madison Street
-0646,Brown,Rachel,5,Madison Court
-0647,Accov,William,7,Madison Court
-0648,Ringgola,Alexander,7,Madison Court
-0649,Edwards,Joseph,8,Madison Court
-0650,Grubb,Mark,32,St. Mary's Street
-0651,Miller,Thos,32,St. Mary's Street
-0652,Miller,Frances,28,St. Mary's Street
-0653,Grant,Isaiah,28,St. Mary's Street
-0654,Lemon,Nathaniel,28,St. Mary's Street
-0655,Robinson,George,28,St. Mary's Street
-0656,Montgomery,Ann,26,St. Mary's Street
-0657,Purnell,Amy,26,St. Mary's Street
-0658,Green,Lorenzo,26,St. Mary's Street
-0659,Gibbs,Margaret,26,St. Mary's Street
-0660,Allen,Mary,26,St. Mary's Street
-0661,Williams,John,26,St. Mary's Street
-0662,Denby,James,24,St. Mary's Street
-0663,Ellsby,William,24,St. Mary's Street
-0664,Bundy,Richard,24,St. Mary's Street
-0665,Willliams,John W,24,St. Mary's Street
-0666,Brown,Catharine,24,St. Mary's Street
-0667,Denby,Christopher,24,St. Mary's Street
-0668,Hinson,Maria,24,St. Mary's Street
-0669,Barrett,John,24,St. Mary's Street
-0670,Wilson,James,23,St. Mary's Street
-0671,Cook,Ann,22,St. Mary's Street
-0672,Brown,Jacob,18,St. Mary's Street
-0673,Hull,Daniel,18,St. Mary's Street
-0674,Sipple,James,18,St. Mary's Street
-0675,Cole,Joseph H,17,St. Mary's Street
-0676,Cole,Daniel G,17,St. Mary's Street
-0677,Bush,George,17,St. Mary's Street
-0678,Stokes,John W,16,St. Mary's Street
-0679,Benson,William,16,St. Mary's Street
-0680,Leekman,William,15,St. Mary's Street
-0681,Stogden,Frederick,15,St. Mary's Street
-0682,Patterson,William,14,St. Mary's Street
-0683,Hughes,Hannah,14,St. Mary's Street
-0684,Purvis,Issac,6,Madison Street
-0685,Queen,Jane,257,South Street
-0686,Compton,Julia Ann,5,St. Mary's Street
-0687,Cornish,Henry,,N. 27th & St. Mary's St.
-0688,Burton,Hannah,,N. 67th & St. Mary's St.
-0689,Cropper,Lemuel,,N. 67th & St. Mary's St.
-0690,Jackson,Mary,,N. 27th & St. Mary's St.
-0691,Allen,Samuel,,N. 27th & St. Mary's St.
-0692,Ambrose,Charlotte,253,S. 7th Street
-0693,Prince,?,253,S. 7th Street
-0694,Cramer,Shadrack,251,S. 7th Street
-0695,Lewis,Cato,251,S. 7th Street
-0696,Walker,Francis,251,S. 7th Street
-0697,Hall,David,241,S. 7th Street
-0698,Smith,Robert,249,S. 7th Street
-0699,Corsey,Serena,249,S. 7th Street
-0700,Polk,Lewis,249,S. 7th Street
-0701,Furron,John,249,S. 7th Street
-0702,Lewis,Sarah Jane,249,S. 7th Street
-0703,Jones,George,249,S. 7th Street
-0704,Smith,Harlan,247,S. 7th Street
-0705,Walton,Eliza,247,S. 7th Street
-0706,Carney,George,247,S. 7th Street
-0707,Blake,Mary,247,S. 7th Street
-0708,Mount,Sarah,247,S. 7th Street
-0709,Paul,Thos,245,S. 7th Street
-0710,Stevenson,John,245,S. 7th Street
-0711,Marcus,Samuel,245,S. 7th Street
-0712,Stafford,William,243,S. 7th Street
-0713,Decodevu,William,243,S. 7th Street
-0714,Gater,Amelia,243,S. 7th Street
-0715,Lavell,Samuel,241,S. 7th Street
-0716,Miller,Ellens,241,S. 7th Street
-0717,Richardson,Benjamin,241,S. 7th Street
-0718,Jordan,Thos,239,S. 7th Street
-0719,Black,James P,239,S. 7th Street
-0720,Stewart,,239,S. 7th Street
-0721,Davis,Char,237,S. 7th Street
-0722,Smith,Thomas,237,S. 7th Street
-0723,Butler,John,237,S. 7th Street
-0724,Williams,Samuel,235,S. 7th & 29 Washington
-0725,Williams,Thomas,249,S. 7th Street
-0726,Rowley,Letitia,224,Lombard
-0727,Hopkins,Agnes,224,Lombard
-0728,Weston,Lydia,224,Lombard
-0729,Henry,James,203,Lombard
-0730,Ballard,Hannah,202,Lombard
-0731,Wilson,Charlotte,202,Lombard
-0732,Ambrose,Issac,200,Lombard
-0733,Kennedy,Joshua,196,Lombard
-0734,Jones,Anthony,196,Lombard
-0735,Johnson,Eliza,146,Lombard
-0736,Simpson,Rebecca,186,Lombard
-0737,Wiggins,James,186,Lombard
-0738,White,Robert,186,Lombard
-0739,Cropper,Harriet,186,Lombard
-0740,Parker,Robert,186,Lombard
-0741,Laws,William,184,Lombard
-0742,Vanderbeck,Abraham,184,Lombard
-0743,Crummell,John,184,Lombard
-0744,Smith,Eliza,184,Lombard
-0745,Francis,Mary,184,Lombard
-0746,Bell,John,177,Lombard
-0747,Bristel,Louisa,177,Lombard
-0748,Wilson,Isaac,179,Lombard
-0749,Harman,John,179,Lombard
-0750,Shorter,Charles,181,Lombard
-0751,Wyatt,Eliizth,183,Lombard
-0752,Collick,Hannah,183,Lombard
-0753,Richard,Susan,183,Lombard
-0754,Ford,Maria,185,Lombard
-0755,Henson,Anna,185,Lombard
-0756,Buchanan,Philip,187,Lombard
-0757,Butler,William,187,Lombard
-0758,Clark,Sarah,187,Lombard
-0759,Frisby,Charles,191,Lombard
-0760,Cornish,Mary,11,Hurst
-0761,Jordan,Benjamin,147,S. 6th Street
-0762,Fells,James M,179,Lombard
-0763,Chambers,Lehman,179,Lombard
-0764,Moore,John,179,Lombard
-0765,Wilkins,Benjamin W,185,Lombard
-0766,Goines,Luke,193,Lombard
-0767,Wilson,Richard,195,Lombard
-0768,Wallace,Loveless,195 1/2,Lombard
-0769,Robinson,Henry,195 1/2,Lombard
-0770,Prout,Henrietta,195 1/2,Lombard
-0771,Dowden,Soloman,197,Lombard
-0772,Jordan,John,197,Lombard
-0773,Dexter,Ann,197,Lombard
-0774,Wilson,James,197,Lombard
-0775,McEwen,Robert,197,Lombard
-0776,Milburn,James,197,Lombard
-0777,Ware,James,197 1/2,Lombard
-0778,Rivers,Rachel,197 1/2,Lombard
-0779,Martin,Justine,197 1/2,Lombard
-0780,Mitchell,John,197 1/2,Lombard
-0781,Montier,Hiram,201,Lombard
-0782,Burton,Moses,201,Lombard
-0783,Lewis,James,201,Lombard
-0784,Todd,Mary,201,Lombard
-0785,Sprigg,Osborne,201,Lombard
-0786,Spencer,Ann,201,Lombard
-0787,Sheaff,William,199,Lombard
-0788,Bell,William,186,Lombard
-0789,Archbald,Robert,1,Washington Court
-0790,Linus,Levi,1,Washington Court
-0791,Welsh,Benjamin,1,Washington Court
-0792,Testamaker,William,1,Washington Court
-0793,Dutert,Francis A,1,Washington Court
-0794,Jackson,Ephraim,6,Washington Court
-0795,Chandler,Joseph,6,Washington Court
-0796,Ware,David,203,Lombard
-0797,Richardson,Mary,203 1/2,Lombard
-0798,Dill,Hester,203 1/2,Lombard
-0799,Danielo,Joseph,215,S. 7th Street
-0800,Amens,Celeste,215,S. 7th Street
-0801,Green,Charity,214,S. 7th Street
-0802,Benson,Dorcas,214,Lombard
-0803,Brown,Isaiah,12,Little Pine
-0804,Wilson,Horace,12,Little Pine
-0805,Willis,George,10,Little Pine
-0806,Valentine,Liorly,10,Little Pine
-0807,Saunders,Robert,8,Little Pine
-0808,Welsh,Benjamin Jr.,8,Little Pine
-0809,Clark,Daniel,6,Little Pine
-0810,Richars,Washington P,6,Little Pine
-0811,Dorsey,Joseph,6,Little Pine
-0812,Bell,Caleb,1,Little Pine
-0813,Draper,Henry,1,Little Pine
-0814,Perry,Julia Ann,3,Little Pine
-0815,Lei,Elizabeth,5,Little Pine
-0816,Waten,Ann,3,Little Pine
-0817,Kirk,Ann,3,Little Pine
-0818,Pierce,Hannah,5,Little Pine
-0819,Webber,Issac,,Allen's Court
-0820,Thompson,Rebecca,,Allen's Court
-0821,Clarkson,Charles,,Allen's Court
-0822,Allen,Eliza,,Allen's Court
-0823,Burton,Hannah,7,Little Pine
-0824,Spencer,Edward,,Allen's Court
-0825,Christy,Olivia,,Allen's Court
-0826,White,Ann,,Allen's Court
-0827,Newby,Gracey,,Allen's Court
-0828,Trusty,Hester,,Allen's Court
-0829,Ross,Eliza,,Allen's Court
-0830,Parham,Ann,7,Little Pine
-0831,Armstrong,Henry,9,Little Pine
-0832,Parham,Mansfield,9,Little Pine
-0833,Hodges,Thos,13,Little Pine
-0834,Anthony,William,15,Little Pine
-0835,Turner,William H,15,Little Pine
-0836,Green,Chas,15,Little Pine
-0837,Gideon,William,213,S. 7th Street
-0838,Wright,Thomas,213,S. 7th Street
-0839,Haines,Mary,213,S. 7th Street
-0840,Poulson,Sarah,213,S. 7th Street
-0841,Cook,Joseph,213,S. 7th Street
-0842,Wiley,Elizabeth,213,S. 7th Street
-0843,Bishop,Carolyn,213,S. 7th Street
-0844,White,John F,203,S. 7th Street
-0845,Robinson,Thos,198,Pine
-0846,Robinson,James,184,Pine
-0847,Todd,Catharine,184,Pine
-0848,Johnson,Diana,184,Pine
-0849,Davis,Elizabeth,184,Pine
-0850,Till,Daniel,214,S. 7th Street
-0851,Moses,Hannah,214,S. 7th Street
-0852,Bean,Susan,214,S. 7th Street
-0853,Gray,Lewis,201,S. 7th Street
-0854,Hicks,John,201,S. 7th Street
-0855,Harding,James,178,Pine
-0856,Peck,David,170,Pine
-0857,Jones,Moses,170,Pine
-0858,Wilson,Jesse,170,Pine
-0859,Jones,Moses,170,Pine
-0860,Wilson,Jesse,170,Pine
-0861,Bundy,Thos R,168,Pine
-0862,McCoy,Ann,168,Pine
-0863,Goodwin,Jane,168,Pine
-0864,Blake,-,182,S. 6th Street
-0865,Black,Cyrus,184,S. 6th Street
-0866,Corsey,John,184,S. 6th Street
-0867,Cork,Isaac,184,S. 6th Street
-0868,Gibbons,James,163,Pine
-0869,Ancess,William,165,Pine
-0870,Jones,Lemuel,38,Middle Alley
-0871,Morris,Emanuel,30,Middle Alley
-0872,Thomas,Charlotte,15,Middle Alley
-0873,Trusty,William,15,Middle Alley
-0874,Benson,Henry,15,Middle Way
-0875,Richard,Kirk,15,Middle Alley
-0876,Benson,Rachel,15,Middle Alley
-0877,Ballard,John,10,Middle Alley
-0878,Williams,James,10,Middle Alley
-0879,Benson,Phillip,10,Middle Alley
-0880,Solomon,Ann,8,Middle Alley
-0881,Lewis,-,8,Middle Alley
-0882,Roberts,Lloyd W,8,Middle Alley
-0883,Ball,Rosanna,6,Middle Alley
-0884,Woodland,Samuel,6,Middle Alley
-0885,Davis,Harriet,6,Middle Alley
-0886,Bobane,Sarah,,Middle Alley
-0887,Peterson,Ann,,Middle Alley
-0888,Polk,Dennis,,Middle Alley
-0889,Blackson,Ellen,,Middle Alley
-0890,Davis,Victoria,,Middle Alley
-0891,Wilson,Alexander,,Middle Alley
-0892,Clarkson,Belinda,167,Pine
-0893,Van Breakle,James,167,Pine
-0894,Denby,Denby,167,Pine
-0895,Dixon,Daniel,167,Pine
-0896,Howard,Robert,4,Middle Alley
-0897,Davis,Jane,4,Middle Alley
-0898,Williams,Sarah,4,Middle Alley
-0899,Marshall,York,4 1/2,Middle Alley
-0900,Hill,Francis,4 1/2,Middle Alley
-0901,Mules,Sarah,5,Middle Alley
-0902,Short,Amelia,9,Middle Alley
-0903,Brown,Margaret,9,Middle Alley
-0904,Reason,Samuel,9,Middle Alley
-0905,Duff,William,9,Middle Alley
-0906,Williams,James,11,Middle Alley
-0907,Craig,Anthony,11,Middle Alley
-0908,Perry,Ann,11,Middle Alley
-0909,Sinclair,Hester,11,Middle Alley
-0910,Miller,Peter,12,Middle Alley
-0911,Scott,Samuel,12,Middle Alley
-0912,Stevens,Jesse,12,Middle Alley
-0913,Tompson,Nathan,14,Middle Alley
-0914,Cropper,Lavinia,14,Middle Alley
-0915,Hughes,Theodorick,14,Middle Alley
-0916,Nicoles,John,14,Middle Alley
-0917,Buck,John,14,Middle Alley
-0918,Sewall,Cipio,25 1/2,Middle Alley
-0919,Butler,Eliza Ann,19,Middle Alley
-0920,Thompson,Hannah,19,Middle Alley
-0921,Turner,Alexander,19,Middle Alley
-0922,Morris,Mary Ann,19,Middle Alley
-0923,Harman,Levi,19,Middle Alley
-0924,Burton,Lucy,19,Middle Alley
-0925,Waterford,Isaiah,19,Middle Alley
-0926,Walton,Jane,19,Middle Alley
-0927,Moore,William,20,Middle Alley
-0928,Hamilton,George,20,Middle Alley
-0929,Harman,George,20,Middle Alley
-0930,Jasper,Theodore,20,Middle Alley
-0931,Burton,Mary,20,Middle Alley
-0932,Bryan,Mary,21,Middle Alley
-0933,Williams,Ann,21,Middle Alley
-0934,Queen,Edward,21,Middle Alley
-0935,Rutter,James,21,Middle Alley
-0936,Moore,Letitia,21,Middle Alley
-0937,Christie,Mary,21,Middle Alley
-0938,Bostwick,Jane,21,Middle Alley
-0939,Pierce,Thos,23,Middle Alley
-0940,Jackson,Elizabeth,23,Middle Alley
-0941,Mifflin,Ann,23,Middle Alley
-0942,Todd,Rachel,23,Middle Alley
-0943,Clark,Jacob,23,Middle Alley
-0944,Golding,Ann,23,Middle Alley
-0945,Pierce,Anna,25,Middle Alley
-0946,Higgins,William,25,Middle Alley
-0947,Bundy,Sarah,25,Middle Alley
-0948,Morris,Hannah,25,Middle Alley
-0949,Murray,John,37,Middle Alley
-0950,Banks,Dorothemina,37,Middle Alley
-0951,Boldin,Richard,37,Middle Alley
-0952,Mathews,Hannah,39,Middle Alley
-0953,Williams,Mary,39,Middle Alley
-0954,Johnson,Helen,195,S. 7th Street
-0955,Appo,William,195,S. 7th Street
-0956,Dixon,Reuben,,Ten Foot Alley
-0957,Davis,Richard,,Ten Foot Alley
-0958,Hoffman,Mary,,Ten Foot Alley
-0959,Dowden,Maria,,Ten Foot Alley
-0960,Hazard,James,,Ten Foot Alley
-0961,Cole,Leroy,,Ten Foot Alley
-0962,Bennett,Martha,28,Elizabeth Street
-0963,Miney,Elizabeth,28,Elizabeth Street
-0964,Simmons,Maria,28,Elizabeth Street
-0965,Jacobs,Lucretia,28,Elizabeth Street
-0966,Cook,Edward,28,Elizabeth Street
-0967,Richards,Sarah,28,Elizabeth Street
-0968,Shipley,William,24,Elizabeth Street
-0969,Ferris,Stephen,26,Elizabeth Street
-0970,Taylor,William,24,Elizabeth Street
-0971,Johnson,Peter,24,Elizabeth Street
-0972,Shorter,Ellen,24,Elizabeth Street
-0973,Barclay,Jane,24,Elizabeth Street
-0974,Yeppee,Henry,22,Elizabeth Street
-0975,Patrick,Dennis,22,Elizabeth Street
-0976,Harris,Elizabeth,18,Elizabeth Street
-0977,Cleaver,Samuel,18,Elizabeth Street
-0978,Jones,Elizabeth,18,Elizabeth Street
-0979,Fitzgerald,Frances Ann,15,Elizabeth Street
-0980,Davis,Jane,20,Elizabeth Street
-0981,Addick,Robert,20,Elizabeth Street
-0982,Scott,Juliet,20,Elizabeth Street
-0983,Mitchell,Ann,20,Elizabeth Street
-0984,Despot,Sarah,20,Elizabeth Street
-0985,Ross,Mary,15,Elizabeth Street
-0986,Heill,Chas,15,Elizabeth Street
-0987,Thomas,Martha,7,Middle Alley
-0988,Black,Ebenezer,14,Elizabeth Street
-0989,Collins,Ann,12,Elizabeth Street
-0990,Green,David S,12,Elizabeth Street
-0991,Tilgman,John,12,Elizabeth Street
-0992,Lee,Margaret,12,Elizabeth Street
-0993,Saltin?,Paris,1,Elizabeth Street
-0994,Miller,Mary,1,Elizabeth Street
-0995,Draper,John,1,Elizabeth Street
-0996,Thomas,Elizabeth,1,Elizabeth Street
-0997,Bruce,Luke,6,Elizabeth Street
-0998,Cooper,Issac,8,Elizabeth Street
-0999,Boyer,Edith,8,Elizabeth Street
+0,Fennox,Basil,144,N. Water
+1,Shepherd,Jacob,112,N. Water
+2,Ashmead,Louisa,92,N. Water
+3,Poole,Emaline,74,N. Water
+4,Chain,Thomas,67,N. Front
+5,Brown,George,4,Walnut
+6,Robinson,Jane,456,S. Water
+7,Smiley,David,49,South Street
+8,Estcott,James,49,South Street
+9,Early,John,49,South Street
+10,Lucas,Eleanor,18,Lombard
+11,Shepherd,Louisa,18,Lombard
+12,View,Martha,18,Lombard
+13,Roberts,Eliz,18,Lombard
+14,Riley,Ebenezer,18,Lombard
+15,Gray,Ann,18,Lombard
+16,Richard,Thos,18,Lombard
+17,Cornish,Eliza,18,Lombard
+18,Johnson,William,9,Lombard
+19,Lee,David,199,S. Front
+20,Moore,Eliz,15,Spruce
+21,Thompson,Mary,46,Spruce
+22,Depee,Robert,46,Spruce
+23,Hitchins,Eliza,46,Spruce
+24,Smith,Gabriel,46,Spruce
+25,Agustus,Richard,46,Spruce
+26,Townsend,Allen,46,Spruce
+27,Thompson,Charlotte,46,Spruce
+28,Stokley,Weymouth,46,Spruce
+29,Cork,John,46,Spruce
+30,Ludlow,Levi,46,Spruce
+31,Derrikson,Esther,46,Spruce
+32,Evans,James,46,Spruce
+33,Davis,Myers,28,Spruce
+34,Allen,George,28,Spruce
+35,Beverly,Lydia,8,Gray's Alley
+36,Denby,Abraham,8,Gray's Alley
+37,Rosi,Diana,8,Gray's Alley
+38,Dillin,Sarah,8,Gray's Court
+39,Miller,Keziah,8,Gray's Court
+40,Madden,Abigail,8,Gray's Alley
+41,Richards,Amia,8,Gray's Alley
+42,Mintess,Elizabeth,3,Gray's Alley
+43,Martin,John,3,Gray's Alley
+44,Stewart,Rachel,3,Gray's Alley
+45,Macklin,Eliza,3,Gray's Alley
+46,Purnell,John,3,Gray's Alley
+47,Golding,Eliza,3,Gray's Alley
+48,Murray,Samuel,3,Gray's Alley
+49,Brown,Anna,3,Gray's Alley
+50,Withington,Comfort,3,Gray's Alley
+51,Richardson,Ann,3,Gray's Alley
+52,West,George,3,Gray's Alley
+53,Wilson,Joseph,3,Gray's Alley
+54,Lee,Eliza,3,Gray's Alley
+55,Christian,Issac,3,Gray's Alley
+56,Smith,Fanny,3,Gray's Alley
+57,Whitaker,William,3,Gray's Alley
+58,Scott,James,3,Gray's Alley
+59,Purnell,Nancy,3,Gray's Alley
+60,Hughes,George W.,3,Gray's Alley
+61,Gibbs,Anna Marie,3,Gray's Alley
+62,Dill,Catharine,,Farmer'sRow
+63,Johnson,Edward,3,Farmer'sRow
+64,Day,Robert,3,Farmer'sRow
+65,Boston,Grace,,Farmer'sRow
+66,Mason,George,4,Farmer'sRow
+67,Thompson,James,27,Market Street
+68,Walker,Emmanuel,27,Market Street
+69,Thompson,Anna,27,Market Street
+70,Primrose,Magaret,4,Farmer'sRow
+71,Murray,James,5,Coomb's Alley
+72,Middleton,Nancy,5,Coomb's Alley
+73,Thomas,James,5,Coomb's Alley
+74,Jones,Absolom,1,Cauffman's Court
+75,Jackson,Mary,2,Cauffman's Court
+76,Coushaw,Lydia,2,Cauffman's Court
+77,Wilson,Jacob R,3,Cauffman's Court
+78,Black,Ann,3,Cauffman's Court
+79,Hamblton,George,5,Cauffman's Court
+80,Cook,Lewis A,6,Cauffman's Court
+81,Johnson,Emery,6,Cauffman's Court
+82,Dean,Louisa,4,Cauffman's Court
+83,Cauldwell,Perry,28,Coates Alley
+84,Brown,Soloman,40,Bread
+85,Miller,John,40,Bread
+86,Golden,Scotland,40,Bread
+87,Hardy,Craford,40,Bread
+88,Hartless,William,40,Bread
+89,Smith,Joseph,,Lash Alley
+90,Matthews,Lucy Ann,,Lash Alley
+91,Holcomb,Martha,,Lash Alley
+92,Potter,Mary,,Lash Alley
+93,Johnson,Judith,,Lash Alley
+94,Blunden,Iona,,Lash Alley
+95,Dolphin,Rebecca,,Biddles Alley
+96,Anderson,George,,Biddles Alley
+97,Barnes,Rebecca,,Biddles Alley
+98,Prince,Abraham,,Biddles Alley
+99,Jawnna,Henry,,Biddles Alley
+100,Singleton,George,,Biddles Alley
+101,Douglas,Robert,54,Arch
+102,Cooper,William G,59,Arch
+103,Coines,Basil,15,Exchange Place
+104,Augustine,Mary,123,S. 3rd Street
+105,Jones,Robert,63,Union Street
+106,Jones,Mary,63,Union Street
+107,Johnson,Samuel,63,Union Street
+108,Derrickson,Peter,63,Union Street
+109,Nichols,Jemima,63,Union Street
+110,Noker,Allen,63,Union Street
+111,Depee,,63,Union Street
+112,Suphay,Emma,17,Cauffman's Court
+113,Mitchell,Gideon,,Sash Alley
+114,Darrah,Sarah,79,Union Street
+115,Edwards,Daniel,70,Union Street
+116,Trusty,Jonathan,70,Union Street
+117,Burton,Chas,70,Union Street
+118,Calbert,Tamzin,70,Union Street
+119,Chavens,Jesser,,School Avenue
+120,William,William,,School Avenue
+121,Savage,Chas,,School Avenue
+122,Evans,Harriett,,School Avenue
+123,Edwards,Peter,,School Avenue
+124,Morris,Nancy,,School Avenue
+125,Burk,Nancy,,School Avenue
+126,Heminway,Isa,51,Pine
+127,Gordon,An?sSarah,53,Pine
+128,Quand,Stephen,49,Lombard
+129,Goldem,Samuel,29,Lombard
+130,Mitchell,Josiah,29,Lombard
+131,Cutchins,Miles,15,Gaskill
+132,Well,Emanuel,15,Gaskill
+133,Allen,Joseph W,16,Gaskill
+134,Purnell,Amelia,16,Gaskill
+135,Reddon,George L,16 1/2,Gaskill
+136,Martin,Nelson,16 1/2,Gaskill
+137,McNeal,Sarah,18,Gaskill
+138,Prevan,Phyllis,20,Barrow
+139,Baker,Elizabeth,20,Barrow
+140,Roberts,Sarah,20,Barrow
+141,Baker,Emaline,20,Barrow
+142,Brister,James,20,Barrow
+143,Tyler,Ann,1,Taylors Alley
+144,Galloway,Ann,1,Taylors Alley
+145,Davis,Jemimah,2,Taylors Alley
+146,Burton,Hamilton,2,Taylors Alley
+147,Hart,John L,3,Taylors Alley
+148,Waterford,Chas,5,Taylors Alley
+149,Brake,Ann,5,Taylors Alley
+150,Truwall,Henry,5,Taylors Alley
+151,Jones,Henry,6,Taylors Alley
+152,Jacobs,David,,Smith's Court
+153,Taylor,Isaac,,Smith's Court
+154,Tucker,William,,Smith's Court
+155,Campbell,Elizabeth,,Smith's Court
+156,Campbell,Joshua,,Smith's Court
+157,Coleman,Lewis,,Smith's Court
+158,Montier,William,,Smith's Court
+159,Butler,Elijah,,Smith's Court
+160,Ingram,Mary,,Smith's Court
+161,Parker,Nancy,,Smith's Court
+162,Butler,?,,Smith's Court
+163,Powell,John,,Smith's Court
+164,Stratton,John,105,South Street
+165,Curtis,Anthony,69,Gaskill
+166,Brown,David,69,Gaskill
+167,Boston,Jacob,58,Gaskill
+168,Worthington,John,42,Gaskill
+169,Cooper,William,80,Lombard
+170,Florin,Mary,80,Lombard
+171,Evans,George,80,Lombard
+172,Forten,Charlotte,90,Lombard
+173,Humphries,Joseph P,166,S. 3rd Street
+174,Riley,William H,125,S. 4th Street
+175,Vesey,Edward,191,S. 4th Street
+176,Ayres,Jacob,97,Lombard
+177,Brister,James,95,Lombard
+178,Thomas,Abraham,95,Lombard
+179,Robinson,Joel,11,Willings Alley
+180,Roberts,Aaron,11,Willings Alley
+181,Roberts,Robert,9,Sterling Alley
+182,Cope,Thomas,10,Sterling Alley
+183,Hall,Sarah,10,Sterling Alley
+184,Bun,Thomas,189,N. Front
+185,Powell,James M,2,Lombard Court
+186,Weaver,Jane,2,Lombard Court
+187,Johnson,Mary,2,Lombard Court
+188,Miller,Thos,2,Lombard Court
+189,Hughes,Jane,186,S. 4th Street
+190,Holden,Sarah,186,S. 4th Street
+191,Wright,Marla,184,S. 4th Street
+192,Hogan,Rebecca,186,S. 4th Street
+193,Kenton,Augustus,188,S. 4th Street
+194,Height,Joseph,188,S. 4th Street
+195,Beck,Ignatiius,86,Gaskill
+196,Jones,William,88,Gaskill
+197,Simmons,Eliza,88,Gaskill
+198,Moore,Alice,88,Gaskill
+199,Hopkins,Caroline,88,Gaskill
+200,Hitchins,John,88,Gaskill
+201,Perkins,Edith,88,Gaskill
+202,Brown,Ann,88,Gaskill
+203,Cooper,Benjamin,88,Gaskill
+204,Williams,Henry F,90,Gaskill
+205,Parker,Wingate,90,Gaskill
+206,Lowy,George,90,Gaskill
+207,Conican,Henry,92,Gaskill
+208,Battise,John,92,Gaskill
+209,Bustill,Charles C,92,Gaskill
+210,Carney,Lydia,92,Gaskill
+211,Hollingsworth,George,94,Gaskill
+212,Miller,Mary,94,Gaskill
+213,King,Cathaine,94,Gaskill
+214,Rodney,Hannah,94,Gaskill
+215,Cramer,Emily,94,Gaskill
+216,Cox,Rachel,96,Gaskill
+217,Brown,Susan,96,Gaskill
+218,Debity,Major,96,Gaskill
+219,Pierce,James F,96,Gaskill
+220,Jefferies,William,98,Gaskill
+221,Cummings,Hester,98,Gaskill
+222,Bass,Mary,98,Gaskill
+223,Hubbard,Nancy,98,Gaskill
+224,Hill,Margaret,98,Gaskill
+225,Lancaster,Hester,100,Gaskill
+226,Crosby,Diana,100,Gaskill
+227,Waterford,Keziah,100,Gaskill
+228,Jackson,Rachel,100,Gaskill
+229,Gittis,Elizabeth,102,Gaskill
+230,Wright,Chas,102,Gaskill
+231,Gray,Sophie,202,Gaskill
+232,Savoy,Joseph,104,Gaskill
+233,Young,Lewis,104,Gaskill
+234,Allen,Thos,104,Gaskill
+235,White,Jas M,106,Gaskill
+236,Libby,Abraham,97,Gaskill
+237,Jacoles,Priscilla,97,Gaskill
+238,Sullivan,Jane,97,Gaskill
+239,Smith,Elizabeth,97,Gaskill
+240,Mason,Isaac,1,Scotts Court
+241,Williams,John,2,Scotts Court
+242,Gater,Geroge M,3,Scotts Court
+243,Cornish,John,4,Scotts Court
+244,Cassey,Joseph,113,Lombard
+245,Donald,Jane M,11,Lombard
+246,Sullivan,Ezekiel,106,Lombard
+247,White,George,122,Lombard
+248,Johnson,Sarah,122,Lombard
+249,Riley,Rachel,122,Lombard
+250,Wills,Geroge,18,Green
+251,Belfast,Msrsh,2,Green
+252,Barrett,James,22,Green
+253,Buck,Levi,22,Green
+254,Okey,William,22,Green
+255,Polk,Jacob,22,Green
+256,Hitchins,Elisha,22,Green
+257,Hall,Elias,22,Green
+258,White,Nancy,12,Green
+259,Nelson,Henry,12,Green
+260,Wilmer,Harriet,12,Green
+261,Reading,Richard,12,Green
+262,Foster,Ann,10,Green
+263,Jefferies,David,10,Green
+264,Maclow,George,10,Green
+265,Little,Phoebe,10,Green
+266,Jones,Edward,10,Green
+267,Sullivan,Sophia,10,Green
+268,Chamber,Edward,10,Green
+269,Thompson,Ellen,10,Green
+270,Allen,John,10,Green
+271,Hunn,Louisa,10,Green
+272,Bosier,Louisa,10,Green
+273,Johnson,Maria,10,Green
+274,Welcome,Josephine,10,Green
+275,Johnson,Jacob,19,Green
+276,Stewart,Mary,19,Green
+277,Bishop,John,19,Green
+278,Baker,James,19,Green
+279,Townsend,James,19,Green
+280,Armstrong,Mary,19,Green
+281,Fisher,Nancy,19,Green
+282,Brown,Henry,19,Green
+283,Brown,James,23,Green
+284,Burkitt,Rebecca,23,Green
+285,Francis,Chas,23,Green
+286,Reese,Chas,23,Green
+287,Campbell,Elizabeth,23,Green
+288,Wilson,Benjamin,9,Green
+289,Parker,Jacob,9,Green
+290,Moore,John L,9,Green
+291,Davis,Jane,9,Green
+292,Horace,Nancy,11,Green
+293,Melevier,Christina,11,Green
+294,George,Ann,11,Green
+295,Humphrie,Evaline,11,Green
+296,Laws,Jane,11,Green
+297,Charles,Mary,11,Green
+298,Gibbs,James,,E. Spruce & Green
+299,Smith,Moses,,E. Spruce & Green
+300,Lewis,Ellen,,E. Spruce & Green
+301,Woodson,Frederick,150,Spruce
+302,White,Mary Ann,150,Spruce
+303,Parker,Willman,150,Spruce
+304,Guyjet,Stephen W,1,Laurel
+305,Martin,Josiah,,Bells Court
+306,Williams,Issac,,Bells Court
+307,Harris,Cyrus,,Bells Court
+308,Dixon,Milford,11,Prune
+309,Polk,Mary,11,Prune
+310,Miller Sr.,James,11,Prune
+311,Burr,John P,115,S. 5th Street
+312,Martin,Clara,,Marshall's Court
+314,Hugg,William,,Marshall's Court
+315,White,Andrew,,Marshall's Court
+316,Powell,Andrew,129,Walnut
+317,Moore,James,129,Walnut
+318,Lancaster,Rachel,129,Walnut
+319,Milton,Rex,129,Walnut
+320,Braddock,William,129,Walnut
+321,Cramer,Fanny,129,Walnut
+322,White,William,150,Spruce
+323,Bailey,Suzanna,150,Spruce
+324,Harris,Maria,150,Spruce
+325,Times,Isom (?),150,Spruce
+326,Allen,Richard,150,Spruce
+327,Tilghman,Mary Ann,129,Walnut
+328,Banks,Soloman J,33,Cherry
+329,Collins,Cate,100,N. 4th Street
+330,Roberts,Julia,110,4th Street
+331,Rilley,Abner,112,N. 5th Street
+332,Collins,George,14,Mulberry Alley
+333,Waters,Hannah,12,Mulberry Alley
+334,Miller,Tabitha,12,Mulberry Alley
+335,Robinson,Selita,12,Mulberry Alley
+336,Jackson,Robert,12,Mulberry Alley
+337,Thompson,David,,Maryland & Mulberry Alley
+338,Chew,John,,Maryland & Mulberry Alley
+339,Tucker,Benjamin,,Maryland & Mulberry Alley
+340,Watkins,Henry,,Maryland & Mulberry Alley
+341,Lewis,Peter,,Maryland & Mulberry Alley
+342,Black,John,,Maryland & Mulberry Alley
+343,Milburn,Levi,,Maryland & Mulberry Alley
+344,Johnson,Jane,,Maryland & Mulberry Alley
+345,Kane,Charlotte,,Maryland & Mulberry Alley
+346,Pitt,Henry,,Maryland & Mulberry Alley
+347,Emmons,Thomas B,,Maryland & Mulberry Alley
+348,Moon,Titus,,Maryland & Mulberry Alley
+349,Gibson,Chas,,Maryland & Mulberry Alley
+350,Ashmore,Julia,,Maryland & Mulberry Alley
+351,Heminway,James,,Maryland & Mulberry Alley
+352,Webb,?,,Maryland & Mulberry Alley
+353,Miller,Jupiter,,Maryland & Mulberry Alley
+354,Brown,Maria,,Maryland & Mulberry Alley
+355,Davis,Sarah,,Maryland & Mulberry Alley
+356,Dennis,John,,Maryland & Mulberry Alley
+357,Hopper,Joseph,,Maryland & Mulberry Alley
+358,Leger,Ann,,Maryland & Mulberry Alley
+359,Ayres,Charlotte,26,Maryland
+360,Green,Frederick,26,Maryland
+361,Thompson,William,26,Maryland
+362,White,Letitia,26,Maryland
+363,Rhodes,Hester Ann,26,Maryland
+364,Burton,Caroline,24,Maryland
+365,Wilson,Jesse,24,Maryland
+366,Johnson,Nathaniel,26,Maryland
+367,Jones,Ellen,26,Maryland
+368,Coggins,Solomon,20,Maryland
+369,Button,Caroline,20,Maryland
+370,Swain,Mary,20,Maryland
+371,Brown,Joseph,9,Maryland
+372,Green,Eliza,9,Maryland
+373,Gibbs,Harriet,9,Maryland
+374,Loman,William,13,Maryland
+375,Easton,Sarah,13,Maryland
+376,Dutton,Richard,,Gaskill below 5th St.
+377,Shippen,Hester Ann,15,Maryland
+378,Cato,William,17,Maryland
+379,Carris,Moses,23,Maryland
+380,Julius,Rebecca,23,Maryland
+381,Smith,Franklin,23,Maryland
+382,Hughes,Cyrus,23,Maryland
+383,Simpson,Charles,205,Race
+384,Hall,Albert H,1,Cresson Alley
+385,Lee,Lucy,1,Cresson Alley
+386,Robinson,Alfred V,16,S. 5th Street
+387,Johnson,Gerorge,89,S. 6th Street
+388,Trades,Rebecca,89,S. 6th Street
+389,Gordon,James R,123,S. 6th Street
+390,Lu,William,36,Buckley
+391,Long,Catharine,36,Buckley
+392,Hovington,Isaac,34,Buckley
+393,Davis,Phillip,34,Buckley
+394,Thompson,Joseph,34,Buckley
+395,White,Miles,32,Buckley
+396,Shepherd,Reziah,32,Buckley
+397,Williams,Louisa,32,Buckley
+,Haukinson,Gaiak,30,Buckley
+,Benson,Benjamin,30,Buckley
+,Murray,Jeremiah,10,Buckley
+,Reynolds,Isaac,10,Buckley
+,Gray,Mary,10,Buckley
+,Johnson,Isaac,11,Buckley
+,Freeman,Amos,11,Buckley
+,Moore,James,11,Buckley
+,Wilson,Albert,14,Buckley
+,Joseph,Wisser,16,Buckley
+,Levis,Mary,,Buckley
+,Gurley,Robert,10,Buckley
+,Murray,John,1,Buckley
+,Mimies,Rebecca,,Buckley
+,Hale,George,2,Buckley
+,Guerin,Pharon,,Buckley
+,Rogers,Isaac,34,Powell
+,Drapes,George,,Powell
+,Harvey,Shadrick,32,Powell
+,Biddle,Jeremiah,,Powell
+,Maekey,Aaron,,Powell
+,Hinton,Fred A,18,Powell
+,Chew,William,16,Powell
+,Butler,Thomas,,Powell
+,Clue,George M,154,Pine
+,Kirkpatrick,James,,
+,Stewart,George,147,S 6th
+,Clark,Mary,,S 6th
+,Bias,J.J. G,157,S 6th
+,Parker,Edward,147,S 6th
+,Linvehouse,,,Hog Alley
+,Allen,Sarah,157,N.E. 6th & Lombard
+398,Jackson,Edward,,Hog Alley
+399,Hale,Jacob,,Hog Alley
+400,Kirby,Maria,,Hog Alley
+401,Murray,James,,Hog Alley
+402,Brown,John,,Hog Alley
+403,Brister,Anamias,,Hog Alley
+404,Bayman,Adam,,Hog Alley
+405,Court,Edward,,6th St. near Bethel Ch.
+406,Thomas,Henry,,6th St. near Bethel Ch.
+407,Lewis,John,169,S. 6th Street
+408,Lewis,Samuel,,N.E. 6th & Lombard
+409,Graves,Henry,,N.E. 6th & Lombard
+410,Smith,William,,N.E. 6th & Lombard
+411,Bishop,Peregrin,167,N.E. 6th & Lombard
+412,Ayres,Robert B,161,N.E. 6th & Lombard
+413,Dill,Jane,159,N.E. 6th & Lombard
+414,Sipple,Jane,159,N.E. 6th & Lombard
+415,Hays,Henry,159,N.E. 6th & Lombard
+416,Dorsey,Mary Ann,,N.E. 6th & Lombard
+417,Bush,John,157,N.E. 6th & Lombard
+418,Moutier,Richard,155,N.E. 6th & Lombard
+419,Clarkson,Soloman,155,N.E. 6th & Lombard
+420,Copeland,Alan,155,N.E. 6th & Lombard
+421,Fisher,Elias,155,N.E. 6th & Lombard
+422,Francis,Jacob,155,N.E. 6th & Lombard
+423,Hawkins,William,155,N.E. 6th & Lombard
+424,Gross,Mary,155,N.E. 6th & Lombard
+425,Pero,Lucretia,153,N.E. 6th & Lombard
+426,Ludley,John,153,N.E. 6th & Lombard
+427,Hicks,William,153,N.W. 6th & Lombard
+428,Purnell,Rhoda,1,Atkinson's Court
+429,Boldin,Joseph,1,Atkinson's Court
+430,Colden,John,2,Atkinson's Court
+431,Furbit,Paul,2,Atkinson's Court
+432,White,Hannah,3,Atkinson's Court
+433,Johns,Jacob,3,Atkinson's Court
+434,Richard,Hannah,4,Atkinson's Court
+435,Bell,Wilhemina,4,Atkinson's Court
+436,Clark,Benjamin,4,Atkinson's Court
+437,Hicks,Henrietta,5,Atkinson's Court
+438,Rez,Joseph,6,Atkinson's Court
+439,Robinson,Rachel Ann,6,Atkinson's Court
+440,Golding,Samuel,6,Atkinson's Court
+441,Carney,Montgomery,7,Atkinson's Court
+442,Carson,George,7,Atkinson's Court
+443,Potter,Benjamin,7,Atkinson's Court
+444,Comess,Rachel,8,Atkinson's Court
+445,Marlson,Fanny,8,Atkinson's Court
+446,Morris,Robert,8,Atkinson's Court
+447,Brown,Constant,143,Lombard
+448,Denby,John,143,Lombard
+449,Young,William,137,Lombard
+450,Rankin,James,137,Lombard
+451,Fisher,Edward,147,Lombard
+452,Janey,Edward,134,Lombard
+453,Glouceter,Stephen,137,Lombard
+454,Willshire,Elizabeth,137,Lombard
+455,Reede,Judith,137,Lombard
+456,Smith,Hannah,148,S. 5th Street
+457,James,Ruben,148,S. 5th Street
+458,Davis,James,148,S. 5th Street
+459,Silva,Susan,148,S. 5th Street
+460,Cuff,Ruben,148,S. 5th Street
+461,Polk,Tamar,148,S. 5th Street
+462,Fisher,Raymond,148,S. 5th Street
+463,Morris,Leah,158,S. 5th Street
+464,Price,Elizabeth,143,Lombard
+465,Coleman,Sarah,143,Lombard
+466,Kimberry,Samuel,91,Gaskill
+467,Fowles,Willis,160,S. 5th Street
+468,Banton,William,162,S. 5th Street
+469,Washington,George,166,S. 5th Street
+470,Harris,Ebenezer,166,S. 5th Street
+471,Eldridge,Sarah,166,S. 5th Street
+472,Phillips,Joseph,33,Gillis Alley
+473,Phillips,Mary,33,Gillis Alley
+474,Mitchell,Hannah,33,Gillis Alley
+475,Thomas,Sarah,33,Gillis Alley
+476,Venice,Mary,33,Gillis Alley
+477,Johnson,Robert,31,Gillis Alley
+478,Wood,Josiah,29,Gillis Alley
+479,Johnson,Maria,27,Gillis Alley
+480,Johnson,Daniel,25,Gillis Alley
+481,Barrett,Araminta,23,Gillis Alley
+482,Harmon,Mary,17,Gillis Alley
+483,French,William,15,Gillis Alley
+484,Cole,Joseph,,Gillis Alley
+485,Watson,Joseph,3,Gillis Alley
+486,Millburn,Anthony,,Gillis Alley
+487,Williams,John,2,Gillis Alley
+488,Dyer,John,,Gillis Alley
+489,Harlan,Isaac,1,Gillis Alley
+490,Parson,Elijah,1,Gillis Alley
+491,Furby,Edward,4,Gillis Alley
+492,Shankland,William,4,Gillis Alley
+493,Bennett,Joseph,4,Gillis Alley
+494,Barrett,Lydia,21,Gillis Alley
+495,Bennett,Mary,21,Gillis Alley
+496,C`ollier,John,5,Gillis Alley
+497,Laws,Daniel,5,Gillis Alley
+498,Boon,Margaret,12,Gillis Alley
+499,Lewis,Harrison,12,Gillis Alley
+500,Johnson,William,12,Gillis Alley
+501,Fitzgerald,David Sen,12,Gillis Alley
+502,Souden,Jacob,33 1/2,Gillis Alley
+503,Black,Washington,22,Gillis Alley
+504,Hopkins,Mary,22,Gillis Alley
+505,Thompson,Francis,22,Gillis Alley
+506,Williams,John,22,Gillis Alley
+507,Anderson,Rebecca,22,Gillis Alley
+508,Waters,George,22,Gillis Alley
+509,Davis,Elijah B,26,Gillis Alley
+510,Thomas,Willliam,,Mary's & Gillis Alley
+511,Comfort,Summers,,Mary's & Gillis Alley
+512,Smart,Charles,26,Gillis Alley
+513,Hart,John,26,Gillis Alley
+514,Law,Mathilda,,Mary's Alley
+515,Bailey,James,4,Mary's Alley
+516,Hicks,Robert,4,Mary's Alley
+517,Johnson,Chas,2,Mary's Alley
+518,Williams,Nicholas,2,Mary's Alley
+519,Bryan,Samuel,2,Mary's Alley
+520,Thorn,Leah,2,Mary's Alley
+521,Smith,John,2,Mary's Alley
+522,Johnson,Totten,7,Mary's Alley
+523,Morris,Louisa,2,Mary's Alley
+524,Samson,David,2,Mary's Alley
+525,Eddy,Joshua P B,183,South Street
+526,White,Harriet,123,South Street
+527,Hurst,William,23,Hurst
+528,Manuet,Phebe,23,Hurst
+529,Johnson,Edward,21,Hurst
+530,Stevens,Soloman,23,Hurst
+531,Davis,Alexander,17,Hurst
+532,Price,Lydia,17,Hurst
+533,Tullas,Jonathan,11,Hurst
+534,Blake,John,9,Hurst
+535,Brown,George,9,Hurst
+536,Simmons,McKenzie,4,Hurst
+537,Sutton,Benjamine,4,Hurst
+538,Williams,Violet,4,Hurst
+539,Cleaver,Charles,4,Hurst
+540,Harding,Garrison,6,Hurst
+541,Minton,John,6,Hurst
+542,Johnson,Charles,6,Hurst
+543,Fitzgerald,David Jr,8,Hurst
+544,Powell,Hannah,12,Hurst
+545,Biddle,Charles,15,Hurst
+546,Sisco,Francis,9,Hurst
+547,Barrett,Elijah,201,South Street
+548,Thomas,Elizabeth,201,South Street
+549,Wharton,Mary,201,South Street
+550,White,Ann,25,Mary's Alley
+551,Laws,Alexander,25,Mary's Alley
+552,Burgess,John,29,Mary's Alley
+553,Laws,Caleb,29,Mary's Alley
+554,Pyross,Lavinia,4,Mary's Alley
+555,Harris,Katharine,4,Mary's Alley
+556,Chain,Joseph,1,Jones Alley
+557,Lancaster,Sarah,1,Jones Alley
+558,Demer,William,2,Jones Alley
+559,Davis,Frances Ann,2,Jones Alley
+560,Matthews,Henry,2,Jones Alley
+561,Armstrong,Ann,4,Jones Alley
+562,Christopher,William,5,Jones Alley
+563,Turnell,Confer,5,Jones Alley
+564,West,Obediah,6,Jones Alley
+565,Hays,Mary,6,Jones Alley
+566,Alexander,Fanny,7,Jones Alley
+567,Hall,John,8,Jones Alley
+568,Minus,Betsy,9,Jones Alley
+569,Robinson,Abel,9,Jones Alley
+570,Green,Patrick,9,Jones Alley
+571,Mitchell,Alfred,9,Jones Alley
+572,Purnell,Joshua,187,S. 6th Street
+573,Purnell,Thomas,187,S. 6th Street
+574,Short,Rebecca,189,S. 6th Street
+575,Riley,Alice,179 1/2,S. 6th Street
+576,Thomas,Henry,179 1/2,S. 6th Street
+577,Dempsey,David,179 1/2,S. 6th Street
+578,Parker,Nathan,179 1/2,S. 6th Street
+579,Jacoby,Ann,179 1/2,S. 6th Street
+580,Johnson,Henry,179 1/2,S. 6th Street
+581,Gould,Elizabeth,1201,South Street
+582,Middleton,Morris,6 1/2,Hurst
+583,Smothers,Frances,6 1/2,Hurst
+584,Taylor,John,,6th St. near Bethel Ch.
+585,Johnson,James P,179,S. 6th Street
+586,Hazzard,Issac,179,S. 6th Street
+587,Dorsey,Phyllis,179,S. 6th Street
+588,Franks,Benjamin,179,S. 6th Street
+589,Palmer,Levi,162,Lombard
+590,Parker,Mary,162,Lombard
+591,Hall,Joshua,162,Lombard
+592,Goutier,John,206,S. 6th Street
+593,Lonnon,Thos,206,S. 6th Street
+594,Dutton,Abraham,,McClaskey's Court
+595,Moore,Charles M,,McClaskey's Court
+596,Wood,George,,McClaskey's Court
+597,Skinner,Margaret,,McClaskey's Court
+598,Moore,Penina,,McClaskey's Court
+599,Thompson,Stephen,,McClaskey's Court
+600,Marks,Edward,,McClaskey's Court
+601,Moore,John,,McClaskey's Court
+602,Strikrs,Samuel,,McClaskey's Court
+603,Pointer,John,,McClaskey's Court
+604,Foulks,Joshua,1,Steel's Court
+605,,George,1,Steel's Court
+606,Pitts,Joseph,2,Steel's Court
+607,Pitts,Samuel,3,Steel's Court
+608,Gibson,Henry,3,Steel's Court
+609,Bond,Henry,4,Steel's Court
+610,Thompson,Binah,5,Steel's Court
+611,Banks,James,5,Steel's Court
+612,Simmons,Peter,6,Steel's Court
+613,Hollland,Thomas,6,Steel's Court
+614,Rink,Ann,1,St. Mary's Street
+615,Au?,Elisha M,1,St. Mary's Court
+616,Dunn,John,9,St. Mary's Street
+617,Willmore,Joseph,9,St. Mary's Street
+618,Anderson,John,9,St. Mary's Street
+619,Lewis,John,9,St. Mary's Street
+620,Clift,Elizabeth,13,St. Mary's Street
+621,Burton,Guy M,,Griffin's Ct. & St. Mary's St.
+622,Gray,Elizabeth,24,Griffin's Court
+623,Burton,George,2,Griffin's Court
+624,Russell,Richard,4,Griffin's Court
+625,Albert,Mahala,6,Griffin's Court
+626,Johnson,Allen,6,Griffin's Court
+627,Williams,Ellen,6,Griffin's Court
+628,Altman,Mary Ann,7,Griffin's Court
+629,Bell,Caleb,7,Griffin's Court
+630,Midcap,Elizabeth,5,Griffin's Court
+631,Peters,Rachel,3,Griffin's Court
+632,Diu,Abner,1,Griffin's Court
+633,Bailey,Garrison,1,Griffin's Court
+634,Matttack,Lydia,1,Griffin's Court
+635,Robinson,Philip,,St. Mary's & 7th St.
+636,Hood,Joseph,,St. Mary's & 7th St.
+637,Martin,James,,St. Mary's & 7th St.
+638,Clymer,John,,St. Mary's & 7th St.
+639,Nelson,John,,St. Mary's & 7th St.
+640,Anderson,Sophia,1,Madison Court
+641,Rodney,Ann Eliza,2,Madison Court
+642,Clarkson,Line Somerset,2,Madison Street
+643,Jones,Issac,3,Madison Street
+644,Watson,Absalom,3,Madison Street
+645,Hopkins,Edward,5,Madison Street
+646,Brown,Rachel,5,Madison Court
+647,Accov,William,7,Madison Court
+648,Ringgola,Alexander,7,Madison Court
+649,Edwards,Joseph,8,Madison Court
+650,Grubb,Mark,32,St. Mary's Street
+651,Miller,Thos,32,St. Mary's Street
+652,Miller,Frances,28,St. Mary's Street
+653,Grant,Isaiah,28,St. Mary's Street
+654,Lemon,Nathaniel,28,St. Mary's Street
+655,Robinson,George,28,St. Mary's Street
+656,Montgomery,Ann,26,St. Mary's Street
+657,Purnell,Amy,26,St. Mary's Street
+658,Green,Lorenzo,26,St. Mary's Street
+659,Gibbs,Margaret,26,St. Mary's Street
+660,Allen,Mary,26,St. Mary's Street
+661,Williams,John,26,St. Mary's Street
+662,Denby,James,24,St. Mary's Street
+663,Ellsby,William,24,St. Mary's Street
+664,Bundy,Richard,24,St. Mary's Street
+665,Willliams,John W,24,St. Mary's Street
+666,Brown,Catharine,24,St. Mary's Street
+667,Denby,Christopher,24,St. Mary's Street
+668,Hinson,Maria,24,St. Mary's Street
+669,Barrett,John,24,St. Mary's Street
+670,Wilson,James,23,St. Mary's Street
+671,Cook,Ann,22,St. Mary's Street
+672,Brown,Jacob,18,St. Mary's Street
+673,Hull,Daniel,18,St. Mary's Street
+674,Sipple,James,18,St. Mary's Street
+675,Cole,Joseph H,17,St. Mary's Street
+676,Cole,Daniel G,17,St. Mary's Street
+677,Bush,George,17,St. Mary's Street
+678,Stokes,John W,16,St. Mary's Street
+679,Benson,William,16,St. Mary's Street
+680,Leekman,William,15,St. Mary's Street
+681,Stogden,Frederick,15,St. Mary's Street
+682,Patterson,William,14,St. Mary's Street
+683,Hughes,Hannah,14,St. Mary's Street
+684,Purvis,Issac,6,Madison Street
+685,Queen,Jane,257,South Street
+686,Compton,Julia Ann,5,St. Mary's Street
+687,Cornish,Henry,,N. 27th & St. Mary's St.
+688,Burton,Hannah,,N. 67th & St. Mary's St.
+689,Cropper,Lemuel,,N. 67th & St. Mary's St.
+690,Jackson,Mary,,N. 27th & St. Mary's St.
+691,Allen,Samuel,,N. 27th & St. Mary's St.
+692,Ambrose,Charlotte,253,S. 7th Street
+693,Prince,?,253,S. 7th Street
+694,Cramer,Shadrack,251,S. 7th Street
+695,Lewis,Cato,251,S. 7th Street
+696,Walker,Francis,251,S. 7th Street
+697,Hall,David,241,S. 7th Street
+698,Smith,Robert,249,S. 7th Street
+699,Corsey,Serena,249,S. 7th Street
+700,Polk,Lewis,249,S. 7th Street
+701,Furron,John,249,S. 7th Street
+702,Lewis,Sarah Jane,249,S. 7th Street
+703,Jones,George,249,S. 7th Street
+704,Smith,Harlan,247,S. 7th Street
+705,Walton,Eliza,247,S. 7th Street
+706,Carney,George,247,S. 7th Street
+707,Blake,Mary,247,S. 7th Street
+708,Mount,Sarah,247,S. 7th Street
+709,Paul,Thos,245,S. 7th Street
+710,Stevenson,John,245,S. 7th Street
+711,Marcus,Samuel,245,S. 7th Street
+712,Stafford,William,243,S. 7th Street
+713,Decodevu,William,243,S. 7th Street
+714,Gater,Amelia,243,S. 7th Street
+715,Lavell,Samuel,241,S. 7th Street
+716,Miller,Ellens,241,S. 7th Street
+717,Richardson,Benjamin,241,S. 7th Street
+718,Jordan,Thos,239,S. 7th Street
+719,Black,James P,239,S. 7th Street
+720,Stewart,,239,S. 7th Street
+721,Davis,Char,237,S. 7th Street
+722,Smith,Thomas,237,S. 7th Street
+723,Butler,John,237,S. 7th Street
+724,Williams,Samuel,235,S. 7th & 29 Washington
+725,Thomas,Williams,249,S. 7th Street
+726,Rowley,Letitia,224,Lombard
+727,Hopkins,Agnes,224,Lombard
+728,Weston,Lydia,224,Lombard
+729,Henry,James,203,Lombard
+730,Ballard,Hannah,202,Lombard
+731,Wilson,Charlotte,202,Lombard
+732,Ambrose,Issac,200,Lombard
+733,Kennedy,Joshua,196,Lombard
+734,Jones,Anthony,196,Lombard
+735,Johnson,Eliza,146,Lombard
+736,Simpson,Rebecca,186,Lombard
+737,Wiggins,James,186,Lombard
+738,White,Robert,186,Lombard
+739,Cropper,Harriet,186,Lombard
+740,Parker,Robert,186,Lombard
+741,Laws,William,184,Lombard
+742,Vanderbeck,Abraham,184,Lombard
+743,Crummell,John,184,Lombard
+744,Smith,Eliza,184,Lombard
+745,Francis,Mary,184,Lombard
+746,Bell,John,177,Lombard
+747,Bristel,Louisa,177,Lombard
+748,Wilson,Isaac,179,Lombard
+749,Harman,John,179,Lombard
+750,Shorter,Charles,181,Lombard
+751,Wyatt,Eliizth,183,Lombard
+752,Collick,Hannah,183,Lombard
+753,Richard,Susan,183,Lombard
+754,Ford,Maria,185,Lombard
+755,Henson,Anna,185,Lombard
+756,Buchanan,Philip,187,Lombard
+757,Butler,William,187,Lombard
+758,Clark,Sarah,187,Lombard
+759,Frisby,Charles,191,Lombard
+760,Cornish,Mary,11,Hurst
+761,Jordan,Benjamin,147,S. 6th Street
+762,Fells,James M,179,Lombard
+763,Chambers,Lehman,179,Lombard
+764,Moore,John,179,Lombard
+765,Wilkins,Benjamin W,185,Lombard
+766,Goines,Luke,193,Lombard
+767,Wilson,Richard,195,Lombard
+768,Wallace,Loveless,195 1/2,Lombard
+769,Robinson,Henry,195 1/2,Lombard
+770,Prout,Henrietta,195 1/2,Lombard
+771,Dowden,Soloman,197,Lombard
+772,Jordan,John,197,Lombard
+773,Dexter,Ann,197,Lombard
+774,Wilson,James,197,Lombard
+775,McEwen,Robert,197,Lombard
+776,Milburn,James,197,Lombard
+777,Ware,James,197 1/2,Lombard
+778,Rivers,Rachel,197 1/2,Lombard
+779,Martin,Justine,197 1/2,Lombard
+780,Mitchell,John,197 1/2,Lombard
+781,Montier,Hiram,201,Lombard
+782,Burton,Moses,201,Lombard
+783,Lewis,James,201,Lombard
+784,Todd,Mary,201,Lombard
+785,Sprigg,Osborne,201,Lombard
+786,Spencer,Ann,201,Lombard
+787,Sheaff,William,199,Lombard
+788,Bell,William,186,Lombard
+789,Archbald,Robert,1,Washington Court
+790,Linus,Levi,1,Washington Court
+791,Welsh,Benjamin,1,Washington Court
+792,Testamaker,William,1,Washington Court
+793,Dutert,Francis A,1,Washington Court
+794,Jackson,Ephraim,6,Washington Court
+795,Chandler,Joseph,6,Washington Court
+796,Ware,David,203,Lombard
+797,Richardson,Mary,203 1/2,Lombard
+798,Dill,Hester,203 1/2,Lombard
+799,Danielo,Joseph,215,S. 7th Street
+800,Amens,Celeste,215,S. 7th Street
+801,Green,Charity,214,S. 7th Street
+802,Benson,Dorcas,214,Lombard
+803,Brown,Isaiah,12,Little Pine
+804,Wilson,Horace,12,Little Pine
+805,Willis,George,10,Little Pine
+806,Valentine,Liorly,10,Little Pine
+807,Saunders,Robert,8,Little Pine
+808,Welsh,Benjamin Jr.,8,Little Pine
+809,Clark,Daniel,6,Little Pine
+810,Richars,Washington P,6,Little Pine
+811,Dorsey,Joseph,6,Little Pine
+812,Bell,Caleb,1,Little Pine
+813,Draper,Henry,1,Little Pine
+814,Perry,Julia Ann,3,Little Pine
+815,Lei,Elizabeth,5,Little Pine
+816,Waten,Ann,3,Little Pine
+817,Kirk,Ann,3,Little Pine
+818,Pierce,Hannah,5,Little Pine
+819,Webber,Issac,,Allen's Court
+820,Thompson,Rebecca,,Allen's Court
+821,Clarkson,Charles,,Allen's Court
+822,Allen,Eliza,,Allen's Court
+823,Burton,Hannah,7,Little Pine
+824,Spencer,Edward,,Allen's Court
+825,Christy,Olivia,,Allen's Court
+826,White,Ann,,Allen's Court
+827,Newby,Gracey,,Allen's Court
+828,Trusty,Hester,,Allen's Court
+829,Ross,Eliza,,Allen's Court
+830,Parham,Ann,7,Little Pine
+831,Armstrong,Henry,9,Little Pine
+832,Parham,Mansfield,9,Little Pine
+833,Hodges,Thos,13,Little Pine
+834,Anthony,William,15,Little Pine
+835,Turner,William H,15,Little Pine
+836,Green,Chas,15,Little Pine
+837,Gideon,William,213,S. 7th Street
+838,Wright,Thomas,213,S. 7th Street
+839,Haines,Mary,213,S. 7th Street
+840,Poulson,Sarah,213,S. 7th Street
+841,Cook,Joseph,213,S. 7th Street
+842,Wiley,Elizabeth,213,S. 7th Street
+843,Bishop,Carolyn,213,S. 7th Street
+844,White,John F,203,S. 7th Street
+845,Robinson,Thos,198,Pine
+846,Robinson,James,184,Pine
+847,Todd,Catharine,184,Pine
+848,Johnson,Diana,184,Pine
+849,Davis,Elizabeth,184,Pine
+850,Till,Daniel,214,S. 7th Street
+851,Moses,Hannah,214,S. 7th Street
+852,Bean,Susan,214,S. 7th Street
+853,Gray,Lewis,201,S. 7th Street
+854,Hicks,John,201,S. 7th Street
+855,Harding,James,178,Pine
+856,Peck,David,170,Pine
+857,Jones,Moses,170,Pine
+858,Wilson,Jesse,170,Pine
+861,Bundy,Thos R,168,Pine
+862,McCoy,Ann,168,Pine
+863,Goodwin,Jane,168,Pine
+864,Blake,-,182,S. 6th Street
+865,Black,Cyrus,184,S. 6th Street
+866,Corsey,John,184,S. 6th Street
+867,Cork,Isaac,184,S. 6th Street
+868,Gibbons,James,163,Pine
+869,Ancess,William,165,Pine
+870,Jones,Lemuel,38,Middle Alley
+871,Morris,Emanuel,30,Middle Alley
+872,Thomas,Charlotte,15,Middle Alley
+873,Trusty,William,15,Middle Alley
+874,Benson,Henry,15,Middle Way
+875,Richard,Kirk,15,Middle Alley
+876,Benson,Rachel,15,Middle Alley
+877,Ballard,John,10,Middle Alley
+878,Williams,James,10,Middle Alley
+879,Benson,Phillip,10,Middle Alley
+880,Solomon,Ann,8,Middle Alley
+881,Lewis,-,8,Middle Alley
+882,Roberts,Lloyd W,8,Middle Alley
+883,Ball,Rosanna,6,Middle Alley
+884,Woodland,Samuel,6,Middle Alley
+885,Davis,Harriet,6,Middle Alley
+886,Bobane,Sarah,,Middle Alley
+887,Peterson,Ann,,Middle Alley
+888,Polk,Dennis,,Middle Alley
+889,Blackson,Ellen,,Middle Alley
+890,Davis,Victoria,,Middle Alley
+891,Wilson,Alexander,,Middle Alley
+892,Clarkson,Belinda,167,Pine
+893,Van Breakle,James,167,Pine
+894,Denby,Denby,167,Pine
+895,Dixon,Daniel,167,Pine
+896,Howard,Robert,4,Middle Alley
+897,Davis,Jane,4,Middle Alley
+898,Williams,Sarah,4,Middle Alley
+899,Marshall,York,4 1/2,Middle Alley
+900,Hill,Francis,4 1/2,Middle Alley
+901,Mules,Sarah,5,Middle Alley
+902,Short,Amelia,9,Middle Alley
+903,Brown,Margaret,9,Middle Alley
+904,Reason,Samuel,9,Middle Alley
+905,Duff,William,9,Middle Alley
+906,Williams,James,11,Middle Alley
+907,Craig,Anthony,11,Middle Alley
+908,Perry,Ann,11,Middle Alley
+909,Sinclair,Hester,11,Middle Alley
+910,Miller,Peter,12,Middle Alley
+911,Scott,Samuel,12,Middle Alley
+912,Stevens,Jesse,12,Middle Alley
+913,Tompson,Nathan,14,Middle Alley
+914,Cropper,Lavinia,14,Middle Alley
+915,Hughes,Theodorick,14,Middle Alley
+916,Nicoles,John,14,Middle Alley
+917,Buck,John,14,Middle Alley
+918,Sewall,Cipio,25 1/2,Middle Alley
+919,Butler,Eliza Ann,19,Middle Alley
+920,Thompson,Hannah,19,Middle Alley
+921,Turner,Alexander,19,Middle Alley
+922,Morris,Mary Ann,19,Middle Alley
+923,Harman,Levi,19,Middle Alley
+924,Burton,Lucy,19,Middle Alley
+925,Waterford,Isaiah,19,Middle Alley
+926,Walton,Jane,19,Middle Alley
+927,Moore,William,20,Middle Alley
+928,Hamilton,George,20,Middle Alley
+929,Harman,George,20,Middle Alley
+930,Jasper,Theodore,20,Middle Alley
+931,Burton,Mary,20,Middle Alley
+932,Bryan,Mary,21,Middle Alley
+933,Williams,Ann,21,Middle Alley
+934,Queen,Edward,21,Middle Alley
+935,Rutter,James,21,Middle Alley
+936,Moore,Letitia,21,Middle Alley
+937,Christie,Mary,21,Middle Alley
+938,Bostwick,Jane,21,Middle Alley
+939,Pierce,Thos,23,Middle Alley
+940,Jackson,Elizabeth,23,Middle Alley
+941,Mifflin,Ann,23,Middle Alley
+942,Todd,Rachel,23,Middle Alley
+943,Clark,Jacob,23,Middle Alley
+944,Golding,Ann,23,Middle Alley
+945,Pierce,Anna,25,Middle Alley
+946,Higgins,William,25,Middle Alley
+947,Bundy,Sarah,25,Middle Alley
+948,Morris,Hannah,25,Middle Alley
+949,Murray,John,37,Middle Alley
+950,Banks,Dorothemina,37,Middle Alley
+951,Boldin,Richard,37,Middle Alley
+952,Mathews,Hannah,39,Middle Alley
+953,Williams,Mary,39,Middle Alley
+954,Johnson,Helen,195,S. 7th Street
+955,Appo,William,195,S. 7th Street
+956,Dixon,Reuben,,Ten Foot Alley
+957,Davis,Richard,,Ten Foot Alley
+958,Hoffman,Mary,,Ten Foot Alley
+959,Dowden,Maria,,Ten Foot Alley
+960,Hazard,James,,Ten Foot Alley
+961,Cole,Leroy,,Ten Foot Alley
+962,Bennett,Martha,28,Elizabeth Street
+963,Miney,Elizabeth,28,Elizabeth Street
+964,Simmons,Maria,28,Elizabeth Street
+965,Jacobs,Lucretia,28,Elizabeth Street
+966,Cook,Edward,28,Elizabeth Street
+967,Richards,Sarah,28,Elizabeth Street
+968,Shipley,William,24,Elizabeth Street
+969,Ferris,Stephen,26,Elizabeth Street
+970,Taylor,William,24,Elizabeth Street
+971,Johnson,Peter,24,Elizabeth Street
+972,Shorter,Ellen,24,Elizabeth Street
+973,Barclay,Jane,24,Elizabeth Street
+974,Yeppee,Henry,22,Elizabeth Street
+975,Patrick,Dennis,22,Elizabeth Street
+976,Harris,Elizabeth,18,Elizabeth Street
+977,Cleaver,Samuel,18,Elizabeth Street
+978,Jones,Elizabeth,18,Elizabeth Street
+979,Fitzgerald,Frances Ann,15,Elizabeth Street
+980,Davis,Jane,20,Elizabeth Street
+981,Addick,Robert,20,Elizabeth Street
+982,Scott,Juliet,20,Elizabeth Street
+983,Mitchell,Ann,20,Elizabeth Street
+984,Despot,Sarah,20,Elizabeth Street
+985,Ross,Mary,15,Elizabeth Street
+986,Heill,Chas,15,Elizabeth Street
+987,Thomas,Martha,7,Middle Alley
+988,Black,Ebenezer,14,Elizabeth Street
+989,Collins,Ann,12,Elizabeth Street
+990,Green,David S,12,Elizabeth Street
+991,Tilgman,John,12,Elizabeth Street
+992,Lee,Margaret,12,Elizabeth Street
+993,Saltin?,Paris,1,Elizabeth Street
+994,Miller,Mary,1,Elizabeth Street
+995,Draper,John,1,Elizabeth Street
+996,Thomas,Elizabeth,1,Elizabeth Street
+997,Bruce,Luke,6,Elizabeth Street
+998,Cooper,Issac,8,Elizabeth Street
+999,Boyer,Edith,8,Elizabeth Street
 1000,Lang,Benjamin,8,Elizabeth Street
 1001,Rigby,Jane,13,Elizabeth Street
 1002,Lee,James W,13,Elizabeth Street
@@ -1039,22 +1068,22 @@ ID,Last Name,First Name,Street Number,Street Name
 1037,Hopkins,George,107,N. 7th Street
 1038,Wilson,James,129,Cherry
 1039,Hall,Morris,129,Cherry
-1040,Smith,Ann,6,Eutan
-1041,Todd,Thomas Jr,11,Eutan
-1042,Trusty,Delia,11,Eutan
-1043,Stevens,Charlotte,11,Eutan
-1044,Johnson,Phyliss,11,Eutan
-1045,Gillam,Wesley,11,Eutan
-1046,Miller,Mary,,Eutan
-1047,Andrews,John,13,Eutan
-1048,Hall,Sarah,13,Eutan
-1049,Stokes,William,13,Eutan
-1050,Henderson,Joseph,13,Eutan
-1051,Oliver,John D,12,Eutan
-1052,Edwards,Samuel,8,Eutan
-1053,Holland,Issac,8,Eutan
-1054,Chase,Thos,4,Eutan
-1055,Griffin,Henry,4,Eutan
+1040,Smith,Ann,6,Eutaw
+1041,Todd,Thomas Jr,11,Eutaw
+1042,Trusty,Delia,11,Eutaw
+1043,Stevens,Charlotte,11,Eutaw
+1044,Johnson,Phyliss,11,Eutaw
+1045,Gillam,Wesley,11,Eutaw
+1046,Miller,Mary,,Eutaw
+1047,Andrews,John,13,Eutaw
+1048,Hall,Sarah,13,Eutaw
+1049,Stokes,William,13,Eutaw
+1050,Henderson,Joseph,13,Eutaw
+1051,Oliver,John D,12,Eutaw
+1052,Edwards,Samuel,8,Eutaw
+1053,Holland,Issac,8,Eutaw
+1054,Chase,Thos,4,Eutaw
+1055,Griffin,Henry,4,Eutaw
 1056,Williams,Charlotte,141,Cherry
 1057,Conner,Flora,141,Cherry
 1058,Lester,Peter,76,N. 7th Street
@@ -1139,7 +1168,7 @@ ID,Last Name,First Name,Street Number,Street Name
 1137,Todd,William,8,Pleasant Avenue
 1138,Jones,Celeney,1,Pleasant Avenue
 1139,Reed,Mary Ann,7,Pleasant Avenue
-1140,Lec,Susanna,7,Pleasant Avenue
+1140,Lee,Susanna,7,Pleasant Avenue
 1141,Boyer,Anthony,7,Pleasant Avenue
 1142,Burton,Matilda,231,Lombard
 1143,Ash,Joshua,220,S. 7th Street
@@ -1185,7 +1214,7 @@ ID,Last Name,First Name,Street Number,Street Name
 1183,Jackson,Jacob,250,Lombard
 1184,Robinson,Major,242,Lombard
 1185,Thompson,Bennett,242,Lombard
-1186,Whittingtone,Palmer,242,Lombard
+1186,Palmer,Whittington,242,Lombard
 1187,Deviine,Louisa,242,Lombard
 1188,Hill,Henry,242,Lombard
 1189,Macklin,Isaac,242,Lombard
@@ -1482,15 +1511,15 @@ ID,Last Name,First Name,Street Number,Street Name
 1480,Cezar,Martha,119,N. 10th Street
 1481,Rollins,Daniel,119,N. 10th Street
 1482,Fitterman,Henry,119,N. 10th Street
-1483,Roberts,Sarah,1,Seyden's Court
-1484,Green,Rachel,2,Seyden's Court
-1485,Douglass,William,2,Seyden's Court
-1486,How,Benjamine,3,Seyden's Court
-1487,Brown,Samuel,4,Seyden's Court
-1488,Cox,James,4,Seyden's Court
-1489,Smith,Flora,4,Seyden's Court
-1490,Clover,James,4,Seyden's Court
-1491,,Temperance,4,Seyden's Court
+1483,Roberts,Sarah,1,Leyden's Court
+1484,Green,Rachel,2,Leyden's Court
+1485,Douglass,William,2,Leyden's Court
+1486,How,Benjamine,3,Leyden's Court
+1487,Brown,Samuel,4,Leyden's Court
+1488,Cox,James,4,Leyden's Court
+1489,Smith,Flora,4,Leyden's Court
+1490,Clover,James,4,Leyden's Court
+1491,,Temperance,4,Leyden's Court
 1492,Watkins,Julia,113,N. 10th Street
 1493,O'Neil,Susan,113,N. 10th Street
 1494,Davis,George,113,N. 10th Street
@@ -1520,7 +1549,7 @@ ID,Last Name,First Name,Street Number,Street Name
 1518,Higgins,John,,Raspberry above Spruce
 1519,Meyhew,Mark,,Raspberry above Spruce
 1520,Rogers,Anna,,Raspberry above Spruce
-1521,Johnson,Peter,,Raspberry at Spruce
+1521,Johnson,Peter,,Raspberry above Spruce
 1522,Crook,James,,Raspberry above Spruce
 1523,Waters,Bazil,30,Raspberry above Spruce
 1524,Coursey,Ann,30,Raspberry above Spruce
@@ -1528,7 +1557,7 @@ ID,Last Name,First Name,Street Number,Street Name
 1526,Mintess,James,22,Raspberry above Spruce
 1527,Bowen,Nicolas,20,Raspberry above Spruce
 1528,Potter,William,20,Raspberry above Spruce
-1529,Burton,Lavinia,18,Raspberry at Spruce
+1529,Burton,Lavinia,18,Raspberry above Spruce
 1530,Brown,William,18,Raspberry above Spruce
 1531,Riley,Maria,18,Raspberry above Spruce
 1532,King,William,12,Raspberry above Spruce
@@ -1547,17 +1576,17 @@ ID,Last Name,First Name,Street Number,Street Name
 1545,Todd,Anna,18,Watson's Alley
 1546,Roberts,Samuel,20,Watson's Alley
 1547,Galloway,Isaac,22,Watson's Alley
-1548,Chambers,Nathan J,19,Watkin's Alley
-1549,Thomas,Amos,19,Watkin's Alley
+1548,Chambers,Nathan J,19,Watson's Alley
+1549,Thomas,Amos,19,Watson's Alley
 1550,Burton,George,17,Watson's Alley
-1551,Coursey,Trim,15,Watkin's Alley
-1552,Dorsey,Leah,15,Watkin's Alley
-1553,Accoo,Jesse,13,Watkin's Alley
-1554,Coulter,John,9,Watkin's Alley
-1555,Drummond,Joseph,10,Watkin's Alley
-1556,Little,Aaron,10,Watkin's Alley
-1557,Cooper,Uriah,,Watkin's Alley
-1558,Rudolph,Evan,26,Watkin's Alley
+1551,Coursey,Trim,15,Watson's Alley
+1552,Dorsey,Leah,15,Watson's Alley
+1553,Accoo,Jesse,13,Watson's Alley
+1554,Coulter,John,9,Watson's Alley
+1555,Drummond,Joseph,10,Watson's Alley
+1556,Little,Aaron,10,Watson's Alley
+1557,Cooper,Uriah,,Watson's Alley
+1558,Rudolph,Evan,26,Watson's Alley
 1559,Everson,Sarah,4,Pryor's Alley
 1560,Tutifer,Sarah,,Pryor's Court
 1561,Springs,Frederick,,Pryor's Court
@@ -1745,9 +1774,9 @@ ID,Last Name,First Name,Street Number,Street Name
 1743,Goines,George W.,305,Lombard
 1744,Adams,Samuel,1,Caroline Place
 1745,Booz,James,1,Caroline Place
-1746,Ricker,Alice,4,Barley above 10th St.
-1747,Evans,John,4,Barley above 10th St.
-1748,Henry,Sarah,4,Barley above 10th St.
+1746,Ricker,Alice,4,Caroline Place
+1747,Evans,John,4,Caroline Place
+1748,Henry,Sarah,4,Caroline Place
 1749,Brown,Sarah,4,Caroline Place
 1750,Bressie,Chas,5,Caroline Place
 1751,Bradick,John,6,Caroline Place
@@ -1756,31 +1785,31 @@ ID,Last Name,First Name,Street Number,Street Name
 1754,Colden,Anthony,8,Caroline Place
 1755,Colden,Luke,8,Caroline Place
 1756,White,Hiram,2,Caroline Place
-1757,Stevenson,William,,Whites Court
-1758,Fountain,James,,Whites Court
-1759,Davis,Elijah J,,Whites Court
-1760,Allen,Francis L,,Whites Court
-1761,Laws,William,,Whites Court
-1762,Palmer,Palmer,,Whites Court
-1763,Simpson,Samuel,,Whites Court
-1764,Collins,Elias,,Whites Court
-1765,Gardner,Jacob,,Whites Court
-1766,Henry,Charity,,Whites Court
-1767,Cropper,Edwin,,Whites Court
-1768,Tillson,Mary,,Whites Court
-1769,Urick,John,,Whites Court
-1770,Scutollins(?),George W.,,Whites Court
-1771,Gibbs,Joseph,,Whites Court
-1772,Gilbert,Richard,,Whites Court
-1773,Jones,Elizabeth,,Whites Court
-1774,Budge,Samuel,1,Whites Court
-1775,Warner,David J,,Whites Court
-1776,Holven,Samuel,2,Whites Court
-1777,Jackson,David,3,Whites Court
-1778,Nance,Thomas,3,Whites Court
-1779,Evans,John,4,Whites Court
-1780,Brown,Samuel,5,Whites Court
-1781,Howard,William,6,Whites Court
+1757,Stevenson,William,,White's Court
+1758,Fountain,James,,White's Court
+1759,Davis,Elijah J,,White's Court
+1760,Allen,Francis L,,White's Court
+1761,Laws,William,,White's Court
+1762,Palmer,Palmer,,White's Court
+1763,Simpson,Samuel,,White's Court
+1764,Collins,Elias,,White's Court
+1765,Gardner,Jacob,,White's Court
+1766,Henry,Charity,,White's Court
+1767,Cropper,Edwin,,White's Court
+1768,Tillson,Mary,,White's Court
+1769,Urick,John,,White's Court
+1770,Scutollins(?),George W.,,White's Court
+1771,Gibbs,Joseph,,White's Court
+1772,Gilbert,Richard,,White's Court
+1773,Jones,Elizabeth,,White's Court
+1774,Budge,Samuel,1,White's Court
+1775,Warner,David J,,White's Court
+1776,Holven,Samuel,2,White's Court
+1777,Jackson,David,3,White's Court
+1778,Nance,Thomas,3,White's Court
+1779,Evans,John,4,White's Court
+1780,Brown,Samuel,5,White's Court
+1781,Howard,William,6,White's Court
 1782,Moore,William,,11th above Lombard
 1783,Parker,Elizabeth,,11th above Lombard
 1784,Clement,James,,11th above Lombard
@@ -1885,7 +1914,7 @@ ID,Last Name,First Name,Street Number,Street Name
 1883,Tobia,Davia,100,Eagle Court
 1884,Hull,George,33,Eagle Court
 1885,Webb,Peter,33,Eagle Court
-1886,Boardly,Mary,,
+1886,Boardly,Mary,,Eagle Court
 1887,Robinson,John,31,Eagle Court
 1888,Irons,Lewis,31,Eagle Court
 1889,Howard,Peter,87,Eagle Court
@@ -1963,29 +1992,12 @@ ID,Last Name,First Name,Street Number,Street Name
 1961,Carter,Tamar,55,Currant Alley
 1962,Moore,Francis,150,Locust Street
 1963,Jones,Sarah,150,Locust Street
-1964,Greenwich,Sarah,150,Locust Street
-1965,Williams,Issac,130,Locust Street
-1966,Peterson,William,130,Locust Street
 1967,Gallentine,Alfred,130,Locust Street
-1968,Halltid,Elizabeth,130,Locust Street
 1969,Emery,William,128,Locust Street
-1970,Carney,Ann Eliza,3,Rose Alley
 1971,Rider,Ann,2,Rose Alley
-1972,Diamone,Francis,6,Rose Alley
-1973,Hutchins,David,6,Rose Alley
-1974,Peters,Amber,9,Rose Alley
 1975,Clark,John,9,Rose Alley
-1976,Baptiste,Eugene,129,Locust Street
 1977,Johnson,Edward,129,Locust Street
-1978,Moore,Green,139,Locust Street
-1979,Brown,Robert,149,Locust Street
 1980,Damugh,Tilghman,151,Locust Street
-1981,Collins,Robert,153,Locust Street
-1982,Nixon,Jacob,,Currant Alley
-1983,Wood,George,,Currant Alley
-1984,Green,Dennis,,Currant Alley
-1985,Roberts,Elizabeth,29,Currant Alley
-1986,Millers,Edward,27,Currant Alley
 1987,Greenwich,Sarah,150,Locust Street
 1988,Hopwell,George,146,Locust Street
 1989,Sullivan,Garrison,147,Locust Street
@@ -2021,7 +2033,7 @@ ID,Last Name,First Name,Street Number,Street Name
 2019,Freeman,Gouldsberry,21,Currant Alley
 2020,Holgate,John,21,Currant Alley
 2021,Trout,Lydia,24,Currant Alley
-2022,King,Joseph,,
+2022,King,Joseph,,Currant Alley
 2023,Peyton,Julius,10,Currant Alley
 2024,Newman,James,12,Currant Alley
 2025,Miller,Clayton,14,Currant Alley
@@ -2137,6 +2149,37 @@ ID,Last Name,First Name,Street Number,Street Name
 2135,Smith,Gertrude,21,Prosperous Alley
 2136,Miller,Thomas,25,Prosperous Alley
 2137,Cox,Clement,25,Prosperous Alley
+,Lisby,Isaac,23,Prosperous Alley
+,Augustine,John,,Prosperous Alley
+,Lee,Sarah,7,Lombard
+,Johnson,Louisa,,Lombard
+,Parker,Peter,10,Juniper Alley
+,Brown,John,27,Prosperous Alley
+,Johnson,William,,Prosperous Alley
+,Young,Jacob,31,Prosperous Alley
+,Ballard,John,23,Prosperous Alley
+,Blackstone,Ellen,37,Prosperous Alley
+,Wallace,Henry,,Prosperous Alley
+,Hawkins,Sarah,36,Prosperous Alley
+,Grey,Sabez,34,Prosperous Alley
+,Murray,Elizabeth,32,Prosperous Alley
+,Lawrence,Diana,,Prosperous Alley
+,Peterson,Robert,30,Prosperous Alley
+,Draper,Elias,18,Prosperous Alley
+,Roberts,George,20,Prosperous Alley
+,Jordan,Hannah,,Prosperous Alley
+,Alexander,Perry,44,Prosperous Alley
+,Bewley,William,25,Quince
+,Holmes,Philip,23,Quince
+,Farrell,Malochi,27,Quince
+,Miller,Daniel,,Quince
+,Smith,Diana,26,Properous Alley
+,Saunders,General,31,Quince
+,Delahay,Sarah,,Quince
+,Gay,Alexander,33,Quince
+,Smith,Joseph B.,,Quince
+,Lewis,John,35,Quince
+,Hall,,,Quince
 2138,Jones,Charles,39,Quince
 2139,Medad,George,741,Quince
 2140,Young,Theodore,41,Quince
@@ -2177,7 +2220,7 @@ ID,Last Name,First Name,Street Number,Street Name
 2175,Harris,Phyllis,45,Quince
 2176,Powell,Henry,38,Quince
 2177,Fullman,Sarah,38,Quince
-2178,Fitzhugh,Agnes,,
+2178,Fitzhugh,Agnes,,Quince
 2179,Jones,Stephen,22,Quince
 2180,Johnson,Peter A,22,Quince
 2181,Depee,Margaret,22,Quince
@@ -2258,7 +2301,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2256,McKee,Alexander,21,Washington
 2257,Harris,James,17,Washington
 2258,Bendick,Levi,17,Washington
-2259,Bendick,Levi,17,Washington
 2260,Brister,Elizabeth,17,Washington
 2261,Duff,Christopher,15,Washington
 2262,Freeman,William G,7,Washington
@@ -2335,7 +2377,7 @@ ID,Last Name,First Name,Street Number,Street Name
 2333,Mead,Lewis,4,N. 13th Street
 2334,Todd,Isaac,4,Butler's Avenue
 2335,Willington,Emanual,6,Butler's Avenue
-2336,Frisby,Ray,6,Butler's Avenue
+2336,Ray,Frisby,6,Butler's Avenue
 2337,Hines,John,,Butler's Avenue
 2338,Beck,Clementine,1,Truxton
 2339,Cutis,George,1,Truxton
@@ -2393,12 +2435,12 @@ ID,Last Name,First Name,Street Number,Street Name
 2391,Frisby,Ann,,South above 11th St.
 2392,Stokley,Chas,,South above 11th St.
 2393,Brown,John T,,South above 11th St.
-2394,Queen,Edward,2,Guilelmina
-2395,Wilson,James M,3,Guilelmina
-2396,Birch,John,5,Guilelmina
-2397,Wallup,Levi,6,Guilelmina
-2398,Kennedy,Robert,7,Guilelmina
-2399,Allen,William,7,Guilelmina
+2394,Queen,Edward,2,Gulielma
+2395,Wilson,James M,3,Gulielma
+2396,Birch,John,5,Gulielma
+2397,Wallup,Levi,6,Gulielma
+2398,Kennedy,Robert,7,Gulielma
+2399,Allen,William,7,Gulielma
 2400,Richarson,Robert,31,West Cherry
 2401,Aexander,Isaac,31,West Cherry
 2402,Pence,William,33,West Cherry
@@ -2467,26 +2509,26 @@ ID,Last Name,First Name,Street Number,Street Name
 2465,Gaubert,Julius,20,Helmuth above Schuylkill 7th
 2466,Anthony,?,20,Helmuth above Schuylkill 7th
 2467,Brown,James A,20,Helmuth above Schuylkill 7th
-2468,Beckett,Hester,04,Guilelmina
-2469,Bendick,Sarah,,Guilelmina
-2470,Thomas,James,,Guilelmina
-2471,Morris,Benjamin,,Guilelmina
-2472,Allison,Mary,,Guilelmina
-2473,Morris,Stephen,,Guilelmina
-2474,Brown,William,,Guilelmina
-2475,Sinclair,Maria,,Guilelmina
-2476,Williams,Phoebe Ann,2,Guilelmina
-2477,Osborne,Anthony,2,Guilelmina
-2478,Poole,Catharine,3,Guilelmina
-2479,Jones,John,3,Guilelmina
-2480,Dull,Montgomery,4,Guilelmina
-2481,Gleeves,Henry,4,Guilelmina
-2482,Williams,Samuel,4,Guilelmina
-2483,Stevenson,William,5,Guilelmina
-2484,Johnson,William,5,Guilelmina
-2485,Bibery,Sam,,Guilelmina
-2486,Thomas,Hester,6,Guilelmina
-2487,Scott,Violet,6,Guilelmina
+2468,Beckett,Hester,4,Gulielma
+2469,Bendick,Sarah,,Gulielma
+2470,Thomas,James,,Gulielma
+2471,Morris,Benjamin,,Gulielma
+2472,Allison,Mary,,Gulielma
+2473,Morris,Stephen,,Gulielma
+2474,Brown,William,,Gulielma
+2475,Sinclair,Maria,,Gulielma
+2476,Williams,Phoebe Ann,2,Gulielma
+2477,Osborne,Anthony,2,Gulielma
+2478,Poole,Catharine,3,Gulielma
+2479,Jones,John,3,Gulielma
+2480,Dull,Montgomery,4,Gulielma
+2481,Gleeves,Henry,4,Gulielma
+2482,Williams,Samuel,4,Gulielma
+2483,Stevenson,William,5,Gulielma
+2484,Johnson,William,5,Gulielma
+2485,Bibery,Sam,,Gulielma
+2486,Thomas,Hester,6,Gulielma
+2487,Scott,Violet,6,Gulielma
 2488,Brooks,John,,Lombard below Schuylkill 5th & 6th
 2489,Farmer,James,,Lombard below Schuylkill 5th & 6th
 2490,Matthews,John,,Lombard below Schuylkill 5th & 6th
@@ -2526,10 +2568,8 @@ ID,Last Name,First Name,Street Number,Street Name
 2524,Bowsen,David,179,N. 4th Street
 2525,Bowsen,Jeremiah,179,N. 4th Street
 2526,Boyer,Abraham,,Rose Street
-2527,Bramill,Daniel B,50,Ridge Road
 2528,Brinkley,Ezekiel,,Miles Court
 2529,Briston,Isaac,,William below Rose St.
-2530,Brough,Letty,,Garden above Wood
 2531,Brown,Jerimiah,415,4th Street
 2532,Brown,Abigail,,11 above Callowhill
 2533,Brown,Ann,417,4th Street
@@ -2553,7 +2593,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2551,Chandilen,John,23,Tamany Street
 2552,Cipple,Anna,132,Apple Street
 2553,Cline,Claressa,200,Coates Street
-2554,Cline,David,,Orange above Washington
 2555,Collins,Sarah,,School St. above Browne St.
 2556,Comming,Letitia,,N. Browne Street
 2557,Conner,Thomas,15,Paschalle Alley
@@ -2574,14 +2613,10 @@ ID,Last Name,First Name,Street Number,Street Name
 2572,Day,William,,N. Perry Street
 2573,Deal,Samuel,,Rose Street
 2574,Dedorty,Frances A,8,Paschalle Alley
-2575,Deleoice,Eliza,2,Torrs Alley
-2576,Dembry,Ass,,Do Do
 2577,Demby,Samuel,,6th House
-2578,Demly,William,,Orange above Washington
 2579,Denney,Joseph,,Rose Alley
 2580,Diton,John,,Lilly Alley
 2581,Dorsey,John W,,N.E. 9th & Wood
-2582,Downey,Jane,,Do
 2583,Drommonds,Frances,,Hanover above Queen
 2584,Dunn,Cornelius,132,Apple Street
 2585,Dunn,Thomas,13,Young's Alley
@@ -2628,7 +2663,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2626,Harris,Robert,16,Duke Street
 2627,Haskins,William H,29,Paschalle Alley
 2628,Haslett,Jacob,,3rd House
-2629,Hawkins,Elizabeth,,8th above Wood
 2630,Hawkins,James,415,4th Street
 2631,Hays,James,,Orchard Street
 2632,Henry,Elizabeth,,Garden above Wood
@@ -2642,22 +2676,18 @@ ID,Last Name,First Name,Street Number,Street Name
 2640,Hopper,Cecillia,,Maria Street
 2641,Howard,Robert,,
 2642,Howard,Thomas,,Melon above 11th St.
-2643,Howard,Thomas,,Melon above 11th St.
 2644,Hyatt,James,,N. Perry Street
 2645,Hytt,Amelia,8,Paschalle Alley
 2646,Ingrem,Ann,,Britten St. near Same
 2647,Jackson,Benjamin,29,Paschalle Alley
 2648,Jackson,Wilford,3,Paschalle Alley
 2649,Jacobs,Elijah,,N. Perry Street
-2650,James,Edward,,Orange above Washington
 2651,James,Garrison,24,Mechanic Street
 2652,James,Jemima,,Garden above Willow
 2653,James,Nancy,,5th House
 2654,James,Sarah A,,Rose Street
 2655,Jeffers,William,,Apple Street
 2656,Jinkins,Jacob,15,Paschalle Alley
-2657,Johnson,Abraham,,Torrs Alley Court
-2658,Johnson,Edward,,Apple Street
 2659,Johnson,Edward,,Apple Street
 2660,Johnson,Elizabeth,7,Orchard Street
 2661,Johnson,James,,Hancock Street
@@ -2675,7 +2705,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2673,Jones,Gabriel,,N. Perry Street
 2674,Jones,George,,Maria Street
 2675,Jones,Hannah A,34,Paschalle Alley
-2676,Jones,Thomas,,Orange above Washington
 2677,Jones,William B,,Apple Street
 2678,Julius,George,,N. Orchard Street
 2679,Julius,John,,N. Orchard Street
@@ -2714,7 +2743,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2712,Moore,Mathias,134,Apple Street
 2713,Morgan,Grace,21,Tamany Street
 2714,Morris,Elizabeth,,Mechanic Street
-2715,Murrell,David,,Do
 2716,Myers,Daniel,23,Tamany Street
 2717,Myers,Lodwick,,N. Maria Street
 2718,Newsome,Nathan,136,Apple Street
@@ -2729,7 +2757,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2727,Pennington,Mary,,Rose Alley
 2728,Peterson,George,,Maria Street
 2729,Phillips,James,,N. Perry Street
-2730,Phillips,Jarole,,George St. Francisville
 2731,Pierce,Jacob,,N. Green above 3rd St.
 2732,Pierson,William,,N. Phoenix Street
 2733,Pinkton,Adam,,N. Orchard Street
@@ -2746,8 +2773,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2744,Rafs,Minas,,Steam Mill Alley between 2nd & 3rd St.
 2745,Randolph,William,352,Browne Street
 2746,Rennand,James,22,Mechanic Street
-2747,Rice,Charles,2,Torrs Alley
-2748,Richards,Hannah,,Vernon above 10th St. 
 2749,Richmond,James,417,4th Street
 2750,Riggs,Isaac,124,Apple Street
 2751,Riggs,Nancy,,Duke St Ken'ton
@@ -2818,15 +2843,11 @@ ID,Last Name,First Name,Street Number,Street Name
 2816,Turner,Simon,,Apple Street
 2817,Turner,William C,,N. Carmac Street
 2818,Underwood,Henry,354,Browne Street
-2819,Varess,Thomas,,Do Do
-2820,Vever,Henrietta,,Ogden above 11th St.
 2821,Walker,Amelia,,Apple Street
 2822,Walker,Hannah,,Hancock Street
 2823,Walls,John,,Young's Alley
 2824,Warfield,Charles,,William below Rose St.
-2825,Warmen,Edward,,Melon above 11th St.
 2826,Warren,Nathan,,Hancock Street
-2827,Warrison,William,,Ogden above 10th St.
 2828,Waters,Rachel,,N. Browne Street
 2829,Watson,Sarah,136,Apple Street
 2830,Wear,Isaiah C,180,Poplar Street
@@ -2834,7 +2855,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2832,West,Sarah,,N. Orchard Street
 2833,White,Jacob C,100,Old York Road
 2834,White,John,,N. Orchard Street
-2835,White,John,,Wood above 8th Court
 2836,White,Rachel,,N. Carmac Street
 2837,White,Reuben,,Maria Street
 2838,Whittaker,Israel,,Second St. Road
@@ -2855,7 +2875,6 @@ ID,Last Name,First Name,Street Number,Street Name
 2853,Young,Edward,,Frankford Road
 2854,Young,Moses,25,Paschalle Alley
 2855,Young,Richard,28,Paschalle Alley
-2856,Young,Richard,,
 2857,Young,Richard,,George St. Francisville
 2858,Accooe,Edward,115,Bedford between 7th & 8th St.
 2859,Adams,John,12,Feet Alley
@@ -4013,11 +4032,9 @@ ID,Last Name,First Name,Street Number,Street Name
 4011,Agustus,David,,Oak Street
 4012,Alison,John,363,Pearl
 4013,Allen,Ann,,Pearl above 13th St.
-4014,Allman,Mukes,91,Ridge Road
 4015,Amos,Nathan,,Oak Street
 4016,Anderson,Ann,,Oak Street
 4017,Anderson,William,,Oak Street
-4018,Anderson,William,,Oak Street
 4019,Armstrong,Eliza,,Wood above 12th St.
 4020,Batteace,Charles,17,Pearl above 12th St.
 4021,Beattey,Robert,,Oak Street
@@ -4034,7 +4051,6 @@ ID,Last Name,First Name,Street Number,Street Name
 4032,Bradford,Henry,,Pattersons Lot
 4033,Braumill,Daniel B,50,Ridge Road
 4034,Brooks,Robert,121,Pearl above 13th St.
-4035,Brown,Abigail,,11 above Callowhill
 4036,Brown,Andrew,,Pearl below 13th St.
 4037,Brown,Elen,15,Pearl above 12th St.
 4038,Brown,John,,Pearl below 13th St.
@@ -4047,7 +4063,6 @@ ID,Last Name,First Name,Street Number,Street Name
 4045,Bundice,Rosanna,363,Pearl
 4046,Burton,John,,Buttonwood below 11th St.
 4047,Cane,John,,Callowhill above 13th St.
-4048,Cannon,Reese,,Ann St. Francisville
 4049,Carpenter,Peter,,Darby Road on Spruce St.
 4050,Carter,Amelia,,Oak Street
 4051,Carter,J Lewis,,York Street
@@ -4066,7 +4081,6 @@ ID,Last Name,First Name,Street Number,Street Name
 4064,Cropper,William,53,Pearl above 13th St.
 4065,Cross,Mary,10,Pearl above 12th St.
 4066,Cuff,John,,Wood next West
-4067,Davis,Eli,,N.E. 9th & Wood
 4068,Davis,Emanuel,,Oak Street
 4069,Davis,Maria,53,Pearl above 13th St.
 4070,Deats,Benjamin,,Washington Street
@@ -4077,7 +4091,6 @@ ID,Last Name,First Name,Street Number,Street Name
 4075,Derry,George,,Wood & E. Broad
 4076,Disberry,David,,Washington Street
 4077,Donenger,James,,Callowhill above 13th St.
-4078,Dorsey,John W,,N.E. 9th & Wood
 4079,Downey,Jane,,Torrs Alley Court
 4080,Draper,Ann,,W. 6th above Poplar
 4081,Draper,Charles,18,Pearl above 12th St.
@@ -4086,7 +4099,6 @@ ID,Last Name,First Name,Street Number,Street Name
 4084,Duffy,John,,Carlton & W. Schuylkill 8th
 4085,Duglass,An,15,Pearl above 12th St.
 4086,Dumpson,Martha,121,Pearl above 13th St.
-4087,Dunson,George,,Ann St. Francisville
 4088,Dutton,Susan,,Wood above 12th St.
 4089,Elsey,Abraham,,Market Street
 4090,Evans,James,,Callowhill above 13th St.
@@ -4101,19 +4113,16 @@ ID,Last Name,First Name,Street Number,Street Name
 4099,Gardner,John,17,Pearl above 12th St.
 4100,Gasaway,Margaret,,Carlton & W. Schuylkill 7th
 4101,Gibbs,Elijiah,,Till Street
-4102,Goosbury,James,,James St. near Ridge Road
 4103,Goosby,Francis,,Marshall above Poplar
 4104,Goud,Joseph,,Pearl above 13th St.
 4105,Gray,Henderson,,Oak Street
 4106,Hall,Fredrick T,,Pearl above 13th St.
-4107,Hall,Isaa,,Melon above 11th St.
 4108,Harmer,Edward,,Melon above 11th St.
 4109,Harris,Hannah,,Oak Street
 4110,Harrison,William,,Ogden above 10th St.
 4111,Hawkins,Elizabeth,,8th above Wood
 4112,Hazel,Michel,,West of James Loh
 4113,Hendrickson,Francis,12 1/2,Pearl above 13th St.
-4114,Henry,Elizabeth,,Garden above Wood
 4115,Henry,Hanrietta,,York Street
 4116,Henry,John,,Darby Road
 4117,Hicks,Isaac,,Pearl above 12th St.
@@ -4121,15 +4130,12 @@ ID,Last Name,First Name,Street Number,Street Name
 4119,Holly,Aaron,17,Pearl above 12th St.
 4120,Homes,Dianna,,Wood above 12th St.
 4121,Hopkins,Henry,121,Pearl above 13th St.
-4122,Howard,Thomas,,Melon Court
 4123,Howell,Isaac,,Oak Street
 4124,Hutchinson,David,,Sixth above Poplar
-4125,Ingrem,Ann,50,Britten St. near Ridge Road
 4126,J(?)uel,Jacob,,Carlton & W. Schuylkill 7th
 4127,Jackson,William,,Darby Road
 4128,Jacobs,James,,Carlton above 13th Court
 4129,James,Edward,,Orange above Washington
-4130,James,Jemima (?),,Garden above Willow
 4131,James,Lucy,,Marshall above Poplar
 4132,James,Richard,,Carlton & W. Schuylkill 7th
 4133,James Richard,,,
@@ -4151,12 +4157,10 @@ ID,Last Name,First Name,Street Number,Street Name
 4149,Kelly,Alriah,121,Pearl above 13th St.
 4150,King,James,,Oak Street
 4151,Knight,David,5,Broad opposite Spring Garden
-4152,Kupl,James,,George St. Francisville
 4153,Lalbs (?),Jeremiah,,Carlton & W. Schuylkill 7th
 4154,Laurence,Adam,52,Pearl above 12th St.
 4155,Laws,James,,Oak Street
 4156,Lee,Fenton,,Locust Street
-4157,Lee,Francis,,8th above Wood
 4158,Lewis,John,14,Pearl above 13th St.
 4159,Lexton,Jane,,Carlton above 13th Court
 4160,Lodor,Harriet,,Marshall above Poplar
@@ -4173,7 +4177,7 @@ ID,Last Name,First Name,Street Number,Street Name
 4171,Maxwell,John,12,Pearl above 13th St.
 4172,McCoy,Benjamin,,Pearl above 12th St.
 4173,McGruder,Nicholas,,Oak Street
-4174,Meloney,Nancy,,Sassafrass Street
+4174,Meloney,Nancy,,Sassafras Street
 4175,Miler,Robert,,Pearl below 13th St.
 4176,Miller,Charles,7,Pearl above 13th St.
 4177,Miller,David,,6th above Poplar Court
@@ -4207,19 +4211,13 @@ ID,Last Name,First Name,Street Number,Street Name
 4205,Penn,Julia,53,Pearl
 4206,Peters,James H,,10th above W. Ogden
 4207,Phillips,Jacob,,George St. Francisville
-4208,Price,Phillip,,8th above Wood
 4209,Price,Rennolds,482,Pearl
 4210,Price,Stephen,,Oak Street
-4211,Price,Stephen,,Oak Street
-4212,Purnell,Jenkens,,Torrs Alley Court
-4213,Purnell,Minty,,Torrs Alley Court
-4214,Purnell,Israel,,Torrs Alley Court
 4215,Rerrais (?),David,482,Pearl
 4216,Rice,Charles,2,Torrs Alley
 4217,Rice,William,,Oak Street
 4218,Richards,Hannah,,Vernon above 10th St. 
 4219,Richardson,W,,Oak Street
-4220,Ritter,Joseph,,George St. Francisville
 4221,Robinson,George,12,Pearl above 13th St.
 4222,Robson,Lydia,10,Pearl above 12th St.
 4223,Rodgers,John,,W. 6th above Poplar
@@ -4234,21 +4232,17 @@ ID,Last Name,First Name,Street Number,Street Name
 4232,Shephard,Martha,,Darby Road
 4233,Shuthens,Lucy,,Marshall above Poplar
 4234,Simpson,Emery,,Ogden above 11th St.
-4235,Smith,Henry,,Melon above 11th St.
 4236,Smith,Henry,,Callowhill above 13th St.
 4237,Smith,Mrs,,Oak Street
 4238,Smullin,Lewis,,Carlton & W. Schuylkill 8th
-4239,Stansbury,William,,Torrs Alley 9th above Vine
 4240,Steward,William,,Oak Street
 4241,Still,Abraham,,Pearl above 13th St.
 4242,Still,Tobias,,Broad opposite Spring Garden
 4243,Thomas,George,,Carlton & W. Schuylkill 8th
 4244,Thomas,Rachel,52,Pearl above 12th St.
-4245,Thomas,William,,Ann St. Francisville
 4246,Thompson,Robert,,Carlton near Schuylkill 7th
 4247,Tilison,Joseph,21,Nectarine above 9th St.
 4248,Tillman,Rebecca,,Marshall above Poplar
-4249,Trusty,Jacob,,Girard St. & W. Broad
 4250,Tunnee,James,,Carlton above 13th Court
 4251,Tyson,Rosanna,,Broad opposite Spring Garden
 4252,Unctim,Francis,,6th above Poplar Court
@@ -4282,4 +4276,3 @@ ID,Last Name,First Name,Street Number,Street Name
 4280,Wood,Allen,,Wood above 8th Court
 4281,Wood,Amy,,Oak Street
 4282,Wood,William,,Wood above 13th St.
-4283,Young,Richard,,George St. Francisville
