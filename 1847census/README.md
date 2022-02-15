@@ -11,8 +11,8 @@ Original source: Census of Black People, 1847, [Philadelphia Yearly Meeting (Ort
 
 ## About the project
 As of February 2022, a live version of the Philadelphia 1847 Census Project can be found on https://ds-pages.swarthmore.edu/paac/. For more detail about the project, see the readme for [1847-sof-black-census](https://github.com/swat-ds/1847-sof-black-census). A brief, non-exhaustive history of the project is as follows:
-- 2002. Original site built.
-- 2017. Dataset put on GitHub at [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census)
+- 2002 Original site built.
+- 2017 Dataset put on GitHub at [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census)
 - 2019 summer. New website built as part of Swarthmore Projects for Educational Exploration & Development (SPEED). See [1847-sof-black-census](https://github.com/swat-ds/1847-sof-black-census).
 - 2020 summer. Digital Scholarship librarians make some tweaks to [1847-sof-black-census](https://github.com/swat-ds/1847-sof-black-census), and add the derivative CSVs created during SPEED to the datasets repo [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
 - 2020 fall. Digital Scholarship librarian creates [paac-jekyll](https://github.com/swat-ds/paac-jekyll). At this point some changes were made (e.g., linking to the 2002 site through the Wayback Machine)
