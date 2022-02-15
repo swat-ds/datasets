@@ -3,11 +3,24 @@ This survey of Philadelphia's Black population, conducted by a committee of Quak
 
 ## About the census
 
-In 1847, a committee of Quakers appointed by the Meeting for Sufferings of Philadelphia Yearly Meeting (Orthodox) set out to document Philadelphia's African American residents. The purpose of the committee initially was to prepare a report on the slave trade, but after further consideration, the committee determined that it was also important to examine the condition of the African-American population of Philadelphia both to document the existence of an "industrious and thriving" portion of that population and to discover what portion of the community may have been in need of attention and assistance. Their survey was distilled into a 44 page report published as [_A Statistical Inquiry into the Condition of the People of Colour of the City and Districts of Philadelphia_ (1849)](paac1847censusreport.pdf). 
+In 1847, a committee of Quakers appointed by the Meeting for Sufferings of Philadelphia Yearly Meeting (Orthodox) set out to document Philadelphia's African American residents. The purpose of the committee initially was to prepare a report on the slave trade, but after further consideration, the committee determined that it was also important to examine the condition of the African-American population of Philadelphia both to document the existence of an "industrious and thriving" portion of that population and to discover what portion of the community may have been in need of attention and assistance. Their survey was distilled into a 44 page report published as [_A Statistical Inquiry into the Condition of the People of Colour of the City and Districts of Philadelphia_ (1849)](paac1847censusreport.pdf).
 
 For more information visit the [online exhibit accompanying the  study](https://ds-pages.swarthmore.edu/paac/).
 
 Original source: Census of Black People, 1847, [Philadelphia Yearly Meeting (Orthodox) Representative Committee records, RG2/Pho](http://archives.tricolib.brynmawr.edu/repositories/9/resources/5742), Friends Historical Library of Swarthmore College.
+
+## About the project
+As of February 2022, a live version of the Philadelphia 1847 Census Project can be found on https://ds-pages.swarthmore.edu/paac/. For more detail about the project, see the readme for [1847-sof-black-census](https://github.com/swat-ds/1847-sof-black-census). A brief, non-exhaustive history of the project is as follows:
+- 2002. Original site built.
+- 2017. Dataset put on GitHub at [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census)
+- 2019 summer. New website built as part of Swarthmore Projects for Educational Exploration & Development (SPEED). See [1847-sof-black-census](https://github.com/swat-ds/1847-sof-black-census).
+- 2020 summer. Digital Scholarship librarians make some tweaks to [1847-sof-black-census](https://github.com/swat-ds/1847-sof-black-census), and add the derivative CSVs created during SPEED to the datasets repo [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
+- 2020 fall. Digital Scholarship librarian creates [paac-jekyll](https://github.com/swat-ds/paac-jekyll). At this point some changes were made (e.g., linking to the 2002 site through the Wayback Machine)
+- 2021 Feb-Mar. Digital Scholarship librarian has Lib-Lab students work on making [paac-jekyll](https://github.com/swat-ds/paac-jekyll) more accessible. It seems that paac-jekyll becomes the basis for the live site around this time.
+- 2021 (spring?). Links to Ancestry.com scans of census are added to https://ds-pages.swarthmore.edu/paac/about/, but changes aren't pushed to GitHub.
+- 2021 summer. Digital Scholarship librarian makes a few changes to [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census) before departing Swarthmore College
+- 2021 fall. Friends Historical Library student worker cleans up the data in [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
+- 2022 February. Friends Historical Library digitizes original census volumes and edits [paac-jekyll](https://github.com/swat-ds/paac-jekyll) to link to digitized volumes
 
 ## About the data
 The dataset contains forty-three elements of information for each of more than four thousand African American households in Philadelphia. Above and beyond the basic information of name and address, the 1847 census is incredibly rich in detail, including such datapoints as: occupation, education, literacy, rent and taxes paid, whether the person was born in slavery, amount paid for freedom, and much more.
