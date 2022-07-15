@@ -21,7 +21,7 @@ As of February 2022, a live version of the Philadelphia 1847 Census Project can 
 - 2021 summer. Digital Scholarship librarian makes a few changes to [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census) before departing Swarthmore College
 - 2021 fall. Friends Historical Library student worker cleans up the data in [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
 - 2022 February. Friends Historical Library digitizes original census volumes and edits [paac-jekyll](https://github.com/swat-ds/paac-jekyll) to link to digitized volumes
-- 2022 July. Friends Historical Library student worker digitizes and indexes Blockley Almshouse census data. Uploads to github.
+- 2022 July. Friends Historical Library student worker digitizes and indexes Blockley Almshouse census data. Uploads to GitHub at [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
 
 ## About the data
 The dataset contains forty-three elements of information for each of more than four thousand African American households in Philadelphia. Above and beyond the basic information of name and address, the 1847 census is incredibly rich in detail, including such datapoints as: occupation, education, literacy, rent and taxes paid, whether the person was born in slavery, amount paid for freedom, and much more.
