@@ -24,13 +24,15 @@ As of February 2022, a live version of the Philadelphia 1847 Census Project can 
 - 2022 July. Friends Historical Library student worker digitizes and indexes Blockley Almshouse census data. Uploads to GitHub at [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
 
 ## About the data
-The dataset contains forty-three elements of information for each of more than four thousand African American households in Philadelphia. Above and beyond the basic information of name and address, the 1847 census is incredibly rich in detail, including such datapoints as: occupation, education, literacy, rent and taxes paid, whether the person was born in slavery, amount paid for freedom, and much more.
+The dataset contains forty-three elements of information for each of more than four thousand African American households in Philadelphia. Data from the Blockley Almshouse is also included. Above and beyond the basic information of name and address, the 1847 census is incredibly rich in detail, including such datapoints as: occupation, education, literacy, rent and taxes paid, whether the person was born in slavery, amount paid for freedom, and much more.
 
 ### Main datasets
 These contain all or most of the data from the manuscript ledger.
 - `sofaac-raw-export` / Filemaker database export from initial manuscript ledger transcription
 - `sofaac-transcribed` / ID, household data columns as transcribed excluding duplicate rows
 - `sofaac-normalized` / ID, cleaned and normalized columns (does not include all transcribed columns)
+- `sofaac-blockleycensus` / Transcribed and cleaned data from Blockley manuscript
+- `sofaac-blockley-avgs&totals` / Transcribed data on the averages and totals of people in the Almshouse from 1846-1848
 
 ### Secondary datasets
 These contain topical subsets of the overall data.
