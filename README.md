@@ -21,3 +21,6 @@ This is the register of interments, 1843-1981, at Fair Hill, a Philadelphia buri
 ## Swarthmore Phoenix OCR
 
 OCR text extracted from scanned PDFs of Swarthmore College's newspaper, *The Phoenix* from 1993-02-26 to 2011-04-28, a total of 399 issues. These were drawn from the [Tricollege Images & Manuscripts Digital Collection](http://triptych.brynmawr.edu/cdm/landingpage/collection/SC_Phoenix).
+
+## Manumissions
+These are indicies of manumissions from the [Friends Historical Library of Swarthmore College](http://www.swarthmore.edu/friends-historical-library). Quakers, who were known as abolitionists in the antebellum era, kept records of manumissions throughout the late 18th and 19th centuries. Manumissions are formal documents promising to free an enslaved person. This folder holds idicies of manumissions from Delaware, Pennsylvania, New York, New Jersey, Maryland, and more. The respective scans for each index can be found on [Islandora](https://digitalcollections.tricolib.brynmawr.edu/). Source material and datasets prepared by [Friends Historical Library of Swarthmore College](http://www.swarthmore.edu/friends-historical-library).
