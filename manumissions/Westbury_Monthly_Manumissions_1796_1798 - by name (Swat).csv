@@ -1,0 +1,58 @@
+Name of Enslaved Person (Transcribe what is listed),Freed Age,Age listed for Enslaved Person,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
+"This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""",,"This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
+Lenah,18,13,female,3,A00187002_004,1796-12-01,North Hempstead,New York,"Everit, Thomas","Everit, Thomas",male,"Poit, Henry;
+Titan, Henry;
+Everitt, Thomas","Poit, Henry;
+Titan, Henry;
+Everitt, Thomas",Westbury,,,,ZM,WGC
+Catherine,21,--,female,4-5,"A00187002_005;
+A00187002_006",1798-01-16,North Hempstead,New York,"Nichols, Samuel","Nichols, Samuel",male,"Townsend, Richard;
+Seaman, Gideon;
+Nichols, Samuel","Townsend, Richard;
+Seaman, Gideon;
+Nichols, Samuel",Westbury,,,,ZM,WGC
+Grandus,21,16,male,4-5,"A00187002_005;
+A00187002_006",1798-01-16,North Hempstead,New York,"Nichols, Samuel","Nichols, Samuel",male,"Townsend, Richard;
+Seaman, Gideon;
+Nichols, Samuel","Townsend, Richard;
+Seaman, Gideon;
+Nichols, Samuel",Westbury,,,,ZM,WGC
+Jacob,21,--,male,4-5,"A00187002_005;
+A00187002_006",1798-01-16,North Hempstead,New York,"Nichols, Samuel","Nichols, Samuel",male,"Townsend, Richard;
+Seaman, Gideon;
+Nichols, Samuel","Townsend, Richard;
+Seaman, Gideon;
+Nichols, Samuel",Westbury,,,,ZM,WGC
+Margaret,--,--,female,5,A00187002_006,1796-02-12,Oysterbay,New York,"Coles, Nathanel","Coles, Nathaniel",male,"Downing, Silas;
+Thorn, Elizabeth;
+Coles, Nathaniel","Downing, Silas;
+Thorn, Elizabeth;
+Coles, Nathaniel",Westbury,,,,ZM,WGC
+Sib,--,--,female,6,A00187002_007,1795-02-12,Oysterbay,New York,"Coles, Nathanel","Coles, Nathaniel",male,"Downing, Silas;
+Thorn, Elizabeth;
+Coles, Nathaniel","Downing, Silas;
+Thorn, Elizabeth;
+Coles, Nathaniel",Westbury,,,,ZM,WGC
+Ann,18,3,female,6-7,"A00187002_007;
+A00187002_008",1795-02-17,Oysterbay,New York,"Coles, Nathanel","Coles, Nathaniel",male,"Downing, Silas;
+Downing, Phebe;
+Coles, Nathaniel","Downing, Silas;
+Downing, Phebe;
+Coles, Nathaniel",Westbury,,,,ZM,WGC
+Jack,--,--,male,8,A00187002_009,1795-02-12,Oysterbay,New York,"Coles, Nathanel","Coles, Nathaniel",male,"Downing, Silas;
+Thorn, Elizabeth;
+Coles, Nathaniel","Downing, Silas;
+Thorn, Elizabeth;
+Coles, Nathaniel",Westbury,,,,ZM,WGC
+Neptune,--,--,male,9,A00187002_010,1798-04-21,Oysterbay,New York,"Valentine, Lewis","Valentine, Lewis",male,"Downing, Silas;
+Valentine, Charles;
+Valentine, Lewis","Downing, Silas;
+Valentine, Charles;
+Valentine, Lewis",Westbury,,,,ZM,WGC
+Sarah,18,17,female,10,A00187002_011,1798-02-24,Oysterbay,New York,"Frost, Caleb","Frost, Caleb",male,"Downing, Silas;
+Downing, Phebe;
+Frost, Caleb","Downing, Silas;
+Downing, Phebe;
+Frost, Caleb",Westbury,,,"he left off the 8
+and just wrote 
+1790 when talking about her birthday",ZM,WGC
