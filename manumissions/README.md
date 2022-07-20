@@ -1,6 +1,6 @@
 # Manumissions - Quakers & Slavery
 
-## What am I looking at?
+## About
 In this folder are datasets from the collection of manumissions from the Friends Historical Library at Swarthmore College. Each dataset is an index of manumissions, in which the most important information in each manumission is placed in a searchable spreadsheet. The purpose of these datasets are to open another avenue for Black Genealogy. This project is a continuation of the work done at Haverford College in the project [*Manumitted, The People Enslaved by Quakers*](https://manumissions.haverford.edu/).
 
 ## What is a manumission?
