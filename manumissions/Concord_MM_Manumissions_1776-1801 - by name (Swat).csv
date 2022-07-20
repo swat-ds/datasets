@@ -1,0 +1,51 @@
+Name of Enslaved Person (Transcribe what is listed),Freed Age,Age listed for Enslaved Person,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State, ,"Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
+"This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""",This field corresponds to the state listed in the manumission.,"This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
+,,,,,,,,,,,,,,,,,"Folder of manumissions in FHL contains one book
+of manumissions and looseleaf copies of some
+manumissions in the book",,
+Pleasant,19,19,female,1,A00187005_001,1776-08-07,"Aston,
+Delaware County",PA,"Peter, Wm.","Peter, William",male,"Hough, Benjamin;
+Trimble, Samu.","Trimble, Samuel",Concord,,,"Pleasant described as ""molatta"" (or mulatto)",WGC,WGC
+Prudence,35,35,female,2,A00187005_002,1776-09-04,"Aston,
+Delaware County",PA,"Peter, Wm.","Peter, William",male,"Williams, Isaac;
+Trimble, Samu.","Trimble, Samuel",Concord,,,"Prudence described as ""molatta"" (or mulatto)",WGC,WGC
+Joan,58,58,female,3,A00187005_003,1776-08-07,"Aston,
+Delaware County",PA,"Peter, Wm.","Peter, William",male,"Hough, Benjamin;
+Trimble, Samu.","Trimble, Samuel",Concord,,,"Joan described as ""molattoe"" (or mulatto)",WGC,WGC
+Isaac Brown,28,28,male,4,A00187005_004,1776-08-07,"Aston,
+Delaware County",PA,"Peter, Wm.","Peter, William",male,"Hough, Benjamin;
+Trimble, Samu.","Trimble, Samuel",Concord,,,,WGC,WGC
+Jack,4,21,male,5,A00187005_005,1776-08-07,"Aston,
+Delaware County",PA,"Peter, Wm.","Peter, William",male,"Hough, Benjamin;
+Trimble, Samu.","Trimble, Samuel",Concord,,,"described as ""molattoe""",WGC,WGC
+Grace,2,18,female,5,A00187005_005,1776-08-07,"Aston,
+Delaware County",PA,"Peter, Wm.","Peter, William",male,"Hough, Benjamin;
+Trimble, Samu.","Trimble, Samuel",Concord,,,"described as ""molattoe""",,
+Eame,16,18,female,6,A00187005_006,1776-08-29,"East Bradford, 
+Chester County",PA,"Strode, Richard",,male,"Townsend, Jno.;
+Townsend, Joanna","Towsend, John",Concord,,,,WGC,WGC
+Joe,36,36,male,7,A00187005_007,1776-12-27,"East Bradford, 
+Chester County",PA,"Jefferis, Emmor",,male,"Hough, Benjamin;
+Eyre, John",,Concord,,,,WGC,WGC
+Tom,60,60,male,8,A00187005_008,1776-12-27,"East Bradford, 
+Chester County",PA,"Jefferis, Elizabeth",,female,"Hough, Benjamin;
+Eyre, John",,Concord,,,"in a second note at the bottom of the page, 
+Jefferis promises to find ""sufficient and comfortable
+living for the remainder of his [Tom's] life""",WGC,WGC
+Sampson,20,21,male,9,A00187005_009,1777-03-01,"East Bradford, 
+Chester County",PA,"Strode, Richard",,male,"Townsend, Jno.;
+Townsend Jun., William","Townsend, John;
+Townsend Jr., William",Concord,,,,WGC,WGC
+Hagar,29,29,female,10,A00187005_010,1776-02-27,"Goshen,
+Chester County",PA,"Williamson, Thomas",,male,"Townsend, Jno.;
+Ryant, Charles",,Concord,,,,WGC,WGC
+Grace,35,35,female,11,A00187005_011,1779-10-05,"Westtown,
+Chester County",PA,"Gibbon, James",,male,"Townsend, John;
+Jefferis, Emmor",,Concord,,,,WGC,WGC
+Abigail Coleman,_,_,female,12,A00187005_012,1789-07-12,_,PA,"Johnson, William",,male,_,,Concord,,,"location, age, and witnesses not given. only says that Abigail has ""served out her time""",WGC,WGC
+"Mordica [alias
+Mott, Geo Brown]",42,42,male,13,A00187005_013,1801-03-02,"Thornbury,
+Delaware County",PA,"Brinton, George",,male,"Brinton, Joseph;
+Brinton Jun., John","Brinton Jr., John",Concord,,,writing is a little smudged,WGC,WGC
+Cuf Milner,40,40,male,14,A00187005_014,1777-04-10,_,PA,"Dilworth, Charles",,male,"Trimble, Samuel;
+Hough, Benjamin",,Concord,,,location not listed,WGC,WGC

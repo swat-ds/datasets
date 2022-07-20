@@ -1,0 +1,514 @@
+Name of Enslaved Person (Transcribe what is listed),Age listed for Enslaved Person,Freed Age,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
+"This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""",,"This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
+Saul,--,--,male,1,A00187003_002,1776-03-15,Oysterbay,New York,"Seaman, Esther;
+Seaman, Williams","Seaman, Esther;
+Seaman, Williams",male; female,"Valentine, William;
+Valentine, Mary","Valentine, William;
+Valentine, Mary",Westbury,,,,ZM,WGC
+Josiah,--,--,male,2,A00187003_003,1776-03-08,Oysterbay,New York,"Titus, James","Titus, James",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Nathaniel,--,--,male,2,A00187003_003,1776-12-31,Oysterbay,New York,"Willets, Rebekah","Willets, Rebekah",female,"Seaman, Gideon;
+Valentine, William","Seaman, Gideon;
+Valentine, William",Westbury,,,,ZM,WGC
+Levnor,--,--,female,3,A00187003_004,1776-03-15,Hempsted,New York,"Hicks, John","Hicks, John",male,"Searing, John;
+Titus, James;","Searing, John;
+Titus, James",Westbury,,,,ZM,WGC
+David,8,21,male,3,A00187003_004,1776-12-31,Hampstead,New York,"Hicks, John","Hicks, John",male,"Valentine, William;
+Seaman, Gedeon","Valentine, William;
+Seaman, Gedeon",Westbury,,,,ZM,WGC
+Isaac,5,21,male,4,A00187003_005,1776-12-31,Hampstead,New York,"Hicks, John","Hicks, John",male,"Valentine, William;
+Seaman, Gideon","Valentine, William;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Charles,--,--,male,4,A00187003_005,1776-03-15,Hempsted,New York,"Hicks, John","Hicks, John",male,"Searing, John;
+Titus, James","Searing, John;
+Titus, James",Westbury,,,,ZM,WGC
+Elizabeth,3,18,female,5,A00187003_006,1776-12-31,Hampstead,New York,"Hicks, John","Hicks, John",male,"Valentine, William;
+Seaman, Gideon","Valentine, William;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Plato,19,21,male,5,A00187003_006,1776-12-31,Hempsted,New York,"Hicks, John","Hicks, John",male,"Valentine, William;
+Seaman, Gideon","Valentine, William;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Elenor,10,18,female,6,A00187003_007,1776-12-31,Hampstead,New York,"Hicks, John","Hicks, John",male,"Valentine, William;
+Seaman, Gideon","Valentine, William;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Jacob,18,21,male,6,A00187003_007,1776-12-07,Hampstead,New York,"Willets, Joseph;
+Phebe, Loines","Willets, Joseph;
+Phebe, Loines",male; female,"Titus, Thomas;
+Titus, Kezia","Titus, Thomas;
+Titus, Kezia;",Westbury,,,,ZM,WGC
+Elbert,13,21,male,7,A00187003_008,1777-01-25,Hampstead,New York,"Phebe, Loines","Phebe, Loines",female,"Downing, Silas;
+Titus, Thomas","Downing, Silas;
+Titus, Thomas",Westbury,,,,ZM,WGC
+Ellenor,15,18,female,7,A00187003_008,1777-01-03,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Westbury,,,,ZM,WGC
+Stephen,12,21,male,8,A00187003_009,1777-01-03,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Westbury,,,,ZM,WGC
+James,14,21,male,8,A00187003_009,1777-01-03,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Valentine, William;
+Gedion, Seaman","Valentine, William;
+Gedion, Seaman",Westbury,,,,ZM,WGC
+Philip,--,--,male,9,A00187003_010,1776-03-06,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Seaman, Williams;
+Willis, Fry","Seaman, Williams;
+Willis, Fry",Westbury,,,"husband to Mary
+father to Philip",ZM,WGC
+Mary,--,--,female,9,A00187003_010,1776-03-06,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Seaman, Williams;
+Willis, Fry","Seaman, Williams;
+Willis, Fry",Westbury,,,"wife to Philip
+mother to Philip",ZM,WGC
+Tom,--,--,male,10,A00187003_011,1776-03-11,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Whitson, John;
+Whitson, Deborah","Whitson, John;
+Whitson, Deborah",Westbury,,,,ZM,WGC
+Philip,<1,<1,male,10,A00187003_011,1776-03-06,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Seaman, Williams;
+Willis, Fry","Seaman, Williams;
+Willis, Fry",Westbury,,,,ZM,WGC
+Townsend,10,21,male,11,A00187003_012,1777-01-03,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Valentine, William;
+Seaman, Gideon","Valentine, William;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Charles,7,21,male,11,A00187003_012,1777-01-03,Oysterbay,New York,"Whitson, Henry","Whitson, Henry",male,"Seamaan, Gideon;
+Rushmore, Isaac","Seamaan, Gideon;
+Rushmore, Isaac",Westbury,,,,ZM,WGC
+Primus,16,21,male,12,A00187003_013,1777-01-07,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Westbury,,,,ZM,WGC
+Judith,4,18,female,12,A00187003_013,1777-01-07,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Westbury,,,,ZM,WGC
+Nanney,1,18,female,13,A00187003_014,1777-01-07,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Westbury,,,,ZM,WGC
+Nanne,--,--,female,13,A00187003_014,1776-03-20,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Seaman, Williams;
+Willits, Amos","Seaman, Williams;
+Willits, Amos",Westbury,,,,ZM,WGC
+Betty,--,--,female,14,A00187003_015,1776-03-20,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Seaman, Williams;
+Willits, Amos","Seaman, Williams;
+Willits, Amos",Westbury,,,,ZM,WGC
+Joney,--,--,male,14,A00187003_015,1776-03-20,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Seaman, Williams;
+Willits, Amos","Seaman, Williams;
+Willits, Amos",Westbury,,,,ZM,WGC
+Hagar,--,--,female,15,A00187003_016,1776-03-20,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Seaman, Williams;
+Willits, Amos","Seaman, Williams;
+Willits, Amos",Westbury,,,,ZM,WGC
+Samuel,6,21,male,15,A00187003_016,1777-03-20,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Westbury,,,,ZM,WGC
+Jean,2,18,female,16,A00187003_017,1777-01-07,Oysterbay,New York,"Willits, Richard","Willits, Richard",male,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Westbury,,,,ZM,WGC
+Ben,--,--,male,16,A00187003_017,1777-01-28,Hempstead,New York,"Pearsall, Israel","Pearsall, Israel",male,"Hawxhurst, Hannah;
+Hawxhurst, Hannah Jr.;
+Colwell, Ann","Hawxhurst, Hannah;
+Hawxhurst, Hannah Jr.;
+Colwell, Ann",Westbury,,,,ZM,WGC
+James,1,21,male,17,A00187003_018,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Jacob,9,21,male,17,A00187003_018,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Jacob,--,--,male,18,A00187003_019,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Samuel,6,21,male,18,A00187003_019,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+James,--,--,male,19,A00187003_020,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Margret,3,18,female,19,A00187003_020,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Thomas,11,21,male,20,A00187003_021,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Bethany,--,--,female,20,A00187003_021,1776-03-16,Queens County,New York,"Cock, Henry","Cock, Henry",male,"Post, Henry;
+Downing, Silas","Post, Henry;
+Downing, Silas",Westbury,,,,ZM,WGC
+Robin,--,--,male,21,A00187003_022,1777-01-22,Oysterbay,New York,"Alsop, Richard","Alsop, Richard",male,"Pearsall, Thomas;
+Pearsall, Mary","Pearsall, Thomas;
+Pearsall, Mary",Westbury,,,,ZM,WGC
+Cate,--,--,female,21,A00187003_022,1777-01-22,Oysterbay,New York,"Alsop, Richard","Alsop, Richard",male,"Pearsall, Thomas;
+Pearsall, Mary","Pearsall, Thomas;
+Pearsall, Mary",Westbury,,,,ZM,WGC
+Morris,--,--,male,21,A00187003_022,1777-01-22,Oysterbay,New York,"Alsop, Richard","Alsop, Richard",male,"Pearsall, Thomas;
+Pearsall, Mary","Pearsall, Thomas;
+Pearsall, Mary",Westbury,,,,ZM,WGC
+Charity,--,--,female,22,A00187003_023,1777-01-22,Oysterbay,New York,"Alsop, Richard","Alsop, Richard",male,"Pearsall, Thomas;
+Pearsall, Mary","Pearsall, Thomas;
+Pearsall, Mary",Westbury,,,,ZM,WGC
+Mingo,--,--,male,22,A00187003_023,1777-01-16,Oysterbay,New York,"Willis, Samuel","Willis, Samuel",male,"Downing, Silas;
+Jackson, David","Downing, Silas;
+Jackson, David",Westbury,,,,ZM,WGC
+Betty,--,--,female,23,A00187003_024,1776-03-29,Oysterbay,New York,"Willis, Samuel","Willis, Samuel",male,"Willis, Henry;
+Willis, Edmund","Willis, Henry;
+Willis, Edmund",Westbury,,,,ZM,WGC
+Mareah,--,--,female,23,A00187003_024,1777-01-12,Oysterbay,New York,"Rushmore, Isaac","Rushmore, Isaac",male,"Seaman, Gideon;
+Valentine, William","Seaman, Gideon;
+Valentine, William",Westbury,,,,ZM,WGC
+Sambo,16,21,male,24,A00187003_025,1776-03-16,Queens County,New York,"Rushmore, Isaac","Rushmore, Isaac",male,"Post, Henry;
+Downing, Samuel","Post, Henry;
+Downing, Samuel",Westbury,,,,ZM,WGC
+Boss,15,21,male,24,A00187003_025,1776-06-28,Islip,New York,"Underhill, Adonijah","Underhill, Adonijah",male,"Willis, John;
+Hicks, Elias","Willis, John;
+Hicks, Elias",Westbury,,,,ZM,WGC
+Nancy,15,18,female,25,A00187003_026,1776-04,Islip,New York,"Underhill, Adonijah","Underhill, Adonijah",male,"Willits, Jacob Jr.;
+Seaman, Williams Jr.","Willits, Jacob Jr.;
+Seaman, Williams Jr.",Westbury,,,,ZM,WGC
+Samuel,11,21,male,25,A00187003_026,1776-03-15,Hempstead,New York,"Hicks, Benjamin","Hicks, Benjamin",male,"Searing, John;
+Titus, James","Searing, John;
+Titus, James",Westbury,,,,ZM,WGC
+York,--,--,male,26,A00187003_027,1777-01-03,Islip,New York,"Willits, Amey","Willits, Amey",female,"Hicks, Elias;
+Valentine, William","Hicks, Elias;
+Valentine, William",Wesbury,,,,ZM,WGC
+Nenus,--,--,male,26,A00187003_027,1776-03-18,Queens County,New York,"Coles, Jacob","Coles, Jacob",male,"Coles, Isaac;
+Carpenter, Thomas","Coles, Isaac;
+Carpenter, Thomas",Wesbury,,,,ZM,WGC
+James,--,--,male,27,A00187003_028,1776-03-15,Hempsted,New York,"Titus, William","Titus, William",male,"Seaman, Thomas;
+Willis, John","Seaman, Thomas;
+Willis, John",Wesbury,,,,ZM,WGC
+Cap,--,--,male,27,A00187003_028,1776-07-25,Hempsted,New York,"Seaman, Sarah","Seaman, Sarah",female,"Valentine, William;
+Searing, John","Valentine, William;
+Searing, John",Wesbury,,,,ZM,WGC
+Stephen,--,--,male,28,A00187003_029,1776-03-15,Hempsted,New York,"Hicks, Silas","Hicks, Silas",male,"Searing, John;
+Titus, James","Searing, John;
+Titus, James",Wesbury,,,,ZM,WGC
+Charity,--,--,female,28,A00187003_029,1777-01-21,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Richard;
+Alsop, Sarah","Alsop, Richard;
+Alsop, Sarah",Wesbury,,,,ZM,WGC
+Peg,--,--,female,29,A00187003_030,1777-01-20,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Richard;
+Alsop, Sarah","Alsop, Richard;
+Alsop, Sarah",Wesbury,,,,ZM,WGC
+Biah,--,--,female,29,A00187003_030,1777-01-21,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Richard;
+Alsop, Sarah","Alsop, Richard;
+Alsop, Sarah",Wesbury,,,,ZM,WGC
+Jem,--,--,male,30,A00187003_031,1777-01-20,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Richard;
+Alsop, Sarah","Alsop, Richard;
+Alsop, Sarah",Wesbury,,,,ZM,WGC
+Cate,16,18,female,30,A00187003_031,1777-01-20,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Richard;
+Alsop, Sarah","Alsop, Richard;
+Alsop, Sarah",Wesbury,,,,ZM,WGC
+Rachel,--,--,female,31,A00187003_032,1776-03-15,Hempstead,New York,"Dodge, Phebe","Dodge, Phebe",female,"Mott, Adam;
+Mott, Stephen","Mott, Adam;
+Mott, Stephen",Wesbury,,,,ZM,WGC
+Rose,--,--,female,32,A00187003_033,1776-12-30,Hempstead,New York,"Smith, John","Smith, John",male,"Rushmore, Isaac;
+Seaman, Gideon","Rushmore, Isaac;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Joseph,--,--,male,32,A00187003_033,1776-12-30,Hempsted,New York,"Smith, John","Smith, John",male,"Rushmore, Isaac;
+Seaman, Gideon","Rushmore, Isaac;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Rachil,7,18,female,33,A00187003_034,1776-12-30,Hempsted,New York,"Smith, John","Smith, John",male,"Rushmore, Isaac;
+Seaman, Gideon","Rushmore, Isaac;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Daniel,3,21,male,33,A00187003_034,1776-12-30,Hempsted,New York,"Smith, John","Smith, John",male,"Rushmore, Isaac;
+Seaman, Gideon","Rushmore, Isaac;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Uriah,<1,21,male,34,A00187003_035,1776-12-30,Hempsted,New York,"Smith, John","Smith, John",male,"Rushmore, Isaac;
+Seaman, Gideon","Rushmore, Isaac;
+Seaman, Gideon",Westbury,,,,ZM,WGC
+Charity,--,--,female,34,A00187003_035,1777-05-24,Queens County,New York,"Valentine, Charles","Valentine, Charles",male,"Underhill, David;
+Wood, Joseph","Underhill, David;
+Wood, Joseph",Westbury,,,,ZM,WGC
+Jacob,10,21,male,35,A00187003_036,1777-03-03,Suffolkes County,New York,"Oakley, James Jr.","Oakley, James Jr.",male,"Willis, John;
+Seaman, Williams Jr.","Willis, John;
+Seaman, Williams Jr.",Westbury,,,,ZM,WGC
+Hance,55,55,male,35,A00187003_036,1777-01-07,Hempstead,New York,"Mott, John","Mott, John",male,"Mott, Stephen;
+Mott, Adam","Mott, Stephen;
+Mott, Adam",Westbury,,,,ZM,WGC
+Dick,35,35,male,36,A00187003_037,1777-01-07,Hempstead,New York,"Mott, Adam","Mott, Adam",male,"Mott, John;
+Phebe, Poit;
+Mott, Stephen","Mott, John;
+Phebe, Poit;
+Mott, Stephen",Westbury,,,,ZM,WGC
+Pegg,14,18,female,36,A00187003_037,1776-08-03,Hempstead,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Jenny,12,18,female,37,A00187003_038,1776-08-03,Hempsted,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Phillis,4,18,female,37,A00187003_038,1776-08-03,Hempsted,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Sier,--,--,male,38,A00187003_039,1777-05-26,Hempstead,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Peter,16,21,male,38,A00187003_039,1776-08-03,Hempstead,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Sarah,7,18,female,39,A00187003_040,1776-08-03,Hempstead,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Polly,4,18,female,39,A00187003_040,1776-08-03,Hempsted,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Charles,9,21,male,40,A00187003_041,1776-08-03,Hempsted,New York,"Mott, William","Mott, William",male,"Seaman, Gideon;
+Titus, William","Seaman, Gideon;
+Titus, William",Westbury,,,,ZM,WGC
+Dick,--,--,male,40,A00187003_041,1776-05-10,Hempsted,New York,"Mott, William","Mott, William",male,"Mott, James;
+Mott, Samuel","Mott, James;
+Mott, Samuel",Westbury,,,,ZM,WGC
+Amey,--,--,female,41,A00187003_042,1776-08-03,Hempsted,New York,"Mott, William","Mott, William",male,"Mott, James;
+Mott, Samuel","Mott, James;
+Mott, Samuel",Westbury,,,,ZM,WGC
+Mike,--,--,male,41,A00187003_042,1777-01-21,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Richard;
+Alsop, Sarah","Alsop, Richard;
+Alsop, Sarah",Westbury,,,,ZM,WGC
+Jacob,9,21,male,42,A00187003_043,1777-01-22,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Sarah;
+Alsop, Hannah","Alsop, Sarah;
+Alsop, Hannah",Westbury,,,,ZM,WGC
+Tony,1,21,male,42,A00187003_043,1777-01-22,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Sarah;
+Alsop, Hannah","Alsop, Sarah;
+Alsop, Hannah",Westbury,,,,ZM,WGC
+Judith,6,18,female,42,A00187003_043,1777-01-22,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Alsop, Sarah;
+Alsop, Hannah","Alsop, Sarah;
+Alsop, Hannah",Westbury,,,,ZM,WGC
+Ben,--,--,male,42,A00187003_043,1777-10-09,Oysterbay,New York,"Pearsall, Thomas","Pearsall, Thomas",male,"Pearsall, Israel;
+Hawxhurst, Nathaniel","Pearsall, Israel; 
+Hawxhurst, Nathaniel",Westbury,,,,ZM,WGC
+James,--,--,male,43,A00187003_044,1778-04-28,Suffolkes County,New York,"Willits, Richard","Willits, Richard",male,"Howell, Israel;
+Barton, John","Howell, Israel;
+Barton, John",Westbury,,,,ZM,WGC
+John,--,--,male,43,A00187003_044,1778-04-28,Suffolkes County,New York,"Willits, Richard","Willits, Richard",male,"Howell, Israel;
+Barton, John","Howell, Israel;
+Barton, John",Westbury,,,,ZM,WGC
+Easter,--,--,female,43,A00187003_044,1778-04-28,Suffolkes County,New York,"Willits, Richard","Willits, Richard",male,"Howell, Israel;
+Barton, John","Howell, Israel;
+Barton, John",Westbury,,,,ZM,WGC
+Sarah,--,18,female,43,A00187003_044,1778-04-28,Suffolkes County,New York,"Willits, Richard","Willits, Richard",male,"Barton, John;
+Heart, Nehemiah Jr.","Barton, John;
+Heart, Nehemiah Jr.",Westbury,,,,ZM,WGC
+Isaac,5,21,male,44,A00187003_045,1777-04-09,Hempsted,New York,"Smith, John","Smith, John",male,"Valentine, William;
+Hicks, Elias","Valentine, William;
+Hicks, Elias",Westbury,,,,ZM,WGC
+Michael,14,21,male,44,A00187003_045,1777-01-22,Oysterbay,New York,"Alsop, Richard","Alsop, Richard",male,"Seaman, Phila;
+Titus, Kezia","Seaman, Phila;
+Titus, Kezia",Westbury,,,,ZM,WGC
+Lewis,4,21,male,45,A00187003_046,1777-01-22,Oysterbay,New York,"Alsop, Richard","Alsop, Richard",male,"Pearsall, Thomas;
+Pearsall, Mary","Pearsall, Thomas;
+Pearsall, Mary",Westbury,,,,ZM,WGC
+Isaac,1,21,male,45,A00187003_046,1777-01-22,Oysterbay,New York,"Alsop, Richard","Alsop, Richard",male,"Pearsall, Thomas;
+Pearsall, Mary","Pearsall, Thomas;
+Pearsall, Mary",Westbury,,,,,
+Toney,--,--,male,45,A00187003_046,1777-04-30,Hempsted,New York,"Way, Samuel","Way, Samuel",male,"Seaman, Gideon;
+Downing, Samuel","Seaman, Gideon;
+Downing, Samuel",Westbury,,,,ZM,WGC
+James,--,--,male,46,A00187003_047,1777-04-15,Hempsted,New York,"Willets, Rebeca","Willets, Rebeca",female,"Seaman, Gideon;
+Willets, Joseph","Seaman, Gideon;
+Willets, Joseph",Westbury,,,,ZM,WGC
+William,--,--,male,46,A00187003_047,1777-05-17,Oysterbay,New York,"Seaman, Obadiah","Seaman, Obadiah",male,"Titus, William;
+Titus, John","Titus, William;
+Titus, John",Westbury,,,,ZM,WGC
+Cato,16,21,male,47,A00187003_048,1778-02-19,Suffolkes County,New York,"Hallock, Richard","Hallock, Richard",male,"Seaman, William Jr.;
+Willis, Fry","Seaman, William Jr.;
+Willis, Fry",Westbury,,,,ZM,WGC
+Hager,--,--,female,47,A00187003_048,1776-03-19,Newtown,New York,"Nottingham, Samuel","Nottingham, Samuel",male,"Willis, Mary;
+Willis, Samuel","Willis, Mary;
+Willis, Samuel",Westbury,,,,ZM,WGC
+Jane,--,--,female,48,A00187003_049,1778-02-21,Hempsted,New York,"Hicks, Temperance","Hicks, Temperance",female,"Post, Henry;
+Seaman, William Jr.","Post, Henry;
+Seaman, William Jr.",Westbury,,,,ZM,WGC
+Obid,--,--,male,48,A00187003_049,1779-01-06,Oysterbay,New York,"Powell, Wait","Powell, Wait",male,"Persall, Thos.
+Oakley, James Jr.;","Persall, Thos.
+Oakley, James Jr.;",Westbury,,,,ZM,WGC
+Philise,--,--,female,49,A00187003_050,1778-03-14,Hempsted,New York,"Carle, John","Carle, John",male,"Post, Henry","Post, Henry",Westbury,,,,ZM,WGC
+Timothy,--,--,male,49,A00187003_050,1777-12-31,Hempsted,New York,"Smith, Edmund","Smith, John",male,"Post, Henry;
+Smith, Edwin","Post, Henry;
+Smith, Edwin",Westbury,,,"possibly deceased;
+""went from"" Smith 
+a year or more before
+manumitted ",ZM,WGC
+James,9,21,male,50,A00187003_051,1779-01-06,Oysterbay,New York,"Witson, John","Witson, John",male,"Oakley, James;
+Witson, Henry","Oakley, James;
+Witson, Henry",Westbury,,,,ZM,WGC
+Cornelias,14,21,male,50,A00187003_051,1779-01-06,Oysterbay,New York,"Witson, John","Witson, John",male,"Oakley, James;
+Witson, Henry","Oakley, James;
+Witson, Henry",Westbury,,,,ZM,WGC
+James,--,24,male,51,A00187003_052,1778-04-28,Hempsted,New York,"Hicks, Samuel","Hicks, Samuel",male,"Post, Henry;
+Post, Edmund","Post, Henry;
+Post, Edmund",Westbury,,,,ZM,WGC
+Ben,--,--,male,51,A00187003_052,1778-12-14,Oysterbay,New York,"Hicks, Elias","Hicks, Elias",male,"Willis, John;
+Vanivyck, Eldrad","Willis, John;
+Vanivyck, Eldrad",Westbury,,,,ZM,WGC
+Jacob,--,--,male,52,A00187003_053,1779-05-07,Hempstead,New York,"Seaman, Thomas Jr. ","Seaman, Thomas Jr.",male,"Rickman, William;
+Boxee, Samuel","Rickman, William;
+Boxee, Samuel",Westbury,,,,ZM,WGC
+Quimby,15,21,male,52,A00187003_053,1780-02-03,Oysterbay,New York,"Frost, Charles","Frost, Charles",male,"Downing, Silas;
+Downing, Phebe","Downing, Silas;
+Downing, Phebe",Westbury,,,,ZM,WGC
+Walter,--,--,male,53,A00187003_054,1778-10-26,Oysterbay,New York,"Frost, Penn","Frost, Penn",male,"Rushmore, Isaac;
+Valentine, Charles","Rushmore, Isaac;
+Valentine, Charles",Westbury,,,called Walt ,ZM,WGC
+Jack,11,21,male,53,A00187003_054,1778-10-26,Oysterbay,New York,"Frost, Penn","Frost, Penn",male,"Rushmore, Isaac;
+Valentine, Charles","Rushmore, Isaac;
+Valentine, Charles",Westbury,,,,ZM,WGC
+Tom,18,21,male,54,A00187003_055,1779-07-01,Hampstead,New York,"Hicks, John","Hicks, John",male,"Seaman, Mary;
+Hicks, Elias","Seaman, Mary;
+Hicks, Elias",Westbury,,,,ZM,WGC
+James,--,--,male,54,A00187003_055,1781-02-12,Oysterbay,New York,"Willis, Edmund","Willis, Edmund",male,"Valentine, William;
+Dawson, Nathan;
+Willis, John;
+Willis, Fry","Valentine, William;
+Dawson, Nathan;
+Willis, John;
+Willis, Fry",Westbury,,,,ZM,WGC
+Lige,--,--,male,55,A00187003_056,1781-02-08,--,New York,"Loines, Williams","Loines, Williams",male,"Post, Henry;
+Loines, William Jr.","Post, Henry;
+Loines, William Jr.",Westbury,,,,ZM,WGC
+Bethany,5,18,female,55,A00187003_056,1778-05-22,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob;",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+Charity,8,18,female,56,A00187003_057,1778-05-27,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob;",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+Josiah,15,21,male,56,A00187003_057,1778-05-27,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob;",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+Catherine,11,18,female,57,A00187003_058,1778-05-27,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+Joseph,--,--,male,57,A00187003_058,1775-01-21,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+Livinah,--,--,female,58,A00187003_059,1775-12-21,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+Nathaniel,14,21,male,58,A00187003_059,1778-05-27,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+William,21,26,male,59,A00187003_060,1778-07-13,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,"lent as a servant to
+Isaac Frost Junior ",ZM,WGC
+Samuel,9,21,male,59,A00187003_060,1778-05-27,Oysterbay,New York,"Bowne, Jacob","Bowne, Jacob",male,"Underhill, Jacob;
+Downing, Silas","Underhill, Jacob;
+Downing, Silas",Westbury,,,,ZM,WGC
+Israel,--,--,male,60,A00187003_061,1776-06-23,Hempsted,New York,"Loines, William","Loines, William",male,"Willis, Fry;
+Willits, Richard","Willis, Fry;
+Willits, Richard",Westbury,,,,ZM,WGC
+Isaac,21,21,male,60,A00187003_061,1782-01-10,Hempsted,New York,"Loines, William","Loines, William",male,"Willits, Richard;
+Willis, Fry","Willits, Richard;
+Willis, Fry",Westbury,,,,ZM,WGC
+David,5,21,male,61,A00187003_062,1782-03-18,Hempstead,New York,"Pearsall, Israel","Pearsall, Israel",male,"Pearsall, Mary;
+Peaarsall, Martha","Pearsall, Mary;
+Peaarsall, Martha",Westbury,,,,ZM,WGC
+Hannah,1,18,female,61,A00187003_062,1781-04-10,--,New York,"Robbins, Benjamin","Robbins, Benjamin",male,"Willis, John;
+Willis, Phebe","Willis, John;
+Willis, Phebe",Westbury,,,,ZM,WGC
+Marget,--,--,female,62,A00187003_063,1781-04-10,--,New York,"Robbins, Benjamin","Robbins, Benjamin",male,"Willis, John;
+Willis, Phebe","Willis, John;
+Willis, Phebe",Westbury,,,,ZM,WGC
+Jack,6,21,male,62,A00187003_063,1781-04-10,--,New York,"Robbins, Benjamin","Robbins, Benjamin",male,"Willis, John;
+Willis, Phebe","Willis, John;
+Willis, Phebe",Westbury,,,date uncertain,ZM,WGC
+Rachel,4,18,female,63,A00187003_064,1781-04-10,--,New York,"Robbins, Jacob","Robbins, Jacob",male,"Willis, John;
+Willis, Phebe","Willis, John;
+Willis, Phebe",Westbury,,,,ZM,WGC
+Catherine,9,18,female,63,A00187003_064,1781-04-10,--,New York,"Robbins, Jacob","Robbins, Jacob",male,"Willis, John;
+Willis, Phebe","Willis, John;
+Willis, Phebe",Westbury,,,,ZM,WGC
+James,--,--,male,64,A00187003_065,1783-05-01,Hemptead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Sarah,3,18,female,64,A00187003_065,1783-05-01,Hemptead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Lewis,--,--,male,65,A00187003_066,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Mingo,--,--,male,65,A00187003_066,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Anny,7,18,male,66,A00187003_067,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Ponder,--,--,male,66,A00187003_067,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Margoret,--,--,male,67,A00187003_068,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+John,9,21,male,67,A00187003_068,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Gilbert,9,21,male,68,A00187003_069,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Hetty,1,18,female,68,A00187003_069,1783-05-01,Hempstead,New York,"Doughty, Charles","Doughty, Charles",male,"Elwyn, George;
+Everit, James","Elwyn, George;
+Everit, James",Westbury,,,,ZM,WGC
+Anna,--,--,female,69,A00187003_070,1783-06-16,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Aloop, Richard;
+Wood, James","Aloop, Richard;
+Wood, James",Westbury,,,,ZM,WGC
+Phillis,12,18,female,69,A00187003_070,1786-09-08,Oysterbay,New York,"Coles, Benjamin","Coles, Benjamin",male,"Morgan, Hannah;
+Downing, Silas","Morgan, Hannah;
+Downing, Silas",Westbury,,,,ZM,WGC
+Magdalene,8,18,female,70,A00187003_071,1786-09-08,Oysterbay,New York,"Coles, Benjamin","Coles, Benjamin",male,"Morgan, Hannah;
+Downing, Silas","Morgan, Hannah;
+Downing, Silas",Westbury,,,,ZM,WGC
+Prisilla,5,18,female,70,A00187003_071,1783-06-16,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Alssop, Richard;
+Wood, Jonas","Alssop, Richard;
+Wood, Jonas",Westbury,,,,ZM,WGC
+Pender,--,--,female,71,A00187003_072,1784-01-12,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Downing, Silas;
+Downing, Phebe","Downing, Silas;
+Downing, Phebe",Westbury,,,"on behalf of his deceased father in law, Jacob frost",ZM,WGC
+Richard,--,--,male,71,A00187003_072,1784-01-12,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Downing, Silas;
+Downing, Phebe","Downing, Silas;
+Downing, Phebe",Westbury,,,"on behalf of his deceased father in law, Jacob frost",ZM,WGC
+Nathaniel,--,--,male,71,A00187003_072,1784-01-12,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Downing, Silas;
+Downing, Phebe","Downing, Silas;
+Downing, Phebe",Westbury,,,"on behalf of his deceased father in law, Jacob frost",ZM,WGC
+Izzabele,13,18,female,71,A00187003_072,1783-06-16,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Alsop, Richard;
+Wood, Jonas","Alsop, Richard;
+Wood, Jonas",Westbury,,,,ZM,WGC
+Jack,--,--,male,72,A00187003_073,1783-06-16,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Alsop, Richard;
+Wood, Jonas","Alsop, Richard;
+Wood, Jonas",Westbury,,,,ZM,WGC
+Sibyll,10,18,female,72,A00187003_073,1783-06-16,Oysterbay,New York,"Valentine, Charles","Valentine, Charles",male,"Alsop, Richard;
+Wood, Jonas","Alsop, Richard;
+Wood, Jonas",Westbury,,,,ZM,WGC
+Timothy,--,--,male,73,A00187003_074,1784-02-12,Suffolk County,New York,"Willits, Job","Willits, Job",male,"Pearsall, Thos.;
+Willits, Jacob","Pearsall, Thomas;
+Willits, Jacob",Westbury,,,,ZM,WGC
+Likeum,--,--,male,73,A00187003_074,1784-02-11,Oysterbay,New York,"Kirby, Willits","Kirby, Willits",male,"Willits, Edmund;
+Dawson, Nathan","Willits, Edmund;
+Dawson, Nathan",Westbury,,,,ZM,WGC
+Thomas,--,--,male,74,A00187003_075,1784-04-02,Oysterbay,New York,"Kirby, Willits","Kirby, Willits",male,"Downing, Silas;
+Downing, Phebe","Downing, Silas;
+Downing, Phebe",Westbury,,,,ZM,WGC
+Joseph,--,--,male,74,A00187003_075,1791-03-08,Hempsted,New York,"Titus, Peter","Titus, Peter",male,"Post, Henry;
+Titus, Peter","Post, Henry;
+Titus, Peter",Westbury,,,,ZM,WGC
+Abraham,--,--,male,75,A00187003_076,1790-06-08,Oysterbay,New York,"Willis, William","Willis, William",male,"Post, Henry;
+Willis, William","Post, Henry;
+Willis, William",Westbury,,,,ZM,WGC
+Elijah Israel,--,21,male,75,A00187003_076,1790-02-18,Oysterbay,New York,"Hewlett, Townsend","Hewlett, Townsend",male,"Cock, Samuel;
+Cock, Isaac","Cock, Samuel;
+Cock, Isaac",Westbury,,,,ZM,WGC
+Susanah Alanders,--,--,female,76,A00187003_077,1790-01-02,Oysterbay,New York,"Hewlet, Townsend","Hewlet, Townsend",male,"Jones, William;
+Jones, William Jr.","Jones, William;
+Jones, William Jr.",Westbury,,,,ZM,WGC
+Richard/Dick Handers,6,21,male,76,A00187003_077,1790-02-18,Oysterbay,New York,"Hewlett, Townsend","Hewlett, Townsend",male,"Cock, Samuel","Cock, Samuel",Westbury,,,,ZM,WGC
+Nance Handers,3,18,female,76,A00187003_077,1790-02-18,Oysterbay,New York,"Hewlett, Townsend","Hewlett, Townsend",male,"Cock, Samuel","Cock, Samuel",Westbury,,,,ZM,WGC
+Margaret,17,18,female,77,A00187003_078,1790-05-02,South Hempsted,New York,"Seaman, Thomas","Seaman, Thomas",male,"Seaman, Gideon;
+Valentine, Charles","Seaman, Gideon;
+Valentine, Charles",Westbury,,,,ZM,WGC
+Catherine,--,--,female,77,A00187003_078,1790-05-02,South Hempsted,New York,"Seaman, Thomas","Seaman, Thomas",male,"Seaman, Gideon;
+Valentine, Charles","Seaman, Gideon;
+Valentine, Charles",Westbury,,,,ZM,WGC
+Benjamin,--,--,male,77,A00187003_078,1790-05-02,South Hempsted,New York,"Seaman, Thomas","Seaman, Thomas",male,"Seaman, Gideon;
+Valentine, Charles","Seaman, Gideon;
+Valentine, Charles",Westbury,,,,ZM,WGC
+Peter,13,21,male,77,A00187003_078,1790-05-11,Oysterbay,New York,"Valentine, Jacob","Valentine, Jacob",male,"Valentine, Charles;
+Valentine, Hannah","Valentine, Charles;
+Valentine, Hannah",Westbury,,,"Catherine and Benjamin were unofficially free for a while
+before this",ZM,WGC
+Chloe,--,--,female,78,A00187003_079,1790-05-11,Oysterbay,New York,"Valentine, Jacob","Valentine, Jacob",male,"Valentine, Charles;
+Valentine, Hannah","Valentine, Charles;
+Valentine, Hannah",Westbury,,,,ZM,WGC
+Phillis,16,18,female,78,A00187003_079,1790-05-11,Oysterbay,New York,"Valentine, Jacob","Valentine, Jacob",male,"Valentine, Charles;
+Valentine, Hannah","Valentine, Charles;
+Valentine, Hannah",Westbury,,,,ZM,WGC
+Benjamin,20,21,male,78-79,"A00187003_079
+A00187003_080",1790-05-11,Oysterbay,New York,"Valentine, Jacob","Valentine, Jacob",male,"Valentine, Charles;
+Valentine, Hannah","Valentine, Charles;
+Valentine, Hannah",Westbury,,,,ZM,WGC

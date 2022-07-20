@@ -1,0 +1,97 @@
+Name of Enslaved Person (Transcribe what is listed),Age listed for Enslaved Person,Freed Age,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
+"This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the state listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
+"Samson[alias
+Samson Tobias]",9,21,male,1,A00187006_001,1776-04-15,"Edgmont,
+Delaware County",PA,"Evans, Thomas",,male,"Wisely, Francis;
+Cox, Israel",,Chester,,,,WGC,WGC
+James Harper,16,21,male,1-2,A00187006_001,1776-08-15,"Middletown,
+Dauphin County",PA,"Sharples, Benjamin",,male,"Milhous, Tho.;
+Lindley, Jacob","Milhous, Thomas",Chester,,,"James is describes as a ""molatto"" boy",WGC,WGC
+Tobias,?,pre-manumission(Tobias),male,2-3,A00187006_002,1776-07-21,"Edgmont,
+Delaware County",PA,"Evans, Ann",,female,"Miller, George;
+Morris, Alice",,Chester,,,"age not listed, father of Ruth, Peter, and Charity",WGC,WGC
+Sarah [Sarah Tobias],?,time of manumission,female,2-3,A00187006_002,1776-07-21,"Edgmont,
+Delaware County",PA,"Evans, Ann",,female,"Miller, George;
+Morris, Alice",,Chester,,,"age not listed, mother of Ruth, Peter, and Charity",WGC,WGC
+Ruth,5,18,female,2-3,A00187006_002,1776-07-21,"Edgmont,
+Delaware County",PA,"Evans, Ann",,female,"Miller, George;
+Morris, Alice",,Chester,,,,WGC,WGC
+Peter,3,3,male,2-3,A00187006_002,1776-07-21,"Edgmont,
+Delaware County",PA,"Evans, Ann",,female,"Miller, George;
+Morris, Alice",,Chester,,,,WGC,WGC
+Charity,1,1,female,2-3,A00187006_002,1776-07-21,"Edgmont,
+Delaware County",PA,"Evans, Ann",,female,"Miller, George;
+Morris, Alice",,Chester,,,,WGC,WGC
+Acm,24,24,female,3,A00187006_003,1776-10-31,"Marple,
+Delaware County",PA,"Yarnall, Ann",,female,"Pancoft, Seth;
+Fell, William",,Chester,,,,WGC,WGC
+Philis,7,21,female,3-4,A00187006_003,1777-04-23,"Edgmont,
+Delaware County",PA,"Evans, Ann",,female,"Evans, Thomas;
+Morris, Alice",,Chester,,,,WGC,WGC
+Marisa,24,24,female,4,A00187006_004,1777-05-27,Philadelpia,PA,"Reynell, John;
+Roberts, Hugh;
+Pemberto, James;
+James, Abel;
+Yarnall, Ann",,"female(Ann);
+male(others)","OHara, Bryan;
+Bell, James;
+Coates, Samuel;
+Fell, William",,Chester,,,,WGC,WGC
+Patience Jolley,_,time of manumission,female,5,A00187006_005,1778-01-24,"Marple,
+Delaware County",PA,"Rhoads, James",,male,"Rhoads, Joseph",,Chester,,,"Patience is described as ""molatto""",WGC,WGC
+Richard Penn,10,21,male,5,A00187006_005,1778-03-05,"Middletown,
+Dauphin County",PA,"Edwards, Nathan",,male,"Arrnitt, Rich;
+Miller, William",,Chester,,,,WGC,WGC
+Present,31,31,female,6,A00187006_006,1778-07-11,"East Nottingham,
+Chester County",PA,"Richardson, Fras.","Richardson, Francis",male,"Fairlamb, Same.;
+Fairlamb, Hannah","Fairlamb, Samuel",Chester,,,,WGC,WGC
+Flora,?,time of manumission,female,6,A00187006_006,1778-03-04,"Springfield,
+Delaware County",PA,"Lewis, John",,male,"Pancoast, Seth;
+Pancoast, Same.","Pancoast, Samuel",Chester,,,"Flora is the mother of Essex, Frank and Harry ",WGC,WGC
+Essex,~10,21,male,6,A00187006_006,1778-03-04,"Springfield,
+Delaware County",PA,"Lewis, John",,male,"Pancoast, Seth;
+Pancoast, Same.","Pancoast, Samuel",Chester,,,,,
+Frank,~7,21,male,6,A00187006_006,1778-03-04,"Springfield,
+Delaware County",PA,"Lewis, John",,male,"Pancoast, Seth;
+Pancoast, Same.","Pancoast, Samuel",Chester,,,,,
+Harry,3,21,male,6,A00187006_006,1778-03-04,"Springfield,
+Delaware County",PA,"Lewis, John",,male,"Pancoast, Seth;
+Pancoast, Same.","Pancoast, Samuel",Chester,,,,,
+Ceasar,23 or 24,23 or 24,male,7,A00187006_007,1778-07-10,"Thornbury,
+Delaware County",PA,"Edwards, Jno.","Edwards, John",male,_,,Chester,,,"Ceasar described as ""molatto""",WGC,WGC
+Abel,_,pre-manumission,male,7,A00187006_007,1778-12-21,"Middletown,
+Dauphin County",PA,"Worrell, Tho.","Worrell, Thomas",male,"Swaffer, Wm.;
+Blackham, Richd.","Swaffer, William;
+Blackham, Richard",Chester,,,,WGC,WGC
+Prudence,?,time of manumission,female,8,A00187006_008,1778-12-21,"Middletown,
+Dauphin County",PA,"Worrell, Tho.","Worrell, Thomas",male,"Swaffer, Wm.;
+Blackham, Richd.","Swaffer, William;
+Blackham, Richard",Chester,,,,WGC,WGC
+Rebekah,2 or 3,time of manumission,female,8,A00187006_008,1778-12-21,"Middletown,
+Dauphin County",PA,"Worrell, Tho.","Worrell, Thomas",male,"Swaffer, Wm.;
+Blackham, Richd.","Swaffer, William;
+Blackham, Richard",Chester,,,,,
+Charles Mullen,9,21,male,8,A00187006_008,1778-12-21,"Middletown,
+Dauphin County",PA,"Worrell, Tho.","Worrell, Thomas",male,"Swaffer, Wm.;
+Blackham, Richd.","Swaffer, William;
+Blackham, Richard",Chester,,,,,
+Sip,49,49,male,8-9,A00187006_008,1780-01-26,"Chester, 
+Delaware County",PA,"Copeland, Isabella",,female,"Copeland, Sarah;
+Swaffer, Abigail",,Chester,,,,WGC,WGC
+Ples,45,45,female,9,A00187006_009,1780-01-26,"Chester, 
+Delaware County",PA,"Copeland, Isabella",,female,"Copeland, Sarah;
+Swaffer, Abigail",,Chester,,,,WGC,WGC
+Rose,16,18,female,10,A00187006_010,1780-08-28,"Chester, 
+Delaware County",PA,"Copeland, Isabella",,female,"Forsyth, George",,Chester,,,"rose described as ""molatto""",WGC,WGC
+Jean,12,18,female,10,A00187006_010,1780-08-28,"Chester, 
+Delaware County",PA,"Copeland, Isabella",,female,"Richardson, John;
+Forsyth, George",,Chester,,,,WGC,WGC
+Cudgo,~14,21,male,11,A00187006_011,1780-08-18,"Chester, 
+Delaware County",PA,"Copeland, Isabella",,female,"Richardson, John;
+Forsyth, George",,Chester,,,,WGC,WGC
+,,,,,,,,PA,,,,,,,,,,,
+,,,,,,,,PA,,,,,,,,,,,
+,,,,,,,,PA,,,,,,,,,,,
+,,,,,,,,PA,,,,,,,,,,,
+,,,,,,,,PA,,,,,,,,,,,
+,,,,,,,,PA,,,,,,,,,,,

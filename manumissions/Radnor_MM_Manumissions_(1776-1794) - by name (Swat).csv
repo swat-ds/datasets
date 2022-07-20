@@ -1,0 +1,152 @@
+Name of Enslaved Person (Transcribe what is listed),Age listed for Enslaved Person,Freed Age,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
+"This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the state listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
+Fortin,28,28,male,1,A00187008_001,1776-02-08,"Haverford,
+Delaware County",PA,"Lewis, John",,male,"Roberts, Hugh;
+Bacon, Daniel;
+Lewis, Same.","Lewis, Samuel",Radnor,,,,WGC,WGC
+Harry,_,time of manumission,male,1,A00187008_002,1776-04-11,"Lower Merion,
+Montgomery County",PA,"Roberts, John",,male,"Blakey, William;
+Roberts, Jehu",,Radnor,,,"age not listed, assumed to be >21",WGC,WGC
+Cudge,_,time of manumission,male,1,A00187008_002,1776-04-11,"Lower Merion,
+Montgomery County",PA,"Roberts, John",,male,"Blakey, William;
+Roberts, Jehu",,Radnor,,,"age not listed, assumed to be >22",WGC,WGC
+"Will Fishborne
+[or Fishburn]",_,_,male,2,A00187008_002,1776-04-12,"Lower Merion,
+Montgomery County",PA,"Roberts, John",,male,"Lawkens, Joseph;
+Blakey, William",,Radnor,,,"age for Will not listed, assumed to be >22",WGC,WGC
+Ambo,18,18,female,2,A00187008_003,1776-06-14,"Radnor,
+Delaware County",PA,"Matlack, Nathan",,male,"Waln, Nicholas;
+Verre, Robert",,Radnor,,,,WGC,WGC
+Glasgow,17,21,,3,A00187008_003,1776-06-14,"Radnor,
+Delaware County",PA,"Matlack, Nathan",,male,"Waln, Nicholas;
+Verre, Robert",,Radnor,,,,WGC,WGC
+Phineas,20,21,,3,A00187008_004,1776-07-28,"Tredyffrin,
+Chester County",PA,"Stephens, Abijah",,male,"Morris, Joshua;
+Nicholas, Waln",,Radnor,,,,WGC,WGC
+Juan,54,54,male,4,A00187008_004,1778-11-05,"Tredyffrin,
+Chester County",PA,"Harvard, David",,male,"Drinker, Henry;
+Cowper, Wm.","Cowper, William",Radnor,,,,WGC,WGC
+Binah,60,60,male,4,A00187008_005,1778-11-05,"Tredyffrin,
+Chester County",PA,"Harvard, David",,male,"Drinker, Henry;
+Cowper, Wm.","Cowper, William",Radnor,,,,WGC,WGC
+Sela,32,32,female,5,A00187008_005,1778-11-06,_,PA,"Tunis, Anthony",,male,"Drinker, Henry;
+Smith, Samuel",,Radnor,,,"Sela is the mother Dinah, James, Thomas, Ishmael, and London
+no location given",WGC,WGC
+Dinah,7,18,female,5,A00187008_005,1778-11-06,_,PA,"Tunis, Anthony",,male,"Drinker, Henry;
+Smith, Samuel",,Radnor,,,child of Sela,WGC,WGC
+James,14,21,male,5,A00187008_005,1778-11-06,_,PA,"Tunis, Anthony",,male,"Drinker, Henry;
+Smith, Samuel",,Radnor,,,child of Sela,WGC,WGC
+Thomas,11,21,male,5,A00187008_005,1778-11-06,_,PA,"Tunis, Anthony",,male,"Drinker, Henry;
+Smith, Samuel",,Radnor,,,child of Sela,WGC,WGC
+Ishmael,9,21,male,5,A00187008_005,1778-11-06,_,PA,"Tunis, Anthony",,male,"Drinker, Henry;
+Smith, Samuel",,Radnor,,,child of Sela,WGC,WGC
+London,2,21,male,5,A00187008_005,1778-11-06,_,PA,"Tunis, Anthony",,male,"Drinker, Henry;
+Smith, Samuel",,Radnor,,,child of Sela,WGC,WGC
+Sall,41,41,female,6,A00187008_006,1777-05-12,"Lower Merion,
+Montgomery County",PA,"Price, John",,male,"Price, Ann;
+Price, Jane",,Radnor,,,,WGC,WGC
+Tom,34,34,male,6,A00187008_007,1779-03-03,"Lower Merion,
+Montgomery County",PA,"Price, John",,male,"Scothorn, Lewis;
+Price, Edward",,Radnor,,,,WGC,WGC
+George,13,21,male,7,A00187008_007,1779-08-01,"Radnor,
+Delaware County",PA,"Morgan, John",,male,"Jones, John;
+Lewis, Evan",,Radnor,,,,WGC,WGC
+Sela,34,34,female,8,A00187008_008,1780-12-28,"Lower Merion,
+Montgomery County",PA,"Tunis, Richard",,male,"George, David;
+George, Thomas",,Radnor,,,"location not given
+
+Sela, Dinah, James, Thomas, Ishmael, and London were
+passed down in the will of Abraham Tunis to all of his 
+children so there are multiple manumissions from each child
+freeing the said slaves",WGC,WGC
+Dinah,9,18,female,8,A00187008_008,1780-12-28,"Lower Merion,
+Montgomery County",PA,"Tunis, Richard",,male,"George, David;
+George, Thomas",,Radnor,,,,WGC,WGC
+James,16,21,male,8,A00187008_008,1780-12-28,"Lower Merion,
+Montgomery County",PA,"Tunis, Richard",,male,"George, David;
+George, Thomas",,Radnor,,,,WGC,WGC
+Thomas,13,21,male,8,A00187008_008,1780-12-28,"Lower Merion,
+Montgomery County",PA,"Tunis, Richard",,male,"George, David;
+George, Thomas",,Radnor,,,,WGC,WGC
+Ishmael,11,21,male,8,A00187008_008,1780-12-28,"Lower Merion,
+Montgomery County",PA,"Tunis, Richard",,male,"George, David;
+George, Thomas",,Radnor,,,,WGC,WGC
+London,4,21,male,8,A00187008_008,1780-12-28,"Lower Merion,
+Montgomery County",PA,"Tunis, Richard",,male,"George, David;
+George, Thomas",,Radnor,,,,WGC,WGC
+Cesar,40,40,male,9,A00187008_009,1781-06-02,"Springfield,
+Delaware County",PA,"Lewis, John",,male,"Morris, Anthony;
+Morris, Mary",,Radnor,,,,WGC,WGC
+Phillis,30,30,female,9,A00187008_010,1781-08-10,"Springfield,
+Delaware County",PA,"Lewis, John",,male,,,Radnor,,,,WGC,WGC
+Nanny,4,4,female,9,A00187008_010,1781-08-10,"Springfield,
+Delaware County",PA,"Lewis, John",,male,,,Radnor,,,,WGC,WGC
+Christina,8 months,8 months,female,9,A00187008_010,1781-08-10,"Springfield,
+Delaware County",PA,"Lewis, John",,male,,,Radnor,,,,WGC,WGC
+Sela,34,34,female,10,A00187008_010,1781-08-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Hannah",,female,"Waln, Nicholas;
+Parrch",,Radnor,,,,WGC,WGC
+Dinah,8,18,female,10,A00187008_010,1781-08-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Hannah",,female,"Waln, Nicholas;
+Parrch",,Radnor,,,,WGC,WGC
+James,15,21,male,10,A00187008_010,1781-08-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Hannah",,female,"Waln, Nicholas;
+Parrch",,Radnor,,,,WGC,WGC
+Thomas,12,21,male,10,A00187008_010,1781-08-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Hannah",,female,"Waln, Nicholas;
+Parrch",,Radnor,,,,WGC,WGC
+Ishmael,10,21,male,10,A00187008_010,1781-08-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Hannah",,female,"Waln, Nicholas;
+Parrch",,Radnor,,,,WGC,WGC
+London,3,21,male,10,A00187008_010,1781-08-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Hannah",,female,"Waln, Nicholas;
+Parrch",,Radnor,,,,WGC,WGC
+Sela,40,40,female,11,A00187008_011,1784-04-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Benjamin",,male,"Roberts, Johnn;
+Miller, Nicholas",,Radnor,,,,WGC,WGC
+Dinah,13,18,female,11,A00187008_011,1784-04-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Benjamin",,male,"Roberts, Johnn;
+Miller, Nicholas",,Radnor,,,,WGC,WGC
+James,20,21,male,11,A00187008_011,1784-04-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Benjamin",,male,"Roberts, Johnn;
+Miller, Nicholas",,Radnor,,,,WGC,WGC
+Thomas,17,21,male,11,A00187008_011,1784-04-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Benjamin",,male,"Roberts, Johnn;
+Miller, Nicholas",,Radnor,,,,WGC,WGC
+Ishmael,15,21,male,11,A00187008_011,1784-04-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Benjamin",,male,"Roberts, Johnn;
+Miller, Nicholas",,Radnor,,,,WGC,WGC
+London,8,21,male,11,A00187008_011,1784-04-10,"Lower Merion,
+Montgomery County",PA,"Tunis, Benjamin",,male,"Roberts, Johnn;
+Miller, Nicholas",,Radnor,,,,WGC,WGC
+Sela,40,40,female,12,A00187008_012,1784-06-03,"Lower Merion,
+Montgomery County",PA,"Tunis, Esther",,female,"Roberts, John;
+Tunis, Jane",,Radnor,,,,WGC,WGC
+Dinah,13,18,female,12,A00187008_012,1784-06-03,"Lower Merion,
+Montgomery County",PA,"Tunis, Esther",,female,"Roberts, John;
+Tunis, Jane",,Radnor,,,,WGC,WGC
+James,20,21,male,12,A00187008_012,1784-06-03,"Lower Merion,
+Montgomery County",PA,"Tunis, Esther",,female,"Roberts, John;
+Tunis, Jane",,Radnor,,,,WGC,WGC
+Thomas,17,21,male,12,A00187008_012,1784-06-03,"Lower Merion,
+Montgomery County",PA,"Tunis, Esther",,female,"Roberts, John;
+Tunis, Jane",,Radnor,,,,WGC,WGC
+Ishmael,15,21,male,12,A00187008_012,1784-06-03,"Lower Merion,
+Montgomery County",PA,"Tunis, Esther",,female,"Roberts, John;
+Tunis, Jane",,Radnor,,,,WGC,WGC
+London,8,21,male,12,A00187008_012,1784-06-03,"Lower Merion,
+Montgomery County",PA,"Tunis, Esther",,female,"Roberts, John;
+Tunis, Jane",,Radnor,,,,WGC,WGC
+Plato,20,20,male,13,A00187008_013,1794-09-17,"Haverford,
+Delaware County",PA,"Lewelyn, Hannah;
+Lewis, Margaret;
+Lewis, Wm.;
+Lewelyn, David;
+Lewelyn, Wm.;
+Lewelyn, Martha","Lewis, William;
+Lewelyn, William","female(Hannah, 
+Margaret, Martha);
+
+male(William,
+William, David)","Charles, John;
+Canan, Eliza",,Radnor,,,,WGC,WGC

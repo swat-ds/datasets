@@ -1,0 +1,185 @@
+Name of Enslaved Person (Transcribe what is listed),Age listed for Enslaved Person,Freed Age,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
+"This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the state listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
+Nenus,--,--,male,1,A00187011_001,1773-12-01,--,New Jersey,"Parker, William","Parker, William",male,"Tinton, William;
+Williams, Ed.;
+Parker, William","Tinton, William;
+Williams, Ed.;
+Parker, William",Shrewsbury,,,,ZM,WGC
+unknown man,28,28,male,3,A00187011_002,1775-06-06,--,New Jersey,"Hartshorne, John","Hartshorne, John",male,--,--,Shrewsbury,,,didn't give an exact day in which he would free the unknown enslaved man; Hartshorne claimed he would free him in the fall of that year. the document itself is not in in a legal format; rambling,ZM,WGC
+unknown woman,23,23,female,3,A00187011_002,1775-06-06,--,New Jersey,"Hartshorne, John","Hartshorne, John",male,--,--,Shrewsbury,,,didn't give an exact day in which he would free the unknown enslaved woman; Hartshorne claimed he would free her in the fall of that year. the document itself is not in in a legal format; rambling,ZM,WGC
+unkown man,--,--,male,5,A00187011_003,1775-06-06,--,New Jersey,"Hawthorne, Elijah","Hawthorne, Elijah",male,--,--,Shrewsbury,,,very likely that the husband and father to unknown woman and children in rows 7 and 8; not legal,ZM,WGC
+unknown woman,--,--,female,5,A00187011_003,1775-06-06,--,New Jersey,"Hawthorne, Elijah","Hawthorne, Elijah",male,--,--,Shrewsbury,,,very likely that the wife and mother to unknown man and children in rows 7 and 8; not legal,ZM,WGC
+unknown children,--,--,male; female,5,A00187011_003,1775-06-06,--,New Jersey,"Hawthorne, Elijah","Hawthorne, Elijah",male,--,--,Shrewsbury,,,very likely that the children to unknown woman and man in rows 7 and 8; not legal,ZM,WGC
+unknown man,22,23,male,5,A00187011_003,1775-06-07,--,New Jersey,"Lawrence, Rich.","Lawrence, Richard",male,--,--,Shrewsbury,,,not legal,ZM,WGC
+"two unknown women;
+one unknown man",--,--,female,7,A00187011_004,--,--,New Jersey,"Hartshorne, Robert","Hartshorne, Robert",male,,,Shrewsbury,,,,ZM,WGC
+one unknown man,--,--,male,7,A00187011_004,--,--,New Jersey,"Hartshorne, Robert","Hartshorne, Robert",male,,,Shrewsbury,,,,ZM,WGC
+Primus,25,25,male,9,A00187011_005,1776-12-25,Portland Pointe,New Jersey,"Hartshorne, Robert","Hartshorne, Robert",male,"Robinson, Rachel;
+Hartshorne, John;
+Hartshorne, Robt.","Robinson, Rachel;
+Hartshorne, John; 
+Hartshorne, Robt.",Shrewsbury,,,,ZM,WGC
+Hagar,23,23,female,9,A00187011_005,1777-08-13,Shrewsbury,New Jersey,"Parker, Josiah","Parker, Josiah",male,"Wardell, Joseph;
+Williams, Edmund;
+Tilton, Obadiah;
+Parker, Josiah","Wardell, Joseph;
+Williams, Edmund;
+Tilton, Obadiah;
+Parker, Josiah",Shrewsbury,,,,ZM,WGC
+Jack,1,21,male,11,A00187011_006,1777-08-13,Shewsbury,New Jersey,"Parker, Josiah","Parker, Josiah",male,"Wardell, Joseph;
+Williams, Edmund;
+Tilton, Obadiah;
+Parker, Josiah","Wardell, Joseph;
+Williams, Edmund;
+Tilton, Obadiah;
+Parker, Josiah",Shrewsbury,,,,ZM,WGC
+Jacob,19,21,male,11,A00187011_006,1778-11-02,Middletown,New Jersey,"Grover, James","Grover, James",male,"Jackson, Benjamin;
+Tilton, Obadiah;
+Tilton, Nathan;
+Grover, James","Jackson, Benjamin;
+Tilton, Obadiah;
+Tilton, Nathan;
+Grover, James",Shrewsbury,,,,ZM,WGC
+Joseph,21,21,male,13,A00187011_007,1778-01-26,Shrewsbury,New Jersey,"Parker, Josiah","Parker, Josiah",male,"Tilton, Obadiah;
+Parker, Josiah","Tilton, Obadiah;
+Parker, Josiah",Shrewsbury,,,,ZM,WGC
+Samuel,19,21,male,13,A00187011_007,1778-01-26,Shrewsbury,New Jersey,"Parker, Josiah","Parker, Josiah",male,"Tilton, Obadiah;
+Parker, Josiah","Tilton, Obadiah;
+Parker, Josiah",Shrewsbury,,,,ZM,WGC
+Ann,50,50,female,15,A00187011_008,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+Col,24,24,male,15,A00187011_008,1778-01-26,Shrewsbury,New Jersey,"Parker, Josiah","Parker, Josiah",male,"Tilton, Obadiah;
+Parker, Josiah","Tilton, Obadiah;
+Parker, Josiah",Shrewsbury,,,,ZM,WGC
+Jonathan,14,21,male,15,A00187011_009,1778-07-13,Shrewsbury,New Jersey,"Wiilliams, Elihu","Wiilliams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+Moses,27,27,male,17,A00187011_010,1778-11-02,Middletown,New Jersey,"Grover, James","Grover, James",male,"Tilton, Nathan;
+Grover, James","Tilton, Nathan;
+Grover, James",Shrewsbury,,,,ZM,WGC
+Rachel,20,25,female,19,A00187011_011,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+George,16,25,male,19,A00187011_011,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+Ann,16,25,female,19,A00187011_011,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+Seser,30,30,male,21,A00187011_012,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+William,26,26,male,21,A00187011_012,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+Abraham,23,23,male,21,A00187011_012,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,,ZM,WGC
+George,2,21,male,21,A00187011_012,1778-07-13,Shrewsbury,New Jersey,"Williams, Elihu","Williams, Elihu",male,"Wright, Jonn.;
+Jackson, Benjamin;
+Wlliams, Elihu","Wright, Jonathan;
+Jackson, Benjamin;
+Wlliams, Elihu",Shrewsbury,,,son of Rachel,ZM,WGC
+Abraham,35,35,male,23,A00187011_013,1779-07-05,Middletown,New Jersey,"Hawthorne, Esekiel","Hawthorne, Esekiel",male,"Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esek.","Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esekiel",Shrewsbury,,,husband of Jane,ZM,WGC
+Jane,28,28,female,23,A00187011_013,1779-07-05,Middletown,New Jersey,"Hawthorne, Esekiel","Hawthorne, Esekiel",male,"Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esek.","Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esekiel",Shrewsbury,,,wife of Abraham,ZM,WGC
+Petar,17,21,male,23,A00187011_013,1779-07-05,Middletown,New Jersey,"Hawthorne, Esekiel","Hawthorne, Esekiel",male,"Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esek.","Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esekiel",Shrewsbury,,,,ZM,WGC
+Ben,10,21,male,23,A00187011_013,1779-07-05,Middletown,New Jersey,"Hawthorne, Esekiel","Hawthorne, Esekiel",male,"Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esek.","Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esekiel",Shrewsbury,,,,ZM,WGC
+Robin,8,21,male,23,A00187011_013,1779-07-05,Middletown,New Jersey,"Hawthorne, Esekiel","Hawthorne, Esekiel",male,"Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esek.","Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esekiel",Shrewsbury,,,,ZM,WGC
+Aaron,6,21,male,23,A00187011_013,1779-07-05,Middletown,New Jersey,"Hawthorne, Esekiel","Hawthorne, Esekiel",male,"Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esek.","Robinson, Sarah;
+Bardge, Jacob;
+Hawthorne, Esekiel",Shrewsbury,,,,ZM,WGC
+Neanus,--,--,male,25,A00187011_014,1779-07-13,Shrewsbury,New Jersey,"Parker, William","Parker, William",male,"Parker, Joseph;
+Embree, Lawrence;
+Parker, Wm.","Parker, Joseph;
+Embree, Lawrence;
+Parker, Wm.",Shrewsbury,,,,ZM,WGC
+Robert Johnston,--,--,male,25,A00187011_014,1780-10-02,Shrewsbury,New Jersey,"Parker, William","Parker, William",male,"Hartshorne, John;
+Parker, Wm.","Hartshorne, John;
+Parker, William",Shrewsbury,,,,ZM,WGC
+Lewis,13,21,male,35,A00187011_015,1780-07-03,Middletown,New Jersey,"Hartshorne, Esek","Hartshorne, Esek",male,"Hartshorne, Robt.;
+Hartshorne, Esek","Hartshorne, Robert;
+Hartshorne, Esek",Shrewsbury,,,,ZM,WGC
+Franny Leffers,11,18,female,37,A00187011_016,1782-03-01,Middletown,New Jersey,"Hedger, Elisabeth","Hedger, Elisabeth",female,"Bowne, Robt.;
+Wright, Jonn.;
+Hedger, Elisabeth","Bowne, Robt.;
+Wright, Jonn.;
+Hedger, Elisabeth",Shrewsbury,,,,ZM,WGC
+Mink,18,21,male,37,A00187011_017,1782-07-29,Shrewsbury,New Jersey,"Tilton, David","Tilton, David",male,"Wright, Jonn.;
+Boude, John;
+Tilton, David","Wright, Jonathan;
+Boude, John;
+Tilton, David",Shrewsbury,,,,ZM,WGC
+Edward,18,18,male,39,A00187011_018,1787-08-14,Shrewsbury,New Jersey,"White, Jane;
+White, Peter;
+Lippincott, Hannah;
+White, Jane Jr.;
+White, Lydia;
+White, Elizabeth","White, Jane;
+White, Peter;
+Lippincott, Hannah;
+White, Jane Jr.;
+White, Lydia;
+White, Elizabeth",male; female,"Worey, Mary;
+White, Patience;
+White, Jane;
+White, Peter;
+Lippincott, Hannah;
+White, Jane Jr.;
+White, Lydia;
+White, Elizabeth","Worey, Mary;
+White, Patience;
+White, Jane;
+White, Peter;
+Lippincott, Hannah;
+White, Jane Jr.;
+White, Lydia;
+White, Elizabeth",Shrewsbury,,,,ZM,WGC
+Tom,17,27,male,41,A00187011_019,1789-12-31,Shrewsbury,New Jersey,"Potter, David","Potter, David",male,"Corties, Benjamin;
+Corties, Deborah;
+Potter, David","Corties, Benjamin;
+Corties, Deborah;
+Potter, David",Shrewsbury,,,,ZM,WGC
+Rose Bule,17,21,female,43,A00187011_020,1802-03-09,Shrewsbury,New Jersey,"Lloyd, William","Lloyd, William",male,"Hartshorne, Willm.;
+Hartshorne, Sarah;
+Lloyd, William","Hartshorne, William;
+Hartshorne, Sarah;
+Lloyd, William",Shrewsbury,,,,ZM,WGC
