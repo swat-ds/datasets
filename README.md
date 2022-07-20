@@ -24,3 +24,5 @@ OCR text extracted from scanned PDFs of Swarthmore College's newspaper, *The Pho
 
 ## Manumissions
 These are indicies of manumissions from the [Friends Historical Library of Swarthmore College](http://www.swarthmore.edu/friends-historical-library). Quakers, who were known as abolitionists in the antebellum era, kept records of manumissions throughout the late 18th and 19th centuries. Manumissions are formal documents promising to free an enslaved person. This folder holds idicies of manumissions from Delaware, Pennsylvania, New York, New Jersey, Maryland, and more. The respective scans for each index can be found on [Islandora](https://digitalcollections.tricolib.brynmawr.edu/). Source material and datasets prepared by [Friends Historical Library of Swarthmore College](http://www.swarthmore.edu/friends-historical-library).
+
+[Manumissions Dataset](manumissions) 
