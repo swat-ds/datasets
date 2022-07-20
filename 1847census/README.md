@@ -21,15 +21,18 @@ As of February 2022, a live version of the Philadelphia 1847 Census Project can 
 - 2021 summer. Digital Scholarship librarian makes a few changes to [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census) before departing Swarthmore College
 - 2021 fall. Friends Historical Library student worker cleans up the data in [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
 - 2022 February. Friends Historical Library digitizes original census volumes and edits [paac-jekyll](https://github.com/swat-ds/paac-jekyll) to link to digitized volumes
+- 2022 July. Friends Historical Library student worker digitizes and indexes Blockley Almshouse census data. Uploads to GitHub at [datasets/1847census](https://github.com/swat-ds/datasets/tree/main/1847census).
 
 ## About the data
-The dataset contains forty-three elements of information for each of more than four thousand African American households in Philadelphia. Above and beyond the basic information of name and address, the 1847 census is incredibly rich in detail, including such datapoints as: occupation, education, literacy, rent and taxes paid, whether the person was born in slavery, amount paid for freedom, and much more.
+The dataset contains forty-three elements of information for each of more than four thousand African American households in Philadelphia. Data from the Blockley Almshouse is also included. Above and beyond the basic information of name and address, the 1847 census is incredibly rich in detail, including such datapoints as: occupation, education, literacy, rent and taxes paid, whether the person was born in slavery, amount paid for freedom, and much more.
 
 ### Main datasets
 These contain all or most of the data from the manuscript ledger.
 - `sofaac-raw-export` / Filemaker database export from initial manuscript ledger transcription
 - `sofaac-transcribed` / ID, household data columns as transcribed excluding duplicate rows
 - `sofaac-normalized` / ID, cleaned and normalized columns (does not include all transcribed columns)
+- `sofaac-blockleycensus` / Transcribed and cleaned data from Blockley manuscript
+- `sofaac-blockley-avgs&totals` / Transcribed data on the averages and totals of people in the Almshouse from 1846-1848
 
 ### Secondary datasets
 These contain topical subsets of the overall data.
@@ -37,7 +40,7 @@ These contain topical subsets of the overall data.
 - `sofaac-*-occupations` / ID, Household, Normalized Occupation, Count / Created for the [occupations visualization](https://ds-pages.swarthmore.edu/paac/occupations/)
 - `sofaac-*-occupations-freq` / Normalized Occupation, Total / Created for the [occupations visualization](https://ds-pages.swarthmore.edu/paac/occupations/)
 
-Data cleaned and normalized with the help of Alice Huang ('22), Bilal Soukouna ('22), Helen Huh ('21), and Katie Knox ('21) as part of 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)). Additional data cleaning by Yolanda Hu ('22) in 2021.
+Data cleaned and normalized with the help of Alice Huang ('22), Bilal Soukouna ('22), Helen Huh ('21), and Katie Knox ('21) as part of 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)). Additional data cleaning by Yolanda Hu ('22) in 2021. Data from the Blockley Almshouse digitized and added by Whitney Grinnage-Cassidy ('24) in 2022.
 
 ## Using the data
 This dataset is licensed as [Creative Commons Attribution-ShareAlike (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
