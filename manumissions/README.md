@@ -5,12 +5,13 @@ In this folder are datasets from the collection of manumissions from the Friends
 
 ## What is a manumission?
 A manumission is a formal document that promises to free an enslaved person. Most manumissions follow a similar formula:
-- Name of enslaver, place of residence of enslaver
-- Acknowledgment of the immoraity of slaver
+- Name of enslaver(s)
+- Place of residence of enslaver(s)
+- Acknowledgment of the immoraity of slavery according to Quaker values
 - Names, ages, and assumed gender of the enslaved
 - When the enslaved will be free
 - Date of signature
-- Signatures of witnesses
+- Signatures of witness(es)
 - Signature of enslaver(s)
 
 No two manumission are exactly alike, but most follow some order of these guidelines. In many cases, some manumissions will be missing information (most often about the enslaved people). Additionally, enslavers will often keep ownership over minors until they reach the age of 21 for men or 18 for women. It is important to note that while a manumission is a promise of freedom, it is entirely possible that said freedom was not fully given immediately.
@@ -29,3 +30,6 @@ Quakers have a complicated history with slavery. They are known as abolitionists
 - In 1774 and 1778, many Yearly Meetings restrict the buying and selling of slaves but do not completely abolish ownership of slaves.
 - Throughout the last two decades in the 18th century, more restrictions on slave trade are put in place and many Quakers begin to petition Congress to abolish slavery.
 - In 1833, slavery is abolished in the British Empire, and in 1865, slavery is abolished in the United States after the Civil War.
+
+## Notes
+Creation of the indicies and datasets was done at the Friends Historical Library at Swarthmore College by Whitney Grinnage-Cassidy '24 and Zahara Martinez '23 as apart of the Black Genealogy Fellowship in summer 2022.
