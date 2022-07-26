@@ -1,59 +1,38 @@
 Name of Enslaved Person (Transcribe what is listed),Age listed for Enslaved Person,Freed Age,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
 "This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the state listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
-Jeremiah,13,21,male,142,A00187012_002,1776-12-13,West Bradford,Pennsylvania ,"Marshall, Humphery","Marshall, Humphery",male,"Harvey, Wm.;
-Mason, Benjam.;
-Marashall, Humy.","Harvey, William;
-Mason, Benjamin;
-Marshall, Humphery",Bradford,,,,ZM,WGC
-Abram,41,41,male,142,A00187012_003,1776-12-13,West Bradford,Pennsylvania ,"Marshall, Humphery","Marshall, Humphery",male,"Harvey, Wm.;
-Mason, Benjam.;
-Marashall, Humy.","Harvey, William;
-Mason, Benjamin;
-Marshall, Humphery",Bradford,,,,ZM,WGC
-Mary Bucher,--,18,female,141,A00187012_004,1776-12-11,West Bradford,Pennsylvania ,"Leonard, Ezekiel;
-Leonard, Esther","Leonard, Ezekiel;
-Leonard, Esther",male; female,"Harvey, Wm,;
-Pim, Thos.;
-Leonard, Ezekiel;
-Leonard, Esther","Harvey, William;
-Pim, Thomas;
-Leonard, Ezekiel;
-Leonard, Esther",Bradford,,,,ZM,WGC
-Prisilla,26,26,female,141,A00187012_005,1777-01-01,Chester County,Pennsylvania ,"Miller, Warrick;
-Miller, Elizabeth","Miller, Warrick;
-Miller, Elizabeth",male; female,"Pim, Thos.;
-Stalker, Thos.;
-Miller, Warrick;
-Miller, Elizabeth","Pim, Thomas.;
-Stalker, Thomas;
-Miller, Warrick;
-Miller, Elizabeth",Bradford,,,,ZM,WGC
-Cato Williams,30,30,male,274,A00187012_006,1777-01-01,East Caln,Pennsylvania ,"Miller, Warrick;
-Miller, Elizabeth","Miller, Warrick;
-Miller, Elizabeth",male; female,"Pim, Thos.;
-Stalker, Thos.;
-Miller, Warrick;
-Miller, Elizabeth","Pim, Thomas.;
-Stalker, Thomas;
-Miller, Warrick;
-Miller, Elizabeth",Bradford,,,,ZM,WGC
-Frances Fisher,10,18,female,274,A00187012_007,1777-03-14,West Caln,Pennsylvania ,"Bishop, Ann","Bishop, Ann",female,"Barnard, Richd.;
-Pim, Thos.;
-Bishop, Ann","Barnard, Richard;
-Pim, Thomas;
-Bishop, Ann",Bradford,,,,ZM,WGC
-Caleb mer,12,21,,271,A00187012_008,1777-06-01,West Bradford,Pennsylvania ,"Horth, Samuel","Horth, Samuel",male,"Barnard, Richard;
-Jadings, William;
-Horth, Samuel","Barnard, Richard;
-Jadings, William;
-Horth, Samuel",Bradford,,,,ZM,WGC
-Dinah,14,18,female,271,A00187012_009,1777-06-01,West Bradford,Pennsylvania ,"Eastburn, Robert","Eastburn, Robert",male,"Barnard, Richard;
-Jadings, William;
-Eastburn, Robert","Barnard, Richard;
-Jadings, William;
-Eastburn, Robert",Bradford,,,,ZM,WGC
-Jesse,14,21,male,271,A00187012_010,1781-05-01,East Caln,Pennsylvania ,"Parke, Jonathan ","Parke, Jonathan ",male,"Pim, Thos.;
-Edge, John;
-Parke, Jonathan","Pim, Thos.;
-Edge, John;
-Parke, Jonathan",Bradford,,,,ZM,WGC
+Sam,20,21,male,--,A00187009_002,1791-05-17,Chesterfield ,New Jersey,"Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah","Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah",male; female,"Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph","Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph",Chesterfield,,,,ZM,WGC
+Bristol Lucy,--,--,female,--,A00187009_003,1782-12-21,Chesterfield ,New Jersey,"Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah","Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah",male; female,"Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph","Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph",Chesterfield,,,,ZM,WGC
+Eloisina,--,--,female,--,A00187009_003,1782-12-21,Chesterfield ,New Jersey,"Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah","Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah",male; female,"Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph","Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph",Chesterfield,,,,ZM,WGC
+Charlotte,--,--,female,--,A00187009_003,1782-12-21,Chesterfield ,New Jersey,"Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah","Taylor, Thomas;
+Taylor, Charlotte;
+Chapman, Sarah",male; female,"Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph","Field, Isaac;
+Linton, Hannah;
+Shirm, Joseph",Chesterfield,,,,ZM,WGC

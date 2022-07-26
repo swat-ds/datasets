@@ -1,12 +1,26 @@
 Name of Enslaved Person (Transcribe what is listed),Age listed for Enslaved Person,Freed Age,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
 "This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the state listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
-James Thompson,--,--,male,--,A00187022_001,1759-03-14,"Willistown,
-Chester County",Pennsylvania,"Smedley, Francis;
-Smedley, John;
-Smedley, Thomas;
-Smedley, George","Smedley, Francis;
-Smedley, John;
-Smedley, Thomas;
-Smedley, George",male,"Smedley, Sarah;
-Jones, Richd.","Smedley, Sarah;
-Jones, Richard",--,,,,ZM,WGC
+Diana,--,--,female,--,A00187024_001,1777-07-02,Philadelphia,Pennsylvania,"Fisher, Joshua","Fisher, Joshua",male,"Permberton, Sam.;
+Neille, Henry","Pemberton, Samuel;
+Neille, Henry",--,,,"Mother of Glasgow, Paris, Sue, Sabrina, and Moses. Enslaved by Fisher and passed away whlie enslaved. Fisher purchased Diana's children from other owners in order to free them.",,
+Paris,--,--,female,--,A00187024_001,1777-07-02,Philadelphia,Pennsylvania,"Fisher, Joshua","Fisher, Joshua",male,"Permberton, Sam.;
+Neille, Henry","Pemberton, Samuel;
+Neille, Henry",--,,,Child of Diana,ZM,WGC
+Moses,--,--,male,--,A00187024_001,1777-07-02,Philadelphia,Pennsylvania,"Fisher, Joshua","Fisher, Joshua",male,"Permberton, Sam.;
+Neille, Henry","Pemberton, Samuel;
+Neille, Henry",--,,,Child of Diana,,
+Sue,--,--,female,--,A00187024_001,1777-07-02,Philadelphia,Pennsylvania,"Fisher, Joshua","Fisher, Joshua",male,"Permberton, Sam.;
+Neille, Henry","Pemberton, Samuel;
+Neille, Henry",--,,,Child of Diana,,
+Sabrina,--,--,female,--,A00187024_001,1777-07-02,Philadelphia,Pennsylvania,"Fisher, Joshua","Fisher, Joshua",male,"Permberton, Sam.;
+Neille, Henry","Pemberton, Samuel;
+Neille, Henry",--,,,Child of Diana,,
+Glasgow,--,--,male,--,A00187024_002,1785-02-15,Kent County,Deleware,"Fisher, Samuel","Fisher, Samuel",male,"Craig, John;
+McClymenth, James;
+Howell, Saml.","Craig, John;
+McClymenth, James;
+Howell, Samuel",--,,,"Glasgow is the son of Diana and brother of Sue, 
+Paris, Moses, Sabrina, and Diana all of whom were
+freed by S. Fisher's father, Joshua Fisher. It is 
+unknown why his father could not free Glasgow.
+Purchased Glasgow for 100 pounds ",ZM,WGC

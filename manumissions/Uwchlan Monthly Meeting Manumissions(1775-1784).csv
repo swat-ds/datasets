@@ -1,5 +1,62 @@
 Name of Enslaved Person (Transcribe what is listed),Age listed for Enslaved Person,Freed Age,Assumed Gender of Enslaved Person,Page Number,Image Name (A001870XX_XXX),Date (YYYY-MM-DD),"Place (Township, County, etc)",State,"Transcribed - Name of Slaveholder (Last name, First name)","Unabbreviated - Name of Slaveholder (Last name, First name)",Assumed Gender of Slaveholder,"Transcribed - Witnesses (Last name, First name)","Unabbreviated - Witnesses (ex: ""Sealed and delivered in the Presence of..."") (Last name, First name)",Monthly Meeting,"Transcribed - Monthly Meeting Clerk (Last Name, First Name)","Unabbreviated - Clerk (Last name, First name)",Notes,Indexer initials,Checker initials
 "This field corresponds to name of the enslaved person listed in the manumission, likely as the slaveholder listed it. If multiple spellings are given, include alternate spellings in parenthesis (e.g. ""Dafney (Daphne)"")","This field corresponds to the listed age of the enslaved person at the time of the signing of the manumission, likely as the slaveholder listed it","This field corresponds to the age of the enslaved person at which the manumission is listed to go into effect, the age at which their freedom is listed to be granted",This field corresponds to the gender of the enslaved person that the metadata collectors assumed when reading the manumission.,"This field corresponds to the page number listed on the physical document (manumission), corresponding to the page in the book of manumissions compiled by Quaker Meeting scribes","This field corresponds to the image name created for the scan of the manumission. If multiples pages, separate with a semicolon ;",This field corresponds to the day the manumission was signed by the slaveholder,"This field corresponds to the location listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the state listed in the manumission. Correct misspellings (e.g. ""Bibery"" --> Byberry""","This field corresponds to the name of the slaveholder doing the manumitting, as transcribed, on the manumission. If there are multiple people, separate with a semicolon ;","This field corresponds to the unabbreviated, expanded, name of the slaveholder doing the manumitting on the manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",This field corresponds to the gender of the slaveholder that metadata collectors assumed when reading the manumission. Genders are assumed by pronouns listed in the manumission and common genders associated with the name listed.,"This field corresponds to names listed in the manumissions under the caveat of ""sealed and delivered in the presence of."" Names are transcribed as they are written in the manumission. Separate multiple names with a semicolon ;","This field corresponds to the unabbreviated, expanded, names listed on the manumission under the caveat of ""sealed and delivered in the presence of."" Unabbreviated names are determined by the metadata collectors",This field corresponds to the name of the Quaker Monthly Meeting that the slaveholder was a part of,This field corresponds to name of the scribe who created the summary of the manumission on the verso of the corresponding manumission. Names are transcribed as they are written in the manumission.,"This field corresponds to the unabbreviated, expanded, name of the scribe listed on the verso of the corresponding manumission, as determined by metadata collectors (see https://en.wiktionary.org/wiki/Appendix:Abbreviations_for_English_given_names)",,,
-Christina;,--,--,female;,15,A00187015_001,1797-12-18,Ringwood,New Jersey,"Nall, Jacob","Nall, Jacob",male,"Rockhill, Jno.; Emlig, Robt.; Cliffton, Henry; Whano, Mingo","Rockhill, John.; Emlig, Robert.; Cliffton, Henry; Whano, Mingo",Quakertown,,,"mother of Samuel; husband, Mingo Whano, bought and freed them",ZM,WGC
-Samuel Coates Whano,--,--,male,15,A00187015_001,1797-12-18,Ringwood,New Jersey,"Nall, Jacob","Nall, Jacob",male,"Rockhill, Jno.; Emlig, Robt.; Cliffton, Henry; Whano, Mingo","Rockhill, Jno.; Emlig, Robt.; Cliffton, Henry; Whano, Mingo",Quakertown,,,son of Christina,,
-Caty Allen,2,3,female,22,A00187015_002,1805-11-18,--,New Jersey,"Allan, Loranne","Allan, Loranne",female,"Taylor, Able; Peter, Amos","Taylor, Able; Peter, Amos",Quakertown,,,"Caty was ""taken"" from Allen and freed 08-05-1806 by ""M. Cliffton""",ZM,WGC
+Solomon,23,23,male,1,A00187004_003,1775-07-07,"Charles Town,
+Chester",PA,"Tonkins, Anne",,female,"Lightfoot, Willm.;
+Jacobs, Issac;
+Coates, Jonatn.","Lightfoot, William;
+Coates, Johnathan",Uwclan,,,,WGC,
+Zipah,21,21,female,1,A00187004_003,1779-04-30,"Charles Town,
+Chester",PA,"Coates, Benj.","Coates, Benjamin",male,"Lewis, Samuel;
+Starr Jun., Joseph","Starr Junior, Jospeh",Uwclan,,,,WGC,
+Cudjoe,?,time of manumission,male,2,A00187004_004,1783-03-13,"Coventry,
+Chester",PA,"Potts, Thos.","Potts, Thomas",male,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"age for Cudjoe not listed, assumed to be an adult",WGC,
+Rose,?,time of manumission,female,2,A00187004_004,1783-03-13,"Coventry,
+Chester",PA,"Grace, Rebeca",,female,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"Rose described as ""molatoe,"" or mulatto",WGC,
+Ben,?,time of manumission,male,3,A00187004_005,1783-03-13,"Coventry,
+Chester",PA,"Potts, Thos.","Potts, Thomas",male,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"age for Ben not listed, assumed to be an adult",WGC,
+Moll[Mary],?,time of manumission,female,3,A00187004_005,1783-03-13,"Coventry,
+Chester",PA,"Potts, Thos.","Potts, Thomas",male,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"age for Moll not listed, assumed to be an adult",WGC,
+Sall[Sarah],21,22,female,4,A00187004_006,1783-03-13,"Coventry,
+Chester",PA,"Potts, Thos.","Potts, Thomas",male,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,,WGC,
+Peter,?,?,male,4,A00187004_006,1783-03-13,"Coventry,
+Chester",PA,"Potts, Thos.","Potts, Thomas",male,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"age for Peter not listed, but assumed to be a minor
+
+freed age not given but will be freed after serving an
+apprenticeship under Potts",WGC,
+Eleanor,?,T.O.M?,female,5,A00187004_007,1783-03-13,"Coventry,
+Chester",PA,"Grace, Rebeca",,female,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"age for Eleanor not listed, assumed to be a minor",WGC,
+Phillis,16,21,female,5,A00187004_007,1783-03-13,"Coventry,
+Chester",PA,"Grace, Rebeca",,female,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,,WGC,
+George,3,21,male,6,A00187004_008,1783-03-13,"Coventry,
+Chester",PA,"Potts, Thos.","Potts, Thomas",male,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"George is son of Sall[Sarah] from pg. 4
+
+George is also described as molatoe(mulatto)",WGC,
+Mary,8 months,18,female,6,A00187004_008,1783-03-13,"Coventry,
+Chester",PA,"Grace, Rebeca",,female,"Meredith, Simon;
+Jacobs, Ben",,Uwclan,,,"Mary is daughter of Eleanor from pg. 5
+
+Mary is described as molatoe(mulatto)",WGC,
+Cudjoe,?,?,male,7,A00187004_009,1784-03-16,"East Nantmeal,
+Chester",PA,"Vanleer, Branson",,male,"Meredith, Simon;
+Vanleer, Rebecca",,Uwclan,,,"no age for Cudjo listed but assumed to be an adult
+
+Cudjoe will be free ""after the first day of the 8th 
+month 1785""",WGC,
+Edetha,8,18,female,7,A00187004_009,1784-03-16,"East Nantmeal,
+Chester",PA,"Vanleer, Branson",,male,"Meredith, Simon;
+Vanleer jun., Rebecca","Vanleer Junior, Rebecca",Uwclan,,,,WGC,
+Cesar,6,21,male,8,A00187004_010,1784-03-16,"East Nantmeal,
+Chester",PA,"Vanleer, Branson",,male,"Meredith, Simon;
+Vanleer jun., Rebecca","Vanleer Junior, Rebecca",Uwclan,,,,WGC,
+Will,4,21,male,8,A00187004_010,1784-03-16,"East Nantmeal,
+Chester",PA,"Vanleer, Branson",,male,"Meredith, Simon;
+Vanleer jun., Rebecca","Vanleer Junior, Rebecca",Uwclan,,,,WGC,
