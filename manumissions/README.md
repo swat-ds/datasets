@@ -3,7 +3,7 @@
 ## About
 In this folder are datasets from the collection of manumissions from the Friends Historical Library at Swarthmore College. Each dataset is an index of manumissions, in which the most important information in each manumission is placed in a searchable spreadsheet. The purpose of these datasets are to open another avenue for Black Genealogy. This project is a continuation of the work done at Haverford College in the project [*Manumitted, The People Enslaved by Quakers*](https://manumissions.haverford.edu/).
 
-`0_combined-swarthmore-manumissions-by-name-cleaned.csv` consists of all manumissions data, combined. after the data was cleaned using OpenRefine in summer 2023.
+`0_combined-swarthmore-manumissions-by-name-cleaned.csv` consists of all manumissions data, combined and cleaned using OpenRefine in 2023-2024.
 
 `0_raw-swarthmore-manumissions-by-name-combined.csv` consists of all manumissions data, combined, as transcribed in summer 2022.
 
@@ -38,4 +38,4 @@ Quakers have a complicated history with slavery. They are known as abolitionists
 - In 1833, slavery is abolished in the British Empire, and in 1865, slavery is abolished in the United States after the Civil War.
 
 ## Notes
-Creation of the indicies and datasets was done at the Friends Historical Library at Swarthmore College by Whitney Grinnage-Cassidy '24 and Zahara Martinez '23 as apart of the Black Genealogy Fellowship in summer 2022. The data was combined and cleaned in OpenRefine by Celia Caust-Ellenbogen, Associate Curator of FHL, in summer 2023.
+Creation of the indicies and datasets was done at the Friends Historical Library at Swarthmore College by Whitney Grinnage-Cassidy '24 and Zahara Martinez '23 as apart of the Black Genealogy Fellowship in summer 2022. The data was combined and cleaned in OpenRefine by Celia Caust-Ellenbogen, Associate Curator of FHL, in summer 2023, and updated in early 2024 to incorporate changes suggested by  _Journal of Slavery and Data Preservation_ reviewers. Special thanks to James Trutt, Digital Archivist of FHL, for his support of all elements and phases of the project.
