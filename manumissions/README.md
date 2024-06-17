@@ -5,7 +5,7 @@ In this folder are datasets from the collection of manumissions from the Friends
 
 `0_combined-swarthmore-manumissions-by-name-cleaned.csv` consists of all manumissions data, combined and cleaned using OpenRefine in 2023-2024.
 
-`0_raw-swarthmore-manumissions-by-name-combined.csv` consists of all manumissions data, combined, as transcribed in summer 2022.
+`0_raw-swarthmore-manumissions-by-name-combined.csv` consists of all manumissions data, combined, as transcribed in summer 2022. An additional 35 manumissions were added in 2024.
 
 The remaining files are separate CSVs with manumissions data as transcribed from each individual volume or folder.
 
