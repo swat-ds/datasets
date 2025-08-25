@@ -9,6 +9,8 @@ In this folder are datasets from the collection of manumissions from the Friends
 
 The remaining files are separate CSVs with manumissions data as transcribed from each individual volume or folder.
 
+For a full explanation of this dataset, see Martinez, Zahara, and Celia Caust-Ellenbogen. "Quaker Manumissions in the American Northeast and Mid-Atlantic, 1759-1805."  *Journal of Slavery and Data Preservation* 5, no. 3 (2024): 65-71. https://doi.org/10.25971/hc3y-2e96.
+
 ## What is a manumission?
 A manumission is a formal document that promises to free an enslaved person. Most manumissions follow a similar formula:
 - Name of enslaver(s)
